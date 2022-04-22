@@ -1,41 +1,17 @@
 package main
 
-import (
-	"encoding/json"
-	"fmt"
-	"os"
-	"os/exec"
-	"strings"
-)
-
 func main() {
-	commands := strings.Split("--playlist-items 0-1 -J -i PLoSjAzdJQCyfsUatRxBnaes_4yz3-ONm-", " ")
-	cmd := exec.Command("yt-dlp", commands...)
-	stdout, err := cmd.Output()
+	count := FakeCount()
+	perBatch := count / BATCH
+	const batchSize = BATCH+1
+	var batches [batchSize]int
 
-	if err != nil {
-		fmt.Println(err.Error())
-		return
+	for i:=0; i <batchSize; i++ {
+		batches[i] = perBatch
 	}
-
-
-	file, err := os.Create("db/info.json");
-
-	if err != nil {
-		fmt.Println(err.Error())
-		return
-	}
-	file.Write(stdout)
-	file.Close()
-
-	playlist := Playlist{}
+	batches[BATCH] = count - (perBatch * BATCH)
 	
-	if err := json.Unmarshal(stdout, &playlist); err != nil {
-		fmt.Println("Unmarshal error", err.Error())
-		return
-	}
-
-	println(playlist.Count)
+	println(batches[4])
 
 
 }
