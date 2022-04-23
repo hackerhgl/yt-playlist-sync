@@ -44,5 +44,5 @@ func InitPlayCount() int {
 
 
 func InitPlayListBatch(start int, end int) {
-	
+	// commandStr := fmt.Sprintf("--playlist-items 0-1 -J -i %s --skip-download", PLAYLIST)
 }

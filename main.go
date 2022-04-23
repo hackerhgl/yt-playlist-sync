@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func main() {
 	count := FakeCount()
@@ -19,5 +22,16 @@ func main() {
 		end := start + value
 		fmt.Println("START",start,end)
 	}
+
+	client, err := Client()
+
+	if err != nil {
+		log.Fatal(err.Error())
+		panic(err)
+	}
+
+	items, total := GetPlayList(client)
+
+	print("iaaa", items, "--", total)
 
 }
