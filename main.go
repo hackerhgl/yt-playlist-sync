@@ -32,6 +32,12 @@ func main() {
 
 	items, total := GetPlayList(client)
 
-	print("iaaa", items, "--", total)
+	abc := len(items)
+
+	print("iaaa", abc, "--", total)
+
+
+
+	SavePlaylistToJSON(items)
 
 }
