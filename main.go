@@ -1,43 +1,41 @@
 package main
 
-import (
-	"fmt"
-	"log"
-)
-
 func main() {
-	count := FakeCount()
-	perBatch := count / BATCH
-	const batchSize = BATCH+1
-	var batches [batchSize]int
 
-	for i:=0; i <batchSize; i++ {
-		batches[i] = perBatch
+	// client, err := Client()
+
+	// if err != nil {
+	// 	log.Fatal(err.Error())
+	// 	panic(err)
+	// }
+
+	// items, total := GetPlayList(client)
+
+	// SavePlaylistToJSON(items)
+
+	total := 52
+
+	safeBatches := total / MIN_PER_BATCH
+
+	if safeBatches > MAX_BATCHES {
+		safeBatches = MAX_BATCHES
 	}
-	
-	batches[BATCH] = count - (perBatch * BATCH)
-	
+
+	perBatch := total / safeBatches
+	var batches []int
+
+	for i:=0; i <safeBatches; i++ {
+		batches = append(batches, perBatch)
+	}
+
+	if (total % perBatch) != 0 {
+		batches = append(batches, total - (perBatch * safeBatches))
+	}
+
 	for index, value := range batches {
-		start := index * perBatch
-		end := start + value
-		fmt.Println("START",start,end)
+		multiplier := (index * perBatch)
+		start := multiplier + 1 
+		end := multiplier + value
+		println("START",start,end)
 	}
-
-	client, err := Client()
-
-	if err != nil {
-		log.Fatal(err.Error())
-		panic(err)
-	}
-
-	items, total := GetPlayList(client)
-
-	abc := len(items)
-
-	print("iaaa", abc, "--", total)
-
-
-
-	SavePlaylistToJSON(items)
-
 }
