@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 	count := FakeCount()
 	perBatch := count / BATCH
@@ -9,9 +11,13 @@ func main() {
 	for i:=0; i <batchSize; i++ {
 		batches[i] = perBatch
 	}
+	
 	batches[BATCH] = count - (perBatch * BATCH)
 	
-	println(batches[4])
-
+	for index, value := range batches {
+		start := index * perBatch
+		end := start + value
+		fmt.Println("START",start,end)
+	}
 
 }

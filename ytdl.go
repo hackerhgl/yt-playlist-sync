@@ -13,8 +13,8 @@ func FakeCount() int {
 }
 
 
-func Count() int {
-	commandStr := fmt.Sprint("--playlist-items 0-1 -J -i %s", PLAYLIST)
+func InitPlayCount() int {
+	commandStr := fmt.Sprintf("--playlist-items 0-1 -J -i %s --skip-download", PLAYLIST)
 	commands := strings.Split(commandStr, " ")
 	cmd := exec.Command("yt-dlp", commands...)
 	stdout, err := cmd.Output()
@@ -40,4 +40,9 @@ func Count() int {
 
 	return playlist.Count;
 
+}
+
+
+func InitPlayListBatch(start int, end int) {
+	
 }
