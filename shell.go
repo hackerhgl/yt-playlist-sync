@@ -40,6 +40,7 @@ func DummyShell(worker int, start int, end int)  {
 		}
 	}
 	closeWorkerLogs(logFile)
+	fmt.Printf("Worker %d finished\n", worker)
 }
 
 

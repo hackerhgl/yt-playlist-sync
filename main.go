@@ -1,5 +1,7 @@
 package main
 
+import "sync"
+
 func main() {
 
 	// client, err := Client()
@@ -13,7 +15,7 @@ func main() {
 
 	// SavePlaylistToJSON(items)
 
-	total := 52
+	total := 23
 
 	safeBatches := total / MIN_PER_BATCH
 
@@ -32,11 +34,21 @@ func main() {
 		batches = append(batches, total - (perBatch * safeBatches))
 	}
 
+	batchSize := len(batches)
+
+	var wg sync.WaitGroup
+	wg.Add(batchSize)
+
 	for index, value := range batches {
 		multiplier := (index * perBatch)
 		start := multiplier + 1 
 		end := multiplier + value
 		println("START",start,end)
+		go func (index int)  {
 		DummyShell(index, start, end)
+			wg.Done()
+		}(index)
 	}
+
+	wg.Wait()
 }
