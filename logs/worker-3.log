@@ -1,23 +1,5 @@
-2022/04/24 10:45:31 SCRIPT fork:2 | item: 11 [SLEEP:2]
-2022/04/24 10:45:32 SCRIPT fork:4 | item: 21 [SLEEP:3]
-2022/04/24 10:45:32 SCRIPT fork:0 | item: 1 [SLEEP:3]
-2022/04/24 10:45:32 SCRIPT fork:3 | item: 16 [SLEEP:3]
-2022/04/24 10:45:32 SCRIPT fork:1 | item: 6 [SLEEP:3]
-2022/04/24 10:45:32 SCRIPT fork:2 | item: 12 [SLEEP:1]
-2022/04/24 10:45:33 SCRIPT fork:4 | item: 22 [SLEEP:1]
-2022/04/24 10:45:33 SCRIPT fork:3 | item: 17 [SLEEP:1]
-2022/04/24 10:45:33 SCRIPT fork:0 | item: 2 [SLEEP:1]
-2022/04/24 10:45:33 SCRIPT fork:1 | item: 7 [SLEEP:1]
-2022/04/24 10:45:34 SCRIPT fork:0 | item: 3 [SLEEP:1]
-2022/04/24 10:45:34 SCRIPT fork:3 | item: 18 [SLEEP:1]
-2022/04/24 10:45:34 SCRIPT fork:1 | item: 8 [SLEEP:1]
-2022/04/24 10:45:35 SCRIPT fork:2 | item: 13 [SLEEP:3]
-2022/04/24 10:45:35 SCRIPT fork:4 | item: 23 [SLEEP:2]
-2022/04/24 10:45:36 SCRIPT fork:0 | item: 4 [SLEEP:2]
-2022/04/24 10:45:37 SCRIPT fork:2 | item: 14 [SLEEP:2]
-2022/04/24 10:45:37 SCRIPT fork:3 | item: 19 [SLEEP:3]
-2022/04/24 10:45:37 SCRIPT fork:1 | item: 9 [SLEEP:3]
-2022/04/24 10:45:38 SCRIPT fork:0 | item: 5 [SLEEP:2]
-2022/04/24 10:45:39 SCRIPT fork:1 | item: 10 [SLEEP:2]
-2022/04/24 10:45:40 SCRIPT fork:3 | item: 20 [SLEEP:3]
-2022/04/24 10:45:40 SCRIPT fork:2 | item: 15 [SLEEP:3]
+{"level":"info","time":"2022-04-24T11:03:36+05:00","message":"SCRIPT fork:3 | item: 16 [SLEEP:1]"}
+{"level":"info","time":"2022-04-24T11:03:37+05:00","message":"SCRIPT fork:3 | item: 17 [SLEEP:1]"}
+{"level":"info","time":"2022-04-24T11:03:38+05:00","message":"SCRIPT fork:3 | item: 18 [SLEEP:1]"}
+{"level":"info","time":"2022-04-24T11:03:40+05:00","message":"SCRIPT fork:3 | item: 19 [SLEEP:2]"}
+{"level":"info","time":"2022-04-24T11:03:42+05:00","message":"SCRIPT fork:3 | item: 20 [SLEEP:2]"}

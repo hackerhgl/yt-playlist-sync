@@ -1,6 +1,8 @@
 package main
 
-import "sync"
+import (
+	"sync"
+)
 
 func main() {
 
@@ -45,7 +47,7 @@ func main() {
 		end := multiplier + value
 		println("START",start,end)
 		go func (index int)  {
-		DummyShell(index, start, end)
+			DummyShell(index, start, end)
 			wg.Done()
 		}(index)
 	}

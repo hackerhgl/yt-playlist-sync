@@ -1,0 +1,5 @@
+{"level":"info","time":"2022-04-24T11:03:36+05:00","message":"SCRIPT fork:2 | item: 11 [SLEEP:1]"}
+{"level":"info","time":"2022-04-24T11:03:38+05:00","message":"SCRIPT fork:2 | item: 12 [SLEEP:2]"}
+{"level":"info","time":"2022-04-24T11:03:41+05:00","message":"SCRIPT fork:2 | item: 13 [SLEEP:3]"}
+{"level":"info","time":"2022-04-24T11:03:43+05:00","message":"SCRIPT fork:2 | item: 14 [SLEEP:2]"}
+{"level":"info","time":"2022-04-24T11:03:46+05:00","message":"SCRIPT fork:2 | item: 15 [SLEEP:3]"}
