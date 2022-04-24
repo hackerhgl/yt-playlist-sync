@@ -1,21 +1,19 @@
 package main
 
-import "log"
-
 func main() {
 
-	client, err := Client()
+	// client, err := Client()
 
-	if err != nil {
-		log.Fatal(err.Error())
-		panic(err)
-	}
+	// if err != nil {
+	// 	log.Fatal(err.Error())
+	// 	panic(err)
+	// }
 
-	items, total := GetPlayList(client)
+	// items, total := GetPlayList(client)
 
-	SavePlaylistToJSON(items)
+	// SavePlaylistToJSON(items)
 
-	total = 52
+	total := 52
 
 	safeBatches := total / MIN_PER_BATCH
 
@@ -39,5 +37,6 @@ func main() {
 		start := multiplier + 1 
 		end := multiplier + value
 		println("START",start,end)
+		DummyShell(index, start, end)
 	}
 }
