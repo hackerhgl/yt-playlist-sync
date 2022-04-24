@@ -1,5 +1,7 @@
 package main
 
 type Playlist struct {
-	Count int `json:"playlist_count"`
+	ID string `json:"id"`
+	Title string `json:"title"`
+	Downloaded bool `json:"downloaded"`
 }
