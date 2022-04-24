@@ -16,7 +16,7 @@ func DummyShell(worker int, start int, end int)  {
 	// var logFile *os.File 
 	// initWorkerLogs(worker, logFile)
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
-	os.Remove(path)
+	// os.Remove(path)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		println("Error: initWorkerLogs")

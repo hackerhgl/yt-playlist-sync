@@ -17,35 +17,16 @@ func main() {
 
 	// SavePlaylistToJSON(items)
 
-	total := 23
-
-	safeBatches := total / MIN_PER_BATCH
-
-	if safeBatches > MAX_BATCHES {
-		safeBatches = MAX_BATCHES
-	}
-
-	perBatch := total / safeBatches
-	var batches []int
-
-	for i:=0; i <safeBatches; i++ {
-		batches = append(batches, perBatch)
-	}
-
-	if (total % perBatch) != 0 {
-		batches = append(batches, total - (perBatch * safeBatches))
-	}
-
-	batchSize := len(batches)
-
+	total := 10
+	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
-	wg.Add(batchSize)
+	wg.Add(batchesSize)
 
 	for index, value := range batches {
 		multiplier := (index * perBatch)
 		start := multiplier + 1 
 		end := multiplier + value
-		println("START",start,end)
+		println("X",start,end)
 		go func (index int)  {
 			DummyShell(index, start, end)
 			wg.Done()
