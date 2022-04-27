@@ -249,3 +249,49 @@
 {"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 8 [SLEEP:1]"}
 {"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 9 [SLEEP:3]"}
 {"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 10 [SLEEP:3]"}
+{"level":"info","time":"2022-04-27T11:17:04+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:05+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:06+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:06+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:17:07+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T11:17:08+05:00","message":"[download] Destination: Melanie Martinez - Play Date (Official Audio).webm"}
+{"level":"info","time":"2022-04-27T11:17:11+05:00","message":"\r[download]   0.0% of 2.81MiB at 442.48KiB/s ETA 00:06\r[download]   0.1% of 2.81MiB at  1.17MiB/s ETA 00:02 \r[download]   0.2% of 2.81MiB at  2.54MiB/s ETA 00:01\r[download]   0.5% of 2.81MiB at  5.09MiB/s ETA 00:00\r[download]   1.1% of 2.81MiB at  3.55MiB/s ETA 00:00\r[download]   2.2% of 2.81MiB at  4.72MiB/s ETA 00:00\r[download]   4.4% of 2.81MiB at  4.89MiB/s ETA 00:00\r[download]   8.9% of 2.81MiB at  6.44MiB/s ETA 00:00\r[download]  17.7% of 2.81MiB at  2.08MiB/s ETA 00:01\r[download]  35.5% of 2.81MiB at  2.21MiB/s ETA 00:00\r[download]  71.1% of 2.81MiB at  1.33MiB/s ETA 00:00\r[download] 100% of 2.81MiB at 1016.88KiB/s ETA 00:00\r[download] 100% of 2.81MiB in 00:03                 "}
+{"level":"info","time":"2022-04-27T11:17:11+05:00","message":"[ExtractAudio] Destination: Melanie Martinez - Play Date (Official Audio).mp3"}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:13+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:15+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:16+05:00","message":"[info] nLnp0tpZ0ok: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:16+05:00","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-04-27T11:17:16+05:00","message":"[info] Writing video thumbnail 45 to: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp"}
+{"level":"info","time":"2022-04-27T11:17:17+05:00","message":"[download] Destination: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm"}
+{"level":"info","time":"2022-04-27T11:17:19+05:00","message":"\r[download]   0.0% of 3.72MiB at 254.97KiB/s ETA 00:15\r[download]   0.1% of 3.72MiB at 664.32KiB/s ETA 00:05\r[download]   0.2% of 3.72MiB at  1.40MiB/s ETA 00:02 \r[download]   0.4% of 3.72MiB at  2.81MiB/s ETA 00:01\r[download]   0.8% of 3.72MiB at  2.20MiB/s ETA 00:01\r[download]   1.7% of 3.72MiB at  3.06MiB/s ETA 00:01\r[download]   3.3% of 3.72MiB at  1.39MiB/s ETA 00:02\r[download]   6.7% of 3.72MiB at  2.46MiB/s ETA 00:01\r[download]  13.4% of 3.72MiB at  2.30MiB/s ETA 00:01\r[download]  26.8% of 3.72MiB at  2.19MiB/s ETA 00:01\r[download]  53.7% of 3.72MiB at  1.56MiB/s ETA 00:01\r[download]  86.3% of 3.72MiB at  1.72MiB/s ETA 00:00\r[download] 100% of 3.72MiB at  1.73MiB/s ETA 00:00  \r[download] 100% of 3.72MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T11:17:19+05:00","message":"[ExtractAudio] Destination: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3"}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"[Metadata] Adding metadata to \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp\" to png"}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:22+05:00","message":"[youtube] zw47ymC0RNQ: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:23+05:00","message":"[youtube] zw47ymC0RNQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[info] zw47ymC0RNQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[info] Writing video thumbnail 41 to: saib. - in your arms..webp"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[download] Destination: saib. - in your arms..webm"}
+{"level":"info","time":"2022-04-27T11:17:27+05:00","message":"\r[download]   0.0% of 4.57MiB at 231.28KiB/s ETA 00:20\r[download]   0.1% of 4.57MiB at 673.28KiB/s ETA 00:06\r[download]   0.1% of 4.57MiB at  1.50MiB/s ETA 00:03 \r[download]   0.3% of 4.57MiB at  3.15MiB/s ETA 00:01\r[download]   0.7% of 4.57MiB at  1.52MiB/s ETA 00:02\r[download]   1.3% of 4.57MiB at  2.00MiB/s ETA 00:02\r[download]   2.7% of 4.57MiB at  2.59MiB/s ETA 00:01\r[download]   5.5% of 4.57MiB at  2.43MiB/s ETA 00:01\r[download]  10.9% of 4.57MiB at  2.51MiB/s ETA 00:01\r[download]  21.9% of 4.57MiB at  2.14MiB/s ETA 00:01\r[download]  43.8% of 4.57MiB at  1.87MiB/s ETA 00:01\r[download]  80.2% of 4.57MiB at  1.83MiB/s ETA 00:00\r[download] 100% of 4.57MiB at  1.70MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T11:17:27+05:00","message":"[ExtractAudio] Destination: saib. - in your arms..mp3"}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"Deleting original file saib. - in your arms..webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"[Metadata] Adding metadata to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"saib. - in your arms..webp\" to png"}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"Deleting original file saib. - in your arms..webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"Deleting original file saib. - in your arms..png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:31+05:00","message":"[youtube] YaEG2aWJnZ8: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:32+05:00","message":"[youtube] YaEG2aWJnZ8: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:32+05:00","message":"[info] YaEG2aWJnZ8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:32+05:00","message":"[info] Downloading video thumbnail 41 ..."}

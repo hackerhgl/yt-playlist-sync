@@ -6,6 +6,7 @@ import (
 )
 
 func main() {
+	InitDirs()
 
 	youtubeClient, err := YoutubeClient()
 
@@ -23,10 +24,11 @@ func main() {
 		return
 	}
 
-	// driveClient, err := DriveClient()
-	// if err != nil {
-	// 	log.Fatal("Failed to init drive client")
-	// }
+	driveClient, err := DriveClient()
+	if err != nil {
+		log.Fatal(err.Error())
+		return
+	}
 
 	// FakeWrite(driveClient)
 
@@ -41,10 +43,11 @@ func main() {
 		end := multiplier + value
 		println("X", start, end)
 		go func(index int) {
-			DummyShell(index, start, end, db)
+			DummyShell(index, start, end, db, driveClient)
 			wg.Done()
 		}(index)
 	}
 
 	wg.Wait()
+	SyncDB(db)
 }

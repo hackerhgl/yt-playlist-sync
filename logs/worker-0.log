@@ -235,3 +235,50 @@
 {"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:0 | item: 3 [SLEEP:3]"}
 {"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:0 | item: 4 [SLEEP:3]"}
 {"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:0 | item: 5 [SLEEP:2]"}
+{"level":"info","time":"2022-04-27T11:17:04+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:05+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:06+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:06+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:17:07+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:17:08+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-04-27T11:17:08+05:00","message":"[download] Destination: Adele - Skyfall (Lyric Video).webm"}
+{"level":"info","time":"2022-04-27T11:17:12+05:00","message":"\r[download]   0.0% of 4.62MiB at 64.39KiB/s ETA 01:13\r[download]   0.1% of 4.62MiB at 184.98KiB/s ETA 00:25\r[download]   0.1% of 4.62MiB at 415.92KiB/s ETA 00:11\r[download]   0.3% of 4.62MiB at 857.25KiB/s ETA 00:05\r[download]   0.7% of 4.62MiB at 959.22KiB/s ETA 00:04\r[download]   1.3% of 4.62MiB at 724.21KiB/s ETA 00:06\r[download]   2.7% of 4.62MiB at 573.83KiB/s ETA 00:08\r[download]   5.4% of 4.62MiB at 778.69KiB/s ETA 00:05\r[download]  10.8% of 4.62MiB at 854.42KiB/s ETA 00:04\r[download]  21.6% of 4.62MiB at 786.51KiB/s ETA 00:04\r[download]  37.0% of 4.62MiB at 743.08KiB/s ETA 00:04\r[download]  51.6% of 4.62MiB at 889.09KiB/s ETA 00:02\r[download]  80.8% of 4.62MiB at  1.10MiB/s ETA 00:00 \r[download] 100% of 4.62MiB at  1.19MiB/s ETA 00:00  \r[download] 100% of 4.62MiB in 00:04               "}
+{"level":"info","time":"2022-04-27T11:17:12+05:00","message":"[ExtractAudio] Destination: Adele - Skyfall (Lyric Video).mp3"}
+{"level":"info","time":"2022-04-27T11:17:15+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:15+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:17:15+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:17:15+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:16+05:00","message":"[youtube] il9nqWw9W3Y: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:17+05:00","message":"[youtube] il9nqWw9W3Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:17+05:00","message":"[info] il9nqWw9W3Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:17+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:17:18+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:17:18+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-04-27T11:17:19+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-04-27T11:17:19+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-04-27T11:17:19+05:00","message":"[info] Writing video thumbnail 37 to: Demi Lovato - Cool for the Summer (Official Video).webp"}
+{"level":"info","time":"2022-04-27T11:17:20+05:00","message":"[download] Destination: Demi Lovato - Cool for the Summer (Official Video).webm"}
+{"level":"info","time":"2022-04-27T11:17:21+05:00","message":"\r[download]   0.0% of 3.36MiB at 291.21KiB/s ETA 00:11\r[download]   0.1% of 3.36MiB at 838.25KiB/s ETA 00:04\r[download]   0.2% of 3.36MiB at  1.86MiB/s ETA 00:01 \r[download]   0.4% of 3.36MiB at  3.88MiB/s ETA 00:00\r[download]   0.9% of 3.36MiB at  3.18MiB/s ETA 00:01\r[download]   1.8% of 3.36MiB at  3.02MiB/s ETA 00:01\r[download]   3.7% of 3.36MiB at  4.14MiB/s ETA 00:00\r[download]   7.4% of 3.36MiB at  4.29MiB/s ETA 00:00\r[download]  14.9% of 3.36MiB at  2.83MiB/s ETA 00:01\r[download]  29.7% of 3.36MiB at  2.19MiB/s ETA 00:01\r[download]  59.5% of 3.36MiB at  2.02MiB/s ETA 00:00\r[download] 100% of 3.36MiB at  1.94MiB/s ETA 00:00  \r[download] 100% of 3.36MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T11:17:21+05:00","message":"[ExtractAudio] Destination: Demi Lovato - Cool for the Summer (Official Video).mp3"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[Metadata] Adding metadata to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Demi Lovato - Cool for the Summer (Official Video).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:24+05:00","message":"[youtube] 7igxsZDpCr4: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:25+05:00","message":"[youtube] 7igxsZDpCr4: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:17:26+05:00","message":"[info] 7igxsZDpCr4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:17:26+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:17:26+05:00","message":"[info] Writing video thumbnail 41 to: Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.webp"}
+{"level":"info","time":"2022-04-27T11:17:27+05:00","message":"[download] Destination: Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.webm"}
+{"level":"info","time":"2022-04-27T11:17:28+05:00","message":"\r[download]   0.0% of 2.73MiB at 40.08KiB/s ETA 01:09\r[download]   0.1% of 2.73MiB at 118.77KiB/s ETA 00:23\r[download]   0.3% of 2.73MiB at 274.76KiB/s ETA 00:10\r[download]   0.5% of 2.73MiB at 583.68KiB/s ETA 00:04\r[download]   1.1% of 2.73MiB at 880.26KiB/s ETA 00:03\r[download]   2.3% of 2.73MiB at  1.09MiB/s ETA 00:02 \r[download]   4.6% of 2.73MiB at  1.31MiB/s ETA 00:01\r[download]   9.1% of 2.73MiB at  1.71MiB/s ETA 00:01\r[download]  18.3% of 2.73MiB at  1.49MiB/s ETA 00:01\r[download]  36.7% of 2.73MiB at  1.80MiB/s ETA 00:00\r[download]  73.3% of 2.73MiB at  1.80MiB/s ETA 00:00\r[download] 100% of 2.73MiB at  1.81MiB/s ETA 00:00  \r[download] 100% of 2.73MiB in 00:01               "}
+{"level":"info","time":"2022-04-27T11:17:28+05:00","message":"[ExtractAudio] Destination: Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.mp3"}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"Deleting original file Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"[Metadata] Adding metadata to \"Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.mp3\""}
+{"level":"info","time":"2022-04-27T11:17:30+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.webp\" to png"}
+{"level":"info","time":"2022-04-27T11:17:31+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.mp3\""}
+{"level":"info","time":"2022-04-27T11:17:31+05:00","message":"Deleting original file Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:31+05:00","message":"Deleting original file Excuses (CONCERT HALL EFFECT) _ AP Dhillon _ Gurinder Gill _ Intense _ Banger SZN.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:17:31+05:00","message":"[youtube] 0EVVKs6DQLo: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:17:32+05:00","message":"[youtube] 0EVVKs6DQLo: Downloading android player API JSON"}

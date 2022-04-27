@@ -59,6 +59,23 @@ func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) ([]SyncPlaylis
 	return db, nil
 }
 
+func SyncDB(db []SyncPlaylistItem) error {
+	b, err := json.Marshal(&db)
+	if err != nil {
+		return err
+	}
+
+	file, err := os.Create("db/sync.json")
+	if err != nil {
+		return err
+	}
+
+	defer file.Close()
+	file.Write(b)
+
+	return nil
+}
+
 func dbContainsItem(item *youtube.PlaylistItem, db []SyncPlaylistItem) bool {
 	for _, dbItem := range db {
 		if dbItem.Title == item.Snippet.Title {
@@ -66,4 +83,13 @@ func dbContainsItem(item *youtube.PlaylistItem, db []SyncPlaylistItem) bool {
 		}
 	}
 	return false
+}
+
+func InitDirs() error {
+	path := "songs"
+	if _, err := os.Stat(path); os.IsNotExist(err) {
+		err := os.Mkdir(path, 0777)
+		return err
+	}
+	return nil
 }

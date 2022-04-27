@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"log"
+	"os"
 
 	"google.golang.org/api/drive/v3"
 	"google.golang.org/api/googleapi"
@@ -30,4 +31,32 @@ func DriveClient() (*drive.Service, error) {
 	credentials := option.WithCredentialsFile("secret/credential.json")
 	scopes := option.WithScopes("https://www.googleapis.com/auth/drive")
 	return drive.NewService(context, credentials, scopes)
+}
+
+func UploadAudio(service *drive.Service, name string) error {
+	mimeType := "application/vnd.google-apps.audio"
+	path := name + ".mp3"
+	fullPath := "songs/" + path
+
+	file, err := os.Open(fullPath)
+	if err != nil {
+		return err
+	}
+	call := service.Files.Create(&drive.File{
+		Parents:  []string{rootDirId},
+		MimeType: mimeType,
+		Name:     path,
+	})
+	call.Media(file)
+	defer file.Close()
+	_, err = call.Do()
+	if err != nil {
+		return err
+	}
+	err = os.Remove(fullPath)
+	if err != nil {
+		return err
+	}
+
+	return nil
 }

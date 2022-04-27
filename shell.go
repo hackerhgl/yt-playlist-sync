@@ -6,9 +6,10 @@ import (
 	"os"
 
 	"github.com/rs/zerolog"
+	"google.golang.org/api/drive/v3"
 )
 
-func DummyShell(worker int, start int, end int, db []SyncPlaylistItem) {
+func DummyShell(worker int, start int, end int, db []SyncPlaylistItem, drive *drive.Service) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
@@ -17,7 +18,11 @@ func DummyShell(worker int, start int, end int, db []SyncPlaylistItem) {
 	}
 	logger := zerolog.New(logFile).With().Timestamp().Logger()
 	for i := start; i <= end; i++ {
-		item := db[i-1]
+		index := i - 1
+		item := db[index]
+		if item.Downloaded {
+			continue
+		}
 		cmd := DownloadVideo(item.ID)
 		// cmd := exec.Command("./scripts/echo.sh", strconv.Itoa(worker), strconv.Itoa(i))
 
@@ -44,6 +49,8 @@ func DummyShell(worker int, start int, end int, db []SyncPlaylistItem) {
 		if err := in.Err(); err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
+		UploadAudio(drive, item.Title)
+		db[index].Downloaded = true
 	}
 	// closeWorkerLogs(logFile)
 	logFile.Close()
