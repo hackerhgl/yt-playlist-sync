@@ -1,21 +1,27 @@
 package main
 
 import (
+	"log"
 	"sync"
 )
 
 func main() {
 
-	// client, err := Client()
+	client, err := YoutubeClient()
 
-	// if err != nil {
-	// 	log.Fatal(err.Error())
-	// 	panic(err)
-	// }
+	if err != nil {
+		log.Fatal(err.Error())
+		panic(err)
+	}
 
-	// items, total := GetPlayList(client)
+	items, total := GetPlayList(client)
 
-	// SavePlaylistToJSON(items)
+	err = SavePlaylistToJSON(items, total)
+
+	if err != nil {
+		log.Fatalln(err.Error())
+		return
+	}
 
 	// driveClient, err := DriveClient()
 	// if err != nil {
@@ -24,7 +30,7 @@ func main() {
 
 	// FakeWrite(driveClient)
 
-	total := 10
+	total = 10
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
 	wg.Add(batchesSize)
