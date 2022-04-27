@@ -29,6 +29,7 @@ func main() {
 		log.Fatal(err.Error())
 		return
 	}
+	InitRootDir(driveClient)
 
 	// FakeWrite(driveClient)
 

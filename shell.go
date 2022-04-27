@@ -49,7 +49,11 @@ func DummyShell(worker int, start int, end int, db []SyncPlaylistItem, drive *dr
 		if err := in.Err(); err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
-		UploadAudio(drive, item.Title)
+		if err := UploadAudio(drive, item.Title); err != nil {
+			// logger.Fatal().Msg("GOOGLE DRIVE ERROR")
+			logger.Fatal().Err(err).Msg(err.Error())
+		}
+
 		db[index].Downloaded = true
 	}
 	// closeWorkerLogs(logFile)

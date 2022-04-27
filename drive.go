@@ -35,7 +35,7 @@ func DriveClient() (*drive.Service, error) {
 
 func UploadAudio(service *drive.Service, name string) error {
 	mimeType := "application/vnd.google-apps.audio"
-	path := name + ".mp3"
+	path := name
 	fullPath := "songs/" + path
 
 	file, err := os.Open(fullPath)
@@ -53,10 +53,10 @@ func UploadAudio(service *drive.Service, name string) error {
 	if err != nil {
 		return err
 	}
-	err = os.Remove(fullPath)
-	if err != nil {
-		return err
-	}
+	// err = os.Remove(fullPath)
+	// if err != nil {
+	// 	return err
+	// }
 
 	return nil
 }
