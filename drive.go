@@ -34,25 +34,35 @@ func DriveClient() (*drive.Service, error) {
 }
 
 func UploadAudio(service *drive.Service, name string) error {
-	mimeType := "application/vnd.google-apps.audio"
-	path := name
-	fullPath := "songs/" + path
-
+	// mimeType := "application/vnd.google-apps.audio"
+	fullPath := "songs/" + name
 	file, err := os.Open(fullPath)
+	// file, err := ioutil.ReadFile(fullPath)
 	if err != nil {
 		return err
 	}
-	call := service.Files.Create(&drive.File{
-		Parents:  []string{rootDirId},
-		MimeType: mimeType,
-		Name:     path,
-	})
-	call.Media(file)
-	defer file.Close()
-	_, err = call.Do()
+
+	println("XX")
+
+	driveFile := &drive.File{
+		Parents: []string{rootDirId},
+		// MimeType: mimeType,
+		Name: name,
+	}
+	call := service.Files.Create(driveFile).Media(file)
+	// call := service.Files.Create(driveFile).Media(bytes.NewReader(file), googleapi.ContentType("audio/mp3"), googleapi.ChunkSize(0), googleapi.)
+	// service.Cre
+	call.SupportsAllDrives(true)
+	// call.
+
+	resp, err := call.Do()
 	if err != nil {
+		println("DOOO ERRROR")
 		return err
 	}
+
+	println("resp")
+	println(resp.Id)
 	// err = os.Remove(fullPath)
 	// if err != nil {
 	// 	return err
