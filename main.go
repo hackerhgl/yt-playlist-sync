@@ -7,16 +7,16 @@ import (
 
 func main() {
 
-	client, err := YoutubeClient()
+	youtubeClient, err := YoutubeClient()
 
 	if err != nil {
 		log.Fatal(err.Error())
 		panic(err)
 	}
 
-	items, total := GetPlayList(client)
+	items, total := GetPlayList(youtubeClient)
 
-	err = SavePlaylistToJSON(items, total)
+	db, err := SavePlaylistToJSON(items, total)
 
 	if err != nil {
 		log.Fatalln(err.Error())
@@ -41,7 +41,7 @@ func main() {
 		end := multiplier + value
 		println("X", start, end)
 		go func(index int) {
-			DummyShell(index, start, end)
+			DummyShell(index, start, end, db)
 			wg.Done()
 		}(index)
 	}

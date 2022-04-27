@@ -8,27 +8,27 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
+func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) ([]SyncPlaylistItem, error) {
 	b, err := json.Marshal(items)
 	if err != nil {
-		return err
+		return nil, err
 	}
 	file, err := os.Create("db/playlist.json")
 	file.Write(b)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	rawData, err := os.ReadFile("db/sync.json")
 	if err != nil && !errors.Is(err, os.ErrNotExist) {
-		return err
+		return nil, err
 	}
 
 	var db []SyncPlaylistItem
 	if len(rawData) != 0 {
 		err = json.Unmarshal(rawData, &db)
 		if err != nil {
-			return err
+			return nil, err
 		}
 	}
 
@@ -45,18 +45,18 @@ func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
 
 	dbJson, err := json.Marshal(&db)
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	dbFile, err := os.Create("db/sync.json")
 	if err != nil {
-		return err
+		return nil, err
 	}
 
 	dbFile.Write(dbJson)
 	dbFile.Close()
 
-	return nil
+	return db, nil
 }
 
 func dbContainsItem(item *youtube.PlaylistItem, db []SyncPlaylistItem) bool {

@@ -4,17 +4,12 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"os/exec"
-	"strconv"
 
 	"github.com/rs/zerolog"
 )
 
-func DummyShell(worker int, start int, end int) {
-	// var logFile *os.File
-	// initWorkerLogs(worker, logFile)
+func DummyShell(worker int, start int, end int, db []SyncPlaylistItem) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
-	// os.Remove(path)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		println("Error: initWorkerLogs")
@@ -22,7 +17,9 @@ func DummyShell(worker int, start int, end int) {
 	}
 	logger := zerolog.New(logFile).With().Timestamp().Logger()
 	for i := start; i <= end; i++ {
-		cmd := exec.Command("./scripts/echo.sh", strconv.Itoa(worker), strconv.Itoa(i))
+		item := db[i-1]
+		cmd := DownloadVideo(item.ID)
+		// cmd := exec.Command("./scripts/echo.sh", strconv.Itoa(worker), strconv.Itoa(i))
 
 		stdout, err := cmd.StdoutPipe()
 		if err != nil {

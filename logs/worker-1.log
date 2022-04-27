@@ -63,3 +63,189 @@
 {"level":"info","time":"2022-04-27T10:22:35+05:00","message":"SCRIPT fork:1 | item: 8 [SLEEP:2]"}
 {"level":"info","time":"2022-04-27T10:22:36+05:00","message":"SCRIPT fork:1 | item: 9 [SLEEP:1]"}
 {"level":"info","time":"2022-04-27T10:22:37+05:00","message":"SCRIPT fork:1 | item: 10 [SLEEP:1]"}
+{"level":"info","time":"2022-04-27T10:37:33+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:37:35+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:37:36+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:37:36+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:37:36+05:00","message":"[info] Writing video thumbnail 41 to: 'Melanie Martinez - Play Date (Official Audio).webm'.webp"}
+{"level":"info","time":"2022-04-27T10:37:37+05:00","message":"[download] Destination: 'Melanie Martinez - Play Date (Official Audio).webm'"}
+{"level":"info","time":"2022-04-27T10:37:39+05:00","message":"\r[download]   0.0% of 2.81MiB at 858.96KiB/s ETA 00:03\r[download]   0.1% of 2.81MiB at  1.58MiB/s ETA 00:01 \r[download]   0.2% of 2.81MiB at  2.81MiB/s ETA 00:01\r[download]   0.5% of 2.81MiB at  4.94MiB/s ETA 00:00\r[download]   1.1% of 2.81MiB at  3.66MiB/s ETA 00:00\r[download]   2.2% of 2.81MiB at  2.76MiB/s ETA 00:00\r[download]   4.4% of 2.81MiB at  4.27MiB/s ETA 00:00\r[download]   8.9% of 2.81MiB at  5.00MiB/s ETA 00:00\r[download]  17.7% of 2.81MiB at  2.44MiB/s ETA 00:00\r[download]  35.5% of 2.81MiB at  2.10MiB/s ETA 00:00\r[download]  71.1% of 2.81MiB at  1.41MiB/s ETA 00:00\r[download] 100% of 2.81MiB at  1.22MiB/s ETA 00:00  \r[download] 100% of 2.81MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:37:39+05:00","message":"[ExtractAudio] Destination: 'Melanie Martinez - Play Date (Official Audio).mp3"}
+{"level":"info","time":"2022-04-27T10:37:41+05:00","message":"Deleting original file 'Melanie Martinez - Play Date (Official Audio).webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:37:41+05:00","message":"[Metadata] Adding metadata to \"'Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T10:37:41+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'Melanie Martinez - Play Date (Official Audio).webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:37:42+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T10:37:42+05:00","message":"Deleting original file 'Melanie Martinez - Play Date (Official Audio).webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:37:42+05:00","message":"Deleting original file 'Melanie Martinez - Play Date (Official Audio).webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:37:42+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:37:43+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:37:44+05:00","message":"[info] nLnp0tpZ0ok: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:37:44+05:00","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-04-27T10:37:44+05:00","message":"[info] Writing video thumbnail 45 to: 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.webp"}
+{"level":"info","time":"2022-04-27T10:37:45+05:00","message":"[download] Destination: 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'"}
+{"level":"info","time":"2022-04-27T10:37:47+05:00","message":"\r[download]   0.0% of 3.72MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.72MiB at Unknown speed ETA Unknown\r[download]   0.2% of 3.72MiB at Unknown speed ETA Unknown\r[download]   0.4% of 3.72MiB at 13.30MiB/s ETA 00:00     \r[download]   0.8% of 3.72MiB at  6.78MiB/s ETA 00:00\r[download]   1.7% of 3.72MiB at  5.71MiB/s ETA 00:00\r[download]   3.3% of 3.72MiB at  3.26MiB/s ETA 00:01\r[download]   6.7% of 3.72MiB at  4.05MiB/s ETA 00:00\r[download]  13.4% of 3.72MiB at  2.91MiB/s ETA 00:01\r[download]  26.8% of 3.72MiB at  2.18MiB/s ETA 00:01\r[download]  53.7% of 3.72MiB at  1.87MiB/s ETA 00:00\r[download]  97.7% of 3.72MiB at  1.85MiB/s ETA 00:00\r[download] 100% of 3.72MiB at  1.85MiB/s ETA 00:00  \r[download] 100% of 3.72MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:37:47+05:00","message":"[ExtractAudio] Destination: 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3"}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"Deleting original file 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"[Metadata] Adding metadata to \"'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"Deleting original file 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"Deleting original file 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:37:50+05:00","message":"[youtube] zw47ymC0RNQ: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:38:10+05:00","message":"[youtube] zw47ymC0RNQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:38:11+05:00","message":"[info] zw47ymC0RNQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:38:11+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:38:11+05:00","message":"[info] Writing video thumbnail 41 to: 'saib. - in your arms..webm'.webp"}
+{"level":"info","time":"2022-04-27T10:38:13+05:00","message":"[download] Destination: 'saib. - in your arms..webm'"}
+{"level":"info","time":"2022-04-27T10:38:18+05:00","message":"\r[download]   0.0% of 4.57MiB at 165.34KiB/s ETA 00:28\r[download]   0.1% of 4.57MiB at 468.32KiB/s ETA 00:09\r[download]   0.1% of 4.57MiB at  1.03MiB/s ETA 00:04 \r[download]   0.3% of 4.57MiB at  2.12MiB/s ETA 00:02\r[download]   0.7% of 4.57MiB at 973.07KiB/s ETA 00:04\r[download]   1.3% of 4.57MiB at  1.08MiB/s ETA 00:04 \r[download]   2.7% of 4.57MiB at  1.33MiB/s ETA 00:03\r[download]   5.5% of 4.57MiB at 720.39KiB/s ETA 00:06\r[download]  10.9% of 4.57MiB at 919.93KiB/s ETA 00:04\r[download]  21.9% of 4.57MiB at 950.91KiB/s ETA 00:03\r[download]  42.9% of 4.57MiB at 970.79KiB/s ETA 00:02\r[download]  64.1% of 4.57MiB at 947.03KiB/s ETA 00:01\r[download]  83.4% of 4.57MiB at 927.49KiB/s ETA 00:00\r[download] 100% of 4.57MiB at 988.06KiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:06                "}
+{"level":"info","time":"2022-04-27T10:38:18+05:00","message":"[ExtractAudio] Destination: 'saib. - in your arms..mp3"}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"Deleting original file 'saib. - in your arms..webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"[Metadata] Adding metadata to \"'saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'saib. - in your arms..webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"Deleting original file 'saib. - in your arms..webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"Deleting original file 'saib. - in your arms..webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:21+05:00","message":"[youtube] YaEG2aWJnZ8: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:38:22+05:00","message":"[youtube] YaEG2aWJnZ8: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:38:23+05:00","message":"[info] YaEG2aWJnZ8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:38:23+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:38:23+05:00","message":"[info] Writing video thumbnail 41 to: 'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm'.webp"}
+{"level":"info","time":"2022-04-27T10:38:23+05:00","message":"[download] Destination: 'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm'"}
+{"level":"info","time":"2022-04-27T10:38:25+05:00","message":"\r[download]   0.0% of 3.45MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.45MiB at  2.04MiB/s ETA 00:01     \r[download]   0.2% of 3.45MiB at  3.84MiB/s ETA 00:00\r[download]   0.4% of 3.45MiB at  6.97MiB/s ETA 00:00\r[download]   0.9% of 3.45MiB at  2.47MiB/s ETA 00:01\r[download]   1.8% of 3.45MiB at  3.22MiB/s ETA 00:01\r[download]   3.6% of 3.45MiB at  3.43MiB/s ETA 00:00\r[download]   7.2% of 3.45MiB at  4.28MiB/s ETA 00:00\r[download]  14.5% of 3.45MiB at  2.62MiB/s ETA 00:01\r[download]  29.0% of 3.45MiB at  2.21MiB/s ETA 00:01\r[download]  58.0% of 3.45MiB at  2.01MiB/s ETA 00:00\r[download] 100% of 3.45MiB at  1.93MiB/s ETA 00:00  \r[download] 100% of 3.45MiB in 00:01               "}
+{"level":"info","time":"2022-04-27T10:38:25+05:00","message":"[ExtractAudio] Destination: 'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3"}
+{"level":"info","time":"2022-04-27T10:38:27+05:00","message":"Deleting original file 'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:27+05:00","message":"[Metadata] Adding metadata to \"'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3\""}
+{"level":"info","time":"2022-04-27T10:38:27+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:38:27+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3\""}
+{"level":"info","time":"2022-04-27T10:38:28+05:00","message":"Deleting original file 'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:28+05:00","message":"Deleting original file 'Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:28+05:00","message":"[youtube] f-g_SHNv5NI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:38:29+05:00","message":"[youtube] f-g_SHNv5NI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:38:30+05:00","message":"[info] f-g_SHNv5NI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:38:30+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:38:30+05:00","message":"[info] Writing video thumbnail 41 to: 'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm'.webp"}
+{"level":"info","time":"2022-04-27T10:38:30+05:00","message":"[download] Destination: 'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm'"}
+{"level":"info","time":"2022-04-27T10:38:33+05:00","message":"\r[download]   0.0% of 3.64MiB at 535.40KiB/s ETA 00:07\r[download]   0.1% of 3.64MiB at  1.19MiB/s ETA 00:03 \r[download]   0.2% of 3.64MiB at  2.32MiB/s ETA 00:01\r[download]   0.4% of 3.64MiB at  4.30MiB/s ETA 00:00\r[download]   0.8% of 3.64MiB at  1.99MiB/s ETA 00:01\r[download]   1.7% of 3.64MiB at  3.92MiB/s ETA 00:00\r[download]   3.4% of 3.64MiB at  4.23MiB/s ETA 00:00\r[download]   6.8% of 3.64MiB at  4.51MiB/s ETA 00:00\r[download]  13.7% of 3.64MiB at  2.60MiB/s ETA 00:01\r[download]  27.5% of 3.64MiB at  2.25MiB/s ETA 00:01\r[download]  55.0% of 3.64MiB at 996.52KiB/s ETA 00:01\r[download]  72.0% of 3.64MiB at  1.13MiB/s ETA 00:00 \r[download] 100% of 3.64MiB at  1.26MiB/s ETA 00:00  \r[download] 100% of 3.64MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:38:33+05:00","message":"[ExtractAudio] Destination: 'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).mp3"}
+{"level":"info","time":"2022-04-27T10:38:36+05:00","message":"Deleting original file 'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:36+05:00","message":"[Metadata] Adding metadata to \"'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).mp3\""}
+{"level":"info","time":"2022-04-27T10:38:36+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:38:36+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).mp3\""}
+{"level":"info","time":"2022-04-27T10:38:36+05:00","message":"Deleting original file 'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:38:36+05:00","message":"Deleting original file 'The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:28+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:39:30+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:39:30+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:39:30+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:39:30+05:00","message":"[info] Writing video thumbnail 41 to: 'Melanie Martinez - Play Date (Official Audio).webm'.webp"}
+{"level":"info","time":"2022-04-27T10:39:30+05:00","message":"[download] Destination: 'Melanie Martinez - Play Date (Official Audio).webm'"}
+{"level":"info","time":"2022-04-27T10:39:32+05:00","message":"\r[download]   0.0% of 2.81MiB at 202.18KiB/s ETA 00:14\r[download]   0.1% of 2.81MiB at 563.27KiB/s ETA 00:05\r[download]   0.2% of 2.81MiB at  1.22MiB/s ETA 00:02 \r[download]   0.5% of 2.81MiB at  2.50MiB/s ETA 00:01\r[download]   1.1% of 2.81MiB at  3.36MiB/s ETA 00:00\r[download]   2.2% of 2.81MiB at  4.23MiB/s ETA 00:00\r[download]   4.4% of 2.81MiB at  3.25MiB/s ETA 00:00\r[download]   8.9% of 2.81MiB at  4.34MiB/s ETA 00:00\r[download]  17.7% of 2.81MiB at  2.26MiB/s ETA 00:01\r[download]  35.5% of 2.81MiB at  2.25MiB/s ETA 00:00\r[download]  71.1% of 2.81MiB at  1.94MiB/s ETA 00:00\r[download] 100% of 2.81MiB at  1.50MiB/s ETA 00:00  \r[download] 100% of 2.81MiB in 00:01               "}
+{"level":"info","time":"2022-04-27T10:39:32+05:00","message":"[ExtractAudio] Destination: 'Melanie Martinez - Play Date (Official Audio).mp3"}
+{"level":"info","time":"2022-04-27T10:39:34+05:00","message":"Deleting original file 'Melanie Martinez - Play Date (Official Audio).webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:34+05:00","message":"[Metadata] Adding metadata to \"'Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T10:39:34+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'Melanie Martinez - Play Date (Official Audio).webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:39:35+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T10:39:35+05:00","message":"Deleting original file 'Melanie Martinez - Play Date (Official Audio).webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:35+05:00","message":"Deleting original file 'Melanie Martinez - Play Date (Official Audio).webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:35+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:39:36+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:39:37+05:00","message":"[info] nLnp0tpZ0ok: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:39:37+05:00","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-04-27T10:39:37+05:00","message":"[info] Writing video thumbnail 45 to: 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.webp"}
+{"level":"info","time":"2022-04-27T10:39:37+05:00","message":"[download] Destination: 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'"}
+{"level":"info","time":"2022-04-27T10:39:39+05:00","message":"\r[download]   0.0% of 3.72MiB at 161.29KiB/s ETA 00:23\r[download]   0.1% of 3.72MiB at 474.31KiB/s ETA 00:08\r[download]   0.2% of 3.72MiB at  1.06MiB/s ETA 00:03 \r[download]   0.4% of 3.72MiB at  2.25MiB/s ETA 00:01\r[download]   0.8% of 3.72MiB at  2.39MiB/s ETA 00:01\r[download]   1.7% of 3.72MiB at  2.09MiB/s ETA 00:01\r[download]   3.3% of 3.72MiB at  1.55MiB/s ETA 00:02\r[download]   6.7% of 3.72MiB at  1.72MiB/s ETA 00:02\r[download]  13.4% of 3.72MiB at  2.11MiB/s ETA 00:01\r[download]  26.8% of 3.72MiB at  1.96MiB/s ETA 00:01\r[download]  53.7% of 3.72MiB at  1.91MiB/s ETA 00:00\r[download] 100% of 3.72MiB at  1.85MiB/s ETA 00:00  \r[download] 100% of 3.72MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:39:40+05:00","message":"[ExtractAudio] Destination: 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3"}
+{"level":"info","time":"2022-04-27T10:39:42+05:00","message":"Deleting original file 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm' (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:42+05:00","message":"[Metadata] Adding metadata to \"'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T10:39:42+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.webp\" to png"}
+{"level":"info","time":"2022-04-27T10:39:42+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T10:39:42+05:00","message":"Deleting original file 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:42+05:00","message":"Deleting original file 'PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm'.webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:39:43+05:00","message":"[youtube] zw47ymC0RNQ: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:39:44+05:00","message":"[youtube] zw47ymC0RNQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:39:44+05:00","message":"[info] zw47ymC0RNQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:39:44+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:39:45+05:00","message":"[info] Writing video thumbnail 41 to: 'saib. - in your arms..webm'.webp"}
+{"level":"info","time":"2022-04-27T10:39:45+05:00","message":"[download] Destination: 'saib. - in your arms..webm'"}
+{"level":"info","time":"2022-04-27T10:39:47+05:00","message":"\r[download]   0.0% of 4.57MiB at 311.71KiB/s ETA 00:15\r[download]   0.1% of 4.57MiB at 872.60KiB/s ETA 00:05\r[download]   0.1% of 4.57MiB at  1.89MiB/s ETA 00:02 \r[download]   0.3% of 4.57MiB at  3.85MiB/s ETA 00:01\r[download]   0.7% of 4.57MiB at  4.08MiB/s ETA 00:01\r[download]   1.3% of 4.57MiB at  3.33MiB/s ETA 00:01\r[download]   2.7% of 4.57MiB at  3.78MiB/s ETA 00:01\r[download]   5.5% of 4.57MiB at  4.31MiB/s ETA 00:01\r[download]  10.9% of 4.57MiB at  1.68MiB/s ETA 00:02\r[download]  21.9% of 4.57MiB at  2.02MiB/s ETA 00:01\r[download]  43.8% of 4.57MiB at  1.95MiB/s ETA 00:01\r[download]  85.1% of 4.57MiB at  1.68MiB/s ETA 00:00\r[download] 100% of 4.57MiB at  1.74MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:39:47+05:00","message":"[ExtractAudio] Destination: 'saib. - in your arms..mp3"}
+{"level":"info","time":"2022-04-27T10:40:00+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:40:01+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:40:02+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:40:02+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:40:02+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T10:40:02+05:00","message":"[download] Destination: Melanie Martinez - Play Date (Official Audio).webm"}
+{"level":"info","time":"2022-04-27T10:40:03+05:00","message":"\r[download]   0.0% of 2.81MiB at 130.82KiB/s ETA 00:22\r[download]   0.1% of 2.81MiB at 369.46KiB/s ETA 00:07\r[download]   0.2% of 2.81MiB at 823.80KiB/s ETA 00:03\r[download]   0.5% of 2.81MiB at  1.64MiB/s ETA 00:01 \r[download]   1.1% of 2.81MiB at  1.69MiB/s ETA 00:01\r[download]   2.2% of 2.81MiB at  2.07MiB/s ETA 00:01\r[download]   4.4% of 2.81MiB at  1.76MiB/s ETA 00:01\r[download]   8.9% of 2.81MiB at  1.91MiB/s ETA 00:01\r[download]  17.7% of 2.81MiB at  2.05MiB/s ETA 00:01\r[download]  35.5% of 2.81MiB at  2.24MiB/s ETA 00:00\r[download]  71.1% of 2.81MiB at  1.92MiB/s ETA 00:00\r[download] 100% of 2.81MiB at  1.93MiB/s ETA 00:00  \r[download] 100% of 2.81MiB in 00:01               "}
+{"level":"info","time":"2022-04-27T10:40:04+05:00","message":"[ExtractAudio] Destination: Melanie Martinez - Play Date (Official Audio).mp3"}
+{"level":"info","time":"2022-04-27T10:40:05+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:05+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T10:40:06+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T10:40:06+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T10:40:06+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:06+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:06+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:40:07+05:00","message":"[youtube] nLnp0tpZ0ok: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:40:08+05:00","message":"[info] nLnp0tpZ0ok: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:40:08+05:00","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-04-27T10:40:08+05:00","message":"[info] Writing video thumbnail 45 to: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp"}
+{"level":"info","time":"2022-04-27T10:40:09+05:00","message":"[download] Destination: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm"}
+{"level":"info","time":"2022-04-27T10:40:11+05:00","message":"\r[download]   0.0% of 3.72MiB at 214.47KiB/s ETA 00:17\r[download]   0.1% of 3.72MiB at 626.86KiB/s ETA 00:06\r[download]   0.2% of 3.72MiB at  1.40MiB/s ETA 00:02 \r[download]   0.4% of 3.72MiB at  2.94MiB/s ETA 00:01\r[download]   0.8% of 3.72MiB at  2.51MiB/s ETA 00:01\r[download]   1.7% of 3.72MiB at  2.19MiB/s ETA 00:01\r[download]   3.3% of 3.72MiB at  2.76MiB/s ETA 00:01\r[download]   6.7% of 3.72MiB at  1.67MiB/s ETA 00:02\r[download]  13.4% of 3.72MiB at  1.62MiB/s ETA 00:01\r[download]  26.8% of 3.72MiB at  1.69MiB/s ETA 00:01\r[download]  53.7% of 3.72MiB at  1.26MiB/s ETA 00:01\r[download]  80.7% of 3.72MiB at  1.45MiB/s ETA 00:00\r[download] 100% of 3.72MiB at  1.50MiB/s ETA 00:00  \r[download] 100% of 3.72MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:40:11+05:00","message":"[ExtractAudio] Destination: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3"}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"[Metadata] Adding metadata to \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp\" to png"}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:14+05:00","message":"[youtube] zw47ymC0RNQ: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:40:15+05:00","message":"[youtube] zw47ymC0RNQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:40:16+05:00","message":"[info] zw47ymC0RNQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:40:16+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:40:16+05:00","message":"[info] Writing video thumbnail 41 to: saib. - in your arms..webp"}
+{"level":"info","time":"2022-04-27T10:40:16+05:00","message":"[download] Destination: saib. - in your arms..webm"}
+{"level":"info","time":"2022-04-27T10:40:19+05:00","message":"\r[download]   0.0% of 4.57MiB at 411.69KiB/s ETA 00:11\r[download]   0.1% of 4.57MiB at  1.15MiB/s ETA 00:03 \r[download]   0.1% of 4.57MiB at  2.58MiB/s ETA 00:01\r[download]   0.3% of 4.57MiB at  5.33MiB/s ETA 00:00\r[download]   0.7% of 4.57MiB at  3.79MiB/s ETA 00:01\r[download]   1.3% of 4.57MiB at  2.12MiB/s ETA 00:02\r[download]   2.7% of 4.57MiB at  3.31MiB/s ETA 00:01\r[download]   5.5% of 4.57MiB at  4.10MiB/s ETA 00:01\r[download]  10.9% of 4.57MiB at  2.88MiB/s ETA 00:01\r[download]  21.9% of 4.57MiB at  2.25MiB/s ETA 00:01\r[download]  43.8% of 4.57MiB at  1.76MiB/s ETA 00:01\r[download]  75.4% of 4.57MiB at  1.51MiB/s ETA 00:00\r[download] 100% of 4.57MiB at  1.46MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:03               "}
+{"level":"info","time":"2022-04-27T10:40:20+05:00","message":"[ExtractAudio] Destination: saib. - in your arms..mp3"}
+{"level":"info","time":"2022-04-27T10:40:22+05:00","message":"Deleting original file saib. - in your arms..webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:22+05:00","message":"[Metadata] Adding metadata to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-04-27T10:40:23+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"saib. - in your arms..webp\" to png"}
+{"level":"info","time":"2022-04-27T10:40:23+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-04-27T10:40:23+05:00","message":"Deleting original file saib. - in your arms..png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:23+05:00","message":"Deleting original file saib. - in your arms..webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:23+05:00","message":"[youtube] YaEG2aWJnZ8: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:40:24+05:00","message":"[youtube] YaEG2aWJnZ8: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:40:25+05:00","message":"[info] YaEG2aWJnZ8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:40:25+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:40:44+05:00","message":"[info] Writing video thumbnail 41 to: Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webp"}
+{"level":"info","time":"2022-04-27T10:40:44+05:00","message":"[download] Destination: Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm"}
+{"level":"info","time":"2022-04-27T10:40:46+05:00","message":"\r[download]   0.0% of 3.45MiB at 185.87KiB/s ETA 00:19\r[download]   0.1% of 3.45MiB at 524.29KiB/s ETA 00:06\r[download]   0.2% of 3.45MiB at  1.15MiB/s ETA 00:02 \r[download]   0.4% of 3.45MiB at  2.38MiB/s ETA 00:01\r[download]   0.9% of 3.45MiB at  2.19MiB/s ETA 00:01\r[download]   1.8% of 3.45MiB at  3.43MiB/s ETA 00:00\r[download]   3.6% of 3.45MiB at  4.36MiB/s ETA 00:00\r[download]   7.2% of 3.45MiB at  4.32MiB/s ETA 00:00\r[download]  14.5% of 3.45MiB at  2.82MiB/s ETA 00:01\r[download]  29.0% of 3.45MiB at  2.17MiB/s ETA 00:01\r[download]  58.0% of 3.45MiB at  1.87MiB/s ETA 00:00\r[download] 100% of 3.45MiB at  1.88MiB/s ETA 00:00  \r[download] 100% of 3.45MiB in 00:01               "}
+{"level":"info","time":"2022-04-27T10:40:46+05:00","message":"[ExtractAudio] Destination: Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3"}
+{"level":"info","time":"2022-04-27T10:40:48+05:00","message":"Deleting original file Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:48+05:00","message":"[Metadata] Adding metadata to \"Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3\""}
+{"level":"info","time":"2022-04-27T10:40:49+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webp\" to png"}
+{"level":"info","time":"2022-04-27T10:40:49+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3\""}
+{"level":"info","time":"2022-04-27T10:40:49+05:00","message":"Deleting original file Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:49+05:00","message":"Deleting original file Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:49+05:00","message":"[youtube] f-g_SHNv5NI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T10:40:51+05:00","message":"[youtube] f-g_SHNv5NI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T10:40:52+05:00","message":"[info] f-g_SHNv5NI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T10:40:52+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T10:40:53+05:00","message":"[info] Writing video thumbnail 41 to: The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webp"}
+{"level":"info","time":"2022-04-27T10:40:53+05:00","message":"[download] Destination: The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm"}
+{"level":"info","time":"2022-04-27T10:40:55+05:00","message":"\r[download]   0.0% of 3.64MiB at 150.67KiB/s ETA 00:24\r[download]   0.1% of 3.64MiB at 430.42KiB/s ETA 00:08\r[download]   0.2% of 3.64MiB at 967.13KiB/s ETA 00:03\r[download]   0.4% of 3.64MiB at  1.95MiB/s ETA 00:01 \r[download]   0.8% of 3.64MiB at  1.51MiB/s ETA 00:02\r[download]   1.7% of 3.64MiB at  1.76MiB/s ETA 00:02\r[download]   3.4% of 3.64MiB at  1.67MiB/s ETA 00:02\r[download]   6.8% of 3.64MiB at  1.27MiB/s ETA 00:02\r[download]  13.7% of 3.64MiB at  1.41MiB/s ETA 00:02\r[download]  27.5% of 3.64MiB at  1.67MiB/s ETA 00:01\r[download]  55.0% of 3.64MiB at  1.62MiB/s ETA 00:01\r[download]  98.2% of 3.64MiB at  1.71MiB/s ETA 00:00\r[download] 100% of 3.64MiB at  1.72MiB/s ETA 00:00  \r[download] 100% of 3.64MiB in 00:02               "}
+{"level":"info","time":"2022-04-27T10:40:55+05:00","message":"[ExtractAudio] Destination: The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).mp3"}
+{"level":"info","time":"2022-04-27T10:40:58+05:00","message":"Deleting original file The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webm (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:58+05:00","message":"[Metadata] Adding metadata to \"The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).mp3\""}
+{"level":"info","time":"2022-04-27T10:40:58+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webp\" to png"}
+{"level":"info","time":"2022-04-27T10:40:58+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).mp3\""}
+{"level":"info","time":"2022-04-27T10:40:58+05:00","message":"Deleting original file The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:40:58+05:00","message":"Deleting original file The Weeknd - Save Your Tears _ In Your Eyes (Live on The 2020 American Music Awards).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T10:41:43+05:00","message":"SCRIPT fork:1 | item: 6 [SLEEP:3]"}
+{"level":"info","time":"2022-04-27T10:41:43+05:00","message":"SCRIPT fork:1 | item: 7 [SLEEP:2]"}
+{"level":"info","time":"2022-04-27T10:41:43+05:00","message":"SCRIPT fork:1 | item: 8 [SLEEP:2]"}
+{"level":"info","time":"2022-04-27T10:41:43+05:00","message":"SCRIPT fork:1 | item: 9 [SLEEP:2]"}
+{"level":"info","time":"2022-04-27T10:41:43+05:00","message":"SCRIPT fork:1 | item: 10 [SLEEP:1]"}
+{"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 6 [SLEEP:2]"}
+{"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 7 [SLEEP:1]"}
+{"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 8 [SLEEP:1]"}
+{"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 9 [SLEEP:3]"}
+{"level":"info","time":"2022-04-27T10:41:58+05:00","message":"SCRIPT fork:1 | item: 10 [SLEEP:3]"}
