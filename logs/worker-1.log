@@ -431,3 +431,68 @@
 {"level":"info","time":"2022-04-27T11:34:29+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
 {"level":"info","time":"2022-04-27T11:34:29+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
 {"level":"fatal","error":"googleapi: Error 400: Bad Request, badRequest","time":"2022-04-27T11:34:38+05:00","message":"googleapi: Error 400: Bad Request, badRequest"}
+{"level":"info","time":"2022-04-27T11:38:33+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:38:34+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[download] Melanie Martinez - Play Date (Official Audio).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:38:36+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:36+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:38:36+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"fatal","error":"googleapi: Error 400: Bad Request, badRequest","time":"2022-04-27T11:38:43+05:00","message":"googleapi: Error 400: Bad Request, badRequest"}
+{"level":"info","time":"2022-04-27T11:38:55+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:38:55+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[download] Melanie Martinez - Play Date (Official Audio).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"fatal","error":"googleapi: Error 400: Bad Request, badRequest","time":"2022-04-27T11:39:06+05:00","message":"googleapi: Error 400: Bad Request, badRequest"}
+{"level":"info","time":"2022-04-27T11:39:13+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:39:14+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:39:15+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:39:15+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[download] Melanie Martinez - Play Date (Official Audio).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"fatal","error":"googleapi: Error 400: Bad Request, badRequest","time":"2022-04-27T11:39:26+05:00","message":"googleapi: Error 400: Bad Request, badRequest"}
+{"level":"info","time":"2022-04-27T11:40:19+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:40:20+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:40:21+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:40:21+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:40:21+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[download] Melanie Martinez - Play Date (Official Audio).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"fatal","error":"googleapi: Error 400: Bad Request, badRequest","time":"2022-04-27T11:40:32+05:00","message":"googleapi: Error 400: Bad Request, badRequest"}
+{"level":"info","time":"2022-04-27T11:40:37+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:40:38+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:40:38+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:40:38+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[download] Melanie Martinez - Play Date (Official Audio).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"fatal","error":"googleapi: Error 400: Bad Request, badRequest","time":"2022-04-27T11:40:49+05:00","message":"googleapi: Error 400: Bad Request, badRequest"}

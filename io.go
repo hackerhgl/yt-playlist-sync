@@ -43,7 +43,7 @@ func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) ([]SyncPlaylis
 		}
 	}
 
-	dbJson, err := json.Marshal(&db)
+	dbJson, err := json.Marshal(db)
 	if err != nil {
 		return nil, err
 	}
@@ -78,7 +78,7 @@ func SyncDB(db []SyncPlaylistItem) error {
 
 func dbContainsItem(item *youtube.PlaylistItem, db []SyncPlaylistItem) bool {
 	for _, dbItem := range db {
-		if dbItem.Title == item.Snippet.Title {
+		if dbItem.Title == item.Snippet.Title+".mp3" {
 			return true
 		}
 	}

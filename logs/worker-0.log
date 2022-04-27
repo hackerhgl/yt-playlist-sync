@@ -412,3 +412,58 @@
 {"level":"info","time":"2022-04-27T11:34:30+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
 {"level":"info","time":"2022-04-27T11:34:30+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
 {"level":"info","time":"2022-04-27T11:34:30+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:38:33+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:38:35+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"[download] Adele - Skyfall (Lyric Video).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:37+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:38:55+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:38:56+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"[download] Adele - Skyfall (Lyric Video).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:38:57+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:39:13+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:39:14+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:39:15+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:39:15+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:39:16+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:39:17+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-04-27T11:39:17+05:00","message":"[download] Adele - Skyfall (Lyric Video).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:39:17+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:39:17+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:39:17+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:39:17+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:40:19+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:40:20+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:40:21+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:40:21+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:40:22+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-04-27T11:40:23+05:00","message":"[download] Adele - Skyfall (Lyric Video).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:40:23+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:40:23+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:23+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:23+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-04-27T11:40:37+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-04-27T11:40:38+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-04-27T11:40:38+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-04-27T11:40:38+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[download] Adele - Skyfall (Lyric Video).mp3 has already been downloaded"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[ExtractAudio] File is already in target format mp3, skipping"}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-04-27T11:40:39+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
