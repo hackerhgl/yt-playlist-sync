@@ -10,10 +10,8 @@ import (
 	"github.com/rs/zerolog"
 )
 
-
-
-func DummyShell(worker int, start int, end int)  {
-	// var logFile *os.File 
+func DummyShell(worker int, start int, end int) {
+	// var logFile *os.File
 	// initWorkerLogs(worker, logFile)
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	// os.Remove(path)
@@ -23,7 +21,7 @@ func DummyShell(worker int, start int, end int)  {
 		return
 	}
 	logger := zerolog.New(logFile).With().Timestamp().Logger()
-	for i:=start; i<=end; i++ {
+	for i := start; i <= end; i++ {
 		cmd := exec.Command("./scripts/echo.sh", strconv.Itoa(worker), strconv.Itoa(i))
 
 		stdout, err := cmd.StdoutPipe()
@@ -35,9 +33,9 @@ func DummyShell(worker int, start int, end int)  {
 
 		if err != nil {
 			println("ERROR WORKER", worker, start, err.Error())
+			logger.Fatal().Err(err).Msg(err.Error())
 			return
 		}
-
 
 		in := bufio.NewScanner(stdout)
 
@@ -54,7 +52,6 @@ func DummyShell(worker int, start int, end int)  {
 	logFile.Close()
 	fmt.Printf("Worker %d finished\n", worker)
 }
-
 
 // func initWorkerLogs(worker int, logFile *os.File ) {
 // 	path := fmt.Sprintf("logs/worker-%d.log", worker)

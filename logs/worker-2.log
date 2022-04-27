@@ -3,3 +3,7 @@
 {"level":"info","time":"2022-04-24T11:03:41+05:00","message":"SCRIPT fork:2 | item: 13 [SLEEP:3]"}
 {"level":"info","time":"2022-04-24T11:03:43+05:00","message":"SCRIPT fork:2 | item: 14 [SLEEP:2]"}
 {"level":"info","time":"2022-04-24T11:03:46+05:00","message":"SCRIPT fork:2 | item: 15 [SLEEP:3]"}
+{"level":"info","time":"2022-04-27T05:02:53+05:00","message":"SCRIPT fork:2 | item: 9 [SLEEP:3]"}
+{"level":"info","time":"2022-04-27T05:02:55+05:00","message":"SCRIPT fork:2 | item: 10 [SLEEP:2]"}
+{"level":"info","time":"2022-04-27T05:02:58+05:00","message":"SCRIPT fork:2 | item: 11 [SLEEP:3]"}
+{"level":"info","time":"2022-04-27T05:03:01+05:00","message":"SCRIPT fork:2 | item: 12 [SLEEP:3]"}

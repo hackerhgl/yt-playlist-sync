@@ -17,6 +17,13 @@ func main() {
 
 	// SavePlaylistToJSON(items)
 
+	// driveClient, err := DriveClient()
+	// if err != nil {
+	// 	log.Fatal("Failed to init drive client")
+	// }
+
+	// FakeWrite(driveClient)
+
 	total := 10
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
@@ -24,10 +31,10 @@ func main() {
 
 	for index, value := range batches {
 		multiplier := (index * perBatch)
-		start := multiplier + 1 
+		start := multiplier + 1
 		end := multiplier + value
-		println("X",start,end)
-		go func (index int)  {
+		println("X", start, end)
+		go func(index int) {
 			DummyShell(index, start, end)
 			wg.Done()
 		}(index)

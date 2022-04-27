@@ -8,17 +8,17 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem , count int)  {
+func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem, count int) {
 	call := client.PlaylistItems.List([]string{"contentDetails,id,snippet"})
 	call.MaxResults(50)
 	call.PlaylistId(PLAYLIST)
-	
+
 	var items []*youtube.PlaylistItem
-	nextPage := "" 
+	nextPage := ""
 	total := 0
 
 	for {
-		if (nextPage != "") {
+		if nextPage != "" {
 			call.PageToken(nextPage)
 		}
 
@@ -42,7 +42,7 @@ func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem , count 
 	return items, total
 }
 
-func Client() (*youtube.Service, error) {
+func YoutubeClient() (*youtube.Service, error) {
 	context := context.Background()
 
 	return youtube.NewService(context, option.WithCredentialsFile("secret/credential.json"))
