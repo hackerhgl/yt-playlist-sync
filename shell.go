@@ -9,12 +9,11 @@ import (
 	"google.golang.org/api/drive/v3"
 )
 
-func DummyShell(worker int, start int, end int, db []SyncPlaylistItem, drive *drive.Service) {
+func WorkerShell(worker int, start int, end int, db []SyncPlaylistItem, drive *drive.Service) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		println("Error: initWorkerLogs")
-		return
 	}
 	logger := zerolog.New(logFile).With().Timestamp().Logger()
 	for i := start; i <= end; i++ {
@@ -23,20 +22,21 @@ func DummyShell(worker int, start int, end int, db []SyncPlaylistItem, drive *dr
 		if item.Downloaded {
 			continue
 		}
-		cmd := DownloadVideo(item.ID)
+		cmd := DownloadVideo(item)
 		// cmd := exec.Command("./scripts/echo.sh", strconv.Itoa(worker), strconv.Itoa(i))
 
 		stdout, err := cmd.StdoutPipe()
 		if err != nil {
+			println("PIPEOUTERROR")
+			logger.Fatal().Err(err).Msg(err.Error())
 			// return 0, err
 		}
 
 		err = cmd.Start()
 
 		if err != nil {
-			println("ERROR WORKER", worker, start, err.Error())
+			fmt.Printf("ERROR WORKER %d %d\n%s\n", worker, i, err.Error())
 			logger.Fatal().Err(err).Msg(err.Error())
-			return
 		}
 
 		in := bufio.NewScanner(stdout)
@@ -50,7 +50,6 @@ func DummyShell(worker int, start int, end int, db []SyncPlaylistItem, drive *dr
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
 		if err := UploadAudio(drive, item.Title); err != nil {
-			// logger.Fatal().Msg("GOOGLE DRIVE ERROR")
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
 

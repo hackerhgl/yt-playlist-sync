@@ -4,6 +4,7 @@ import (
 	"context"
 	"log"
 	"os"
+	"path/filepath"
 
 	"google.golang.org/api/drive/v3"
 	"google.golang.org/api/googleapi"
@@ -35,38 +36,36 @@ func DriveClient() (*drive.Service, error) {
 
 func UploadAudio(service *drive.Service, name string) error {
 	// mimeType := "application/vnd.google-apps.audio"
-	fullPath := "songs/" + name
+	fullPath := filepath.Join("songs", name)
 	file, err := os.Open(fullPath)
 	// file, err := ioutil.ReadFile(fullPath)
 	if err != nil {
 		return err
 	}
-
-	println("XX")
-
 	driveFile := &drive.File{
 		Parents: []string{rootDirId},
-		// MimeType: mimeType,
-		Name: name,
+		Name:    name,
 	}
+
 	call := service.Files.Create(driveFile).Media(file)
 	// call := service.Files.Create(driveFile).Media(bytes.NewReader(file), googleapi.ContentType("audio/mp3"), googleapi.ChunkSize(0), googleapi.)
 	// service.Cre
 	call.SupportsAllDrives(true)
 	// call.
 
-	resp, err := call.Do()
+	_, err = call.Do()
 	if err != nil {
-		println("DOOO ERRROR")
+		return err
+	}
+	err = file.Close()
+	if err != nil {
 		return err
 	}
 
-	println("resp")
-	println(resp.Id)
-	// err = os.Remove(fullPath)
-	// if err != nil {
-	// 	return err
-	// }
+	err = os.Remove(fullPath)
+	if err != nil {
+		return err
+	}
 
 	return nil
 }

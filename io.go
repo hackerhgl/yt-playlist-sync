@@ -86,10 +86,14 @@ func dbContainsItem(item *youtube.PlaylistItem, db []SyncPlaylistItem) bool {
 }
 
 func InitDirs() error {
-	path := "songs"
-	if _, err := os.Stat(path); os.IsNotExist(err) {
-		err := os.Mkdir(path, 0777)
-		return err
+	paths := []string{"songs", "db", "logs"}
+
+	for _, path := range paths {
+		if _, err := os.Stat(path); os.IsNotExist(err) {
+			err := os.Mkdir(path, 0775)
+			return err
+		}
 	}
+
 	return nil
 }
