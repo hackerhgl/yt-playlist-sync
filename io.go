@@ -4,21 +4,12 @@ import (
 	"encoding/json"
 	"errors"
 	"os"
+	"strings"
 
 	"google.golang.org/api/youtube/v3"
 )
 
 func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) ([]SyncPlaylistItem, error) {
-	b, err := json.Marshal(items)
-	if err != nil {
-		return nil, err
-	}
-	file, err := os.Create("db/playlist.json")
-	file.Write(b)
-	if err != nil {
-		return nil, err
-	}
-
 	rawData, err := os.ReadFile("db/sync.json")
 	if err != nil && !errors.Is(err, os.ErrNotExist) {
 		return nil, err
@@ -32,7 +23,8 @@ func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) ([]SyncPlaylis
 		}
 	}
 
-	for _, item := range items {
+	for index, item := range items {
+		items[index].Snippet.Title = strings.ReplaceAll(item.Snippet.Title, "/", "|")
 		contains := dbContainsItem(item, db)
 		if !contains {
 			db = append(db, SyncPlaylistItem{
@@ -41,6 +33,16 @@ func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) ([]SyncPlaylis
 				Downloaded: false,
 			})
 		}
+	}
+
+	b, err := json.Marshal(items)
+	if err != nil {
+		return nil, err
+	}
+	file, err := os.Create("db/playlist.json")
+	file.Write(b)
+	if err != nil {
+		return nil, err
 	}
 
 	dbJson, err := json.Marshal(db)
@@ -90,8 +92,7 @@ func InitDirs() error {
 
 	for _, path := range paths {
 		if _, err := os.Stat(path); os.IsNotExist(err) {
-			err := os.Mkdir(path, 0775)
-			return err
+			os.Mkdir(path, 0775)
 		}
 	}
 
