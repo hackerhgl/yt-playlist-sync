@@ -19,7 +19,7 @@ func TimeStamp() error {
 	defer file.Close()
 	file.Write([]byte(time.Now().String()))
 	
-
+	return nil
 }
 
 func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
