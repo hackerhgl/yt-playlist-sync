@@ -3,6 +3,7 @@ package main
 import (
 	"context"
 	"log"
+	"strings"
 
 	"google.golang.org/api/option"
 	"google.golang.org/api/youtube/v3"
@@ -39,7 +40,18 @@ func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem, count i
 		}
 	}
 
-	return items, total
+	var filtered []*youtube.PlaylistItem
+	for index, item := range items {
+		title := items[index].Snippet.Title
+		if strings.Contains(title, "Deleted") {
+			continue
+		}
+		items[index].Snippet.Title = strings.ReplaceAll(item.Snippet.Title, "/", "|") + ".mp3"
+
+		filtered = append(filtered, item)
+	}
+
+	return filtered, len(filtered)
 }
 
 func YoutubeClient() (*youtube.Service, error) {

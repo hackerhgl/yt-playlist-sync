@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/json"
 	"os"
-	"strings"
 	"time"
 
 	"google.golang.org/api/youtube/v3"
@@ -18,14 +17,11 @@ func TimeStamp() error {
 	}
 	defer file.Close()
 	file.Write([]byte(time.Now().String()))
-	
+
 	return nil
 }
 
 func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
-	for index, item := range items {
-		items[index].Snippet.Title = strings.ReplaceAll(item.Snippet.Title, "/", "|") + ".mp3"
-	}
 	b, err := json.Marshal(items)
 	if err != nil {
 		return err

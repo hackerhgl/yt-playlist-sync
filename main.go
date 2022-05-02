@@ -7,12 +7,14 @@ import (
 
 func main() {
 	err := TimeStamp()
-		if err != nil {
+
+	if err != nil {
 		log.Fatal(err.Error())
 		panic(err)
 	}
 
 	err = InitDirs()
+
 	if err != nil {
 		log.Fatal(err.Error())
 		panic(err)
@@ -26,28 +28,29 @@ func main() {
 	}
 
 	playlist, total := GetPlayList(youtubeClient)
-
 	err = SavePlaylistToJSON(playlist, total)
 
 	if err != nil {
 		log.Fatalln(err.Error())
 		return
 	}
+
 	driveClient, err := DriveClient()
+
 	if err != nil {
 		log.Fatal(err.Error())
 		return
 	}
-	InitRootDir(driveClient)
 
+	InitRootDir(driveClient)
 	files, err := GetDownloadedFiles(driveClient)
+
 	if err != nil {
 		log.Fatal(err.Error())
 		return
 	}
 
 	playlist, total = GetFilteredPlaylist(playlist, files)
-
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
 	wg.Add(batchesSize)
