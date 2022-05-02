@@ -1,0 +1,21 @@
+on:
+  push:
+    branches:
+      - 'master'
+
+name: Youtube sync job
+jobs:
+  trigger:
+    name: Ubuntu runner
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install ytd-lp
+        run: |
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+      - name: TEST YTD-LP
+        run: dsB_kRZH1to
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
