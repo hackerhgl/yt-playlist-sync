@@ -12,7 +12,6 @@ func main() {
 		panic(err)
 	}
 
-	return
 	err = InitDirs()
 	if err != nil {
 		log.Fatal(err.Error())

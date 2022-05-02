@@ -24,7 +24,23 @@ jobs:
           echo "$CREDENTIALS" | base64 -d > ./secret/credential.json
         env:
           CREDENTIALS: ${{ secrets.CREDENTIALS }}
+      - name: Install go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.18.1'
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
           fetch-depth: 0
+      - name: execute script
+        run: |
+          go get
+          go run *.go
+      - name: Run github
+        run: |
+          git config user.name hackerhgl
+          git config user.email hackerhgl@gmail.com
+          git add .
+          git commit -m "Script triggered by automated runner"
+          git push origin master
+
