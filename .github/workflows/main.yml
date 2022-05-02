@@ -13,6 +13,8 @@ jobs:
         run: |
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
+      - name: install ffmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v1
       - name: TEST YTD-LP
         run: | 
           yt-dlp -f bestaudio --embed-thumbnail --add-metadata --extract-audio --audio-format mp3 --audio-quality 0 -i dsB_kRZH1to
