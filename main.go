@@ -27,15 +27,12 @@ func main() {
 		log.Fatalln(err.Error())
 		return
 	}
-
 	driveClient, err := DriveClient()
 	if err != nil {
 		log.Fatal(err.Error())
 		return
 	}
 	InitRootDir(driveClient)
-
-	total = 1
 
 	files, err := GetDownloadedFiles(driveClient)
 	if err != nil {
