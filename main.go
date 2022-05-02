@@ -35,6 +35,10 @@ func main() {
 	}
 	InitRootDir(driveClient)
 
+	total = 1
+
+	GetDownloadedFiles(driveClient)
+
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
 	wg.Add(batchesSize)

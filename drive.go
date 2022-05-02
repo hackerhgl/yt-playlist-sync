@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"fmt"
 	"log"
 	"os"
 	"path/filepath"
@@ -25,6 +26,36 @@ func InitRootDir(service *drive.Service) {
 		return
 	}
 	rootDirId = result.Files[0].Id
+}
+
+func GetDownloadedFiles(service *drive.Service) ([]*drive.File, error) {
+	var files []*drive.File
+	var nextPageToken string
+
+	for {
+		call := service.Files.List()
+		fields := []googleapi.Field{"files/webViewLink", "files/name", "files/kind", "files/id", "files/mimeType"}
+		call.Fields(fields...)
+		if nextPageToken != "" {
+			call.PageToken(nextPageToken)
+		}
+		query := fmt.Sprintf("mimeType='audio/mpeg' and parents='%s'", rootDirId)
+		call.Q(query)
+		call.PageSize(50)
+		result, err := call.Do()
+		if err != nil {
+			log.Fatalln(err.Error())
+			log.Fatalln("Failed execute drive query")
+			return nil, err
+		}
+		files = append(files, result.Files...)
+		nextPageToken = result.NextPageToken
+
+		if result.NextPageToken == "" {
+			break
+		}
+	}
+	return files, nil
 }
 
 func DriveClient() (*drive.Service, error) {
