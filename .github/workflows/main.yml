@@ -14,7 +14,8 @@ jobs:
           sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
           sudo chmod a+rx /usr/local/bin/yt-dlp
       - name: TEST YTD-LP
-        run: dsB_kRZH1to
+        run: | 
+          yt-dlp -i dsB_kRZH1to
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
