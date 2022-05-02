@@ -15,7 +15,7 @@ jobs:
           sudo chmod a+rx /usr/local/bin/yt-dlp
       - name: TEST YTD-LP
         run: | 
-          yt-dlp -i dsB_kRZH1to
+          yt-dlp -f bestaudio --embed-thumbnail --add-metadata --extract-audio --audio-format mp3 --audio-quality 0 -i dsB_kRZH1to
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
