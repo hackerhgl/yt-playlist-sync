@@ -159,3 +159,4 @@
 {"level":"info","time":"2022-05-02T12:38:30+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
 {"level":"info","time":"2022-05-02T12:38:30+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
 {"level":"info","time":"2022-05-02T12:38:30+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"fatal","error":"open songs/Adele - Skyfall (Lyric Video): no such file or directory","time":"2022-05-02T21:16:35+05:00","message":"open songs/Adele - Skyfall (Lyric Video): no such file or directory"}

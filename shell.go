@@ -7,9 +7,10 @@ import (
 
 	"github.com/rs/zerolog"
 	"google.golang.org/api/drive/v3"
+	"google.golang.org/api/youtube/v3"
 )
 
-func WorkerShell(worker int, start int, end int, db []SyncPlaylistItem, drive *drive.Service) {
+func WorkerShell(worker int, start int, end int, files []*drive.File, playlist []*youtube.PlaylistItem, drive *drive.Service) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
@@ -18,8 +19,8 @@ func WorkerShell(worker int, start int, end int, db []SyncPlaylistItem, drive *d
 	logger := zerolog.New(logFile).With().Timestamp().Logger()
 	for i := start; i <= end; i++ {
 		index := i - 1
-		item := db[index]
-		if item.Downloaded {
+		item := playlist[index]
+		if CheckIfItemExists(item, files) {
 			continue
 		}
 		cmd := DownloadVideo(item)
@@ -49,11 +50,10 @@ func WorkerShell(worker int, start int, end int, db []SyncPlaylistItem, drive *d
 		if err := in.Err(); err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
-		if err := UploadAudio(drive, item.Title); err != nil {
+		if err := UploadAudio(drive, item.Snippet.Title); err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
 
-		db[index].Downloaded = true
 	}
 	// closeWorkerLogs(logFile)
 	logFile.Close()

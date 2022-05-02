@@ -19,9 +19,9 @@ func main() {
 		panic(err)
 	}
 
-	items, total := GetPlayList(youtubeClient)
+	playlist, total := GetPlayList(youtubeClient)
 
-	db, err := SavePlaylistToJSON(items, total)
+	err = SavePlaylistToJSON(playlist, total)
 
 	if err != nil {
 		log.Fatalln(err.Error())
@@ -37,7 +37,11 @@ func main() {
 
 	total = 1
 
-	GetDownloadedFiles(driveClient)
+	files, err := GetDownloadedFiles(driveClient)
+	if err != nil {
+		log.Fatal(err.Error())
+		return
+	}
 
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
@@ -48,11 +52,10 @@ func main() {
 		start := multiplier + 1
 		end := multiplier + value
 		go func(index int) {
-			WorkerShell(index, start, end, db, driveClient)
+			WorkerShell(index, start, end, files, playlist, driveClient)
 			wg.Done()
 		}(index)
 	}
 
 	wg.Wait()
-	SyncDB(db)
 }

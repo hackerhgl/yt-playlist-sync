@@ -1,5 +1,10 @@
 package main
 
+import (
+	"google.golang.org/api/drive/v3"
+	"google.golang.org/api/youtube/v3"
+)
+
 func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA int) {
 	safeBatches := total / MIN_PER_BATCH
 
@@ -14,13 +19,22 @@ func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA in
 	perBatch := total / safeBatches
 	var batches []int
 
-	for i:=0; i <safeBatches; i++ {
+	for i := 0; i < safeBatches; i++ {
 		batches = append(batches, perBatch)
 	}
 
 	if (total % perBatch) != 0 {
-		batches = append(batches, total - (perBatch * safeBatches))
+		batches = append(batches, total-(perBatch*safeBatches))
 	}
-	
+
 	return batches, perBatch, len(batches)
+}
+
+func CheckIfItemExists(item *youtube.PlaylistItem, files []*drive.File) bool {
+	for _, file := range files {
+		if item.Snippet.Title == file.Name {
+			return true
+		}
+	}
+	return false
 }
