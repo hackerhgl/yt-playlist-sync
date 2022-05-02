@@ -6,7 +6,13 @@ import (
 )
 
 func main() {
-	err := InitDirs()
+	err := TimeStamp()
+		if err != nil {
+		log.Fatal(err.Error())
+		panic(err)
+	}
+
+	err = InitDirs()
 	if err != nil {
 		log.Fatal(err.Error())
 		panic(err)

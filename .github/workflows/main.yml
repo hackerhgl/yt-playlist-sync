@@ -1,0 +1,48 @@
+on:
+  push:
+    branches:
+      - 'master'
+
+name: Youtube sync job
+jobs:
+  trigger:
+    name: Ubuntu runner
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install ytd-lp
+        run: |
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+      - name: install ffmpeg
+        uses: FedericoCarboni/setup-ffmpeg@v1
+      # We don't need this command any more
+      # - name: TEST YTD-LP
+      #   run: | 
+      #     yt-dlp -f bestaudio --embed-thumbnail --add-metadata --extract-audio --audio-format mp3 --audio-quality 0 -i dsB_kRZH1to
+      - name: Install go
+        uses: actions/setup-go@v3
+        with:
+          go-version: '1.18.1'
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Initialize credentials
+        run: |
+          mkdir secret
+          echo "$CREDENTIALS" | base64 -d > ./secret/credential.json
+          cat ./secret/credential.json
+        env:
+          CREDENTIALS: ${{ secrets.CREDENTIALS }}
+      - name: execute script
+        run: |
+          go get
+          go run *.go
+      - name: Run github
+        run: |
+          git config user.name hackerhgl
+          git config user.email hackerhgl@gmail.com
+          git add .
+          git commit -m "Script triggered by automated runner"
+          git push origin master
+
