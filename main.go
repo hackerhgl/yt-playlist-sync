@@ -40,6 +40,8 @@ func main() {
 		return
 	}
 
+	playlist, total = GetFilteredPlaylist(playlist, files)
+
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
 	wg.Add(batchesSize)
@@ -49,7 +51,7 @@ func main() {
 		start := multiplier + 1
 		end := multiplier + value
 		go func(index int) {
-			WorkerShell(index, start, end, files, playlist, driveClient)
+			WorkerShell(index, start, end, playlist, driveClient)
 			wg.Done()
 		}(index)
 	}

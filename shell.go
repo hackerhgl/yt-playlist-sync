@@ -10,7 +10,7 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-func WorkerShell(worker int, start int, end int, files []*drive.File, playlist []*youtube.PlaylistItem, drive *drive.Service) {
+func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistItem, drive *drive.Service) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
@@ -20,9 +20,6 @@ func WorkerShell(worker int, start int, end int, files []*drive.File, playlist [
 	for i := start; i <= end; i++ {
 		index := i - 1
 		item := playlist[index]
-		if CheckIfItemExists(item, files) {
-			continue
-		}
 		cmd := DownloadVideo(item)
 		// cmd := exec.Command("./scripts/echo.sh", strconv.Itoa(worker), strconv.Itoa(i))
 

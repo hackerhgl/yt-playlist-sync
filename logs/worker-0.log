@@ -160,3 +160,21 @@
 {"level":"info","time":"2022-05-02T12:38:30+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
 {"level":"info","time":"2022-05-02T12:38:30+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
 {"level":"fatal","error":"open songs/Adele - Skyfall (Lyric Video): no such file or directory","time":"2022-05-02T21:16:35+05:00","message":"open songs/Adele - Skyfall (Lyric Video): no such file or directory"}
+{"level":"info","time":"2022-05-02T23:54:36+05:00","message":"[youtube] il9nqWw9W3Y: Downloading webpage"}
+{"level":"info","time":"2022-05-02T23:54:38+05:00","message":"[youtube] il9nqWw9W3Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-02T23:54:39+05:00","message":"[info] il9nqWw9W3Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-02T23:54:39+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-02T23:54:40+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-02T23:54:41+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-02T23:54:42+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-02T23:54:42+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-02T23:54:43+05:00","message":"[info] Writing video thumbnail 37 to: Demi Lovato - Cool for the Summer (Official Video).webp"}
+{"level":"info","time":"2022-05-02T23:54:43+05:00","message":"[download] Destination: Demi Lovato - Cool for the Summer (Official Video).webm"}
+{"level":"info","time":"2022-05-02T23:54:44+05:00","message":"\r[download]   0.0% of 3.36MiB at 708.14KiB/s ETA 00:04\r[download]   0.1% of 3.36MiB at  1.59MiB/s ETA 00:02 \r[download]   0.2% of 3.36MiB at  3.14MiB/s ETA 00:01\r[download]   0.4% of 3.36MiB at  5.82MiB/s ETA 00:00\r[download]   0.9% of 3.36MiB at  4.12MiB/s ETA 00:00\r[download]   1.8% of 3.36MiB at  2.95MiB/s ETA 00:01\r[download]   3.7% of 3.36MiB at  4.57MiB/s ETA 00:00\r[download]   7.4% of 3.36MiB at  4.86MiB/s ETA 00:00\r[download]  14.9% of 3.36MiB at  5.45MiB/s ETA 00:00\r[download]  29.7% of 3.36MiB at  5.57MiB/s ETA 00:00\r[download]  59.5% of 3.36MiB at  4.48MiB/s ETA 00:00\r[download] 100% of 3.36MiB at  3.06MiB/s ETA 00:00  \r[download] 100% of 3.36MiB in 00:01               "}
+{"level":"info","time":"2022-05-02T23:54:45+05:00","message":"[ExtractAudio] Destination: Demi Lovato - Cool for the Summer (Official Video).mp3"}
+{"level":"info","time":"2022-05-02T23:54:47+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-02T23:54:47+05:00","message":"[Metadata] Adding metadata to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-05-02T23:54:47+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Demi Lovato - Cool for the Summer (Official Video).webp\" to png"}
+{"level":"info","time":"2022-05-02T23:54:47+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-05-02T23:54:47+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-02T23:54:47+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).png (pass -k to keep)"}

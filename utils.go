@@ -30,11 +30,21 @@ func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA in
 	return batches, perBatch, len(batches)
 }
 
-func CheckIfItemExists(item *youtube.PlaylistItem, files []*drive.File) bool {
+func checkIfItemExists(item *youtube.PlaylistItem, files []*drive.File) bool {
 	for _, file := range files {
 		if item.Snippet.Title == file.Name {
 			return true
 		}
 	}
 	return false
+}
+
+func GetFilteredPlaylist(playlist []*youtube.PlaylistItem, files []*drive.File) ([]*youtube.PlaylistItem, int) {
+	var filtered []*youtube.PlaylistItem
+	for _, item := range playlist {
+		if !checkIfItemExists(item, files) {
+			filtered = append(filtered, item)
+		}
+	}
+	return filtered, len(filtered)
 }
