@@ -18,6 +18,12 @@ jobs:
       - name: TEST YTD-LP
         run: | 
           yt-dlp -f bestaudio --embed-thumbnail --add-metadata --extract-audio --audio-format mp3 --audio-quality 0 -i dsB_kRZH1to
+      - name: Initialize credentials
+        run: |
+          mkdir secret
+          echo "$CREDENTIALS" | base64 -d > ./secret/credential.json
+        env:
+          CREDENTIALS: ${{ secrets.CREDENTIALS }}
       - name: Checkout repository
         uses: actions/checkout@v2
         with:

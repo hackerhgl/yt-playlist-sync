@@ -4,9 +4,23 @@ import (
 	"encoding/json"
 	"os"
 	"strings"
+	"time"
 
 	"google.golang.org/api/youtube/v3"
 )
+
+func TimeStamp() error {
+
+	file, err := os.Create("db/timestamp.txt")
+
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+	file.Write([]byte(time.Now().String()))
+	
+
+}
 
 func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
 	for index, item := range items {

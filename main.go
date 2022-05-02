@@ -6,6 +6,9 @@ import (
 )
 
 func main() {
+	TimeStamp()
+
+	return
 	err := InitDirs()
 	if err != nil {
 		log.Fatal(err.Error())
