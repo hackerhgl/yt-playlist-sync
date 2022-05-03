@@ -10,13 +10,14 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistItem, drive *drive.Service) {
+func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistItem, ignoreChan chan []string, drive *drive.Service) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		println("Error: initWorkerLogs")
 	}
 	logger := zerolog.New(logFile).With().Timestamp().Logger()
+	var ignores []string
 	for i := start; i <= end; i++ {
 		index := i - 1
 		item := playlist[index]
@@ -41,18 +42,23 @@ func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistIte
 
 		for in.Scan() {
 			text := in.Text()
-			// println(text)
+			println(text)
 			logger.Info().Msg(text)
 		}
 		if err := in.Err(); err != nil {
+			println("err", err.Error())
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
-		if err := UploadAudio(drive, item.Snippet.Title); err != nil {
+		err = UploadAudio(drive, item.Snippet.Title)
+		fileNotExist := err != nil && os.IsNotExist(err)
+		if fileNotExist {
+			ignores = append(ignores, item.ContentDetails.VideoId)
+		} else {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
 
 	}
-	// closeWorkerLogs(logFile)
+	ignoreChan <- ignores
 	logFile.Close()
 	fmt.Printf("Worker %d finished\n", worker)
 }

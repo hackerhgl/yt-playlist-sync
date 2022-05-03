@@ -30,7 +30,7 @@ func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA in
 	return batches, perBatch, len(batches)
 }
 
-func checkIfItemExists(item *youtube.PlaylistItem, files []*drive.File) bool {
+func itemExistsInDrive(item *youtube.PlaylistItem, files []*drive.File) bool {
 	for _, file := range files {
 		if item.Snippet.Title == file.Name {
 			return true
@@ -39,10 +39,39 @@ func checkIfItemExists(item *youtube.PlaylistItem, files []*drive.File) bool {
 	return false
 }
 
-func GetFilteredPlaylist(playlist []*youtube.PlaylistItem, files []*drive.File) ([]*youtube.PlaylistItem, int) {
+func GetIgnoreChannels(size int) []chan []string {
+	channels := make([]chan []string, size)
+	for i := 0; i < size; i++ {
+		channels[i] = make(chan []string)
+	}
+	return channels
+}
+
+func GetValuesFromIgnoreChannels(channels []chan []string) []string {
+	values := []string{}
+	for _, channel := range channels {
+		data := <-channel
+		if data == nil {
+			continue
+		}
+		values = append(values, data...)
+	}
+	return values
+}
+
+func isVideoIgnored(item *youtube.PlaylistItem, ignores []string) bool {
+	for _, id := range ignores {
+		if item.ContentDetails.VideoId == id {
+			return true
+		}
+	}
+	return false
+}
+
+func GetFilteredPlaylist(playlist []*youtube.PlaylistItem, files []*drive.File, ignores []string) ([]*youtube.PlaylistItem, int) {
 	var filtered []*youtube.PlaylistItem
 	for _, item := range playlist {
-		if !checkIfItemExists(item, files) {
+		if !itemExistsInDrive(item, files) && !isVideoIgnored(item, ignores) {
 			filtered = append(filtered, item)
 		}
 	}

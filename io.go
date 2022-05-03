@@ -8,8 +8,42 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-func TimeStamp() error {
+func GetIgnores() ([]string, error) {
+	b, err := os.ReadFile("db/ignores.json")
+	if err != nil {
+		return nil, err
+	}
 
+	var ignores []string
+	if len(b) != 0 {
+		err = json.Unmarshal(b, &ignores)
+		if err != nil {
+			return nil, err
+		}
+	}
+	return ignores, nil
+}
+
+func SyncIgnores(ignores []string) error {
+	file, err := os.Create("db/ignores.json")
+	if ignores == nil {
+		ignores = []string{}
+	}
+	if err != nil {
+		return err
+	}
+	b, err := json.Marshal(&ignores)
+	if err != nil {
+		return err
+	}
+	_, err = file.Write(b)
+	if err != nil {
+		return err
+	}
+	return nil
+}
+
+func TimeStamp() error {
 	file, err := os.Create("db/timestamp.txt")
 
 	if err != nil {

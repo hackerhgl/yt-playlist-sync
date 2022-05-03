@@ -1944,3 +1944,98 @@
 {"level":"info","time":"2022-05-03T03:14:49Z","message":"[youtube] T3E9Wjbq44E: Downloading android player API JSON"}
 {"level":"info","time":"2022-05-03T03:14:50Z","message":"[info] T3E9Wjbq44E: Downloading 1 format(s): 251"}
 {"level":"info","time":"2022-05-03T03:14:50Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T09:43:21+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:43:23+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T09:43:24+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T09:51:23+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:51:25+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T09:51:26+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T09:52:38+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:52:40+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T09:52:42+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T09:53:11+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:53:15+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T09:53:17+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T09:53:35+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:54:11+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:54:14+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T09:54:35+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T09:54:38+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T09:54:39+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T10:12:37+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:12:39+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T10:12:40+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T10:13:12+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:13:15+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-05-03T10:13:16+05:00","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T10:52:57+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:52:59+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T10:53:01+05:00","message":"[youtube] woZyS_TGZ4I: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:53:04+05:00","message":"[youtube] woZyS_TGZ4I: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T10:53:05+05:00","message":"[info] woZyS_TGZ4I: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T10:53:05+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T10:53:07+05:00","message":"[info] Writing video thumbnail 41 to: TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).webp"}
+{"level":"info","time":"2022-05-03T10:53:07+05:00","message":"[download] Destination: TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).webm"}
+{"level":"info","time":"2022-05-03T10:53:09+05:00","message":"\r[download]   0.0% of 3.67MiB at 883.38KiB/s ETA 00:04\r[download]   0.1% of 3.67MiB at  1.57MiB/s ETA 00:02 \r[download]   0.2% of 3.67MiB at  2.74MiB/s ETA 00:01\r[download]   0.4% of 3.67MiB at  4.69MiB/s ETA 00:00\r[download]   0.8% of 3.67MiB at 1010.31KiB/s ETA 00:03\r[download]   1.7% of 3.67MiB at  1.79MiB/s ETA 00:02  \r[download]   3.4% of 3.67MiB at  2.65MiB/s ETA 00:01\r[download]   6.8% of 3.67MiB at  3.09MiB/s ETA 00:01\r[download]  13.6% of 3.67MiB at  2.73MiB/s ETA 00:01\r[download]  27.2% of 3.67MiB at  2.79MiB/s ETA 00:00\r[download]  54.4% of 3.67MiB at  2.93MiB/s ETA 00:00\r[download] 100% of 3.67MiB at  1.90MiB/s ETA 00:00  \r[download] 100% of 3.67MiB in 00:02               "}
+{"level":"info","time":"2022-05-03T10:53:09+05:00","message":"[ExtractAudio] Destination: TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).mp3"}
+{"level":"info","time":"2022-05-03T10:53:12+05:00","message":"Deleting original file TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T10:53:12+05:00","message":"[Metadata] Adding metadata to \"TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).mp3\""}
+{"level":"info","time":"2022-05-03T10:53:12+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).webp\" to png"}
+{"level":"info","time":"2022-05-03T10:53:12+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).mp3\""}
+{"level":"info","time":"2022-05-03T10:53:12+05:00","message":"Deleting original file TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T10:53:12+05:00","message":"Deleting original file TALKING TO THE MOON X PLAYDATE (CLEANED UP TIKTOK EDIT).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T10:54:36+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:54:38+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T10:56:03+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:56:06+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T10:56:50+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:56:52+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T10:57:56+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:57:58+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T10:58:53+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T10:58:56+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T21:42:08+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T21:42:10+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T22:07:32+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T22:07:34+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T22:17:24+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T22:17:25+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T22:18:44+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T22:18:45+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T22:19:06+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T22:19:07+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T22:45:19+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T22:45:20+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:20:06+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:20:08+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:20:34+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:20:36+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:21:35+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:21:37+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:23:58+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:24:00+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:24:32+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:24:35+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:25:04+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:25:10+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:25:12+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:25:22+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:25:24+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:25:50+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:25:51+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:26:35+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:26:37+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:28:00+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:28:02+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:28:34+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:28:35+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:37:40+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:37:42+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:43:29+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:43:32+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:44:55+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:44:57+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:46:24+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:46:26+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:47:00+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:47:02+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}

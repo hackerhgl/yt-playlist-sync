@@ -10,7 +10,7 @@ import (
 )
 
 func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem, count int) {
-	call := client.PlaylistItems.List([]string{"contentDetails,id,snippet"})
+	call := client.PlaylistItems.List([]string{"contentDetails,id,snippet,status"})
 	call.MaxResults(50)
 	call.PlaylistId(PLAYLIST)
 
@@ -24,7 +24,6 @@ func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem, count i
 		}
 
 		response, err := call.Do()
-
 		if err != nil {
 			log.Fatal(err.Error())
 			panic(err)
