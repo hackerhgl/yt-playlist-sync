@@ -1719,3 +1719,16 @@
 {"level":"info","time":"2022-05-03T23:52:39+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - I'll Move On.mp3\""}
 {"level":"info","time":"2022-05-03T23:52:39+05:00","message":"Deleting original file Nightcore - I'll Move On.webp (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T23:52:39+05:00","message":"Deleting original file Nightcore - I'll Move On.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T18:55:04Z","message":"[youtube] ibtn9UMlPtE: Downloading webpage"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[youtube] ibtn9UMlPtE: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[info] ibtn9UMlPtE: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"[info] Writing video thumbnail 40 to: Nightcore - Now you're gone (Basshunter).jpg"}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"[download] Destination: Nightcore - Now you're gone (Basshunter).webm"}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"\r[download]   0.0% of 2.65MiB at Unknown speed ETA Unknown\r[download]   0.1% of 2.65MiB at Unknown speed ETA Unknown\r[download]   0.3% of 2.65MiB at Unknown speed ETA Unknown\r[download]   0.6% of 2.65MiB at 12.97MiB/s ETA 00:00     \r[download]   1.1% of 2.65MiB at 21.11MiB/s ETA 00:00\r[download]   2.3% of 2.65MiB at 28.05MiB/s ETA 00:00\r[download]   4.7% of 2.65MiB at 29.05MiB/s ETA 00:00\r[download]   9.4% of 2.65MiB at 41.84MiB/s ETA 00:00\r[download]  18.8% of 2.65MiB at 60.28MiB/s ETA 00:00\r[download]  37.7% of 2.65MiB at 84.32MiB/s ETA 00:00\r[download]  75.4% of 2.65MiB at 113.12MiB/s ETA 00:00\r[download] 100% of 2.65MiB at 76.66MiB/s ETA 00:00   \r[download] 100% of 2.65MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"[ExtractAudio] Destination: Nightcore - Now you're gone (Basshunter).mp3"}
+{"level":"info","time":"2022-05-03T18:55:18Z","message":"Deleting original file Nightcore - Now you're gone (Basshunter).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T18:55:18Z","message":"[Metadata] Adding metadata to \"Nightcore - Now you're gone (Basshunter).mp3\""}
+{"level":"info","time":"2022-05-03T18:55:18Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Now you're gone (Basshunter).mp3\""}
+{"level":"info","time":"2022-05-03T18:55:18Z","message":"Deleting original file Nightcore - Now you're gone (Basshunter).jpg (pass -k to keep)"}

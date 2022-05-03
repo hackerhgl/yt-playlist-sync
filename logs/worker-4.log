@@ -108,3 +108,17 @@
 {"level":"info","time":"2022-05-03T23:53:21+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Boom - How Do You Do (Official UK Version).mp3\""}
 {"level":"info","time":"2022-05-03T23:53:21+05:00","message":"Deleting original file Boom - How Do You Do (Official UK Version).png (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T23:53:21+05:00","message":"Deleting original file Boom - How Do You Do (Official UK Version).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T18:55:04Z","message":"[youtube] Xl79bqBieT4: Downloading webpage"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[youtube] Xl79bqBieT4: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[info] Xl79bqBieT4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T18:55:07Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T18:55:07Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T18:55:08Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T18:55:09Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T18:55:10Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T18:55:10Z","message":"[info] Writing video thumbnail 35 to: Boom - How Do You Do (Official UK Version).webp"}
+{"level":"info","time":"2022-05-03T18:55:10Z","message":"[download] Destination: Boom - How Do You Do (Official UK Version).webm"}
+{"level":"info","time":"2022-05-03T18:55:10Z","message":"\r[download]   0.0% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.2% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.5% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.9% of 3.23MiB at 25.19MiB/s ETA 00:00     \r[download]   1.9% of 3.23MiB at 24.07MiB/s ETA 00:00\r[download]   3.8% of 3.23MiB at 33.61MiB/s ETA 00:00\r[download]   7.7% of 3.23MiB at 43.78MiB/s ETA 00:00\r[download]  15.5% of 3.23MiB at 61.53MiB/s ETA 00:00\r[download]  31.0% of 3.23MiB at 91.85MiB/s ETA 00:00\r[download]  61.9% of 3.23MiB at 112.52MiB/s ETA 00:00\r[download] 100% of 3.23MiB at 143.80MiB/s ETA 00:00  \r[download] 100% of 3.23MiB in 00:00                "}
+{"level":"info","time":"2022-05-03T18:55:10Z","message":"[ExtractAudio] Destination: Boom - How Do You Do (Official UK Version).mp3"}

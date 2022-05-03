@@ -1617,3 +1617,15 @@
 {"level":"info","time":"2022-05-03T23:53:23+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Gloria Gaynor -  Can't take my eyes off you (lyrics).mp3\""}
 {"level":"info","time":"2022-05-03T23:53:23+05:00","message":"Deleting original file Gloria Gaynor -  Can't take my eyes off you (lyrics).webp (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T23:53:23+05:00","message":"Deleting original file Gloria Gaynor -  Can't take my eyes off you (lyrics).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T18:55:04Z","message":"[youtube] BT4GIljqr-A: Downloading webpage"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[youtube] BT4GIljqr-A: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[info] BT4GIljqr-A: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T18:55:05Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T18:55:06Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T18:55:07Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T18:55:07Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T18:55:08Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T18:55:08Z","message":"[info] Writing video thumbnail 37 to: Gloria Gaynor -  Can't take my eyes off you (lyrics).webp"}
+{"level":"info","time":"2022-05-03T18:55:09Z","message":"[download] Destination: Gloria Gaynor -  Can't take my eyes off you (lyrics).webm"}
+{"level":"info","time":"2022-05-03T18:55:09Z","message":"\r[download]   0.0% of 5.25MiB at Unknown speed ETA Unknown\r[download]   0.1% of 5.25MiB at Unknown speed ETA Unknown\r[download]   0.1% of 5.25MiB at  5.87MiB/s ETA 00:00     \r[download]   0.3% of 5.25MiB at 10.03MiB/s ETA 00:00\r[download]   0.6% of 5.25MiB at 16.92MiB/s ETA 00:00\r[download]   1.2% of 5.25MiB at 27.89MiB/s ETA 00:00\r[download]   2.4% of 5.25MiB at 31.72MiB/s ETA 00:00\r[download]   4.7% of 5.25MiB at 45.53MiB/s ETA 00:00\r[download]   9.5% of 5.25MiB at 65.00MiB/s ETA 00:00\r[download]  19.0% of 5.25MiB at 82.56MiB/s ETA 00:00\r[download]  38.1% of 5.25MiB at 119.26MiB/s ETA 00:00\r[download]  76.2% of 5.25MiB at 121.54MiB/s ETA 00:00\r[download] 100% of 5.25MiB at 115.68MiB/s ETA 00:00  \r[download] 100% of 5.25MiB in 00:00                "}
+{"level":"info","time":"2022-05-03T18:55:09Z","message":"[ExtractAudio] Destination: Gloria Gaynor -  Can't take my eyes off you (lyrics).mp3"}
