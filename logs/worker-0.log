@@ -249,3 +249,84 @@
 {"level":"info","time":"2022-05-02T21:09:09Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"saib. - in your arms..mp3\""}
 {"level":"info","time":"2022-05-02T21:09:09Z","message":"Deleting original file saib. - in your arms..webp (pass -k to keep)"}
 {"level":"info","time":"2022-05-02T21:09:09Z","message":"Deleting original file saib. - in your arms..png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:06:03+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:06:11+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:06:12+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:06:12+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:06:13+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T07:06:14+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-05-03T07:06:18+05:00","message":"[download] Destination: Adele - Skyfall (Lyric Video).webm"}
+{"level":"info","time":"2022-05-03T07:07:10+05:00","message":"\r[download]   0.0% of 4.62MiB at  3.51KiB/s ETA 22:28\r[download]   0.1% of 4.62MiB at 10.48KiB/s ETA 07:30\r[download]   0.1% of 4.62MiB at 24.40KiB/s ETA 03:13\r[download]   0.3% of 4.62MiB at 52.21KiB/s ETA 01:30\r[download]   0.7% of 4.62MiB at 50.86KiB/s ETA 01:32\r[download]   1.3% of 4.62MiB at 56.50KiB/s ETA 01:22\r[download]   2.7% of 4.62MiB at 48.30KiB/s ETA 01:35\r[download]   3.6% of 4.62MiB at 41.77KiB/s ETA 01:49\r[download]   4.2% of 4.62MiB at 43.89KiB/s ETA 01:43\r[download]   5.4% of 4.62MiB at 44.38KiB/s ETA 01:40\r[download]   6.4% of 4.62MiB at 46.71KiB/s ETA 01:34\r[download]   7.8% of 4.62MiB at 40.44KiB/s ETA 01:47\r[download]   8.5% of 4.62MiB at 41.32KiB/s ETA 01:44\r[download]   9.7% of 4.62MiB at 43.46KiB/s ETA 01:38\r[download]  11.2% of 4.62MiB at 45.67KiB/s ETA 01:32\r[download]  12.6% of 4.62MiB at 39.65KiB/s ETA 01:44\r[download]  13.3% of 4.62MiB at 37.67KiB/s ETA 01:48\r[download]  13.7% of 4.62MiB at 38.87KiB/s ETA 01:44\r[download]  14.6% of 4.62MiB at 40.20KiB/s ETA 01:40\r[download]  16.3% of 4.62MiB at 43.19KiB/s ETA 01:31\r[download]  18.8% of 4.62MiB at 47.51KiB/s ETA 01:20\r[download]  21.6% of 4.62MiB at 52.40KiB/s ETA 01:10\r[download]  25.2% of 4.62MiB at 52.39KiB/s ETA 01:07\r[download]  27.0% of 4.62MiB at 52.45KiB/s ETA 01:05\r[download]  28.1% of 4.62MiB at 52.01KiB/s ETA 01:05\r[download]  29.0% of 4.62MiB at 51.97KiB/s ETA 01:04\r[download]  30.1% of 4.62MiB at 50.77KiB/s ETA 01:05\r[download]  30.7% of 4.62MiB at 49.54KiB/s ETA 01:06\r[download]  31.2% of 4.62MiB at 47.65KiB/s ETA 01:08\r[download]  31.5% of 4.62MiB at 47.49KiB/s ETA 01:08\r[download]  32.1% of 4.62MiB at 47.58KiB/s ETA 01:07\r[download]  33.3% of 4.62MiB at 48.57KiB/s ETA 01:04\r[download]  35.5% of 4.62MiB at 51.02KiB/s ETA 00:59\r[download]  39.8% of 4.62MiB at 55.06KiB/s ETA 00:51\r[download]  43.2% of 4.62MiB at 58.90KiB/s ETA 00:45\r[download]  49.5% of 4.62MiB at 61.99KiB/s ETA 00:38\r[download]  52.7% of 4.62MiB at 63.49KiB/s ETA 00:35\r[download]  54.8% of 4.62MiB at 64.50KiB/s ETA 00:33\r[download]  57.1% of 4.62MiB at 66.01KiB/s ETA 00:30\r[download]  60.4% of 4.62MiB at 68.52KiB/s ETA 00:27\r[download]  64.6% of 4.62MiB at 70.51KiB/s ETA 00:23\r[download]  67.1% of 4.62MiB at 72.29KiB/s ETA 00:21\r[download]  71.3% of 4.62MiB at 75.78KiB/s ETA 00:17\r[download]  78.2% of 4.62MiB at 80.48KiB/s ETA 00:12\r[download]  83.0% of 4.62MiB at 81.94KiB/s ETA 00:09\r[download]  85.5% of 4.62MiB at 83.12KiB/s ETA 00:08\r[download]  88.9% of 4.62MiB at 84.63KiB/s ETA 00:06\r[download]  92.2% of 4.62MiB at 85.70KiB/s ETA 00:04\r[download]  94.9% of 4.62MiB at 87.36KiB/s ETA 00:02\r[download] 100% of 4.62MiB at 91.10KiB/s ETA 00:00  \r[download] 100% of 4.62MiB in 00:54               "}
+{"level":"info","time":"2022-05-03T07:07:10+05:00","message":"[ExtractAudio] Destination: Adele - Skyfall (Lyric Video).mp3"}
+{"level":"info","time":"2022-05-03T07:07:13+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:07:13+05:00","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-05-03T07:07:13+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-05-03T07:07:13+05:00","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:07:38+05:00","message":"[youtube] il9nqWw9W3Y: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:07:40+05:00","message":"[youtube] il9nqWw9W3Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:07:40+05:00","message":"[info] il9nqWw9W3Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:07:40+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:07:41+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T07:07:41+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T07:07:42+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T07:08:05+05:00","message":"[youtube] il9nqWw9W3Y: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:08:07+05:00","message":"[youtube] il9nqWw9W3Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:08:07+05:00","message":"[info] il9nqWw9W3Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:08:07+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:08:08+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T07:08:08+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T07:08:08+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T07:08:09+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T07:08:09+05:00","message":"[info] Writing video thumbnail 37 to: Demi Lovato - Cool for the Summer (Official Video).webp"}
+{"level":"info","time":"2022-05-03T07:08:10+05:00","message":"[download] Destination: Demi Lovato - Cool for the Summer (Official Video).webm"}
+{"level":"info","time":"2022-05-03T07:08:12+05:00","message":"\r[download]   0.0% of 3.36MiB at 214.54KiB/s ETA 00:16\r[download]   0.1% of 3.36MiB at 605.68KiB/s ETA 00:05\r[download]   0.2% of 3.36MiB at  1.32MiB/s ETA 00:02 \r[download]   0.4% of 3.36MiB at  2.72MiB/s ETA 00:01\r[download]   0.9% of 3.36MiB at  1.72MiB/s ETA 00:01\r[download]   1.8% of 3.36MiB at  1.17MiB/s ETA 00:02\r[download]   3.7% of 3.36MiB at  1.89MiB/s ETA 00:01\r[download]   7.4% of 3.36MiB at  2.97MiB/s ETA 00:01\r[download]  14.9% of 3.36MiB at  3.26MiB/s ETA 00:00\r[download]  29.7% of 3.36MiB at  2.14MiB/s ETA 00:01\r[download]  59.5% of 3.36MiB at 1008.47KiB/s ETA 00:01\r[download]  78.6% of 3.36MiB at  1.18MiB/s ETA 00:00  \r[download] 100% of 3.36MiB at  1.44MiB/s ETA 00:00  \r[download] 100% of 3.36MiB in 00:02               "}
+{"level":"info","time":"2022-05-03T07:08:12+05:00","message":"[ExtractAudio] Destination: Demi Lovato - Cool for the Summer (Official Video).mp3"}
+{"level":"info","time":"2022-05-03T07:08:15+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:15+05:00","message":"[Metadata] Adding metadata to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-05-03T07:08:15+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Demi Lovato - Cool for the Summer (Official Video).webp\" to png"}
+{"level":"info","time":"2022-05-03T07:08:15+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-05-03T07:08:15+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:15+05:00","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:23+05:00","message":"[youtube] 7igxsZDpCr4: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:08:24+05:00","message":"[youtube] 7igxsZDpCr4: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:08:26+05:00","message":"[youtube] 7igxsZDpCr4: Downloading player dfe7ea14"}
+{"level":"info","time":"2022-05-03T07:08:30+05:00","message":"[info] 7igxsZDpCr4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:08:30+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:08:31+05:00","message":"[info] Writing video thumbnail 41 to: Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.webp"}
+{"level":"info","time":"2022-05-03T07:08:31+05:00","message":"[download] Destination: Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.webm"}
+{"level":"info","time":"2022-05-03T07:08:32+05:00","message":"\r[download]   0.0% of 2.73MiB at Unknown speed ETA Unknown\r[download]   0.1% of 2.73MiB at Unknown speed ETA Unknown\r[download]   0.3% of 2.73MiB at Unknown speed ETA Unknown\r[download]   0.5% of 2.73MiB at Unknown speed ETA Unknown\r[download]   1.1% of 2.73MiB at  2.39MiB/s ETA 00:01     \r[download]   2.3% of 2.73MiB at  2.84MiB/s ETA 00:00\r[download]   4.6% of 2.73MiB at  3.02MiB/s ETA 00:00\r[download]   9.1% of 2.73MiB at  4.53MiB/s ETA 00:00\r[download]  18.3% of 2.73MiB at  3.75MiB/s ETA 00:00\r[download]  36.7% of 2.73MiB at  5.46MiB/s ETA 00:00\r[download]  73.3% of 2.73MiB at  4.57MiB/s ETA 00:00\r[download] 100% of 2.73MiB at  3.16MiB/s ETA 00:00  \r[download] 100% of 2.73MiB in 00:01               "}
+{"level":"info","time":"2022-05-03T07:08:32+05:00","message":"[ExtractAudio] Destination: Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.mp3"}
+{"level":"info","time":"2022-05-03T07:08:34+05:00","message":"Deleting original file Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:34+05:00","message":"[Metadata] Adding metadata to \"Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.mp3\""}
+{"level":"info","time":"2022-05-03T07:08:34+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.webp\" to png"}
+{"level":"info","time":"2022-05-03T07:08:34+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.mp3\""}
+{"level":"info","time":"2022-05-03T07:08:34+05:00","message":"Deleting original file Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:34+05:00","message":"Deleting original file Excuses (CONCERT HALL EFFECT) | AP Dhillon | Gurinder Gill | Intense | Banger SZN.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:41+05:00","message":"[youtube] 0EVVKs6DQLo: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:08:42+05:00","message":"[youtube] 0EVVKs6DQLo: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:08:43+05:00","message":"[info] 0EVVKs6DQLo: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:08:43+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:08:44+05:00","message":"[info] Writing video thumbnail 41 to: Doja Cat - Kiss Me More (Official Video) ft. SZA.webp"}
+{"level":"info","time":"2022-05-03T07:08:44+05:00","message":"[download] Destination: Doja Cat - Kiss Me More (Official Video) ft. SZA.webm"}
+{"level":"info","time":"2022-05-03T07:08:47+05:00","message":"\r[download]   0.0% of 4.97MiB at 77.06KiB/s ETA 01:06\r[download]   0.1% of 4.97MiB at 228.10KiB/s ETA 00:22\r[download]   0.1% of 4.97MiB at 527.86KiB/s ETA 00:09\r[download]   0.3% of 4.97MiB at  1.10MiB/s ETA 00:04 \r[download]   0.6% of 4.97MiB at 780.86KiB/s ETA 00:06\r[download]   1.2% of 4.97MiB at  1.16MiB/s ETA 00:04 \r[download]   2.5% of 4.97MiB at  1.72MiB/s ETA 00:02\r[download]   5.0% of 4.97MiB at  1.77MiB/s ETA 00:02\r[download]  10.0% of 4.97MiB at  2.34MiB/s ETA 00:01\r[download]  20.1% of 4.97MiB at  2.86MiB/s ETA 00:01\r[download]  40.3% of 4.97MiB at  2.61MiB/s ETA 00:01\r[download]  80.5% of 4.97MiB at  1.98MiB/s ETA 00:00\r[download] 100% of 4.97MiB at  2.04MiB/s ETA 00:00  \r[download] 100% of 4.97MiB in 00:02               "}
+{"level":"info","time":"2022-05-03T07:08:47+05:00","message":"[ExtractAudio] Destination: Doja Cat - Kiss Me More (Official Video) ft. SZA.mp3"}
+{"level":"info","time":"2022-05-03T07:08:50+05:00","message":"Deleting original file Doja Cat - Kiss Me More (Official Video) ft. SZA.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:50+05:00","message":"[Metadata] Adding metadata to \"Doja Cat - Kiss Me More (Official Video) ft. SZA.mp3\""}
+{"level":"info","time":"2022-05-03T07:08:50+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Doja Cat - Kiss Me More (Official Video) ft. SZA.webp\" to png"}
+{"level":"info","time":"2022-05-03T07:08:51+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Doja Cat - Kiss Me More (Official Video) ft. SZA.mp3\""}
+{"level":"info","time":"2022-05-03T07:08:51+05:00","message":"Deleting original file Doja Cat - Kiss Me More (Official Video) ft. SZA.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:51+05:00","message":"Deleting original file Doja Cat - Kiss Me More (Official Video) ft. SZA.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:08:59+05:00","message":"[youtube] zw47ymC0RNQ: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:09:00+05:00","message":"[youtube] zw47ymC0RNQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:09:01+05:00","message":"[info] zw47ymC0RNQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:09:01+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:09:01+05:00","message":"[info] Writing video thumbnail 41 to: saib. - in your arms..webp"}
+{"level":"info","time":"2022-05-03T07:09:02+05:00","message":"[download] Destination: saib. - in your arms..webm"}
+{"level":"info","time":"2022-05-03T07:09:04+05:00","message":"\r[download]   0.0% of 4.57MiB at Unknown speed ETA Unknown\r[download]   0.1% of 4.57MiB at Unknown speed ETA Unknown\r[download]   0.1% of 4.57MiB at  5.38MiB/s ETA 00:00     \r[download]   0.3% of 4.57MiB at  9.36MiB/s ETA 00:00\r[download]   0.7% of 4.57MiB at  2.28MiB/s ETA 00:01\r[download]   1.3% of 4.57MiB at  2.58MiB/s ETA 00:01\r[download]   2.7% of 4.57MiB at  3.57MiB/s ETA 00:01\r[download]   5.5% of 4.57MiB at  1.43MiB/s ETA 00:03\r[download]  10.9% of 4.57MiB at  1.77MiB/s ETA 00:02\r[download]  21.9% of 4.57MiB at  2.14MiB/s ETA 00:01\r[download]  43.8% of 4.57MiB at  1.79MiB/s ETA 00:01\r[download]  77.4% of 4.57MiB at  2.08MiB/s ETA 00:00\r[download] 100% of 4.57MiB at  2.09MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:02               "}
+{"level":"info","time":"2022-05-03T07:09:04+05:00","message":"[ExtractAudio] Destination: saib. - in your arms..mp3"}
+{"level":"info","time":"2022-05-03T07:09:07+05:00","message":"Deleting original file saib. - in your arms..webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:09:07+05:00","message":"[Metadata] Adding metadata to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-05-03T07:09:07+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"saib. - in your arms..webp\" to png"}
+{"level":"info","time":"2022-05-03T07:09:07+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-05-03T07:09:07+05:00","message":"Deleting original file saib. - in your arms..png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:09:07+05:00","message":"Deleting original file saib. - in your arms..webp (pass -k to keep)"}
