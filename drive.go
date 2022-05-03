@@ -73,7 +73,7 @@ func UploadAudio(service *drive.Service, name string) error {
 	file, err := os.Open(fullPath)
 	// file, err := ioutil.ReadFile(fullPath)
 	if err != nil {
-		println("[UA] os.open error")
+		println("[UA] os.open", name)
 		return err
 	}
 	driveFile := &drive.File{
@@ -89,20 +89,21 @@ func UploadAudio(service *drive.Service, name string) error {
 
 	_, err = call.Do()
 	if err != nil {
-		println("[UA] call.do error")
+		println("[UA] call.do", name)
 		return err
 	}
 	err = file.Close()
 	if err != nil {
-		println("[UA] file.close error")
+		println("[UA] file.close", name)
 		return err
 	}
 
 	err = os.Remove(fullPath)
-	println("[UA] os.Remove error")
 	if err != nil {
+		println("[UA] os.Remove", name)
 		return err
 	}
+	println("[UA] function end")
 
 	return nil
 }
