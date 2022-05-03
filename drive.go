@@ -67,12 +67,13 @@ func DriveClient() (*drive.Service, error) {
 
 func UploadAudio(service *drive.Service, name string) error {
 
-	println("** UploadAudio **")
+	println("[UA] function start")
 	// mimeType := "application/vnd.google-apps.audio"
 	fullPath := filepath.Join("songs", name)
 	file, err := os.Open(fullPath)
 	// file, err := ioutil.ReadFile(fullPath)
 	if err != nil {
+		println("[UA] os.open error")
 		return err
 	}
 	driveFile := &drive.File{
@@ -88,14 +89,17 @@ func UploadAudio(service *drive.Service, name string) error {
 
 	_, err = call.Do()
 	if err != nil {
+		println("[UA] call.do error")
 		return err
 	}
 	err = file.Close()
 	if err != nil {
+		println("[UA] file.close error")
 		return err
 	}
 
 	err = os.Remove(fullPath)
+	println("[UA] os.Remove error")
 	if err != nil {
 		return err
 	}
