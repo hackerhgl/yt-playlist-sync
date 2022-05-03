@@ -1,0 +1,20 @@
+{"level":"info","time":"2022-05-03T04:02:23+05:00","message":"[youtube] _MMhmPbhyEA: Downloading webpage"}
+{"level":"info","time":"2022-05-03T04:02:25+05:00","message":"[youtube] _MMhmPbhyEA: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T04:02:26+05:00","message":"[info] _MMhmPbhyEA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T04:02:26+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T04:02:27+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T04:02:28+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T04:02:28+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T04:02:29+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T04:02:29+05:00","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T04:02:34+05:00","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T04:02:35+05:00","message":"[info] Writing video thumbnail 35 to: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp"}
+{"level":"info","time":"2022-05-03T04:02:36+05:00","message":"[download] Destination: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webm"}
+{"level":"info","time":"2022-05-03T04:02:41+05:00","message":"\r[download]   0.0% of 8.19MiB at 168.49KiB/s ETA 00:49\r[download]   0.0% of 8.19MiB at 494.55KiB/s ETA 00:16\r[download]   0.1% of 8.19MiB at  1.11MiB/s ETA 00:07 \r[download]   0.2% of 8.19MiB at  2.34MiB/s ETA 00:03\r[download]   0.4% of 8.19MiB at  2.54MiB/s ETA 00:03\r[download]   0.8% of 8.19MiB at  2.17MiB/s ETA 00:03\r[download]   1.5% of 8.19MiB at  3.52MiB/s ETA 00:02\r[download]   3.0% of 8.19MiB at  4.47MiB/s ETA 00:01\r[download]   6.1% of 8.19MiB at  5.59MiB/s ETA 00:01\r[download]  12.2% of 8.19MiB at  4.77MiB/s ETA 00:01\r[download]  24.4% of 8.19MiB at  3.40MiB/s ETA 00:01\r[download]  48.9% of 8.19MiB at  2.45MiB/s ETA 00:01\r[download]  72.2% of 8.19MiB at  2.05MiB/s ETA 00:01\r[download]  91.0% of 8.19MiB at  1.77MiB/s ETA 00:00\r[download] 100% of 8.19MiB at  1.66MiB/s ETA 00:00  \r[download] 100% of 8.19MiB in 00:06               "}
+{"level":"info","time":"2022-05-03T04:02:41+05:00","message":"[ExtractAudio] Destination: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3"}
+{"level":"info","time":"2022-05-03T04:02:46+05:00","message":"Deleting original file Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T04:02:46+05:00","message":"[Metadata] Adding metadata to \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3\""}
+{"level":"info","time":"2022-05-03T04:02:46+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp\" to png"}
+{"level":"info","time":"2022-05-03T04:02:46+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3\""}
+{"level":"info","time":"2022-05-03T04:02:47+05:00","message":"Deleting original file Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T04:02:47+05:00","message":"Deleting original file Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.png (pass -k to keep)"}

@@ -37,9 +37,11 @@ jobs:
       - name: Install go dependencies
         run: go get
       - name: Execute go script
+        continue-on-error: true
         timeout-minutes: 90
         run: go run *.go
       - name: Run github
+        continue-on-error: true
         run: |
           git config user.name hackerhgl
           git config user.email hackerhgl@gmail.com

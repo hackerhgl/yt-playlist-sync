@@ -1,0 +1,17 @@
+{"level":"info","time":"2022-05-03T04:02:23+05:00","message":"[youtube] 2ziqtyseR3M: Downloading webpage"}
+{"level":"info","time":"2022-05-03T04:02:26+05:00","message":"[youtube] 2ziqtyseR3M: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T04:02:27+05:00","message":"[youtube] 2ziqtyseR3M: Downloading player 9cdfefcf"}
+{"level":"info","time":"2022-05-03T04:02:34+05:00","message":"[info] 2ziqtyseR3M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T04:02:34+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T04:02:35+05:00","message":"[info] Writing video thumbnail 41 to: Nightcore  - Everytime We Touch (Remix) ✕.webp"}
+{"level":"info","time":"2022-05-03T04:02:36+05:00","message":"[download] Destination: Nightcore  - Everytime We Touch (Remix) ✕.webm"}
+{"level":"info","time":"2022-05-03T04:02:41+05:00","message":"\r[download]   0.0% of 3.05MiB at 103.71KiB/s ETA 00:30\r[download]   0.1% of 3.05MiB at 306.90KiB/s ETA 00:10\r[download]   0.2% of 3.05MiB at 708.72KiB/s ETA 00:04\r[download]   0.5% of 3.05MiB at  1.46MiB/s ETA 00:02 \r[download]   1.0% of 3.05MiB at  1.11MiB/s ETA 00:02\r[download]   2.0% of 3.05MiB at  1.67MiB/s ETA 00:01\r[download]   4.1% of 3.05MiB at 1017.31KiB/s ETA 00:02\r[download]   8.2% of 3.05MiB at 124.86KiB/s ETA 00:22 \r[download]  10.3% of 3.05MiB at 147.24KiB/s ETA 00:19\r[download]  14.6% of 3.05MiB at 190.55KiB/s ETA 00:14\r[download]  23.1% of 3.05MiB at 276.27KiB/s ETA 00:08\r[download]  40.2% of 3.05MiB at 391.51KiB/s ETA 00:04\r[download]  68.9% of 3.05MiB at 519.12KiB/s ETA 00:01\r[download]  99.5% of 3.05MiB at 631.76KiB/s ETA 00:00\r[download] 100% of 3.05MiB at 635.08KiB/s ETA 00:00  \r[download] 100% of 3.05MiB in 00:05                "}
+{"level":"info","time":"2022-05-03T04:02:41+05:00","message":"[ExtractAudio] Destination: Nightcore  - Everytime We Touch (Remix) ✕.mp3"}
+{"level":"info","time":"2022-05-03T04:02:43+05:00","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T04:02:43+05:00","message":"[Metadata] Adding metadata to \"Nightcore  - Everytime We Touch (Remix) ✕.mp3\""}
+{"level":"info","time":"2022-05-03T04:02:43+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore  - Everytime We Touch (Remix) ✕.webp\" to png"}
+{"level":"info","time":"2022-05-03T04:02:43+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore  - Everytime We Touch (Remix) ✕.mp3\""}
+{"level":"info","time":"2022-05-03T04:02:43+05:00","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T04:02:43+05:00","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T04:03:01+05:00","message":"[youtube] gbsWVX1uMh4: Downloading webpage"}
+{"level":"info","time":"2022-05-03T04:03:05+05:00","message":"[youtube] gbsWVX1uMh4: Downloading android player API JSON"}
