@@ -41,6 +41,7 @@ func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistIte
 
 		for in.Scan() {
 			text := in.Text()
+			// println(text)
 			logger.Info().Msg(text)
 		}
 		if err := in.Err(); err != nil {

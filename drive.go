@@ -18,7 +18,9 @@ func InitRootDir(service *drive.Service) {
 	call := service.Files.List()
 	fields := []googleapi.Field{"files/webViewLink", "files/name", "files/kind", "files/id", "files/mimeType"}
 	call.Fields(fields...)
-	call.Q("mimeType='application/vnd.google-apps.folder' and name='Music'")
+	query := fmt.Sprintf("mimeType='application/vnd.google-apps.folder' and name='%s'", DIR_NAME)
+	call.Q(query)
+	// call.Q("mimeType='application/vnd.google-apps.folder' and name='Music'")
 	result, err := call.Do()
 	if err != nil {
 		log.Fatalln(err.Error())

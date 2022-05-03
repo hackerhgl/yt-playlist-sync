@@ -1143,3 +1143,21 @@
 {"level":"info","time":"2022-05-03T02:45:15Z","message":"[info] Downloading video thumbnail 41 ..."}
 {"level":"info","time":"2022-05-03T02:45:15Z","message":"[info] Writing video thumbnail 41 to: Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version.webp"}
 {"level":"info","time":"2022-05-03T02:45:15Z","message":"[download] Destination: Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version.webm"}
+{"level":"fatal","error":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory","time":"2022-05-03T07:51:19+05:00","message":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory"}
+{"level":"fatal","error":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory","time":"2022-05-03T07:51:54+05:00","message":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory"}
+{"level":"fatal","error":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory","time":"2022-05-03T07:53:05+05:00","message":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory"}
+{"level":"fatal","error":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory","time":"2022-05-03T07:54:02+05:00","message":"open songs/Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3: no such file or directory"}
+{"level":"info","time":"2022-05-03T07:59:43+05:00","message":"[youtube] --B2MJbUv-o: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:59:44+05:00","message":"[youtube] --B2MJbUv-o: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:59:44+05:00","message":"[info] --B2MJbUv-o: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:59:44+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:59:45+05:00","message":"[info] Writing video thumbnail 41 to: Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webp"}
+{"level":"info","time":"2022-05-03T07:59:45+05:00","message":"[download] Destination: Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webm"}
+{"level":"info","time":"2022-05-03T07:59:46+05:00","message":"\r[download]   0.0% of 2.89MiB at Unknown speed ETA Unknown\r[download]   0.1% of 2.89MiB at  2.45MiB/s ETA 00:01     \r[download]   0.2% of 2.89MiB at  4.33MiB/s ETA 00:00\r[download]   0.5% of 2.89MiB at  7.66MiB/s ETA 00:00\r[download]   1.0% of 2.89MiB at  5.57MiB/s ETA 00:00\r[download]   2.1% of 2.89MiB at  6.48MiB/s ETA 00:00\r[download]   4.3% of 2.89MiB at  7.08MiB/s ETA 00:00\r[download]   8.6% of 2.89MiB at  7.17MiB/s ETA 00:00\r[download]  17.2% of 2.89MiB at  7.78MiB/s ETA 00:00\r[download]  34.5% of 2.89MiB at  7.24MiB/s ETA 00:00\r[download]  69.1% of 2.89MiB at  3.22MiB/s ETA 00:00\r[download] 100% of 2.89MiB at  2.58MiB/s ETA 00:00  \r[download] 100% of 2.89MiB in 00:01               "}
+{"level":"info","time":"2022-05-03T07:59:46+05:00","message":"[ExtractAudio] Destination: Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3"}
+{"level":"info","time":"2022-05-03T07:59:48+05:00","message":"Deleting original file Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:59:48+05:00","message":"[Metadata] Adding metadata to \"Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3\""}
+{"level":"info","time":"2022-05-03T07:59:48+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webp\" to png"}
+{"level":"info","time":"2022-05-03T07:59:48+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3\""}
+{"level":"info","time":"2022-05-03T07:59:48+05:00","message":"Deleting original file Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:59:48+05:00","message":"Deleting original file Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webp (pass -k to keep)"}
