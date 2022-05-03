@@ -59,3 +59,18 @@
 {"level":"info","time":"2022-05-03T02:40:39Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Rasputin (Remix).mp3\""}
 {"level":"info","time":"2022-05-03T02:40:39Z","message":"Deleting original file Nightcore - Rasputin (Remix).png (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T02:40:39Z","message":"Deleting original file Nightcore - Rasputin (Remix).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:08Z","message":"[youtube] Dboi1bja6M8: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:02:09Z","message":"[youtube] Dboi1bja6M8: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:02:09Z","message":"[youtube] Dboi1bja6M8: Downloading player dfe7ea14"}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[info] Dboi1bja6M8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Rasputin (Remix).webp"}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[download] Destination: Nightcore - Rasputin (Remix).webm"}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"\r[download]   0.0% of 4.24MiB at 323.56KiB/s ETA 00:13\r[download]   0.1% of 4.24MiB at 851.00KiB/s ETA 00:05\r[download]   0.2% of 4.24MiB at  1.85MiB/s ETA 00:02 \r[download]   0.3% of 4.24MiB at  3.77MiB/s ETA 00:01\r[download]   0.7% of 4.24MiB at  1.95MiB/s ETA 00:02\r[download]   1.5% of 4.24MiB at  2.34MiB/s ETA 00:01\r[download]   2.9% of 4.24MiB at  3.11MiB/s ETA 00:01\r[download]   5.9% of 4.24MiB at  4.77MiB/s ETA 00:00\r[download]  11.8% of 4.24MiB at  7.56MiB/s ETA 00:00\r[download]  23.6% of 4.24MiB at 12.58MiB/s ETA 00:00\r[download]  47.2% of 4.24MiB at 21.33MiB/s ETA 00:00\r[download]  94.4% of 4.24MiB at 36.91MiB/s ETA 00:00\r[download] 100% of 4.24MiB at 34.84MiB/s ETA 00:00  \r[download] 100% of 4.24MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[ExtractAudio] Destination: Nightcore - Rasputin (Remix).mp3"}
+{"level":"info","time":"2022-05-03T03:02:25Z","message":"Deleting original file Nightcore - Rasputin (Remix).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:25Z","message":"[Metadata] Adding metadata to \"Nightcore - Rasputin (Remix).mp3\""}
+{"level":"info","time":"2022-05-03T03:02:25Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Rasputin (Remix).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:02:26Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Rasputin (Remix).mp3\""}
+{"level":"info","time":"2022-05-03T03:02:26Z","message":"Deleting original file Nightcore - Rasputin (Remix).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:26Z","message":"Deleting original file Nightcore - Rasputin (Remix).png (pass -k to keep)"}

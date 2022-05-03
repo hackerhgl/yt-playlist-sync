@@ -1008,3 +1008,686 @@
 {"level":"info","time":"2022-05-03T02:45:13Z","message":"[download] Destination: Clannad - Nagisa.webm"}
 {"level":"info","time":"2022-05-03T02:45:14Z","message":"\r[download]   0.0% of 4.45MiB at 245.83KiB/s ETA 00:18\r[download]   0.1% of 4.45MiB at 680.45KiB/s ETA 00:06\r[download]   0.2% of 4.45MiB at  1.48MiB/s ETA 00:03 \r[download]   0.3% of 4.45MiB at  3.02MiB/s ETA 00:01\r[download]   0.7% of 4.45MiB at  1.52MiB/s ETA 00:02\r[download]   1.4% of 4.45MiB at  1.81MiB/s ETA 00:02\r[download]   2.8% of 4.45MiB at  2.47MiB/s ETA 00:01\r[download]   5.6% of 4.45MiB at  3.74MiB/s ETA 00:01\r[download]  11.2% of 4.45MiB at  5.97MiB/s ETA 00:00\r[download]  22.5% of 4.45MiB at  9.86MiB/s ETA 00:00\r[download]  45.0% of 4.45MiB at 16.90MiB/s ETA 00:00\r[download]  89.9% of 4.45MiB at 29.32MiB/s ETA 00:00\r[download] 100% of 4.45MiB at 24.30MiB/s ETA 00:00  \r[download] 100% of 4.45MiB in 00:00               "}
 {"level":"info","time":"2022-05-03T02:45:14Z","message":"[ExtractAudio] Destination: Clannad - Nagisa.mp3"}
+{"level":"info","time":"2022-05-03T03:02:08Z","message":"[youtube] iCyyC2k6eKA: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:02:09Z","message":"[youtube] iCyyC2k6eKA: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:02:09Z","message":"[info] iCyyC2k6eKA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:02:09Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[info] Writing video thumbnail 41 to: Nightcore - I'll Move On.webp"}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[download] Destination: Nightcore - I'll Move On.webm"}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"\r[download]   0.0% of 2.58MiB at 336.70KiB/s ETA 00:07\r[download]   0.1% of 2.58MiB at 922.03KiB/s ETA 00:02\r[download]   0.3% of 2.58MiB at  1.98MiB/s ETA 00:01 \r[download]   0.6% of 2.58MiB at  4.03MiB/s ETA 00:00\r[download]   1.2% of 2.58MiB at  1.95MiB/s ETA 00:01\r[download]   2.4% of 2.58MiB at  2.35MiB/s ETA 00:01\r[download]   4.8% of 2.58MiB at  3.10MiB/s ETA 00:00\r[download]   9.6% of 2.58MiB at  4.78MiB/s ETA 00:00\r[download]  19.3% of 2.58MiB at  7.57MiB/s ETA 00:00\r[download]  38.7% of 2.58MiB at 12.60MiB/s ETA 00:00\r[download]  77.4% of 2.58MiB at 21.11MiB/s ETA 00:00\r[download] 100% of 2.58MiB at 21.79MiB/s ETA 00:00  \r[download] 100% of 2.58MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:02:10Z","message":"[ExtractAudio] Destination: Nightcore - I'll Move On.mp3"}
+{"level":"info","time":"2022-05-03T03:02:20Z","message":"Deleting original file Nightcore - I'll Move On.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:20Z","message":"[Metadata] Adding metadata to \"Nightcore - I'll Move On.mp3\""}
+{"level":"info","time":"2022-05-03T03:02:20Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - I'll Move On.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:02:20Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - I'll Move On.mp3\""}
+{"level":"info","time":"2022-05-03T03:02:20Z","message":"Deleting original file Nightcore - I'll Move On.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:20Z","message":"Deleting original file Nightcore - I'll Move On.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:24Z","message":"[youtube] ibtn9UMlPtE: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:02:25Z","message":"[youtube] ibtn9UMlPtE: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:02:25Z","message":"[info] ibtn9UMlPtE: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:02:25Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:02:26Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:02:26Z","message":"[info] Writing video thumbnail 40 to: Nightcore - Now you're gone (Basshunter).jpg"}
+{"level":"info","time":"2022-05-03T03:02:27Z","message":"[download] Destination: Nightcore - Now you're gone (Basshunter).webm"}
+{"level":"info","time":"2022-05-03T03:02:27Z","message":"\r[download]   0.0% of 2.65MiB at 112.47KiB/s ETA 00:24\r[download]   0.1% of 2.65MiB at 326.29KiB/s ETA 00:08\r[download]   0.3% of 2.65MiB at 746.89KiB/s ETA 00:03\r[download]   0.6% of 2.65MiB at  1.53MiB/s ETA 00:01 \r[download]   1.1% of 2.65MiB at  1.59MiB/s ETA 00:01\r[download]   2.3% of 2.65MiB at  1.76MiB/s ETA 00:01\r[download]   4.7% of 2.65MiB at  2.58MiB/s ETA 00:00\r[download]   9.4% of 2.65MiB at  3.91MiB/s ETA 00:00\r[download]  18.8% of 2.65MiB at  6.28MiB/s ETA 00:00\r[download]  37.7% of 2.65MiB at 10.59MiB/s ETA 00:00\r[download]  75.4% of 2.65MiB at 18.38MiB/s ETA 00:00\r[download] 100% of 2.65MiB at 18.27MiB/s ETA 00:00  \r[download] 100% of 2.65MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:02:27Z","message":"[ExtractAudio] Destination: Nightcore - Now you're gone (Basshunter).mp3"}
+{"level":"info","time":"2022-05-03T03:02:34Z","message":"Deleting original file Nightcore - Now you're gone (Basshunter).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:34Z","message":"[Metadata] Adding metadata to \"Nightcore - Now you're gone (Basshunter).mp3\""}
+{"level":"info","time":"2022-05-03T03:02:34Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Now you're gone (Basshunter).mp3\""}
+{"level":"info","time":"2022-05-03T03:02:34Z","message":"Deleting original file Nightcore - Now you're gone (Basshunter).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:38Z","message":"[youtube] 8GczxwlO4eI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:02:38Z","message":"[youtube] 8GczxwlO4eI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:02:39Z","message":"[info] 8GczxwlO4eI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:02:39Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:02:39Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Josiane.webp"}
+{"level":"info","time":"2022-05-03T03:02:39Z","message":"[download] Destination: Nightcore - Josiane.webm"}
+{"level":"info","time":"2022-05-03T03:02:39Z","message":"\r[download]   0.0% of 2.94MiB at 312.03KiB/s ETA 00:09\r[download]   0.1% of 2.94MiB at 857.73KiB/s ETA 00:03\r[download]   0.2% of 2.94MiB at  1.86MiB/s ETA 00:01 \r[download]   0.5% of 2.94MiB at  3.80MiB/s ETA 00:00\r[download]   1.0% of 2.94MiB at  1.95MiB/s ETA 00:01\r[download]   2.1% of 2.94MiB at  2.30MiB/s ETA 00:01\r[download]   4.2% of 2.94MiB at  3.12MiB/s ETA 00:00\r[download]   8.5% of 2.94MiB at  4.77MiB/s ETA 00:00\r[download]  17.0% of 2.94MiB at  7.54MiB/s ETA 00:00\r[download]  33.9% of 2.94MiB at 12.47MiB/s ETA 00:00\r[download]  67.9% of 2.94MiB at 21.16MiB/s ETA 00:00\r[download] 100% of 2.94MiB at 22.39MiB/s ETA 00:00  \r[download] 100% of 2.94MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:02:39Z","message":"[ExtractAudio] Destination: Nightcore - Josiane.mp3"}
+{"level":"info","time":"2022-05-03T03:02:45Z","message":"Deleting original file Nightcore - Josiane.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:45Z","message":"[Metadata] Adding metadata to \"Nightcore - Josiane.mp3\""}
+{"level":"info","time":"2022-05-03T03:02:45Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Josiane.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:02:45Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Josiane.mp3\""}
+{"level":"info","time":"2022-05-03T03:02:45Z","message":"Deleting original file Nightcore - Josiane.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:45Z","message":"Deleting original file Nightcore - Josiane.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:02:49Z","message":"[youtube] WO0JvkMynCQ: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:02:49Z","message":"[youtube] WO0JvkMynCQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:02:49Z","message":"[info] WO0JvkMynCQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:02:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:02:51Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:02:52Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:02:53Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:02:55Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:02:55Z","message":"[info] Writing video thumbnail 37 to: ATC - My Heart Beat Like a Drum (HQ).webp"}
+{"level":"info","time":"2022-05-03T03:02:55Z","message":"[download] Destination: ATC - My Heart Beat Like a Drum (HQ).webm"}
+{"level":"info","time":"2022-05-03T03:02:55Z","message":"\r[download]   0.0% of 3.67MiB at 304.20KiB/s ETA 00:12\r[download]   0.1% of 3.67MiB at 833.64KiB/s ETA 00:04\r[download]   0.2% of 3.67MiB at  1.81MiB/s ETA 00:02 \r[download]   0.4% of 3.67MiB at  3.71MiB/s ETA 00:00\r[download]   0.8% of 3.67MiB at  1.95MiB/s ETA 00:01\r[download]   1.7% of 3.67MiB at  2.32MiB/s ETA 00:01\r[download]   3.4% of 3.67MiB at  3.14MiB/s ETA 00:01\r[download]   6.8% of 3.67MiB at  4.79MiB/s ETA 00:00\r[download]  13.6% of 3.67MiB at  7.58MiB/s ETA 00:00\r[download]  27.3% of 3.67MiB at 12.52MiB/s ETA 00:00\r[download]  54.5% of 3.67MiB at 21.37MiB/s ETA 00:00\r[download] 100% of 3.67MiB at 32.37MiB/s ETA 00:00  \r[download] 100% of 3.67MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:02:55Z","message":"[ExtractAudio] Destination: ATC - My Heart Beat Like a Drum (HQ).mp3"}
+{"level":"info","time":"2022-05-03T03:03:04Z","message":"Deleting original file ATC - My Heart Beat Like a Drum (HQ).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:04Z","message":"[Metadata] Adding metadata to \"ATC - My Heart Beat Like a Drum (HQ).mp3\""}
+{"level":"info","time":"2022-05-03T03:03:04Z","message":"[ThumbnailsConvertor] Converting thumbnail \"ATC - My Heart Beat Like a Drum (HQ).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:03:05Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"ATC - My Heart Beat Like a Drum (HQ).mp3\""}
+{"level":"info","time":"2022-05-03T03:03:05Z","message":"Deleting original file ATC - My Heart Beat Like a Drum (HQ).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:05Z","message":"Deleting original file ATC - My Heart Beat Like a Drum (HQ).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:08Z","message":"[youtube] P3CxhBIrBho: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:03:08Z","message":"[youtube] P3CxhBIrBho: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:03:08Z","message":"[info] P3CxhBIrBho: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:03:08Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:03:10Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:03:11Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:03:13Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:03:14Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:03:15Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T03:03:17Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T03:03:17Z","message":"[info] Writing video thumbnail 35 to: Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).webp"}
+{"level":"info","time":"2022-05-03T03:03:17Z","message":"[download] Destination: Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).webm"}
+{"level":"info","time":"2022-05-03T03:03:17Z","message":"\r[download]   0.0% of 2.82MiB at 382.20KiB/s ETA 00:07\r[download]   0.1% of 2.82MiB at 1017.38KiB/s ETA 00:02\r[download]   0.2% of 2.82MiB at  2.19MiB/s ETA 00:01  \r[download]   0.5% of 2.82MiB at  4.42MiB/s ETA 00:00\r[download]   1.1% of 2.82MiB at  1.96MiB/s ETA 00:01\r[download]   2.2% of 2.82MiB at  2.23MiB/s ETA 00:01\r[download]   4.4% of 2.82MiB at  3.07MiB/s ETA 00:00\r[download]   8.8% of 2.82MiB at  4.72MiB/s ETA 00:00\r[download]  17.7% of 2.82MiB at  7.45MiB/s ETA 00:00\r[download]  35.4% of 2.82MiB at 12.44MiB/s ETA 00:00\r[download]  70.9% of 2.82MiB at 21.10MiB/s ETA 00:00\r[download] 100% of 2.82MiB at 27.81MiB/s ETA 00:00  \r[download] 100% of 2.82MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:03:17Z","message":"[ExtractAudio] Destination: Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).mp3"}
+{"level":"info","time":"2022-05-03T03:03:27Z","message":"Deleting original file Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:27Z","message":"[Metadata] Adding metadata to \"Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).mp3\""}
+{"level":"info","time":"2022-05-03T03:03:27Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:03:27Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).mp3\""}
+{"level":"info","time":"2022-05-03T03:03:27Z","message":"Deleting original file Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:27Z","message":"Deleting original file Basshunter - All I Ever Wanted (OFFICIAL VIDEO) (Ultra Music).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:30Z","message":"[youtube] IgFwiCApH7E: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:03:30Z","message":"[youtube] IgFwiCApH7E: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:03:31Z","message":"[info] IgFwiCApH7E: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:03:31Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:03:32Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:03:33Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:03:34Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:03:36Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:03:37Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T03:03:38Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T03:03:38Z","message":"[info] Writing video thumbnail 35 to: Basshunter - Now You're Gone | Ministry of Sound.webp"}
+{"level":"info","time":"2022-05-03T03:03:39Z","message":"[download] Destination: Basshunter - Now You're Gone | Ministry of Sound.webm"}
+{"level":"info","time":"2022-05-03T03:03:39Z","message":"\r[download]   0.0% of 2.83MiB at 327.53KiB/s ETA 00:08\r[download]   0.1% of 2.83MiB at 888.94KiB/s ETA 00:03\r[download]   0.2% of 2.83MiB at  1.93MiB/s ETA 00:01 \r[download]   0.5% of 2.83MiB at  3.93MiB/s ETA 00:00\r[download]   1.1% of 2.83MiB at  1.91MiB/s ETA 00:01\r[download]   2.2% of 2.83MiB at  2.32MiB/s ETA 00:01\r[download]   4.4% of 2.83MiB at  3.13MiB/s ETA 00:00\r[download]   8.8% of 2.83MiB at  4.84MiB/s ETA 00:00\r[download]  17.6% of 2.83MiB at  7.67MiB/s ETA 00:00\r[download]  35.3% of 2.83MiB at 12.27MiB/s ETA 00:00\r[download]  70.6% of 2.83MiB at 16.97MiB/s ETA 00:00\r[download] 100% of 2.83MiB at 23.00MiB/s ETA 00:00  \r[download] 100% of 2.83MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:03:39Z","message":"[ExtractAudio] Destination: Basshunter - Now You're Gone | Ministry of Sound.mp3"}
+{"level":"info","time":"2022-05-03T03:03:44Z","message":"Deleting original file Basshunter - Now You're Gone | Ministry of Sound.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:44Z","message":"[Metadata] Adding metadata to \"Basshunter - Now You're Gone | Ministry of Sound.mp3\""}
+{"level":"info","time":"2022-05-03T03:03:44Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Basshunter - Now You're Gone | Ministry of Sound.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:03:44Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Basshunter - Now You're Gone | Ministry of Sound.mp3\""}
+{"level":"info","time":"2022-05-03T03:03:44Z","message":"Deleting original file Basshunter - Now You're Gone | Ministry of Sound.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:44Z","message":"Deleting original file Basshunter - Now You're Gone | Ministry of Sound.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:46Z","message":"[youtube] 12vh55_1ul8: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:03:47Z","message":"[youtube] 12vh55_1ul8: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:03:48Z","message":"[info] 12vh55_1ul8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:03:48Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:03:48Z","message":"[info] Writing video thumbnail 41 to: BASSHUNTER - DOTA.webp"}
+{"level":"info","time":"2022-05-03T03:03:48Z","message":"[download] Destination: BASSHUNTER - DOTA.webm"}
+{"level":"info","time":"2022-05-03T03:03:48Z","message":"\r[download]   0.0% of 3.72MiB at 324.16KiB/s ETA 00:11\r[download]   0.1% of 3.72MiB at 890.32KiB/s ETA 00:04\r[download]   0.2% of 3.72MiB at  1.93MiB/s ETA 00:01 \r[download]   0.4% of 3.72MiB at  3.94MiB/s ETA 00:00\r[download]   0.8% of 3.72MiB at  1.96MiB/s ETA 00:01\r[download]   1.7% of 3.72MiB at  2.31MiB/s ETA 00:01\r[download]   3.3% of 3.72MiB at  3.13MiB/s ETA 00:01\r[download]   6.7% of 3.72MiB at  4.81MiB/s ETA 00:00\r[download]  13.4% of 3.72MiB at  7.59MiB/s ETA 00:00\r[download]  26.8% of 3.72MiB at 12.55MiB/s ETA 00:00\r[download]  53.7% of 3.72MiB at 21.18MiB/s ETA 00:00\r[download] 100% of 3.72MiB at 16.55MiB/s ETA 00:00  \r[download] 100% of 3.72MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:03:48Z","message":"[ExtractAudio] Destination: BASSHUNTER - DOTA.mp3"}
+{"level":"info","time":"2022-05-03T03:03:57Z","message":"Deleting original file BASSHUNTER - DOTA.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:57Z","message":"[Metadata] Adding metadata to \"BASSHUNTER - DOTA.mp3\""}
+{"level":"info","time":"2022-05-03T03:03:57Z","message":"[ThumbnailsConvertor] Converting thumbnail \"BASSHUNTER - DOTA.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:03:57Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"BASSHUNTER - DOTA.mp3\""}
+{"level":"info","time":"2022-05-03T03:03:58Z","message":"Deleting original file BASSHUNTER - DOTA.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:03:58Z","message":"Deleting original file BASSHUNTER - DOTA.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:01Z","message":"[youtube] 6_5D4y6x-oo: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:04:01Z","message":"[youtube] 6_5D4y6x-oo: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:04:02Z","message":"[info] 6_5D4y6x-oo: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:04:02Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:04:02Z","message":"[info] Writing video thumbnail 41 to: Edward Maya & Mia Martina - Stereo Love (Ultra Music).webp"}
+{"level":"info","time":"2022-05-03T03:04:02Z","message":"[download] Destination: Edward Maya & Mia Martina - Stereo Love (Ultra Music).webm"}
+{"level":"info","time":"2022-05-03T03:04:02Z","message":"\r[download]   0.0% of 4.02MiB at 346.64KiB/s ETA 00:11\r[download]   0.1% of 4.02MiB at 944.59KiB/s ETA 00:04\r[download]   0.2% of 4.02MiB at  2.04MiB/s ETA 00:01 \r[download]   0.4% of 4.02MiB at  4.13MiB/s ETA 00:00\r[download]   0.8% of 4.02MiB at  1.91MiB/s ETA 00:02\r[download]   1.5% of 4.02MiB at  2.28MiB/s ETA 00:01\r[download]   3.1% of 4.02MiB at  3.02MiB/s ETA 00:01\r[download]   6.2% of 4.02MiB at  4.64MiB/s ETA 00:00\r[download]  12.4% of 4.02MiB at  7.34MiB/s ETA 00:00\r[download]  24.8% of 4.02MiB at 12.20MiB/s ETA 00:00\r[download]  49.7% of 4.02MiB at 20.67MiB/s ETA 00:00\r[download]  99.4% of 4.02MiB at 35.90MiB/s ETA 00:00\r[download] 100% of 4.02MiB at 35.26MiB/s ETA 00:00  \r[download] 100% of 4.02MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:04:02Z","message":"[ExtractAudio] Destination: Edward Maya & Mia Martina - Stereo Love (Ultra Music).mp3"}
+{"level":"info","time":"2022-05-03T03:04:12Z","message":"Deleting original file Edward Maya & Mia Martina - Stereo Love (Ultra Music).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:12Z","message":"[Metadata] Adding metadata to \"Edward Maya & Mia Martina - Stereo Love (Ultra Music).mp3\""}
+{"level":"info","time":"2022-05-03T03:04:12Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Edward Maya & Mia Martina - Stereo Love (Ultra Music).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:04:12Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Edward Maya & Mia Martina - Stereo Love (Ultra Music).mp3\""}
+{"level":"info","time":"2022-05-03T03:04:13Z","message":"Deleting original file Edward Maya & Mia Martina - Stereo Love (Ultra Music).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:13Z","message":"Deleting original file Edward Maya & Mia Martina - Stereo Love (Ultra Music).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:16Z","message":"[youtube] LUWep18Hac0: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:04:16Z","message":"[youtube] LUWep18Hac0: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:04:17Z","message":"[info] LUWep18Hac0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:04:18Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:04:18Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Dance Monkey.webp"}
+{"level":"info","time":"2022-05-03T03:04:18Z","message":"[download] Destination: Nightcore - Dance Monkey.webm"}
+{"level":"info","time":"2022-05-03T03:04:18Z","message":"\r[download]   0.0% of 2.32MiB at 318.40KiB/s ETA 00:07\r[download]   0.1% of 2.32MiB at 870.79KiB/s ETA 00:02\r[download]   0.3% of 2.32MiB at  1.89MiB/s ETA 00:01 \r[download]   0.6% of 2.32MiB at  3.85MiB/s ETA 00:00\r[download]   1.3% of 2.32MiB at  1.97MiB/s ETA 00:01\r[download]   2.6% of 2.32MiB at  2.33MiB/s ETA 00:00\r[download]   5.3% of 2.32MiB at  3.14MiB/s ETA 00:00\r[download]  10.7% of 2.32MiB at  4.80MiB/s ETA 00:00\r[download]  21.5% of 2.32MiB at  7.56MiB/s ETA 00:00\r[download]  43.0% of 2.32MiB at 12.50MiB/s ETA 00:00\r[download]  86.0% of 2.32MiB at 21.20MiB/s ETA 00:00\r[download] 100% of 2.32MiB at 24.18MiB/s ETA 00:00  \r[download] 100% of 2.32MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:04:18Z","message":"[ExtractAudio] Destination: Nightcore - Dance Monkey.mp3"}
+{"level":"info","time":"2022-05-03T03:04:23Z","message":"Deleting original file Nightcore - Dance Monkey.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:23Z","message":"[Metadata] Adding metadata to \"Nightcore - Dance Monkey.mp3\""}
+{"level":"info","time":"2022-05-03T03:04:23Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Dance Monkey.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:04:24Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Dance Monkey.mp3\""}
+{"level":"info","time":"2022-05-03T03:04:24Z","message":"Deleting original file Nightcore - Dance Monkey.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:24Z","message":"Deleting original file Nightcore - Dance Monkey.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:26Z","message":"[youtube] o0-DCn9Vao0: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"[youtube] o0-DCn9Vao0: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"[info] o0-DCn9Vao0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"[info] Writing video thumbnail 41 to: ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.webp"}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"[download] Destination: ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.webm"}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"\r[download]   0.0% of 4.13MiB at 335.54KiB/s ETA 00:12\r[download]   0.1% of 4.13MiB at 888.62KiB/s ETA 00:04\r[download]   0.2% of 4.13MiB at  1.93MiB/s ETA 00:02 \r[download]   0.4% of 4.13MiB at  3.93MiB/s ETA 00:01\r[download]   0.7% of 4.13MiB at  1.94MiB/s ETA 00:02\r[download]   1.5% of 4.13MiB at  2.33MiB/s ETA 00:01\r[download]   3.0% of 4.13MiB at  3.08MiB/s ETA 00:01\r[download]   6.0% of 4.13MiB at  4.75MiB/s ETA 00:00\r[download]  12.1% of 4.13MiB at  7.52MiB/s ETA 00:00\r[download]  24.2% of 4.13MiB at 12.54MiB/s ETA 00:00\r[download]  48.4% of 4.13MiB at 20.85MiB/s ETA 00:00\r[download]  96.8% of 4.13MiB at 35.61MiB/s ETA 00:00\r[download] 100% of 4.13MiB at 36.23MiB/s ETA 00:00  \r[download] 100% of 4.13MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:04:27Z","message":"[ExtractAudio] Destination: ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.mp3"}
+{"level":"info","time":"2022-05-03T03:04:39Z","message":"Deleting original file ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:39Z","message":"[Metadata] Adding metadata to \"ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.mp3\""}
+{"level":"info","time":"2022-05-03T03:04:39Z","message":"[ThumbnailsConvertor] Converting thumbnail \"ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:04:39Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.mp3\""}
+{"level":"info","time":"2022-05-03T03:04:39Z","message":"Deleting original file ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:39Z","message":"Deleting original file ミカヅキBIGWAVE - Emotional Prism 感情的なプリズム.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:42Z","message":"[youtube] 2-mCpRYCM7A: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:04:42Z","message":"[youtube] 2-mCpRYCM7A: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:04:43Z","message":"[info] 2-mCpRYCM7A: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:04:43Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:04:43Z","message":"[info] Writing video thumbnail 41 to: the new sweet groove.webp"}
+{"level":"info","time":"2022-05-03T03:04:43Z","message":"[download] Destination: the new sweet groove.webm"}
+{"level":"info","time":"2022-05-03T03:04:43Z","message":"\r[download]   0.0% of 3.53MiB at 325.34KiB/s ETA 00:11\r[download]   0.1% of 3.53MiB at 861.08KiB/s ETA 00:04\r[download]   0.2% of 3.53MiB at  1.87MiB/s ETA 00:01 \r[download]   0.4% of 3.53MiB at  3.81MiB/s ETA 00:00\r[download]   0.9% of 3.53MiB at  1.96MiB/s ETA 00:01\r[download]   1.7% of 3.53MiB at  2.32MiB/s ETA 00:01\r[download]   3.5% of 3.53MiB at  3.13MiB/s ETA 00:01\r[download]   7.1% of 3.53MiB at  4.80MiB/s ETA 00:00\r[download]  14.1% of 3.53MiB at  7.60MiB/s ETA 00:00\r[download]  28.3% of 3.53MiB at 12.57MiB/s ETA 00:00\r[download]  56.6% of 3.53MiB at 21.38MiB/s ETA 00:00\r[download] 100% of 3.53MiB at 33.38MiB/s ETA 00:00  \r[download] 100% of 3.53MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:04:43Z","message":"[ExtractAudio] Destination: the new sweet groove.mp3"}
+{"level":"info","time":"2022-05-03T03:04:49Z","message":"Deleting original file the new sweet groove.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:49Z","message":"[Metadata] Adding metadata to \"the new sweet groove.mp3\""}
+{"level":"info","time":"2022-05-03T03:04:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"the new sweet groove.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:04:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"the new sweet groove.mp3\""}
+{"level":"info","time":"2022-05-03T03:04:50Z","message":"Deleting original file the new sweet groove.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:50Z","message":"Deleting original file the new sweet groove.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:04:53Z","message":"[youtube] joLlsVx1n7I: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:04:54Z","message":"[youtube] joLlsVx1n7I: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:04:54Z","message":"[info] joLlsVx1n7I: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:04:54Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:04:55Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:04:57Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:04:58Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:05:00Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:05:01Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T03:05:02Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T03:05:04Z","message":"[info] Downloading video thumbnail 34 ..."}
+{"level":"info","time":"2022-05-03T03:05:05Z","message":"[info] Downloading video thumbnail 33 ..."}
+{"level":"info","time":"2022-05-03T03:05:07Z","message":"[info] Downloading video thumbnail 32 ..."}
+{"level":"info","time":"2022-05-03T03:05:08Z","message":"[info] Downloading video thumbnail 31 ..."}
+{"level":"info","time":"2022-05-03T03:05:11Z","message":"[info] Downloading video thumbnail 30 ..."}
+{"level":"info","time":"2022-05-03T03:05:12Z","message":"[info] Downloading video thumbnail 29 ..."}
+{"level":"info","time":"2022-05-03T03:05:14Z","message":"[info] Downloading video thumbnail 28 ..."}
+{"level":"info","time":"2022-05-03T03:05:14Z","message":"[info] Writing video thumbnail 28 to: Tu Tu Hai Wahi.jpg"}
+{"level":"info","time":"2022-05-03T03:05:14Z","message":"[download] Destination: Tu Tu Hai Wahi.webm"}
+{"level":"info","time":"2022-05-03T03:05:14Z","message":"\r[download]   0.0% of 4.31MiB at 322.09KiB/s ETA 00:13\r[download]   0.1% of 4.31MiB at 886.43KiB/s ETA 00:04\r[download]   0.2% of 4.31MiB at  1.92MiB/s ETA 00:02 \r[download]   0.3% of 4.31MiB at  3.93MiB/s ETA 00:01\r[download]   0.7% of 4.31MiB at  1.94MiB/s ETA 00:02\r[download]   1.4% of 4.31MiB at  2.35MiB/s ETA 00:01\r[download]   2.9% of 4.31MiB at  3.10MiB/s ETA 00:01\r[download]   5.8% of 4.31MiB at  4.77MiB/s ETA 00:00\r[download]  11.6% of 4.31MiB at  7.56MiB/s ETA 00:00\r[download]  23.2% of 4.31MiB at 12.60MiB/s ETA 00:00\r[download]  46.3% of 4.31MiB at 21.34MiB/s ETA 00:00\r[download]  92.7% of 4.31MiB at 31.10MiB/s ETA 00:00\r[download] 100% of 4.31MiB at 29.47MiB/s ETA 00:00  \r[download] 100% of 4.31MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:05:14Z","message":"[ExtractAudio] Destination: Tu Tu Hai Wahi.mp3"}
+{"level":"info","time":"2022-05-03T03:05:23Z","message":"Deleting original file Tu Tu Hai Wahi.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:23Z","message":"[Metadata] Adding metadata to \"Tu Tu Hai Wahi.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:23Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Tu Tu Hai Wahi.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:23Z","message":"Deleting original file Tu Tu Hai Wahi.jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:26Z","message":"[youtube] YAQdrO3FCww: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"[youtube] YAQdrO3FCww: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"[info] YAQdrO3FCww: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"[info] Writing video thumbnail 41 to: Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.webp"}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"[download] Destination: Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.webm"}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"\r[download]   0.0% of 3.51MiB at 311.64KiB/s ETA 00:11\r[download]   0.1% of 3.51MiB at 825.98KiB/s ETA 00:04\r[download]   0.2% of 3.51MiB at  1.79MiB/s ETA 00:01 \r[download]   0.4% of 3.51MiB at  3.66MiB/s ETA 00:00\r[download]   0.9% of 3.51MiB at  1.97MiB/s ETA 00:01\r[download]   1.8% of 3.51MiB at  2.32MiB/s ETA 00:01\r[download]   3.5% of 3.51MiB at  3.14MiB/s ETA 00:01\r[download]   7.1% of 3.51MiB at  4.80MiB/s ETA 00:00\r[download]  14.2% of 3.51MiB at  7.58MiB/s ETA 00:00\r[download]  28.4% of 3.51MiB at 12.62MiB/s ETA 00:00\r[download]  56.9% of 3.51MiB at 21.33MiB/s ETA 00:00\r[download] 100% of 3.51MiB at 33.65MiB/s ETA 00:00  \r[download] 100% of 3.51MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:05:27Z","message":"[ExtractAudio] Destination: Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.mp3"}
+{"level":"info","time":"2022-05-03T03:05:37Z","message":"Deleting original file Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:37Z","message":"[Metadata] Adding metadata to \"Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:38Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:05:38Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:38Z","message":"Deleting original file Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:38Z","message":"Deleting original file Mere Naseeb Mein (Remix) - Baby H | Megha Chatterji.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:41Z","message":"[youtube] YIS6K_P_AKc: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[youtube] YIS6K_P_AKc: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] YIS6K_P_AKc: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:05:42Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T03:05:43Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T03:05:43Z","message":"[info] Writing video thumbnail 35 to: Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.webp"}
+{"level":"info","time":"2022-05-03T03:05:43Z","message":"[download] Destination: Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.webm"}
+{"level":"info","time":"2022-05-03T03:05:43Z","message":"\r[download]   0.0% of 2.33MiB at 321.97KiB/s ETA 00:07\r[download]   0.1% of 2.33MiB at 885.93KiB/s ETA 00:02\r[download]   0.3% of 2.33MiB at  1.92MiB/s ETA 00:01 \r[download]   0.6% of 2.33MiB at  3.92MiB/s ETA 00:00\r[download]   1.3% of 2.33MiB at  1.96MiB/s ETA 00:01\r[download]   2.6% of 2.33MiB at  2.31MiB/s ETA 00:00\r[download]   5.3% of 2.33MiB at  3.14MiB/s ETA 00:00\r[download]  10.7% of 2.33MiB at  4.82MiB/s ETA 00:00\r[download]  21.4% of 2.33MiB at  7.62MiB/s ETA 00:00\r[download]  42.9% of 2.33MiB at 12.24MiB/s ETA 00:00\r[download]  85.8% of 2.33MiB at 21.42MiB/s ETA 00:00\r[download] 100% of 2.33MiB at 22.56MiB/s ETA 00:00  \r[download] 100% of 2.33MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:05:43Z","message":"[ExtractAudio] Destination: Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.mp3"}
+{"level":"info","time":"2022-05-03T03:05:48Z","message":"Deleting original file Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:48Z","message":"[Metadata] Adding metadata to \"Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:48Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:05:48Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:48Z","message":"Deleting original file Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:48Z","message":"Deleting original file Lucifer 2x14 Lucifer sings \"Eternal Flame\" to Chloe.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:51Z","message":"[youtube] J7yMzfplUco: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"[youtube] J7yMzfplUco: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"[info] J7yMzfplUco: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"[info] Writing video thumbnail 41 to: Lucifer -  Sinnerman.webp"}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"[download] Destination: Lucifer -  Sinnerman.webm"}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"\r[download]   0.1% of 1.83MiB at 325.37KiB/s ETA 00:05\r[download]   0.2% of 1.83MiB at 887.31KiB/s ETA 00:02\r[download]   0.4% of 1.83MiB at  1.92MiB/s ETA 00:00 \r[download]   0.8% of 1.83MiB at  3.92MiB/s ETA 00:00\r[download]   1.7% of 1.83MiB at  1.97MiB/s ETA 00:00\r[download]   3.4% of 1.83MiB at  2.33MiB/s ETA 00:00\r[download]   6.8% of 1.83MiB at  3.15MiB/s ETA 00:00\r[download]  13.6% of 1.83MiB at  4.82MiB/s ETA 00:00\r[download]  27.3% of 1.83MiB at  7.63MiB/s ETA 00:00\r[download]  54.7% of 1.83MiB at 12.64MiB/s ETA 00:00\r[download] 100% of 1.83MiB at 19.96MiB/s ETA 00:00  \r[download] 100% of 1.83MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:05:52Z","message":"[ExtractAudio] Destination: Lucifer -  Sinnerman.mp3"}
+{"level":"info","time":"2022-05-03T03:05:57Z","message":"Deleting original file Lucifer -  Sinnerman.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:57Z","message":"[Metadata] Adding metadata to \"Lucifer -  Sinnerman.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:57Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Lucifer -  Sinnerman.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:05:57Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Lucifer -  Sinnerman.mp3\""}
+{"level":"info","time":"2022-05-03T03:05:57Z","message":"Deleting original file Lucifer -  Sinnerman.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:05:57Z","message":"Deleting original file Lucifer -  Sinnerman.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:00Z","message":"[youtube] I7HahVwYpwo: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:06:00Z","message":"[youtube] I7HahVwYpwo: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:06:01Z","message":"[info] I7HahVwYpwo: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:06:01Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:06:01Z","message":"[info] Writing video thumbnail 41 to: The Black Eyed Peas - Meet Me Halfway (Official Music Video).webp"}
+{"level":"info","time":"2022-05-03T03:06:01Z","message":"[download] Destination: The Black Eyed Peas - Meet Me Halfway (Official Music Video).webm"}
+{"level":"info","time":"2022-05-03T03:06:01Z","message":"\r[download]   0.0% of 4.57MiB at 313.83KiB/s ETA 00:14\r[download]   0.1% of 4.57MiB at 856.85KiB/s ETA 00:05\r[download]   0.1% of 4.57MiB at  1.86MiB/s ETA 00:02 \r[download]   0.3% of 4.57MiB at  3.78MiB/s ETA 00:01\r[download]   0.7% of 4.57MiB at  1.93MiB/s ETA 00:02\r[download]   1.3% of 4.57MiB at  2.31MiB/s ETA 00:01\r[download]   2.7% of 4.57MiB at  3.05MiB/s ETA 00:01\r[download]   5.5% of 4.57MiB at  4.69MiB/s ETA 00:00\r[download]  10.9% of 4.57MiB at  7.42MiB/s ETA 00:00\r[download]  21.9% of 4.57MiB at 12.38MiB/s ETA 00:00\r[download]  43.8% of 4.57MiB at 21.03MiB/s ETA 00:00\r[download]  87.6% of 4.57MiB at 36.45MiB/s ETA 00:00\r[download] 100% of 4.57MiB at 40.17MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:06:01Z","message":"[ExtractAudio] Destination: The Black Eyed Peas - Meet Me Halfway (Official Music Video).mp3"}
+{"level":"info","time":"2022-05-03T03:06:13Z","message":"Deleting original file The Black Eyed Peas - Meet Me Halfway (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:13Z","message":"[Metadata] Adding metadata to \"The Black Eyed Peas - Meet Me Halfway (Official Music Video).mp3\""}
+{"level":"info","time":"2022-05-03T03:06:13Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Black Eyed Peas - Meet Me Halfway (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:06:13Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Black Eyed Peas - Meet Me Halfway (Official Music Video).mp3\""}
+{"level":"info","time":"2022-05-03T03:06:14Z","message":"Deleting original file The Black Eyed Peas - Meet Me Halfway (Official Music Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:14Z","message":"Deleting original file The Black Eyed Peas - Meet Me Halfway (Official Music Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:16Z","message":"[youtube] hNrXDrs352g: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:06:16Z","message":"[youtube] hNrXDrs352g: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:06:17Z","message":"[info] hNrXDrs352g: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:06:17Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:06:18Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:06:20Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:06:21Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:06:23Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:06:23Z","message":"[info] Writing video thumbnail 37 to: Clannad - Nagisa.webp"}
+{"level":"info","time":"2022-05-03T03:06:23Z","message":"[download] Destination: Clannad - Nagisa.webm"}
+{"level":"info","time":"2022-05-03T03:06:23Z","message":"\r[download]   0.0% of 4.45MiB at 298.57KiB/s ETA 00:15\r[download]   0.1% of 4.45MiB at 819.09KiB/s ETA 00:05\r[download]   0.2% of 4.45MiB at  1.78MiB/s ETA 00:02 \r[download]   0.3% of 4.45MiB at  3.62MiB/s ETA 00:01\r[download]   0.7% of 4.45MiB at  1.91MiB/s ETA 00:02\r[download]   1.4% of 4.45MiB at  2.31MiB/s ETA 00:01\r[download]   2.8% of 4.45MiB at  3.11MiB/s ETA 00:01\r[download]   5.6% of 4.45MiB at  4.79MiB/s ETA 00:00\r[download]  11.2% of 4.45MiB at  7.32MiB/s ETA 00:00\r[download]  22.5% of 4.45MiB at 12.12MiB/s ETA 00:00\r[download]  45.0% of 4.45MiB at 20.78MiB/s ETA 00:00\r[download]  89.9% of 4.45MiB at 32.91MiB/s ETA 00:00\r[download] 100% of 4.45MiB at 35.57MiB/s ETA 00:00  \r[download] 100% of 4.45MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:06:23Z","message":"[ExtractAudio] Destination: Clannad - Nagisa.mp3"}
+{"level":"info","time":"2022-05-03T03:06:30Z","message":"Deleting original file Clannad - Nagisa.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:30Z","message":"[Metadata] Adding metadata to \"Clannad - Nagisa.mp3\""}
+{"level":"info","time":"2022-05-03T03:06:30Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Clannad - Nagisa.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:06:30Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Clannad - Nagisa.mp3\""}
+{"level":"info","time":"2022-05-03T03:06:30Z","message":"Deleting original file Clannad - Nagisa.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:30Z","message":"Deleting original file Clannad - Nagisa.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:33Z","message":"[youtube] J2yzMhNkgsk: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"[youtube] J2yzMhNkgsk: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"[info] J2yzMhNkgsk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"[info] Writing video thumbnail 41 to: Clannad OST ~ Shining in the Sky.webp"}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"[download] Destination: Clannad OST ~ Shining in the Sky.webm"}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"\r[download]   0.0% of 5.39MiB at 328.94KiB/s ETA 00:16\r[download]   0.1% of 5.39MiB at 895.01KiB/s ETA 00:06\r[download]   0.1% of 5.39MiB at  1.94MiB/s ETA 00:02 \r[download]   0.3% of 5.39MiB at  3.95MiB/s ETA 00:01\r[download]   0.6% of 5.39MiB at  1.95MiB/s ETA 00:02\r[download]   1.1% of 5.39MiB at  2.33MiB/s ETA 00:02\r[download]   2.3% of 5.39MiB at  3.08MiB/s ETA 00:01\r[download]   4.6% of 5.39MiB at  4.75MiB/s ETA 00:01\r[download]   9.3% of 5.39MiB at  7.50MiB/s ETA 00:00\r[download]  18.5% of 5.39MiB at 12.51MiB/s ETA 00:00\r[download]  37.1% of 5.39MiB at 21.10MiB/s ETA 00:00\r[download]  74.2% of 5.39MiB at 34.55MiB/s ETA 00:00\r[download] 100% of 5.39MiB at 39.29MiB/s ETA 00:00  \r[download] 100% of 5.39MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:06:34Z","message":"[ExtractAudio] Destination: Clannad OST ~ Shining in the Sky.mp3"}
+{"level":"info","time":"2022-05-03T03:06:45Z","message":"Deleting original file Clannad OST ~ Shining in the Sky.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:45Z","message":"[Metadata] Adding metadata to \"Clannad OST ~ Shining in the Sky.mp3\""}
+{"level":"info","time":"2022-05-03T03:06:45Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Clannad OST ~ Shining in the Sky.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:06:45Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Clannad OST ~ Shining in the Sky.mp3\""}
+{"level":"info","time":"2022-05-03T03:06:45Z","message":"Deleting original file Clannad OST ~ Shining in the Sky.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:45Z","message":"Deleting original file Clannad OST ~ Shining in the Sky.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:06:48Z","message":"[youtube] VNSq1qf5ZFk: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:06:48Z","message":"[youtube] VNSq1qf5ZFk: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:06:49Z","message":"[info] VNSq1qf5ZFk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:06:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:06:50Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:06:51Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:06:52Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:06:54Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:06:54Z","message":"[info] Writing video thumbnail 37 to: Clannad OST- Snowfield.webp"}
+{"level":"info","time":"2022-05-03T03:06:54Z","message":"[download] Destination: Clannad OST- Snowfield.webm"}
+{"level":"info","time":"2022-05-03T03:06:54Z","message":"\r[download]   0.0% of 5.83MiB at 262.26KiB/s ETA 00:22\r[download]   0.1% of 5.83MiB at 709.26KiB/s ETA 00:08\r[download]   0.1% of 5.83MiB at  1.52MiB/s ETA 00:03 \r[download]   0.3% of 5.83MiB at  3.06MiB/s ETA 00:01\r[download]   0.5% of 5.83MiB at  1.97MiB/s ETA 00:02\r[download]   1.1% of 5.83MiB at  2.36MiB/s ETA 00:02\r[download]   2.1% of 5.83MiB at  3.09MiB/s ETA 00:01\r[download]   4.3% of 5.83MiB at  4.80MiB/s ETA 00:01\r[download]   8.6% of 5.83MiB at  7.50MiB/s ETA 00:00\r[download]  17.1% of 5.83MiB at 12.47MiB/s ETA 00:00\r[download]  34.3% of 5.83MiB at 21.17MiB/s ETA 00:00\r[download]  68.6% of 5.83MiB at 16.63MiB/s ETA 00:00\r[download] 100% of 5.83MiB at 22.79MiB/s ETA 00:00  \r[download] 100% of 5.83MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:06:54Z","message":"[ExtractAudio] Destination: Clannad OST- Snowfield.mp3"}
+{"level":"info","time":"2022-05-03T03:07:08Z","message":"Deleting original file Clannad OST- Snowfield.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:08Z","message":"[Metadata] Adding metadata to \"Clannad OST- Snowfield.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Clannad OST- Snowfield.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:07:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Clannad OST- Snowfield.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:08Z","message":"Deleting original file Clannad OST- Snowfield.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:08Z","message":"Deleting original file Clannad OST- Snowfield.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:11Z","message":"[youtube] aA_IXBBgDJM: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"[youtube] aA_IXBBgDJM: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"[info] aA_IXBBgDJM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"[info] Writing video thumbnail 41 to: Clannad OST ~ Town, Flow of Time, People.webp"}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"[download] Destination: Clannad OST ~ Town, Flow of Time, People.webm"}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"\r[download]   0.0% of 4.43MiB at 340.81KiB/s ETA 00:13\r[download]   0.1% of 4.43MiB at 921.89KiB/s ETA 00:04\r[download]   0.2% of 4.43MiB at  1.99MiB/s ETA 00:02 \r[download]   0.3% of 4.43MiB at  4.03MiB/s ETA 00:01\r[download]   0.7% of 4.43MiB at  1.95MiB/s ETA 00:02\r[download]   1.4% of 4.43MiB at  2.37MiB/s ETA 00:01\r[download]   2.8% of 4.43MiB at  3.11MiB/s ETA 00:01\r[download]   5.6% of 4.43MiB at  4.83MiB/s ETA 00:00\r[download]  11.3% of 4.43MiB at  7.59MiB/s ETA 00:00\r[download]  22.6% of 4.43MiB at 12.65MiB/s ETA 00:00\r[download]  45.1% of 4.43MiB at 21.27MiB/s ETA 00:00\r[download]  90.3% of 4.43MiB at 34.68MiB/s ETA 00:00\r[download] 100% of 4.43MiB at 34.43MiB/s ETA 00:00  \r[download] 100% of 4.43MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:07:12Z","message":"[ExtractAudio] Destination: Clannad OST ~ Town, Flow of Time, People.mp3"}
+{"level":"info","time":"2022-05-03T03:07:23Z","message":"Deleting original file Clannad OST ~ Town, Flow of Time, People.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:23Z","message":"[Metadata] Adding metadata to \"Clannad OST ~ Town, Flow of Time, People.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:23Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Clannad OST ~ Town, Flow of Time, People.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:07:23Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Clannad OST ~ Town, Flow of Time, People.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:23Z","message":"Deleting original file Clannad OST ~ Town, Flow of Time, People.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:23Z","message":"Deleting original file Clannad OST ~ Town, Flow of Time, People.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:26Z","message":"[youtube] vdk_76z38bA: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:07:26Z","message":"[youtube] vdk_76z38bA: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:07:27Z","message":"[info] vdk_76z38bA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:07:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:07:27Z","message":"[info] Writing video thumbnail 41 to: Clannad OST ~ Roaring Tides.webp"}
+{"level":"info","time":"2022-05-03T03:07:27Z","message":"[download] Destination: Clannad OST ~ Roaring Tides.webm"}
+{"level":"info","time":"2022-05-03T03:07:27Z","message":"\r[download]   0.0% of 2.97MiB at 255.10KiB/s ETA 00:11\r[download]   0.1% of 2.97MiB at 703.62KiB/s ETA 00:04\r[download]   0.2% of 2.97MiB at  1.53MiB/s ETA 00:01 \r[download]   0.5% of 2.97MiB at  3.12MiB/s ETA 00:00\r[download]   1.0% of 2.97MiB at  1.95MiB/s ETA 00:01\r[download]   2.1% of 2.97MiB at  2.33MiB/s ETA 00:01\r[download]   4.2% of 2.97MiB at  3.09MiB/s ETA 00:00\r[download]   8.4% of 2.97MiB at  4.76MiB/s ETA 00:00\r[download]  16.8% of 2.97MiB at  7.51MiB/s ETA 00:00\r[download]  33.6% of 2.97MiB at 12.53MiB/s ETA 00:00\r[download]  67.3% of 2.97MiB at 21.25MiB/s ETA 00:00\r[download] 100% of 2.97MiB at 25.13MiB/s ETA 00:00  \r[download] 100% of 2.97MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:07:27Z","message":"[ExtractAudio] Destination: Clannad OST ~ Roaring Tides.mp3"}
+{"level":"info","time":"2022-05-03T03:07:31Z","message":"Deleting original file Clannad OST ~ Roaring Tides.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:31Z","message":"[Metadata] Adding metadata to \"Clannad OST ~ Roaring Tides.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:31Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Clannad OST ~ Roaring Tides.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:07:31Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Clannad OST ~ Roaring Tides.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:32Z","message":"Deleting original file Clannad OST ~ Roaring Tides.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:32Z","message":"Deleting original file Clannad OST ~ Roaring Tides.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:34Z","message":"[youtube] Vk8UEWHYfEg: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:07:34Z","message":"[youtube] Vk8UEWHYfEg: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:07:34Z","message":"[info] Vk8UEWHYfEg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:07:34Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:07:35Z","message":"[info] Writing video thumbnail 41 to: PewDiePie   Hej Monika Remix by Party In Backyard.webp"}
+{"level":"info","time":"2022-05-03T03:07:35Z","message":"[download] Destination: PewDiePie   Hej Monika Remix by Party In Backyard.webm"}
+{"level":"info","time":"2022-05-03T03:07:35Z","message":"\r[download]   0.0% of 2.23MiB at 307.77KiB/s ETA 00:07\r[download]   0.1% of 2.23MiB at 836.69KiB/s ETA 00:02\r[download]   0.3% of 2.23MiB at  1.82MiB/s ETA 00:01 \r[download]   0.7% of 2.23MiB at  3.68MiB/s ETA 00:00\r[download]   1.4% of 2.23MiB at  1.96MiB/s ETA 00:01\r[download]   2.8% of 2.23MiB at  2.32MiB/s ETA 00:00\r[download]   5.6% of 2.23MiB at  3.15MiB/s ETA 00:00\r[download]  11.2% of 2.23MiB at  4.81MiB/s ETA 00:00\r[download]  22.4% of 2.23MiB at  7.62MiB/s ETA 00:00\r[download]  44.8% of 2.23MiB at 12.48MiB/s ETA 00:00\r[download]  89.5% of 2.23MiB at 21.16MiB/s ETA 00:00\r[download] 100% of 2.23MiB at 23.01MiB/s ETA 00:00  \r[download] 100% of 2.23MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:07:35Z","message":"[ExtractAudio] Destination: PewDiePie   Hej Monika Remix by Party In Backyard.mp3"}
+{"level":"info","time":"2022-05-03T03:07:41Z","message":"Deleting original file PewDiePie   Hej Monika Remix by Party In Backyard.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:41Z","message":"[Metadata] Adding metadata to \"PewDiePie   Hej Monika Remix by Party In Backyard.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:41Z","message":"[ThumbnailsConvertor] Converting thumbnail \"PewDiePie   Hej Monika Remix by Party In Backyard.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:07:41Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"PewDiePie   Hej Monika Remix by Party In Backyard.mp3\""}
+{"level":"info","time":"2022-05-03T03:07:41Z","message":"Deleting original file PewDiePie   Hej Monika Remix by Party In Backyard.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:41Z","message":"Deleting original file PewDiePie   Hej Monika Remix by Party In Backyard.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:07:44Z","message":"[youtube] QicgfPt_k6M: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:07:44Z","message":"[youtube] QicgfPt_k6M: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:07:44Z","message":"[info] QicgfPt_k6M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:07:44Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:07:46Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:07:48Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:07:49Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:07:51Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:07:52Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T03:07:54Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T03:07:54Z","message":"[info] Writing video thumbnail 35 to: 亜蘭知子　浮遊空間　Midnight Pretenders.webp"}
+{"level":"info","time":"2022-05-03T03:07:54Z","message":"[download] Destination: 亜蘭知子　浮遊空間　Midnight Pretenders.webm"}
+{"level":"info","time":"2022-05-03T03:07:54Z","message":"\r[download]   0.0% of 5.56MiB at 324.39KiB/s ETA 00:17\r[download]   0.1% of 5.56MiB at 886.06KiB/s ETA 00:06\r[download]   0.1% of 5.56MiB at  1.92MiB/s ETA 00:02 \r[download]   0.3% of 5.56MiB at  3.90MiB/s ETA 00:01\r[download]   0.5% of 5.56MiB at  1.97MiB/s ETA 00:02\r[download]   1.1% of 5.56MiB at  2.32MiB/s ETA 00:02\r[download]   2.2% of 5.56MiB at  3.15MiB/s ETA 00:01\r[download]   4.5% of 5.56MiB at  4.80MiB/s ETA 00:01\r[download]   9.0% of 5.56MiB at  7.50MiB/s ETA 00:00\r[download]  18.0% of 5.56MiB at 12.37MiB/s ETA 00:00\r[download]  36.0% of 5.56MiB at 21.01MiB/s ETA 00:00\r[download]  72.0% of 5.56MiB at 36.48MiB/s ETA 00:00\r[download] 100% of 5.56MiB at 43.35MiB/s ETA 00:00  \r[download] 100% of 5.56MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:07:54Z","message":"[ExtractAudio] Destination: 亜蘭知子　浮遊空間　Midnight Pretenders.mp3"}
+{"level":"info","time":"2022-05-03T03:08:06Z","message":"Deleting original file 亜蘭知子　浮遊空間　Midnight Pretenders.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:06Z","message":"[Metadata] Adding metadata to \"亜蘭知子　浮遊空間　Midnight Pretenders.mp3\""}
+{"level":"info","time":"2022-05-03T03:08:07Z","message":"[ThumbnailsConvertor] Converting thumbnail \"亜蘭知子　浮遊空間　Midnight Pretenders.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:08:07Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"亜蘭知子　浮遊空間　Midnight Pretenders.mp3\""}
+{"level":"info","time":"2022-05-03T03:08:07Z","message":"Deleting original file 亜蘭知子　浮遊空間　Midnight Pretenders.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:07Z","message":"Deleting original file 亜蘭知子　浮遊空間　Midnight Pretenders.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:09Z","message":"[youtube] JRUw0tMEiVs: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:08:09Z","message":"[youtube] JRUw0tMEiVs: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:08:10Z","message":"[info] JRUw0tMEiVs: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:08:10Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:08:11Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:08:11Z","message":"[info] Writing video thumbnail 40 to: Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).jpg"}
+{"level":"info","time":"2022-05-03T03:08:12Z","message":"[download] Destination: Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).webm"}
+{"level":"info","time":"2022-05-03T03:08:12Z","message":"\r[download]   0.0% of 3.06MiB at 508.59KiB/s ETA 00:06\r[download]   0.1% of 3.06MiB at  1.27MiB/s ETA 00:02 \r[download]   0.2% of 3.06MiB at  2.70MiB/s ETA 00:01\r[download]   0.5% of 3.06MiB at  5.39MiB/s ETA 00:00\r[download]   1.0% of 3.06MiB at  9.91MiB/s ETA 00:00\r[download]   2.0% of 3.06MiB at  3.64MiB/s ETA 00:00\r[download]   4.1% of 3.06MiB at  4.12MiB/s ETA 00:00\r[download]   8.1% of 3.06MiB at  6.03MiB/s ETA 00:00\r[download]  16.3% of 3.06MiB at  9.16MiB/s ETA 00:00\r[download]  32.6% of 3.06MiB at 14.56MiB/s ETA 00:00\r[download]  65.3% of 3.06MiB at 24.17MiB/s ETA 00:00\r[download] 100% of 3.06MiB at 25.66MiB/s ETA 00:00  \r[download] 100% of 3.06MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:08:12Z","message":"[ExtractAudio] Destination: Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).mp3"}
+{"level":"info","time":"2022-05-03T03:08:20Z","message":"Deleting original file Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:20Z","message":"[Metadata] Adding metadata to \"Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).mp3\""}
+{"level":"info","time":"2022-05-03T03:08:20Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).mp3\""}
+{"level":"info","time":"2022-05-03T03:08:20Z","message":"Deleting original file Night Tempo (｡◕‿‿◕｡) - Windy Summer (100% Pure Remastered).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:23Z","message":"[youtube] GuhkGqJW5ZE: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"[youtube] GuhkGqJW5ZE: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"[info] GuhkGqJW5ZE: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"[info] Writing video thumbnail 41 to: Momoko Kikuchi - Glass no Sogen.webp"}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"[download] Destination: Momoko Kikuchi - Glass no Sogen.webm"}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"\r[download]   0.0% of 4.58MiB at 318.76KiB/s ETA 00:14\r[download]   0.1% of 4.58MiB at 870.61KiB/s ETA 00:05\r[download]   0.1% of 4.58MiB at  1.89MiB/s ETA 00:02 \r[download]   0.3% of 4.58MiB at  3.86MiB/s ETA 00:01\r[download]   0.7% of 4.58MiB at  1.95MiB/s ETA 00:02\r[download]   1.3% of 4.58MiB at  2.32MiB/s ETA 00:01\r[download]   2.7% of 4.58MiB at  3.14MiB/s ETA 00:01\r[download]   5.4% of 4.58MiB at  4.83MiB/s ETA 00:00\r[download]  10.9% of 4.58MiB at  7.63MiB/s ETA 00:00\r[download]  21.8% of 4.58MiB at 12.69MiB/s ETA 00:00\r[download]  43.6% of 4.58MiB at 21.48MiB/s ETA 00:00\r[download]  87.3% of 4.58MiB at 32.45MiB/s ETA 00:00\r[download] 100% of 4.58MiB at 31.37MiB/s ETA 00:00  \r[download] 100% of 4.58MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:08:24Z","message":"[ExtractAudio] Destination: Momoko Kikuchi - Glass no Sogen.mp3"}
+{"level":"info","time":"2022-05-03T03:08:34Z","message":"Deleting original file Momoko Kikuchi - Glass no Sogen.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:34Z","message":"[Metadata] Adding metadata to \"Momoko Kikuchi - Glass no Sogen.mp3\""}
+{"level":"info","time":"2022-05-03T03:08:34Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Momoko Kikuchi - Glass no Sogen.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:08:34Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Momoko Kikuchi - Glass no Sogen.mp3\""}
+{"level":"info","time":"2022-05-03T03:08:35Z","message":"Deleting original file Momoko Kikuchi - Glass no Sogen.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:35Z","message":"Deleting original file Momoko Kikuchi - Glass no Sogen.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:37Z","message":"[youtube] p3FsbF_Aito: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"[youtube] p3FsbF_Aito: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"[info] p3FsbF_Aito: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"[info] Writing video thumbnail 41 to: Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).webp"}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"[download] Destination: Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).webm"}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"\r[download]   0.0% of 4.06MiB at 297.93KiB/s ETA 00:14\r[download]   0.1% of 4.06MiB at 821.66KiB/s ETA 00:05\r[download]   0.2% of 4.06MiB at  1.79MiB/s ETA 00:02 \r[download]   0.4% of 4.06MiB at  3.66MiB/s ETA 00:01\r[download]   0.7% of 4.06MiB at  1.96MiB/s ETA 00:02\r[download]   1.5% of 4.06MiB at  2.36MiB/s ETA 00:01\r[download]   3.1% of 4.06MiB at  3.11MiB/s ETA 00:01\r[download]   6.1% of 4.06MiB at  4.77MiB/s ETA 00:00\r[download]  12.3% of 4.06MiB at  7.55MiB/s ETA 00:00\r[download]  24.6% of 4.06MiB at 12.51MiB/s ETA 00:00\r[download]  49.3% of 4.06MiB at 21.16MiB/s ETA 00:00\r[download]  98.6% of 4.06MiB at 26.45MiB/s ETA 00:00\r[download] 100% of 4.06MiB at 22.21MiB/s ETA 00:00  \r[download] 100% of 4.06MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:08:38Z","message":"[ExtractAudio] Destination: Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).mp3"}
+{"level":"info","time":"2022-05-03T03:08:49Z","message":"Deleting original file Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:49Z","message":"[Metadata] Adding metadata to \"Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).mp3\""}
+{"level":"info","time":"2022-05-03T03:08:49Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:08:49Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).mp3\""}
+{"level":"info","time":"2022-05-03T03:08:49Z","message":"Deleting original file Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:49Z","message":"Deleting original file Meiko Nakahara - Dance in the memories (ダンス・イン・ザ・メモリーズ ).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:08:52Z","message":"[youtube] pBX2T7R_DgY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:08:52Z","message":"[youtube] pBX2T7R_DgY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:08:52Z","message":"[info] pBX2T7R_DgY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:08:52Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:08:52Z","message":"[info] Writing video thumbnail 41 to: Testa Rossa - Midnight Love.webp"}
+{"level":"info","time":"2022-05-03T03:08:52Z","message":"[download] Destination: Testa Rossa - Midnight Love.webm"}
+{"level":"info","time":"2022-05-03T03:08:53Z","message":"\r[download]   0.0% of 2.77MiB at 323.46KiB/s ETA 00:08\r[download]   0.1% of 2.77MiB at 860.96KiB/s ETA 00:03\r[download]   0.2% of 2.77MiB at  1.82MiB/s ETA 00:01 \r[download]   0.5% of 2.77MiB at  3.64MiB/s ETA 00:00\r[download]   1.1% of 2.77MiB at  1.98MiB/s ETA 00:01\r[download]   2.2% of 2.77MiB at  2.32MiB/s ETA 00:01\r[download]   4.5% of 2.77MiB at  3.16MiB/s ETA 00:00\r[download]   9.0% of 2.77MiB at  4.82MiB/s ETA 00:00\r[download]  18.0% of 2.77MiB at  7.59MiB/s ETA 00:00\r[download]  36.0% of 2.77MiB at 12.58MiB/s ETA 00:00\r[download]  72.1% of 2.77MiB at 21.22MiB/s ETA 00:00\r[download] 100% of 2.77MiB at 27.47MiB/s ETA 00:00  \r[download] 100% of 2.77MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:08:53Z","message":"[ExtractAudio] Destination: Testa Rossa - Midnight Love.mp3"}
+{"level":"info","time":"2022-05-03T03:09:00Z","message":"Deleting original file Testa Rossa - Midnight Love.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:00Z","message":"[Metadata] Adding metadata to \"Testa Rossa - Midnight Love.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:00Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Testa Rossa - Midnight Love.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:09:00Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Testa Rossa - Midnight Love.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:00Z","message":"Deleting original file Testa Rossa - Midnight Love.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:00Z","message":"Deleting original file Testa Rossa - Midnight Love.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:03Z","message":"[youtube] 3YHhp4lpw08: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:09:03Z","message":"[youtube] 3YHhp4lpw08: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:09:04Z","message":"[info] 3YHhp4lpw08: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:09:04Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:09:04Z","message":"[info] Writing video thumbnail 41 to: Night Tempo センパイ - Night Cruising.webp"}
+{"level":"info","time":"2022-05-03T03:09:04Z","message":"[download] Destination: Night Tempo センパイ - Night Cruising.webm"}
+{"level":"info","time":"2022-05-03T03:09:04Z","message":"\r[download]   0.0% of 3.61MiB at 259.23KiB/s ETA 00:14\r[download]   0.1% of 3.61MiB at 718.90KiB/s ETA 00:05\r[download]   0.2% of 3.61MiB at  1.57MiB/s ETA 00:02 \r[download]   0.4% of 3.61MiB at  3.21MiB/s ETA 00:01\r[download]   0.8% of 3.61MiB at  1.95MiB/s ETA 00:01\r[download]   1.7% of 3.61MiB at  2.32MiB/s ETA 00:01\r[download]   3.4% of 3.61MiB at  3.13MiB/s ETA 00:01\r[download]   6.9% of 3.61MiB at  4.82MiB/s ETA 00:00\r[download]  13.8% of 3.61MiB at  7.65MiB/s ETA 00:00\r[download]  27.7% of 3.61MiB at 12.71MiB/s ETA 00:00\r[download]  55.4% of 3.61MiB at 21.53MiB/s ETA 00:00\r[download] 100% of 3.61MiB at 34.16MiB/s ETA 00:00  \r[download] 100% of 3.61MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:09:04Z","message":"[ExtractAudio] Destination: Night Tempo センパイ - Night Cruising.mp3"}
+{"level":"info","time":"2022-05-03T03:09:12Z","message":"Deleting original file Night Tempo センパイ - Night Cruising.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:12Z","message":"[Metadata] Adding metadata to \"Night Tempo センパイ - Night Cruising.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:12Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Night Tempo センパイ - Night Cruising.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:09:12Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Night Tempo センパイ - Night Cruising.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:12Z","message":"Deleting original file Night Tempo センパイ - Night Cruising.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:12Z","message":"Deleting original file Night Tempo センパイ - Night Cruising.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:15Z","message":"[youtube] 9ULfFe9_D1c: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:09:15Z","message":"[youtube] 9ULfFe9_D1c: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:09:15Z","message":"[info] 9ULfFe9_D1c: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:09:15Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:09:15Z","message":"[info] Writing video thumbnail 41 to: マクロスMACROSS 82-99 -『82 99 F.M』.webp"}
+{"level":"info","time":"2022-05-03T03:09:16Z","message":"[download] Destination: マクロスMACROSS 82-99 -『82 99 F.M』.webm"}
+{"level":"info","time":"2022-05-03T03:09:16Z","message":"\r[download]   0.0% of 2.27MiB at 60.32KiB/s ETA 00:38\r[download]   0.1% of 2.27MiB at 177.39KiB/s ETA 00:13\r[download]   0.3% of 2.27MiB at 408.59KiB/s ETA 00:05\r[download]   0.6% of 2.27MiB at 864.47KiB/s ETA 00:02\r[download]   1.3% of 2.27MiB at  1.72MiB/s ETA 00:01 \r[download]   2.7% of 2.27MiB at  1.34MiB/s ETA 00:01\r[download]   5.5% of 2.27MiB at  2.17MiB/s ETA 00:00\r[download]  11.0% of 2.27MiB at  3.28MiB/s ETA 00:00\r[download]  22.0% of 2.27MiB at  5.38MiB/s ETA 00:00\r[download]  44.0% of 2.27MiB at  9.32MiB/s ETA 00:00\r[download]  88.1% of 2.27MiB at 15.32MiB/s ETA 00:00\r[download] 100% of 2.27MiB at 17.23MiB/s ETA 00:00  \r[download] 100% of 2.27MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:09:16Z","message":"[ExtractAudio] Destination: マクロスMACROSS 82-99 -『82 99 F.M』.mp3"}
+{"level":"info","time":"2022-05-03T03:09:23Z","message":"Deleting original file マクロスMACROSS 82-99 -『82 99 F.M』.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:23Z","message":"[Metadata] Adding metadata to \"マクロスMACROSS 82-99 -『82 99 F.M』.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:23Z","message":"[ThumbnailsConvertor] Converting thumbnail \"マクロスMACROSS 82-99 -『82 99 F.M』.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:09:23Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"マクロスMACROSS 82-99 -『82 99 F.M』.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:23Z","message":"Deleting original file マクロスMACROSS 82-99 -『82 99 F.M』.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:23Z","message":"Deleting original file マクロスMACROSS 82-99 -『82 99 F.M』.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:26Z","message":"[youtube] cYN8uOhzYwU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:09:27Z","message":"[youtube] cYN8uOhzYwU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:09:27Z","message":"[info] cYN8uOhzYwU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:09:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:09:27Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:09:27Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:09:28Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:09:30Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:09:30Z","message":"[info] Writing video thumbnail 37 to: Night Tempo - If You Love Me.webp"}
+{"level":"info","time":"2022-05-03T03:09:30Z","message":"[download] Destination: Night Tempo - If You Love Me.webm"}
+{"level":"info","time":"2022-05-03T03:09:30Z","message":"\r[download]   0.0% of 3.24MiB at 326.79KiB/s ETA 00:10\r[download]   0.1% of 3.24MiB at 888.00KiB/s ETA 00:03\r[download]   0.2% of 3.24MiB at  1.92MiB/s ETA 00:01 \r[download]   0.5% of 3.24MiB at  3.92MiB/s ETA 00:00\r[download]   0.9% of 3.24MiB at  1.97MiB/s ETA 00:01\r[download]   1.9% of 3.24MiB at  2.32MiB/s ETA 00:01\r[download]   3.8% of 3.24MiB at  3.14MiB/s ETA 00:00\r[download]   7.7% of 3.24MiB at  4.83MiB/s ETA 00:00\r[download]  15.4% of 3.24MiB at  7.53MiB/s ETA 00:00\r[download]  30.8% of 3.24MiB at 12.54MiB/s ETA 00:00\r[download]  61.6% of 3.24MiB at 21.33MiB/s ETA 00:00\r[download] 100% of 3.24MiB at 18.90MiB/s ETA 00:00  \r[download] 100% of 3.24MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:09:30Z","message":"[ExtractAudio] Destination: Night Tempo - If You Love Me.mp3"}
+{"level":"info","time":"2022-05-03T03:09:39Z","message":"Deleting original file Night Tempo - If You Love Me.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:39Z","message":"[Metadata] Adding metadata to \"Night Tempo - If You Love Me.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:39Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Night Tempo - If You Love Me.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:09:40Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Night Tempo - If You Love Me.mp3\""}
+{"level":"info","time":"2022-05-03T03:09:40Z","message":"Deleting original file Night Tempo - If You Love Me.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:40Z","message":"Deleting original file Night Tempo - If You Love Me.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:42Z","message":"[youtube] 2Kt8HP1VEPU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:09:43Z","message":"[youtube] 2Kt8HP1VEPU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:09:43Z","message":"[info] 2Kt8HP1VEPU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:09:43Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:09:43Z","message":"[info] Writing video thumbnail 41 to: Meiko Nakahara - Fantasy (1982).webp"}
+{"level":"info","time":"2022-05-03T03:09:43Z","message":"[download] Destination: Meiko Nakahara - Fantasy (1982).webm"}
+{"level":"info","time":"2022-05-03T03:09:44Z","message":"\r[download]   0.0% of 4.23MiB at 322.12KiB/s ETA 00:13\r[download]   0.1% of 4.23MiB at 857.79KiB/s ETA 00:05\r[download]   0.2% of 4.23MiB at  1.82MiB/s ETA 00:02 \r[download]   0.3% of 4.23MiB at  3.64MiB/s ETA 00:01\r[download]   0.7% of 4.23MiB at  1.46MiB/s ETA 00:02\r[download]   1.5% of 4.23MiB at  2.32MiB/s ETA 00:01\r[download]   2.9% of 4.23MiB at  3.11MiB/s ETA 00:01\r[download]   5.9% of 4.23MiB at  4.79MiB/s ETA 00:00\r[download]  11.8% of 4.23MiB at  7.57MiB/s ETA 00:00\r[download]  23.6% of 4.23MiB at 12.46MiB/s ETA 00:00\r[download]  47.3% of 4.23MiB at 21.21MiB/s ETA 00:00\r[download]  94.6% of 4.23MiB at 36.70MiB/s ETA 00:00\r[download] 100% of 4.23MiB at 37.70MiB/s ETA 00:00  \r[download] 100% of 4.23MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:09:44Z","message":"[ExtractAudio] Destination: Meiko Nakahara - Fantasy (1982).mp3"}
+{"level":"info","time":"2022-05-03T03:09:54Z","message":"Deleting original file Meiko Nakahara - Fantasy (1982).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:54Z","message":"[Metadata] Adding metadata to \"Meiko Nakahara - Fantasy (1982).mp3\""}
+{"level":"info","time":"2022-05-03T03:09:55Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Meiko Nakahara - Fantasy (1982).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:09:55Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Meiko Nakahara - Fantasy (1982).mp3\""}
+{"level":"info","time":"2022-05-03T03:09:55Z","message":"Deleting original file Meiko Nakahara - Fantasy (1982).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:55Z","message":"Deleting original file Meiko Nakahara - Fantasy (1982).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:09:57Z","message":"[youtube] cYp_s-1m2wY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:09:58Z","message":"[youtube] cYp_s-1m2wY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:09:58Z","message":"[youtube] cYp_s-1m2wY: Downloading MPD manifest"}
+{"level":"info","time":"2022-05-03T03:09:58Z","message":"[youtube] cYp_s-1m2wY: Downloading MPD manifest"}
+{"level":"info","time":"2022-05-03T03:09:59Z","message":"[info] cYp_s-1m2wY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:09:59Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:09:59Z","message":"[info] Writing video thumbnail 41 to: 一十三十一|アクアマリンのままでいて.webp"}
+{"level":"info","time":"2022-05-03T03:09:59Z","message":"[download] Destination: 一十三十一|アクアマリンのままでいて.webm"}
+{"level":"info","time":"2022-05-03T03:09:59Z","message":"\r[download]   0.0% of 4.50MiB at 313.90KiB/s ETA 00:14\r[download]   0.1% of 4.50MiB at 854.53KiB/s ETA 00:05\r[download]   0.2% of 4.50MiB at  1.85MiB/s ETA 00:02 \r[download]   0.3% of 4.50MiB at  3.76MiB/s ETA 00:01\r[download]   0.7% of 4.50MiB at  1.95MiB/s ETA 00:02\r[download]   1.4% of 4.50MiB at  2.33MiB/s ETA 00:01\r[download]   2.8% of 4.50MiB at  3.10MiB/s ETA 00:01\r[download]   5.5% of 4.50MiB at  4.75MiB/s ETA 00:00\r[download]  11.1% of 4.50MiB at  7.53MiB/s ETA 00:00\r[download]  22.2% of 4.50MiB at 12.45MiB/s ETA 00:00\r[download]  44.4% of 4.50MiB at 20.89MiB/s ETA 00:00\r[download]  88.8% of 4.50MiB at 25.41MiB/s ETA 00:00\r[download] 100% of 4.50MiB at 23.88MiB/s ETA 00:00  \r[download] 100% of 4.50MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:09:59Z","message":"[ExtractAudio] Destination: 一十三十一|アクアマリンのままでいて.mp3"}
+{"level":"info","time":"2022-05-03T03:10:08Z","message":"Deleting original file 一十三十一|アクアマリンのままでいて.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:08Z","message":"[Metadata] Adding metadata to \"一十三十一|アクアマリンのままでいて.mp3\""}
+{"level":"info","time":"2022-05-03T03:10:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"一十三十一|アクアマリンのままでいて.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:10:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"一十三十一|アクアマリンのままでいて.mp3\""}
+{"level":"info","time":"2022-05-03T03:10:08Z","message":"Deleting original file 一十三十一|アクアマリンのままでいて.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:08Z","message":"Deleting original file 一十三十一|アクアマリンのままでいて.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:10Z","message":"[youtube] uZdEO0oymg8: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"[youtube] uZdEO0oymg8: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"[info] uZdEO0oymg8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"[info] Writing video thumbnail 41 to: eevee - hana.webp"}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"[download] Destination: eevee - hana.webm"}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"\r[download]   0.1% of 1.51MiB at 299.57KiB/s ETA 00:05\r[download]   0.2% of 1.51MiB at 822.84KiB/s ETA 00:01\r[download]   0.5% of 1.51MiB at  1.79MiB/s ETA 00:00 \r[download]   1.0% of 1.51MiB at  3.66MiB/s ETA 00:00\r[download]   2.0% of 1.51MiB at  1.95MiB/s ETA 00:00\r[download]   4.1% of 1.51MiB at  2.32MiB/s ETA 00:00\r[download]   8.2% of 1.51MiB at  3.13MiB/s ETA 00:00\r[download]  16.5% of 1.51MiB at  4.83MiB/s ETA 00:00\r[download]  33.0% of 1.51MiB at  7.63MiB/s ETA 00:00\r[download]  66.0% of 1.51MiB at 12.47MiB/s ETA 00:00\r[download] 100% of 1.51MiB at 17.20MiB/s ETA 00:00  \r[download] 100% of 1.51MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:10:11Z","message":"[ExtractAudio] Destination: eevee - hana.mp3"}
+{"level":"info","time":"2022-05-03T03:10:14Z","message":"Deleting original file eevee - hana.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:14Z","message":"[Metadata] Adding metadata to \"eevee - hana.mp3\""}
+{"level":"info","time":"2022-05-03T03:10:14Z","message":"[ThumbnailsConvertor] Converting thumbnail \"eevee - hana.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:10:14Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"eevee - hana.mp3\""}
+{"level":"info","time":"2022-05-03T03:10:14Z","message":"Deleting original file eevee - hana.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:14Z","message":"Deleting original file eevee - hana.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:17Z","message":"[youtube] IhCDK_pSjnk: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:10:17Z","message":"[youtube] IhCDK_pSjnk: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:10:18Z","message":"[info] IhCDK_pSjnk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:10:18Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:10:20Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:10:21Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:10:23Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:10:24Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:10:24Z","message":"[info] Writing video thumbnail 37 to: Mai Yamane - Tasogare - 1980.webp"}
+{"level":"info","time":"2022-05-03T03:10:24Z","message":"[download] Destination: Mai Yamane - Tasogare - 1980.webm"}
+{"level":"info","time":"2022-05-03T03:10:24Z","message":"\r[download]   0.0% of 6.16MiB at 767.06KiB/s ETA 00:08\r[download]   0.0% of 6.16MiB at  1.85MiB/s ETA 00:03 \r[download]   0.1% of 6.16MiB at  3.86MiB/s ETA 00:01\r[download]   0.2% of 6.16MiB at  7.53MiB/s ETA 00:00\r[download]   0.5% of 6.16MiB at  9.93MiB/s ETA 00:00\r[download]   1.0% of 6.16MiB at  3.76MiB/s ETA 00:01\r[download]   2.0% of 6.16MiB at  4.31MiB/s ETA 00:01\r[download]   4.0% of 6.16MiB at  5.96MiB/s ETA 00:00\r[download]   8.1% of 6.16MiB at  8.83MiB/s ETA 00:00\r[download]  16.2% of 6.16MiB at 13.99MiB/s ETA 00:00\r[download]  32.5% of 6.16MiB at 22.90MiB/s ETA 00:00\r[download]  64.9% of 6.16MiB at 38.83MiB/s ETA 00:00\r[download] 100% of 6.16MiB at 50.38MiB/s ETA 00:00  \r[download] 100% of 6.16MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:10:24Z","message":"[ExtractAudio] Destination: Mai Yamane - Tasogare - 1980.mp3"}
+{"level":"info","time":"2022-05-03T03:10:39Z","message":"Deleting original file Mai Yamane - Tasogare - 1980.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:39Z","message":"[Metadata] Adding metadata to \"Mai Yamane - Tasogare - 1980.mp3\""}
+{"level":"info","time":"2022-05-03T03:10:40Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mai Yamane - Tasogare - 1980.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:10:40Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mai Yamane - Tasogare - 1980.mp3\""}
+{"level":"info","time":"2022-05-03T03:10:40Z","message":"Deleting original file Mai Yamane - Tasogare - 1980.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:40Z","message":"Deleting original file Mai Yamane - Tasogare - 1980.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:43Z","message":"[youtube] YmtAWY6Y4F8: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:10:44Z","message":"[youtube] YmtAWY6Y4F8: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:10:45Z","message":"[info] YmtAWY6Y4F8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:10:45Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:10:45Z","message":"[info] Writing video thumbnail 41 to: 森高千里 「17才」  非実力派宣言 (English Subtitles).webp"}
+{"level":"info","time":"2022-05-03T03:10:45Z","message":"[download] Destination: 森高千里 「17才」  非実力派宣言 (English Subtitles).webm"}
+{"level":"info","time":"2022-05-03T03:10:45Z","message":"\r[download]   0.0% of 4.90MiB at 328.35KiB/s ETA 00:15\r[download]   0.1% of 4.90MiB at 898.46KiB/s ETA 00:05\r[download]   0.1% of 4.90MiB at  1.95MiB/s ETA 00:02 \r[download]   0.3% of 4.90MiB at  3.97MiB/s ETA 00:01\r[download]   0.6% of 4.90MiB at  1.88MiB/s ETA 00:02\r[download]   1.3% of 4.90MiB at  2.29MiB/s ETA 00:02\r[download]   2.5% of 4.90MiB at  3.02MiB/s ETA 00:01\r[download]   5.1% of 4.90MiB at  4.67MiB/s ETA 00:00\r[download]  10.2% of 4.90MiB at  7.38MiB/s ETA 00:00\r[download]  20.4% of 4.90MiB at 12.36MiB/s ETA 00:00\r[download]  40.8% of 4.90MiB at 20.46MiB/s ETA 00:00\r[download]  81.6% of 4.90MiB at 34.87MiB/s ETA 00:00\r[download] 100% of 4.90MiB at 41.13MiB/s ETA 00:00  \r[download] 100% of 4.90MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:10:45Z","message":"[ExtractAudio] Destination: 森高千里 「17才」  非実力派宣言 (English Subtitles).mp3"}
+{"level":"info","time":"2022-05-03T03:10:57Z","message":"Deleting original file 森高千里 「17才」  非実力派宣言 (English Subtitles).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:57Z","message":"[Metadata] Adding metadata to \"森高千里 「17才」  非実力派宣言 (English Subtitles).mp3\""}
+{"level":"info","time":"2022-05-03T03:10:57Z","message":"[ThumbnailsConvertor] Converting thumbnail \"森高千里 「17才」  非実力派宣言 (English Subtitles).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:10:58Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"森高千里 「17才」  非実力派宣言 (English Subtitles).mp3\""}
+{"level":"info","time":"2022-05-03T03:10:58Z","message":"Deleting original file 森高千里 「17才」  非実力派宣言 (English Subtitles).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:10:58Z","message":"Deleting original file 森高千里 「17才」  非実力派宣言 (English Subtitles).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:01Z","message":"[youtube] OlAx0a82beU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:11:02Z","message":"[youtube] OlAx0a82beU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:11:02Z","message":"[info] OlAx0a82beU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:11:02Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:11:02Z","message":"[info] Writing video thumbnail 41 to: Plastic Love (cyberpunk|synthwave remix).webp"}
+{"level":"info","time":"2022-05-03T03:11:03Z","message":"[download] Destination: Plastic Love (cyberpunk|synthwave remix).webm"}
+{"level":"info","time":"2022-05-03T03:11:03Z","message":"\r[download]   0.0% of 6.20MiB at 332.20KiB/s ETA 00:19\r[download]   0.0% of 6.20MiB at 876.80KiB/s ETA 00:07\r[download]   0.1% of 6.20MiB at  1.89MiB/s ETA 00:03 \r[download]   0.2% of 6.20MiB at  3.84MiB/s ETA 00:01\r[download]   0.5% of 6.20MiB at  1.91MiB/s ETA 00:03\r[download]   1.0% of 6.20MiB at  2.32MiB/s ETA 00:02\r[download]   2.0% of 6.20MiB at  3.09MiB/s ETA 00:01\r[download]   4.0% of 6.20MiB at  4.73MiB/s ETA 00:01\r[download]   8.1% of 6.20MiB at  7.47MiB/s ETA 00:00\r[download]  16.1% of 6.20MiB at 12.45MiB/s ETA 00:00\r[download]  32.2% of 6.20MiB at 21.11MiB/s ETA 00:00\r[download]  64.5% of 6.20MiB at 36.21MiB/s ETA 00:00\r[download] 100% of 6.20MiB at 48.97MiB/s ETA 00:00  \r[download] 100% of 6.20MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:11:03Z","message":"[ExtractAudio] Destination: Plastic Love (cyberpunk|synthwave remix).mp3"}
+{"level":"info","time":"2022-05-03T03:11:18Z","message":"Deleting original file Plastic Love (cyberpunk|synthwave remix).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:18Z","message":"[Metadata] Adding metadata to \"Plastic Love (cyberpunk|synthwave remix).mp3\""}
+{"level":"info","time":"2022-05-03T03:11:18Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Plastic Love (cyberpunk|synthwave remix).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:11:19Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Plastic Love (cyberpunk|synthwave remix).mp3\""}
+{"level":"info","time":"2022-05-03T03:11:19Z","message":"Deleting original file Plastic Love (cyberpunk|synthwave remix).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:19Z","message":"Deleting original file Plastic Love (cyberpunk|synthwave remix).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:22Z","message":"[youtube] W4CCCGYyn30: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:11:22Z","message":"[youtube] W4CCCGYyn30: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:11:22Z","message":"[info] W4CCCGYyn30: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:11:23Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:11:23Z","message":"[info] Writing video thumbnail 41 to: Dangomau5 Daikazoku (Deadmau5 x Clannad).webp"}
+{"level":"info","time":"2022-05-03T03:11:23Z","message":"[download] Destination: Dangomau5 Daikazoku (Deadmau5 x Clannad).webm"}
+{"level":"info","time":"2022-05-03T03:11:23Z","message":"\r[download]   0.0% of 8.29MiB at 342.73KiB/s ETA 00:24\r[download]   0.0% of 8.29MiB at 904.79KiB/s ETA 00:09\r[download]   0.1% of 8.29MiB at  1.91MiB/s ETA 00:04 \r[download]   0.2% of 8.29MiB at  3.78MiB/s ETA 00:02\r[download]   0.4% of 8.29MiB at  1.95MiB/s ETA 00:04\r[download]   0.7% of 8.29MiB at  2.34MiB/s ETA 00:03\r[download]   1.5% of 8.29MiB at  3.09MiB/s ETA 00:02\r[download]   3.0% of 8.29MiB at  4.73MiB/s ETA 00:01\r[download]   6.0% of 8.29MiB at  7.48MiB/s ETA 00:01\r[download]  12.1% of 8.29MiB at 12.41MiB/s ETA 00:00\r[download]  24.1% of 8.29MiB at 20.54MiB/s ETA 00:00\r[download]  48.3% of 8.29MiB at 16.84MiB/s ETA 00:00\r[download]  96.5% of 8.29MiB at 28.11MiB/s ETA 00:00\r[download] 100% of 8.29MiB at 28.01MiB/s ETA 00:00  \r[download] 100% of 8.29MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:11:23Z","message":"[ExtractAudio] Destination: Dangomau5 Daikazoku (Deadmau5 x Clannad).mp3"}
+{"level":"info","time":"2022-05-03T03:11:43Z","message":"Deleting original file Dangomau5 Daikazoku (Deadmau5 x Clannad).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:43Z","message":"[Metadata] Adding metadata to \"Dangomau5 Daikazoku (Deadmau5 x Clannad).mp3\""}
+{"level":"info","time":"2022-05-03T03:11:43Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Dangomau5 Daikazoku (Deadmau5 x Clannad).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:11:43Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Dangomau5 Daikazoku (Deadmau5 x Clannad).mp3\""}
+{"level":"info","time":"2022-05-03T03:11:43Z","message":"Deleting original file Dangomau5 Daikazoku (Deadmau5 x Clannad).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:43Z","message":"Deleting original file Dangomau5 Daikazoku (Deadmau5 x Clannad).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:46Z","message":"[youtube] 3Udb6n2Ob0M: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"[youtube] 3Udb6n2Ob0M: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"[info] 3Udb6n2Ob0M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"[info] Writing video thumbnail 41 to: kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.webp"}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"[download] Destination: kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.webm"}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"\r[download]   0.0% of 3.83MiB at 319.47KiB/s ETA 00:12\r[download]   0.1% of 3.83MiB at 878.20KiB/s ETA 00:04\r[download]   0.2% of 3.83MiB at  1.91MiB/s ETA 00:02 \r[download]   0.4% of 3.83MiB at  3.89MiB/s ETA 00:00\r[download]   0.8% of 3.83MiB at  1.95MiB/s ETA 00:01\r[download]   1.6% of 3.83MiB at  2.34MiB/s ETA 00:01\r[download]   3.2% of 3.83MiB at  3.11MiB/s ETA 00:01\r[download]   6.5% of 3.83MiB at  4.74MiB/s ETA 00:00\r[download]  13.0% of 3.83MiB at  7.34MiB/s ETA 00:00\r[download]  26.1% of 3.83MiB at 12.26MiB/s ETA 00:00\r[download]  52.2% of 3.83MiB at 20.70MiB/s ETA 00:00\r[download] 100% of 3.83MiB at 33.50MiB/s ETA 00:00  \r[download] 100% of 3.83MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:11:47Z","message":"[ExtractAudio] Destination: kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.mp3"}
+{"level":"info","time":"2022-05-03T03:11:57Z","message":"Deleting original file kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:57Z","message":"[Metadata] Adding metadata to \"kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.mp3\""}
+{"level":"info","time":"2022-05-03T03:11:58Z","message":"[ThumbnailsConvertor] Converting thumbnail \"kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:11:58Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.mp3\""}
+{"level":"info","time":"2022-05-03T03:11:58Z","message":"Deleting original file kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:11:58Z","message":"Deleting original file kissmenerdygirl - ラブリーＢａｂｙ feat. Moemi.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:12:01Z","message":"[youtube] nU9fvuu8vhg: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"[youtube] nU9fvuu8vhg: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"[info] nU9fvuu8vhg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"[info] Writing video thumbnail 41 to: Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).webp"}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"[download] Destination: Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).webm"}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"\r[download]   0.1% of 1.93MiB at 699.75KiB/s ETA 00:02\r[download]   0.2% of 1.93MiB at  1.69MiB/s ETA 00:01 \r[download]   0.4% of 1.93MiB at  3.59MiB/s ETA 00:00\r[download]   0.8% of 1.93MiB at  6.92MiB/s ETA 00:00\r[download]   1.6% of 1.93MiB at  9.80MiB/s ETA 00:00\r[download]   3.2% of 1.93MiB at  3.78MiB/s ETA 00:00\r[download]   6.4% of 1.93MiB at  4.31MiB/s ETA 00:00\r[download]  12.9% of 1.93MiB at  6.07MiB/s ETA 00:00\r[download]  25.8% of 1.93MiB at  9.13MiB/s ETA 00:00\r[download]  51.6% of 1.93MiB at 14.39MiB/s ETA 00:00\r[download] 100% of 1.93MiB at 23.29MiB/s ETA 00:00  \r[download] 100% of 1.93MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:12:02Z","message":"[ExtractAudio] Destination: Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).mp3"}
+{"level":"info","time":"2022-05-03T03:12:08Z","message":"Deleting original file Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:12:08Z","message":"[Metadata] Adding metadata to \"Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).mp3\""}
+{"level":"info","time":"2022-05-03T03:12:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).webp\" to png"}
+{"level":"info","time":"2022-05-03T03:12:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).mp3\""}
+{"level":"info","time":"2022-05-03T03:12:08Z","message":"Deleting original file Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:12:08Z","message":"Deleting original file Plastic JoJo - Sono Chi No Future Funk (plastic love+JJBA).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:12:10Z","message":"[youtube] YoBwKfMluuo: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:12:11Z","message":"[youtube] YoBwKfMluuo: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:12:11Z","message":"[info] YoBwKfMluuo: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:12:11Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:12:11Z","message":"[info] Writing video thumbnail 41 to: 80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.webp"}
+{"level":"info","time":"2022-05-03T03:12:11Z","message":"[download] Destination: 80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.webm"}
+{"level":"info","time":"2022-05-03T03:12:12Z","message":"\r[download]   0.0% of 33.41MiB at 325.85KiB/s ETA 01:46\r[download]   0.0% of 33.41MiB at 876.74KiB/s ETA 00:39\r[download]   0.0% of 33.41MiB at  1.90MiB/s ETA 00:17 \r[download]   0.0% of 33.41MiB at  3.86MiB/s ETA 00:08\r[download]   0.1% of 33.41MiB at  1.96MiB/s ETA 00:17\r[download]   0.2% of 33.41MiB at  2.33MiB/s ETA 00:14\r[download]   0.4% of 33.41MiB at  3.15MiB/s ETA 00:10\r[download]   0.7% of 33.41MiB at  4.82MiB/s ETA 00:06\r[download]   1.5% of 33.41MiB at  7.63MiB/s ETA 00:04\r[download]   3.0% of 33.41MiB at 12.58MiB/s ETA 00:02\r[download]   6.0% of 33.41MiB at 21.54MiB/s ETA 00:01\r[download]  12.0% of 33.41MiB at 37.07MiB/s ETA 00:00\r[download]  23.9% of 33.41MiB at 45.82MiB/s ETA 00:00\r[download]  29.7% of 33.41MiB at 54.43MiB/s ETA 00:00\r[download]  29.7% of 33.41MiB at 311.01KiB/s ETA 01:17\r[download]  29.7% of 33.41MiB at 850.77KiB/s ETA 00:28\r[download]  29.7% of 33.41MiB at  1.84MiB/s ETA 00:12 \r[download]  29.7% of 33.41MiB at  3.65MiB/s ETA 00:06\r[download]  29.8% of 33.41MiB at  1.94MiB/s ETA 00:12\r[download]  29.9% of 33.41MiB at  2.31MiB/s ETA 00:10\r[download]  30.0% of 33.41MiB at  3.06MiB/s ETA 00:07\r[download]  30.4% of 33.41MiB at  4.73MiB/s ETA 00:04\r[download]  31.2% of 33.41MiB at  7.57MiB/s ETA 00:03\r[download]  32.7% of 33.41MiB at 12.68MiB/s ETA 00:01\r[download]  35.7% of 33.41MiB at 21.29MiB/s ETA 00:01\r[download]  41.6% of 33.41MiB at 33.66MiB/s ETA 00:00\r[download]  53.6% of 33.41MiB at 45.81MiB/s ETA 00:00\r[download]  58.3% of 33.41MiB at 35.11MiB/s ETA 00:00\r[download]  58.3% of 33.41MiB at 316.03KiB/s ETA 00:45\r[download]  58.3% of 33.41MiB at 855.98KiB/s ETA 00:16\r[download]  58.3% of 33.41MiB at  1.84MiB/s ETA 00:07 \r[download]  58.3% of 33.41MiB at  3.72MiB/s ETA 00:03\r[download]  58.4% of 33.41MiB at  1.88MiB/s ETA 00:07\r[download]  58.5% of 33.41MiB at  2.25MiB/s ETA 00:06\r[download]  58.7% of 33.41MiB at  3.03MiB/s ETA 00:04\r[download]  59.0% of 33.41MiB at  4.59MiB/s ETA 00:02\r[download]  59.8% of 33.41MiB at  7.36MiB/s ETA 00:01\r[download]  61.3% of 33.41MiB at 10.07MiB/s ETA 00:01\r[download]  64.3% of 33.41MiB at 16.58MiB/s ETA 00:00\r[download]  70.3% of 33.41MiB at 29.00MiB/s ETA 00:00\r[download]  82.2% of 33.41MiB at 49.46MiB/s ETA 00:00\r[download]  87.3% of 33.41MiB at 55.71MiB/s ETA 00:00\r[download]  87.3% of 33.41MiB at 320.35KiB/s ETA 00:13\r[download]  87.3% of 33.41MiB at 881.16KiB/s ETA 00:04\r[download]  87.4% of 33.41MiB at  1.92MiB/s ETA 00:02 \r[download]  87.4% of 33.41MiB at  3.91MiB/s ETA 00:01\r[download]  87.4% of 33.41MiB at  1.86MiB/s ETA 00:02\r[download]  87.5% of 33.41MiB at  2.28MiB/s ETA 00:01\r[download]  87.7% of 33.41MiB at  3.02MiB/s ETA 00:01\r[download]  88.1% of 33.41MiB at  4.66MiB/s ETA 00:00\r[download]  88.8% of 33.41MiB at  7.39MiB/s ETA 00:00\r[download]  90.3% of 33.41MiB at  7.44MiB/s ETA 00:00\r[download]  93.3% of 33.41MiB at 13.23MiB/s ETA 00:00\r[download]  99.3% of 33.41MiB at 21.31MiB/s ETA 00:00\r[download] 100% of 33.41MiB at 22.39MiB/s ETA 00:00  \r[download] 100% of 33.41MiB in 00:01               "}
+{"level":"info","time":"2022-05-03T03:12:12Z","message":"[ExtractAudio] Destination: 80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.mp3"}
+{"level":"info","time":"2022-05-03T03:13:33Z","message":"Deleting original file 80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:13:33Z","message":"[Metadata] Adding metadata to \"80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.mp3\""}
+{"level":"info","time":"2022-05-03T03:13:34Z","message":"[ThumbnailsConvertor] Converting thumbnail \"80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:13:34Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.mp3\""}
+{"level":"info","time":"2022-05-03T03:13:36Z","message":"Deleting original file 80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:13:36Z","message":"Deleting original file 80년대 일본을 느껴보자 감성 시티팝 플레이리스트 Japanese City Pop Playlist.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:13:40Z","message":"[youtube] Bz812-cvPYc: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:13:40Z","message":"[youtube] Bz812-cvPYc: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:13:40Z","message":"[info] Bz812-cvPYc: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:13:40Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:13:41Z","message":"[info] Writing video thumbnail 41 to: ミカヅキBIGWAVE - Enoshima Island 江ノ島.webp"}
+{"level":"info","time":"2022-05-03T03:13:41Z","message":"[download] Destination: ミカヅキBIGWAVE - Enoshima Island 江ノ島.webm"}
+{"level":"info","time":"2022-05-03T03:13:41Z","message":"\r[download]   0.0% of 3.39MiB at 324.11KiB/s ETA 00:10\r[download]   0.1% of 3.39MiB at 879.19KiB/s ETA 00:03\r[download]   0.2% of 3.39MiB at  1.91MiB/s ETA 00:01 \r[download]   0.4% of 3.39MiB at  3.89MiB/s ETA 00:00\r[download]   0.9% of 3.39MiB at  1.95MiB/s ETA 00:01\r[download]   1.8% of 3.39MiB at  2.31MiB/s ETA 00:01\r[download]   3.7% of 3.39MiB at  3.13MiB/s ETA 00:01\r[download]   7.4% of 3.39MiB at  4.81MiB/s ETA 00:00\r[download]  14.7% of 3.39MiB at  7.43MiB/s ETA 00:00\r[download]  29.5% of 3.39MiB at 12.20MiB/s ETA 00:00\r[download]  59.1% of 3.39MiB at 20.67MiB/s ETA 00:00\r[download] 100% of 3.39MiB at 28.02MiB/s ETA 00:00  \r[download] 100% of 3.39MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:13:41Z","message":"[ExtractAudio] Destination: ミカヅキBIGWAVE - Enoshima Island 江ノ島.mp3"}
+{"level":"info","time":"2022-05-03T03:13:50Z","message":"Deleting original file ミカヅキBIGWAVE - Enoshima Island 江ノ島.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:13:50Z","message":"[Metadata] Adding metadata to \"ミカヅキBIGWAVE - Enoshima Island 江ノ島.mp3\""}
+{"level":"info","time":"2022-05-03T03:13:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"ミカヅキBIGWAVE - Enoshima Island 江ノ島.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:13:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"ミカヅキBIGWAVE - Enoshima Island 江ノ島.mp3\""}
+{"level":"info","time":"2022-05-03T03:13:51Z","message":"Deleting original file ミカヅキBIGWAVE - Enoshima Island 江ノ島.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:13:51Z","message":"Deleting original file ミカヅキBIGWAVE - Enoshima Island 江ノ島.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:13:53Z","message":"[youtube] fJ_DH7jzoxQ: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:13:53Z","message":"[youtube] fJ_DH7jzoxQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:13:53Z","message":"[info] fJ_DH7jzoxQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:13:53Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:13:55Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T03:13:56Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T03:13:57Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T03:13:58Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T03:13:58Z","message":"[info] Writing video thumbnail 37 to: Perfect Blue - 01 Angel Of Love.webp"}
+{"level":"info","time":"2022-05-03T03:13:58Z","message":"[download] Destination: Perfect Blue - 01 Angel Of Love.webm"}
+{"level":"info","time":"2022-05-03T03:13:59Z","message":"\r[download]   0.0% of 4.01MiB at 310.00KiB/s ETA 00:13\r[download]   0.1% of 4.01MiB at 846.71KiB/s ETA 00:04\r[download]   0.2% of 4.01MiB at  1.84MiB/s ETA 00:02 \r[download]   0.4% of 4.01MiB at  3.75MiB/s ETA 00:01\r[download]   0.8% of 4.01MiB at  1.57MiB/s ETA 00:02\r[download]   1.5% of 4.01MiB at  2.33MiB/s ETA 00:01\r[download]   3.1% of 4.01MiB at  3.16MiB/s ETA 00:01\r[download]   6.2% of 4.01MiB at  4.82MiB/s ETA 00:00\r[download]  12.4% of 4.01MiB at  7.62MiB/s ETA 00:00\r[download]  24.9% of 4.01MiB at 12.60MiB/s ETA 00:00\r[download]  49.9% of 4.01MiB at 21.47MiB/s ETA 00:00\r[download]  99.8% of 4.01MiB at 36.97MiB/s ETA 00:00\r[download] 100% of 4.01MiB at 36.16MiB/s ETA 00:00  \r[download] 100% of 4.01MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:13:59Z","message":"[ExtractAudio] Destination: Perfect Blue - 01 Angel Of Love.mp3"}
+{"level":"info","time":"2022-05-03T03:14:08Z","message":"Deleting original file Perfect Blue - 01 Angel Of Love.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:08Z","message":"[Metadata] Adding metadata to \"Perfect Blue - 01 Angel Of Love.mp3\""}
+{"level":"info","time":"2022-05-03T03:14:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Perfect Blue - 01 Angel Of Love.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:14:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Perfect Blue - 01 Angel Of Love.mp3\""}
+{"level":"info","time":"2022-05-03T03:14:08Z","message":"Deleting original file Perfect Blue - 01 Angel Of Love.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:08Z","message":"Deleting original file Perfect Blue - 01 Angel Of Love.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:11Z","message":"[youtube] S4ikZhFi-VU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"[youtube] S4ikZhFi-VU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"[info] S4ikZhFi-VU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"[info] Writing video thumbnail 41 to: Night Tempo - Heart Break.webp"}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"[download] Destination: Night Tempo - Heart Break.webm"}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"\r[download]   0.0% of 3.19MiB at 330.16KiB/s ETA 00:09\r[download]   0.1% of 3.19MiB at 899.61KiB/s ETA 00:03\r[download]   0.2% of 3.19MiB at  1.95MiB/s ETA 00:01 \r[download]   0.5% of 3.19MiB at  3.97MiB/s ETA 00:00\r[download]   1.0% of 3.19MiB at  1.97MiB/s ETA 00:01\r[download]   1.9% of 3.19MiB at  2.32MiB/s ETA 00:01\r[download]   3.9% of 3.19MiB at  3.14MiB/s ETA 00:00\r[download]   7.8% of 3.19MiB at  4.82MiB/s ETA 00:00\r[download]  15.7% of 3.19MiB at  7.65MiB/s ETA 00:00\r[download]  31.4% of 3.19MiB at 12.73MiB/s ETA 00:00\r[download]  62.7% of 3.19MiB at  8.43MiB/s ETA 00:00\r[download] 100% of 3.19MiB at 13.16MiB/s ETA 00:00  \r[download] 100% of 3.19MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:14:12Z","message":"[ExtractAudio] Destination: Night Tempo - Heart Break.mp3"}
+{"level":"info","time":"2022-05-03T03:14:21Z","message":"Deleting original file Night Tempo - Heart Break.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:21Z","message":"[Metadata] Adding metadata to \"Night Tempo - Heart Break.mp3\""}
+{"level":"info","time":"2022-05-03T03:14:21Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Night Tempo - Heart Break.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:14:22Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Night Tempo - Heart Break.mp3\""}
+{"level":"info","time":"2022-05-03T03:14:22Z","message":"Deleting original file Night Tempo - Heart Break.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:22Z","message":"Deleting original file Night Tempo - Heart Break.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:26Z","message":"[youtube] ouZ09eI5PYU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:14:26Z","message":"[youtube] ouZ09eI5PYU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:14:27Z","message":"[info] ouZ09eI5PYU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:14:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:14:27Z","message":"[info] Writing video thumbnail 41 to: Greyl - kanojo ni natta no.webp"}
+{"level":"info","time":"2022-05-03T03:14:27Z","message":"[download] Destination: Greyl - kanojo ni natta no.webm"}
+{"level":"info","time":"2022-05-03T03:14:27Z","message":"\r[download]   0.0% of 4.40MiB at 321.43KiB/s ETA 00:14\r[download]   0.1% of 4.40MiB at 867.49KiB/s ETA 00:05\r[download]   0.2% of 4.40MiB at  1.88MiB/s ETA 00:02 \r[download]   0.3% of 4.40MiB at  3.83MiB/s ETA 00:01\r[download]   0.7% of 4.40MiB at  1.94MiB/s ETA 00:02\r[download]   1.4% of 4.40MiB at  2.31MiB/s ETA 00:01\r[download]   2.8% of 4.40MiB at  3.08MiB/s ETA 00:01\r[download]   5.7% of 4.40MiB at  4.72MiB/s ETA 00:00\r[download]  11.3% of 4.40MiB at  7.46MiB/s ETA 00:00\r[download]  22.7% of 4.40MiB at 12.42MiB/s ETA 00:00\r[download]  45.4% of 4.40MiB at 20.96MiB/s ETA 00:00\r[download]  90.8% of 4.40MiB at 36.32MiB/s ETA 00:00\r[download] 100% of 4.40MiB at 38.60MiB/s ETA 00:00  \r[download] 100% of 4.40MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:14:27Z","message":"[ExtractAudio] Destination: Greyl - kanojo ni natta no.mp3"}
+{"level":"info","time":"2022-05-03T03:14:38Z","message":"Deleting original file Greyl - kanojo ni natta no.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:38Z","message":"[Metadata] Adding metadata to \"Greyl - kanojo ni natta no.mp3\""}
+{"level":"info","time":"2022-05-03T03:14:38Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Greyl - kanojo ni natta no.webp\" to png"}
+{"level":"info","time":"2022-05-03T03:14:38Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Greyl - kanojo ni natta no.mp3\""}
+{"level":"info","time":"2022-05-03T03:14:39Z","message":"Deleting original file Greyl - kanojo ni natta no.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:39Z","message":"Deleting original file Greyl - kanojo ni natta no.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T03:14:41Z","message":"[youtube] -7TS3Ayjdlk: Downloading webpage"}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"[youtube] -7TS3Ayjdlk: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"[info] -7TS3Ayjdlk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"[info] Writing video thumbnail 41 to: Discandy - Tasty Carrots.webp"}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"[download] Destination: Discandy - Tasty Carrots.webm"}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"\r[download]   0.0% of 2.65MiB at 282.10KiB/s ETA 00:09\r[download]   0.1% of 2.65MiB at 774.14KiB/s ETA 00:03\r[download]   0.3% of 2.65MiB at  1.68MiB/s ETA 00:01 \r[download]   0.6% of 2.65MiB at  3.45MiB/s ETA 00:00\r[download]   1.1% of 2.65MiB at  1.97MiB/s ETA 00:01\r[download]   2.3% of 2.65MiB at  2.33MiB/s ETA 00:01\r[download]   4.7% of 2.65MiB at  3.15MiB/s ETA 00:00\r[download]   9.4% of 2.65MiB at  4.81MiB/s ETA 00:00\r[download]  18.8% of 2.65MiB at  7.60MiB/s ETA 00:00\r[download]  37.7% of 2.65MiB at 12.56MiB/s ETA 00:00\r[download]  75.5% of 2.65MiB at 21.42MiB/s ETA 00:00\r[download] 100% of 2.65MiB at 26.72MiB/s ETA 00:00  \r[download] 100% of 2.65MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T03:14:42Z","message":"[ExtractAudio] Destination: Discandy - Tasty Carrots.mp3"}
