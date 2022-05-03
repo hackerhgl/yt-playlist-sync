@@ -164,3 +164,60 @@
 {"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Downloading video thumbnail 41 ..."}
 {"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
 {"level":"info","time":"2022-05-03T07:12:23+05:00","message":"[download] Destination: Melanie Martinez - Play Date (Official Audio).webm"}
+{"level":"info","time":"2022-05-03T02:14:22Z","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"[download] Destination: Melanie Martinez - Play Date (Official Audio).webm"}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"\r[download]   0.0% of 2.81MiB at Unknown speed ETA Unknown\r[download]   0.1% of 2.81MiB at  2.50MiB/s ETA 00:01     \r[download]   0.2% of 2.81MiB at  4.54MiB/s ETA 00:00\r[download]   0.5% of 2.81MiB at  7.81MiB/s ETA 00:00\r[download]   1.1% of 2.81MiB at  6.93MiB/s ETA 00:00\r[download]   2.2% of 2.81MiB at  7.04MiB/s ETA 00:00\r[download]   4.4% of 2.81MiB at  9.04MiB/s ETA 00:00\r[download]   8.9% of 2.81MiB at 14.32MiB/s ETA 00:00\r[download]  17.7% of 2.81MiB at 21.68MiB/s ETA 00:00\r[download]  35.5% of 2.81MiB at 34.28MiB/s ETA 00:00\r[download]  71.1% of 2.81MiB at 52.81MiB/s ETA 00:00\r[download] 100% of 2.81MiB at 69.48MiB/s ETA 00:00  \r[download] 100% of 2.81MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:14:23Z","message":"[ExtractAudio] Destination: Melanie Martinez - Play Date (Official Audio).mp3"}
+{"level":"info","time":"2022-05-03T02:14:30Z","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:14:30Z","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-05-03T02:14:30Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:14:31Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date (Official Audio).mp3\""}
+{"level":"info","time":"2022-05-03T02:14:31Z","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:14:31Z","message":"Deleting original file Melanie Martinez - Play Date (Official Audio).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:14:35Z","message":"[youtube] nLnp0tpZ0ok: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:14:35Z","message":"[youtube] nLnp0tpZ0ok: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:14:37Z","message":"[info] nLnp0tpZ0ok: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:14:37Z","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-05-03T02:14:37Z","message":"[info] Writing video thumbnail 45 to: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp"}
+{"level":"info","time":"2022-05-03T02:14:37Z","message":"[download] Destination: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm"}
+{"level":"info","time":"2022-05-03T02:14:37Z","message":"\r[download]   0.0% of 3.72MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.72MiB at Unknown speed ETA Unknown\r[download]   0.2% of 3.72MiB at  5.30MiB/s ETA 00:00     \r[download]   0.4% of 3.72MiB at  8.81MiB/s ETA 00:00\r[download]   0.8% of 3.72MiB at  6.83MiB/s ETA 00:00\r[download]   1.7% of 3.72MiB at  7.14MiB/s ETA 00:00\r[download]   3.3% of 3.72MiB at  8.88MiB/s ETA 00:00\r[download]   6.7% of 3.72MiB at 14.43MiB/s ETA 00:00\r[download]  13.4% of 3.72MiB at 20.66MiB/s ETA 00:00\r[download]  26.8% of 3.72MiB at 33.92MiB/s ETA 00:00\r[download]  53.7% of 3.72MiB at 54.68MiB/s ETA 00:00\r[download] 100% of 3.72MiB at 84.39MiB/s ETA 00:00  \r[download] 100% of 3.72MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:14:37Z","message":"[ExtractAudio] Destination: PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3"}
+{"level":"info","time":"2022-05-03T02:14:46Z","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:14:46Z","message":"[Metadata] Adding metadata to \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-05-03T02:14:46Z","message":"[ThumbnailsConvertor] Converting thumbnail \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp\" to png"}
+{"level":"info","time":"2022-05-03T02:14:46Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].mp3\""}
+{"level":"info","time":"2022-05-03T02:14:46Z","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:14:46Z","message":"Deleting original file PUBLIC - Make You Mine (Put Your Hand in Mine) [Official Video].png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:14:49Z","message":"[youtube] zw47ymC0RNQ: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:14:50Z","message":"[youtube] zw47ymC0RNQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:14:50Z","message":"[youtube] zw47ymC0RNQ: Downloading player dfe7ea14"}
+{"level":"info","time":"2022-05-03T02:14:51Z","message":"[info] zw47ymC0RNQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:14:51Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:14:51Z","message":"[info] Writing video thumbnail 41 to: saib. - in your arms..webp"}
+{"level":"info","time":"2022-05-03T02:14:51Z","message":"[download] Destination: saib. - in your arms..webm"}
+{"level":"info","time":"2022-05-03T02:14:51Z","message":"\r[download]   0.0% of 4.57MiB at Unknown speed ETA Unknown\r[download]   0.1% of 4.57MiB at  1.87MiB/s ETA 00:02     \r[download]   0.1% of 4.57MiB at  3.71MiB/s ETA 00:01\r[download]   0.3% of 4.57MiB at  6.88MiB/s ETA 00:00\r[download]   0.7% of 4.57MiB at  7.25MiB/s ETA 00:00\r[download]   1.3% of 4.57MiB at  7.53MiB/s ETA 00:00\r[download]   2.7% of 4.57MiB at 10.83MiB/s ETA 00:00\r[download]   5.5% of 4.57MiB at 14.53MiB/s ETA 00:00\r[download]  10.9% of 4.57MiB at 22.68MiB/s ETA 00:00\r[download]  21.9% of 4.57MiB at 37.00MiB/s ETA 00:00\r[download]  43.8% of 4.57MiB at 60.94MiB/s ETA 00:00\r[download]  87.5% of 4.57MiB at 92.20MiB/s ETA 00:00\r[download] 100% of 4.57MiB at 94.96MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:14:51Z","message":"[ExtractAudio] Destination: saib. - in your arms..mp3"}
+{"level":"info","time":"2022-05-03T02:15:02Z","message":"Deleting original file saib. - in your arms..webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:15:02Z","message":"[Metadata] Adding metadata to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-05-03T02:15:02Z","message":"[ThumbnailsConvertor] Converting thumbnail \"saib. - in your arms..webp\" to png"}
+{"level":"info","time":"2022-05-03T02:15:02Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"saib. - in your arms..mp3\""}
+{"level":"info","time":"2022-05-03T02:15:03Z","message":"Deleting original file saib. - in your arms..png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:15:03Z","message":"Deleting original file saib. - in your arms..webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:15:06Z","message":"[youtube] YaEG2aWJnZ8: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:15:06Z","message":"[youtube] YaEG2aWJnZ8: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:15:06Z","message":"[info] YaEG2aWJnZ8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:15:06Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:15:07Z","message":"[info] Writing video thumbnail 41 to: Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webp"}
+{"level":"info","time":"2022-05-03T02:15:07Z","message":"[download] Destination: Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm"}
+{"level":"info","time":"2022-05-03T02:15:07Z","message":"\r[download]   0.0% of 3.45MiB at 126.66KiB/s ETA 00:28\r[download]   0.1% of 3.45MiB at 352.21KiB/s ETA 00:10\r[download]   0.2% of 3.45MiB at 789.80KiB/s ETA 00:04\r[download]   0.4% of 3.45MiB at  1.59MiB/s ETA 00:02 \r[download]   0.9% of 3.45MiB at  3.13MiB/s ETA 00:01\r[download]   1.8% of 3.45MiB at  6.08MiB/s ETA 00:00\r[download]   3.6% of 3.45MiB at  8.70MiB/s ETA 00:00\r[download]   7.2% of 3.45MiB at 12.40MiB/s ETA 00:00\r[download]  14.5% of 3.45MiB at 17.52MiB/s ETA 00:00\r[download]  29.0% of 3.45MiB at 28.87MiB/s ETA 00:00\r[download]  58.0% of 3.45MiB at 47.68MiB/s ETA 00:00\r[download] 100% of 3.45MiB at 70.09MiB/s ETA 00:00  \r[download] 100% of 3.45MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:15:07Z","message":"[ExtractAudio] Destination: Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3"}
+{"level":"info","time":"2022-05-03T02:15:18Z","message":"Deleting original file Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:15:18Z","message":"[Metadata] Adding metadata to \"Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3\""}
+{"level":"info","time":"2022-05-03T02:15:18Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:15:18Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).mp3\""}
+{"level":"info","time":"2022-05-03T02:15:18Z","message":"Deleting original file Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:15:18Z","message":"Deleting original file Sia - Unstoppable (Official Video - Live from the Nostalgic For The Present Tour).webp (pass -k to keep)"}
