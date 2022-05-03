@@ -47,3 +47,9 @@
 {"level":"info","time":"2022-05-03T07:07:40+05:00","message":"[info] Downloading video thumbnail 41 ..."}
 {"level":"info","time":"2022-05-03T07:07:41+05:00","message":"[info] Writing video thumbnail 41 to: The Weeknd - Blinding Lights (Official Audio).webp"}
 {"level":"info","time":"2022-05-03T07:07:41+05:00","message":"[download] Destination: The Weeknd - Blinding Lights (Official Audio).webm"}
+{"level":"info","time":"2022-05-03T07:12:20+05:00","message":"[youtube] f-g_SHNv5NI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:12:21+05:00","message":"[youtube] f-g_SHNv5NI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] f-g_SHNv5NI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Writing video thumbnail 41 to: The Weeknd - Save Your Tears | In Your Eyes (Live on The 2020 American Music Awards).webp"}
+{"level":"info","time":"2022-05-03T07:12:23+05:00","message":"[download] Destination: The Weeknd - Save Your Tears | In Your Eyes (Live on The 2020 American Music Awards).webm"}

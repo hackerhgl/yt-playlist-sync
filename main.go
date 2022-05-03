@@ -51,6 +51,12 @@ func main() {
 	}
 
 	playlist, total = GetFilteredPlaylist(playlist, files)
+
+	if total == 0 {
+		println("Playlist is synced")
+		return
+	}
+
 	batches, perBatch, batchesSize := CalculateBatches(total)
 	var wg sync.WaitGroup
 	wg.Add(batchesSize)

@@ -330,3 +330,10 @@
 {"level":"info","time":"2022-05-03T07:09:07+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"saib. - in your arms..mp3\""}
 {"level":"info","time":"2022-05-03T07:09:07+05:00","message":"Deleting original file saib. - in your arms..png (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T07:09:07+05:00","message":"Deleting original file saib. - in your arms..webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:12:20+05:00","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:12:23+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T07:12:24+05:00","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-05-03T07:12:24+05:00","message":"[download] Destination: Adele - Skyfall (Lyric Video).webm"}

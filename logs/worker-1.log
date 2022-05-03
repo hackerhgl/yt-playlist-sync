@@ -158,3 +158,9 @@
 {"level":"info","time":"2022-05-03T07:09:05+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video).mp3\""}
 {"level":"info","time":"2022-05-03T07:09:05+05:00","message":"Deleting original file The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video).png (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T07:09:05+05:00","message":"Deleting original file The Weeknd & Ariana Grande - Save Your Tears (Remix) (Official Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T07:12:20+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading webpage"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[youtube] Nxs_mpWt2BA: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Nxs_mpWt2BA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T07:12:22+05:00","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date (Official Audio).webp"}
+{"level":"info","time":"2022-05-03T07:12:23+05:00","message":"[download] Destination: Melanie Martinez - Play Date (Official Audio).webm"}
