@@ -1691,3 +1691,31 @@
 {"level":"info","time":"2022-05-03T03:14:42Z","message":"[download] Destination: Discandy - Tasty Carrots.webm"}
 {"level":"info","time":"2022-05-03T03:14:42Z","message":"\r[download]   0.0% of 2.65MiB at 282.10KiB/s ETA 00:09\r[download]   0.1% of 2.65MiB at 774.14KiB/s ETA 00:03\r[download]   0.3% of 2.65MiB at  1.68MiB/s ETA 00:01 \r[download]   0.6% of 2.65MiB at  3.45MiB/s ETA 00:00\r[download]   1.1% of 2.65MiB at  1.97MiB/s ETA 00:01\r[download]   2.3% of 2.65MiB at  2.33MiB/s ETA 00:01\r[download]   4.7% of 2.65MiB at  3.15MiB/s ETA 00:00\r[download]   9.4% of 2.65MiB at  4.81MiB/s ETA 00:00\r[download]  18.8% of 2.65MiB at  7.60MiB/s ETA 00:00\r[download]  37.7% of 2.65MiB at 12.56MiB/s ETA 00:00\r[download]  75.5% of 2.65MiB at 21.42MiB/s ETA 00:00\r[download] 100% of 2.65MiB at 26.72MiB/s ETA 00:00  \r[download] 100% of 2.65MiB in 00:00               "}
 {"level":"info","time":"2022-05-03T03:14:42Z","message":"[ExtractAudio] Destination: Discandy - Tasty Carrots.mp3"}
+{"level":"info","time":"2022-05-03T23:48:44+05:00","message":"[youtube] ZBkoJLclZkk: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:48:49+05:00","message":"[youtube] ZBkoJLclZkk: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:48:51+05:00","message":"[info] ZBkoJLclZkk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T23:48:51+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T23:48:53+05:00","message":"[info] Writing video thumbnail 41 to: Sex And The City 2 - Girls Singing 'I Am Woman'..webp"}
+{"level":"info","time":"2022-05-03T23:48:55+05:00","message":"[download] Destination: Sex And The City 2 - Girls Singing 'I Am Woman'..webm"}
+{"level":"info","time":"2022-05-03T23:48:59+05:00","message":"\r[download]   0.0% of 2.55MiB at 49.64KiB/s ETA 00:52\r[download]   0.1% of 2.55MiB at 147.94KiB/s ETA 00:17\r[download]   0.3% of 2.55MiB at 343.54KiB/s ETA 00:07\r[download]   0.6% of 2.55MiB at 732.92KiB/s ETA 00:03\r[download]   1.2% of 2.55MiB at 311.20KiB/s ETA 00:08\r[download]   2.4% of 2.55MiB at 373.68KiB/s ETA 00:06\r[download]   4.9% of 2.55MiB at 274.36KiB/s ETA 00:09\r[download]   9.8% of 2.55MiB at 269.80KiB/s ETA 00:08\r[download]  19.6% of 2.55MiB at 295.86KiB/s ETA 00:07\r[download]  32.1% of 2.55MiB at 377.39KiB/s ETA 00:04\r[download]  57.2% of 2.55MiB at 481.97KiB/s ETA 00:02\r[download]  85.8% of 2.55MiB at 604.54KiB/s ETA 00:00\r[download] 100% of 2.55MiB at 647.36KiB/s ETA 00:00  \r[download] 100% of 2.55MiB in 00:05                "}
+{"level":"info","time":"2022-05-03T23:48:59+05:00","message":"[ExtractAudio] Destination: Sex And The City 2 - Girls Singing 'I Am Woman'..mp3"}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"Deleting original file Sex And The City 2 - Girls Singing 'I Am Woman'..webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"[Metadata] Adding metadata to \"Sex And The City 2 - Girls Singing 'I Am Woman'..mp3\""}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Sex And The City 2 - Girls Singing 'I Am Woman'..webp\" to png"}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Sex And The City 2 - Girls Singing 'I Am Woman'..mp3\""}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"Deleting original file Sex And The City 2 - Girls Singing 'I Am Woman'..webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"Deleting original file Sex And The City 2 - Girls Singing 'I Am Woman'..png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:52:24+05:00","message":"[youtube] iCyyC2k6eKA: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:52:29+05:00","message":"[youtube] iCyyC2k6eKA: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:52:31+05:00","message":"[info] iCyyC2k6eKA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T23:52:31+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T23:52:32+05:00","message":"[info] Writing video thumbnail 41 to: Nightcore - I'll Move On.webp"}
+{"level":"info","time":"2022-05-03T23:52:34+05:00","message":"[download] Destination: Nightcore - I'll Move On.webm"}
+{"level":"info","time":"2022-05-03T23:52:37+05:00","message":"\r[download]   0.0% of 2.58MiB at 976.56KiB/s ETA 00:02\r[download]   0.1% of 2.58MiB at  1.84MiB/s ETA 00:01 \r[download]   0.3% of 2.58MiB at  3.42MiB/s ETA 00:00\r[download]   0.6% of 2.58MiB at  6.11MiB/s ETA 00:00\r[download]   1.2% of 2.58MiB at 613.49KiB/s ETA 00:04\r[download]   2.4% of 2.58MiB at  1.15MiB/s ETA 00:02 \r[download]   4.8% of 2.58MiB at  1.15MiB/s ETA 00:02\r[download]   9.6% of 2.58MiB at 129.34KiB/s ETA 00:18\r[download]  12.2% of 2.58MiB at 150.98KiB/s ETA 00:15\r[download]  17.4% of 2.58MiB at 212.52KiB/s ETA 00:10\r[download]  27.8% of 2.58MiB at 327.78KiB/s ETA 00:05\r[download]  48.6% of 2.58MiB at 535.27KiB/s ETA 00:02\r[download]  90.2% of 2.58MiB at 767.71KiB/s ETA 00:00\r[download] 100% of 2.58MiB at 833.58KiB/s ETA 00:00  \r[download] 100% of 2.58MiB in 00:03                "}
+{"level":"info","time":"2022-05-03T23:52:37+05:00","message":"[ExtractAudio] Destination: Nightcore - I'll Move On.mp3"}
+{"level":"info","time":"2022-05-03T23:52:39+05:00","message":"Deleting original file Nightcore - I'll Move On.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:52:39+05:00","message":"[Metadata] Adding metadata to \"Nightcore - I'll Move On.mp3\""}
+{"level":"info","time":"2022-05-03T23:52:39+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - I'll Move On.webp\" to png"}
+{"level":"info","time":"2022-05-03T23:52:39+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - I'll Move On.mp3\""}
+{"level":"info","time":"2022-05-03T23:52:39+05:00","message":"Deleting original file Nightcore - I'll Move On.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:52:39+05:00","message":"Deleting original file Nightcore - I'll Move On.png (pass -k to keep)"}

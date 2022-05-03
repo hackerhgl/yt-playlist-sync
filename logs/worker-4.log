@@ -74,3 +74,37 @@
 {"level":"info","time":"2022-05-03T03:02:26Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Rasputin (Remix).mp3\""}
 {"level":"info","time":"2022-05-03T03:02:26Z","message":"Deleting original file Nightcore - Rasputin (Remix).webp (pass -k to keep)"}
 {"level":"info","time":"2022-05-03T03:02:26Z","message":"Deleting original file Nightcore - Rasputin (Remix).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:48:44+05:00","message":"[youtube] 2ziqtyseR3M: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:48:48+05:00","message":"[youtube] 2ziqtyseR3M: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:48:50+05:00","message":"[info] 2ziqtyseR3M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T23:48:50+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T23:48:52+05:00","message":"[info] Writing video thumbnail 41 to: Nightcore  - Everytime We Touch (Remix) ✕.webp"}
+{"level":"info","time":"2022-05-03T23:48:54+05:00","message":"[download] Destination: Nightcore  - Everytime We Touch (Remix) ✕.webm"}
+{"level":"info","time":"2022-05-03T23:48:58+05:00","message":"\r[download]   0.0% of 3.05MiB at 14.84KiB/s ETA 03:30\r[download]   0.1% of 3.05MiB at 43.87KiB/s ETA 01:11\r[download]   0.2% of 3.05MiB at 101.50KiB/s ETA 00:30\r[download]   0.5% of 3.05MiB at 215.77KiB/s ETA 00:14\r[download]   1.0% of 3.05MiB at 443.04KiB/s ETA 00:06\r[download]   2.0% of 3.05MiB at 369.82KiB/s ETA 00:08\r[download]   4.1% of 3.05MiB at 545.17KiB/s ETA 00:05\r[download]   8.2% of 3.05MiB at 668.81KiB/s ETA 00:04\r[download]  16.4% of 3.05MiB at 869.73KiB/s ETA 00:03\r[download]  32.7% of 3.05MiB at 729.03KiB/s ETA 00:02\r[download]  52.8% of 3.05MiB at 702.07KiB/s ETA 00:02\r[download]  74.0% of 3.05MiB at 794.02KiB/s ETA 00:01\r[download] 100% of 3.05MiB at 846.76KiB/s ETA 00:00  \r[download] 100% of 3.05MiB in 00:04                "}
+{"level":"info","time":"2022-05-03T23:48:58+05:00","message":"[ExtractAudio] Destination: Nightcore  - Everytime We Touch (Remix) ✕.mp3"}
+{"level":"info","time":"2022-05-03T23:49:00+05:00","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:49:00+05:00","message":"[Metadata] Adding metadata to \"Nightcore  - Everytime We Touch (Remix) ✕.mp3\""}
+{"level":"info","time":"2022-05-03T23:49:00+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore  - Everytime We Touch (Remix) ✕.webp\" to png"}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore  - Everytime We Touch (Remix) ✕.mp3\""}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:49:01+05:00","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:52:24+05:00","message":"[youtube] Xl79bqBieT4: Downloading webpage"}
+{"level":"info","time":"2022-05-03T23:52:29+05:00","message":"[youtube] Xl79bqBieT4: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T23:52:31+05:00","message":"[info] Xl79bqBieT4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T23:52:31+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T23:52:35+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T23:52:40+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T23:52:45+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T23:52:49+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T23:52:59+05:00","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T23:53:04+05:00","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-05-03T23:53:06+05:00","message":"[info] Writing video thumbnail 35 to: Boom - How Do You Do (Official UK Version).webp"}
+{"level":"info","time":"2022-05-03T23:53:09+05:00","message":"[download] Destination: Boom - How Do You Do (Official UK Version).webm"}
+{"level":"info","time":"2022-05-03T23:53:18+05:00","message":"\r[download]   0.0% of 3.23MiB at  1.96KiB/s ETA 28:06\r[download]   0.1% of 3.23MiB at  5.79KiB/s ETA 09:30\r[download]   0.2% of 3.23MiB at 13.43KiB/s ETA 04:05\r[download]   0.4% of 3.23MiB at 28.70KiB/s ETA 01:54\r[download]   0.9% of 3.23MiB at 50.00KiB/s ETA 01:05\r[download]   1.9% of 3.23MiB at 92.95KiB/s ETA 00:34\r[download]   3.8% of 3.23MiB at 144.42KiB/s ETA 00:22\r[download]   7.6% of 3.23MiB at 206.11KiB/s ETA 00:14\r[download]  15.1% of 3.23MiB at 284.06KiB/s ETA 00:09\r[download]  28.9% of 3.23MiB at 371.98KiB/s ETA 00:06\r[download]  46.0% of 3.23MiB at 291.76KiB/s ETA 00:06\r[download]  54.5% of 3.23MiB at 312.67KiB/s ETA 00:04\r[download]  69.9% of 3.23MiB at 333.26KiB/s ETA 00:02\r[download]  83.1% of 3.23MiB at 321.19KiB/s ETA 00:01\r[download]  91.2% of 3.23MiB at 314.58KiB/s ETA 00:00\r[download]  99.1% of 3.23MiB at 325.56KiB/s ETA 00:00\r[download] 100% of 3.23MiB at 328.13KiB/s ETA 00:00  \r[download] 100% of 3.23MiB in 00:11                "}
+{"level":"info","time":"2022-05-03T23:53:18+05:00","message":"[ExtractAudio] Destination: Boom - How Do You Do (Official UK Version).mp3"}
+{"level":"info","time":"2022-05-03T23:53:21+05:00","message":"Deleting original file Boom - How Do You Do (Official UK Version).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:53:21+05:00","message":"[Metadata] Adding metadata to \"Boom - How Do You Do (Official UK Version).mp3\""}
+{"level":"info","time":"2022-05-03T23:53:21+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Boom - How Do You Do (Official UK Version).webp\" to png"}
+{"level":"info","time":"2022-05-03T23:53:21+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Boom - How Do You Do (Official UK Version).mp3\""}
+{"level":"info","time":"2022-05-03T23:53:21+05:00","message":"Deleting original file Boom - How Do You Do (Official UK Version).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T23:53:21+05:00","message":"Deleting original file Boom - How Do You Do (Official UK Version).webp (pass -k to keep)"}
