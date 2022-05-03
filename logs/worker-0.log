@@ -877,3 +877,269 @@
 {"level":"info","time":"2022-05-03T02:25:34Z","message":"[download] Destination: Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version.webm"}
 {"level":"info","time":"2022-05-03T02:25:35Z","message":"\r[download]   0.0% of 2.81MiB at Unknown speed ETA Unknown\r[download]   0.1% of 2.81MiB at Unknown speed ETA Unknown\r[download]   0.2% of 2.81MiB at Unknown speed ETA Unknown\r[download]   0.5% of 2.81MiB at Unknown speed ETA Unknown\r[download]   1.1% of 2.81MiB at 24.92MiB/s ETA 00:00     \r[download]   2.2% of 2.81MiB at 22.07MiB/s ETA 00:00\r[download]   4.4% of 2.81MiB at 33.15MiB/s ETA 00:00\r[download]   8.9% of 2.81MiB at 44.36MiB/s ETA 00:00\r[download]  17.8% of 2.81MiB at 66.12MiB/s ETA 00:00\r[download]  35.6% of 2.81MiB at 97.86MiB/s ETA 00:00\r[download]  71.2% of 2.81MiB at 134.70MiB/s ETA 00:00\r[download] 100% of 2.81MiB at 162.55MiB/s ETA 00:00  \r[download] 100% of 2.81MiB in 00:00                "}
 {"level":"info","time":"2022-05-03T02:25:35Z","message":"[ExtractAudio] Destination: Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version.mp3"}
+{"level":"info","time":"2022-05-03T02:39:59Z","message":"[youtube] DeumyOzKqgI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:40:00Z","message":"[youtube] DeumyOzKqgI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:40:00Z","message":"[info] DeumyOzKqgI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:40:00Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:40:02Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T02:40:02Z","message":"[info] Writing video thumbnail 40 to: Adele - Skyfall (Lyric Video).jpg"}
+{"level":"info","time":"2022-05-03T02:40:02Z","message":"[download] Destination: Adele - Skyfall (Lyric Video).webm"}
+{"level":"info","time":"2022-05-03T02:40:02Z","message":"\r[download]   0.0% of 4.62MiB at 200.98KiB/s ETA 00:23\r[download]   0.1% of 4.62MiB at 564.79KiB/s ETA 00:08\r[download]   0.1% of 4.62MiB at  1.24MiB/s ETA 00:03 \r[download]   0.3% of 4.62MiB at  2.56MiB/s ETA 00:01\r[download]   0.7% of 4.62MiB at  1.27MiB/s ETA 00:03\r[download]   1.3% of 4.62MiB at  1.52MiB/s ETA 00:03\r[download]   2.7% of 4.62MiB at  2.07MiB/s ETA 00:02\r[download]   5.4% of 4.62MiB at  3.15MiB/s ETA 00:01\r[download]  10.8% of 4.62MiB at  5.01MiB/s ETA 00:00\r[download]  21.6% of 4.62MiB at  8.35MiB/s ETA 00:00\r[download]  43.3% of 4.62MiB at 14.23MiB/s ETA 00:00\r[download]  86.6% of 4.62MiB at 24.72MiB/s ETA 00:00\r[download] 100% of 4.62MiB at 27.76MiB/s ETA 00:00  \r[download] 100% of 4.62MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:40:02Z","message":"[ExtractAudio] Destination: Adele - Skyfall (Lyric Video).mp3"}
+{"level":"info","time":"2022-05-03T02:40:22Z","message":"Deleting original file Adele - Skyfall (Lyric Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:40:22Z","message":"[Metadata] Adding metadata to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:40:22Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Adele - Skyfall (Lyric Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:40:23Z","message":"Deleting original file Adele - Skyfall (Lyric Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:40:27Z","message":"[youtube] il9nqWw9W3Y: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[youtube] il9nqWw9W3Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] il9nqWw9W3Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[info] Writing video thumbnail 37 to: Demi Lovato - Cool for the Summer (Official Video).webp"}
+{"level":"info","time":"2022-05-03T02:40:28Z","message":"[download] Destination: Demi Lovato - Cool for the Summer (Official Video).webm"}
+{"level":"info","time":"2022-05-03T02:40:29Z","message":"\r[download]   0.0% of 3.36MiB at 244.81KiB/s ETA 00:14\r[download]   0.1% of 3.36MiB at 678.00KiB/s ETA 00:05\r[download]   0.2% of 3.36MiB at  1.47MiB/s ETA 00:02 \r[download]   0.4% of 3.36MiB at  3.00MiB/s ETA 00:01\r[download]   0.9% of 3.36MiB at  1.54MiB/s ETA 00:02\r[download]   1.8% of 3.36MiB at  1.81MiB/s ETA 00:01\r[download]   3.7% of 3.36MiB at  2.48MiB/s ETA 00:01\r[download]   7.4% of 3.36MiB at  3.76MiB/s ETA 00:00\r[download]  14.9% of 3.36MiB at  5.99MiB/s ETA 00:00\r[download]  29.7% of 3.36MiB at  9.90MiB/s ETA 00:00\r[download]  59.5% of 3.36MiB at 16.97MiB/s ETA 00:00\r[download] 100% of 3.36MiB at 25.80MiB/s ETA 00:00  \r[download] 100% of 3.36MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:40:29Z","message":"[ExtractAudio] Destination: Demi Lovato - Cool for the Summer (Official Video).mp3"}
+{"level":"info","time":"2022-05-03T02:40:45Z","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:40:45Z","message":"[Metadata] Adding metadata to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:40:45Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Demi Lovato - Cool for the Summer (Official Video).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:40:45Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Demi Lovato - Cool for the Summer (Official Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:40:45Z","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:40:45Z","message":"Deleting original file Demi Lovato - Cool for the Summer (Official Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:40:49Z","message":"[youtube] KJvddI0jfYI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"[youtube] KJvddI0jfYI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"[info] KJvddI0jfYI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"[info] Writing video thumbnail 41 to: love you like a love song - selena gomez ft. the scene (s l o w e d).webp"}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"[download] Destination: love you like a love song - selena gomez ft. the scene (s l o w e d).webm"}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"\r[download]   0.0% of 3.41MiB at 241.98KiB/s ETA 00:14\r[download]   0.1% of 3.41MiB at 655.60KiB/s ETA 00:05\r[download]   0.2% of 3.41MiB at  1.43MiB/s ETA 00:02 \r[download]   0.4% of 3.41MiB at  2.93MiB/s ETA 00:01\r[download]   0.9% of 3.41MiB at  1.31MiB/s ETA 00:02\r[download]   1.8% of 3.41MiB at  1.51MiB/s ETA 00:02\r[download]   3.6% of 3.41MiB at  2.08MiB/s ETA 00:01\r[download]   7.3% of 3.41MiB at  3.12MiB/s ETA 00:01\r[download]  14.6% of 3.41MiB at  4.98MiB/s ETA 00:00\r[download]  29.3% of 3.41MiB at  8.29MiB/s ETA 00:00\r[download]  58.5% of 3.41MiB at 14.17MiB/s ETA 00:00\r[download] 100% of 3.41MiB at 21.82MiB/s ETA 00:00  \r[download] 100% of 3.41MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:40:50Z","message":"[ExtractAudio] Destination: love you like a love song - selena gomez ft. the scene (s l o w e d).mp3"}
+{"level":"info","time":"2022-05-03T02:41:02Z","message":"Deleting original file love you like a love song - selena gomez ft. the scene (s l o w e d).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:02Z","message":"[Metadata] Adding metadata to \"love you like a love song - selena gomez ft. the scene (s l o w e d).mp3\""}
+{"level":"info","time":"2022-05-03T02:41:03Z","message":"[ThumbnailsConvertor] Converting thumbnail \"love you like a love song - selena gomez ft. the scene (s l o w e d).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:41:03Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"love you like a love song - selena gomez ft. the scene (s l o w e d).mp3\""}
+{"level":"info","time":"2022-05-03T02:41:03Z","message":"Deleting original file love you like a love song - selena gomez ft. the scene (s l o w e d).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:03Z","message":"Deleting original file love you like a love song - selena gomez ft. the scene (s l o w e d).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:07Z","message":"[youtube] dvuBXZLq114: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:41:07Z","message":"[youtube] dvuBXZLq114: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:41:07Z","message":"[info] dvuBXZLq114: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:41:07Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:41:08Z","message":"[info] Writing video thumbnail 41 to: kissmenerdygirl + ここせまみ -  Amour d'été.webp"}
+{"level":"info","time":"2022-05-03T02:41:08Z","message":"[download] Destination: kissmenerdygirl + ここせまみ -  Amour d'été.webm"}
+{"level":"info","time":"2022-05-03T02:41:08Z","message":"\r[download]   0.0% of 3.44MiB at 242.96KiB/s ETA 00:14\r[download]   0.1% of 3.44MiB at 672.70KiB/s ETA 00:05\r[download]   0.2% of 3.44MiB at  1.46MiB/s ETA 00:02 \r[download]   0.4% of 3.44MiB at  2.99MiB/s ETA 00:01\r[download]   0.9% of 3.44MiB at  1.52MiB/s ETA 00:02\r[download]   1.8% of 3.44MiB at  1.80MiB/s ETA 00:01\r[download]   3.6% of 3.44MiB at  2.46MiB/s ETA 00:01\r[download]   7.2% of 3.44MiB at  3.57MiB/s ETA 00:00\r[download]  14.5% of 3.44MiB at  5.71MiB/s ETA 00:00\r[download]  29.0% of 3.44MiB at  4.63MiB/s ETA 00:00\r[download]  58.1% of 3.44MiB at  7.00MiB/s ETA 00:00\r[download] 100% of 3.44MiB at  9.74MiB/s ETA 00:00  \r[download] 100% of 3.44MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:41:08Z","message":"[ExtractAudio] Destination: kissmenerdygirl + ここせまみ -  Amour d'été.mp3"}
+{"level":"info","time":"2022-05-03T02:41:16Z","message":"Deleting original file kissmenerdygirl + ここせまみ -  Amour d'été.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:16Z","message":"[Metadata] Adding metadata to \"kissmenerdygirl + ここせまみ -  Amour d'été.mp3\""}
+{"level":"info","time":"2022-05-03T02:41:16Z","message":"[ThumbnailsConvertor] Converting thumbnail \"kissmenerdygirl + ここせまみ -  Amour d'été.webp\" to png"}
+{"level":"info","time":"2022-05-03T02:41:17Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"kissmenerdygirl + ここせまみ -  Amour d'été.mp3\""}
+{"level":"info","time":"2022-05-03T02:41:17Z","message":"Deleting original file kissmenerdygirl + ここせまみ -  Amour d'été.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:17Z","message":"Deleting original file kissmenerdygirl + ここせまみ -  Amour d'été.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:20Z","message":"[youtube] _IpY2XmsQXs: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:41:20Z","message":"[youtube] _IpY2XmsQXs: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:41:20Z","message":"[info] _IpY2XmsQXs: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:41:20Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:41:20Z","message":"[info] Writing video thumbnail 41 to: Τ Λ Я Λ - Plastic Love (TARA Bootleg).webp"}
+{"level":"info","time":"2022-05-03T02:41:21Z","message":"[download] Destination: Τ Λ Я Λ - Plastic Love (TARA Bootleg).webm"}
+{"level":"info","time":"2022-05-03T02:41:21Z","message":"\r[download]   0.0% of 3.54MiB at 228.72KiB/s ETA 00:15\r[download]   0.1% of 3.54MiB at 638.82KiB/s ETA 00:05\r[download]   0.2% of 3.54MiB at  1.40MiB/s ETA 00:02 \r[download]   0.4% of 3.54MiB at  2.87MiB/s ETA 00:01\r[download]   0.9% of 3.54MiB at  1.48MiB/s ETA 00:02\r[download]   1.7% of 3.54MiB at  1.79MiB/s ETA 00:01\r[download]   3.5% of 3.54MiB at  2.44MiB/s ETA 00:01\r[download]   7.0% of 3.54MiB at  3.68MiB/s ETA 00:00\r[download]  14.1% of 3.54MiB at  5.90MiB/s ETA 00:00\r[download]  28.2% of 3.54MiB at  9.73MiB/s ETA 00:00\r[download]  56.5% of 3.54MiB at 16.64MiB/s ETA 00:00\r[download] 100% of 3.54MiB at 26.31MiB/s ETA 00:00  \r[download] 100% of 3.54MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:41:21Z","message":"[ExtractAudio] Destination: Τ Λ Я Λ - Plastic Love (TARA Bootleg).mp3"}
+{"level":"info","time":"2022-05-03T02:41:32Z","message":"Deleting original file Τ Λ Я Λ - Plastic Love (TARA Bootleg).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:32Z","message":"[Metadata] Adding metadata to \"Τ Λ Я Λ - Plastic Love (TARA Bootleg).mp3\""}
+{"level":"info","time":"2022-05-03T02:41:32Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Τ Λ Я Λ - Plastic Love (TARA Bootleg).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:41:33Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Τ Λ Я Λ - Plastic Love (TARA Bootleg).mp3\""}
+{"level":"info","time":"2022-05-03T02:41:33Z","message":"Deleting original file Τ Λ Я Λ - Plastic Love (TARA Bootleg).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:33Z","message":"Deleting original file Τ Λ Я Λ - Plastic Love (TARA Bootleg).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:36Z","message":"[youtube] D-EE9xCG9oY: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"[youtube] D-EE9xCG9oY: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"[info] D-EE9xCG9oY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"[info] Writing video thumbnail 41 to: Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).webp"}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"[download] Destination: Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).webm"}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"\r[download]   0.0% of 3.98MiB at 200.20KiB/s ETA 00:20\r[download]   0.1% of 3.98MiB at 563.40KiB/s ETA 00:07\r[download]   0.2% of 3.98MiB at  1.24MiB/s ETA 00:03 \r[download]   0.4% of 3.98MiB at  2.55MiB/s ETA 00:01\r[download]   0.8% of 3.98MiB at  1.26MiB/s ETA 00:03\r[download]   1.5% of 3.98MiB at  1.52MiB/s ETA 00:02\r[download]   3.1% of 3.98MiB at  2.08MiB/s ETA 00:01\r[download]   6.3% of 3.98MiB at  3.16MiB/s ETA 00:01\r[download]  12.5% of 3.98MiB at  5.03MiB/s ETA 00:00\r[download]  25.1% of 3.98MiB at  8.38MiB/s ETA 00:00\r[download]  50.2% of 3.98MiB at 14.31MiB/s ETA 00:00\r[download] 100% of 3.98MiB at 24.71MiB/s ETA 00:00  \r[download] 100% of 3.98MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:41:37Z","message":"[ExtractAudio] Destination: Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).mp3"}
+{"level":"info","time":"2022-05-03T02:41:48Z","message":"Deleting original file Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:48Z","message":"[Metadata] Adding metadata to \"Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).mp3\""}
+{"level":"info","time":"2022-05-03T02:41:49Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:41:49Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).mp3\""}
+{"level":"info","time":"2022-05-03T02:41:49Z","message":"Deleting original file Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:49Z","message":"Deleting original file Can't Take My Eyes Off You (Stunnig Gimnazija Kranj Symphony Orchestra, Choirs and Soloists).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:41:52Z","message":"[youtube] 1tC3KHBMBQU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:41:53Z","message":"[youtube] 1tC3KHBMBQU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:41:53Z","message":"[info] 1tC3KHBMBQU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:41:53Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:41:54Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T02:41:54Z","message":"[info] Writing video thumbnail 40 to: Can't take my eyes off you (Remix).jpg"}
+{"level":"info","time":"2022-05-03T02:41:54Z","message":"[download] Destination: Can't take my eyes off you (Remix).webm"}
+{"level":"info","time":"2022-05-03T02:41:55Z","message":"\r[download]   0.0% of 3.84MiB at 43.68KiB/s ETA 01:30\r[download]   0.1% of 3.84MiB at 128.99KiB/s ETA 00:30\r[download]   0.2% of 3.84MiB at 298.14KiB/s ETA 00:13\r[download]   0.4% of 3.84MiB at 631.15KiB/s ETA 00:06\r[download]   0.8% of 3.84MiB at 984.74KiB/s ETA 00:03\r[download]   1.6% of 3.84MiB at  1.17MiB/s ETA 00:03 \r[download]   3.2% of 3.84MiB at  1.78MiB/s ETA 00:02\r[download]   6.5% of 3.84MiB at  2.86MiB/s ETA 00:01\r[download]  13.0% of 3.84MiB at  4.76MiB/s ETA 00:00\r[download]  26.0% of 3.84MiB at  8.09MiB/s ETA 00:00\r[download]  52.1% of 3.84MiB at 14.16MiB/s ETA 00:00\r[download] 100% of 3.84MiB at 24.25MiB/s ETA 00:00  \r[download] 100% of 3.84MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:41:55Z","message":"[ExtractAudio] Destination: Can't take my eyes off you (Remix).mp3"}
+{"level":"info","time":"2022-05-03T02:42:06Z","message":"Deleting original file Can't take my eyes off you (Remix).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:06Z","message":"[Metadata] Adding metadata to \"Can't take my eyes off you (Remix).mp3\""}
+{"level":"info","time":"2022-05-03T02:42:06Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Can't take my eyes off you (Remix).mp3\""}
+{"level":"info","time":"2022-05-03T02:42:06Z","message":"Deleting original file Can't take my eyes off you (Remix).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:10Z","message":"[youtube] TxEVVyEuLPQ: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"[youtube] TxEVVyEuLPQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"[info] TxEVVyEuLPQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Lies.webp"}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"[download] Destination: Nightcore - Lies.webm"}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"\r[download]   0.0% of 2.84MiB at 206.19KiB/s ETA 00:14\r[download]   0.1% of 2.84MiB at 581.49KiB/s ETA 00:05\r[download]   0.2% of 2.84MiB at  1.27MiB/s ETA 00:02 \r[download]   0.5% of 2.84MiB at  2.62MiB/s ETA 00:01\r[download]   1.1% of 2.84MiB at  1.28MiB/s ETA 00:02\r[download]   2.2% of 2.84MiB at  1.52MiB/s ETA 00:01\r[download]   4.4% of 2.84MiB at  2.08MiB/s ETA 00:01\r[download]   8.8% of 2.84MiB at  3.16MiB/s ETA 00:00\r[download]  17.6% of 2.84MiB at  5.03MiB/s ETA 00:00\r[download]  35.2% of 2.84MiB at  8.40MiB/s ETA 00:00\r[download]  70.4% of 2.84MiB at 14.35MiB/s ETA 00:00\r[download] 100% of 2.84MiB at 19.15MiB/s ETA 00:00  \r[download] 100% of 2.84MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:42:11Z","message":"[ExtractAudio] Destination: Nightcore - Lies.mp3"}
+{"level":"info","time":"2022-05-03T02:42:21Z","message":"Deleting original file Nightcore - Lies.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:21Z","message":"[Metadata] Adding metadata to \"Nightcore - Lies.mp3\""}
+{"level":"info","time":"2022-05-03T02:42:21Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Lies.webp\" to png"}
+{"level":"info","time":"2022-05-03T02:42:21Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Lies.mp3\""}
+{"level":"info","time":"2022-05-03T02:42:21Z","message":"Deleting original file Nightcore - Lies.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:21Z","message":"Deleting original file Nightcore - Lies.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:25Z","message":"[youtube] vBUk6Yzfe74: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[youtube] vBUk6Yzfe74: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] vBUk6Yzfe74: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T02:42:26Z","message":"[info] Writing video thumbnail 37 to: Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.webp"}
+{"level":"info","time":"2022-05-03T02:42:27Z","message":"[download] Destination: Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.webm"}
+{"level":"info","time":"2022-05-03T02:42:27Z","message":"\r[download]   0.0% of 4.24MiB at 256.03KiB/s ETA 00:17\r[download]   0.1% of 4.24MiB at 705.83KiB/s ETA 00:06\r[download]   0.2% of 4.24MiB at  1.53MiB/s ETA 00:02 \r[download]   0.3% of 4.24MiB at  3.12MiB/s ETA 00:01\r[download]   0.7% of 4.24MiB at  1.31MiB/s ETA 00:03\r[download]   1.4% of 4.24MiB at  1.50MiB/s ETA 00:02\r[download]   2.9% of 4.24MiB at  2.06MiB/s ETA 00:02\r[download]   5.9% of 4.24MiB at  3.08MiB/s ETA 00:01\r[download]  11.8% of 4.24MiB at  4.91MiB/s ETA 00:00\r[download]  23.5% of 4.24MiB at  8.16MiB/s ETA 00:00\r[download]  47.1% of 4.24MiB at 13.91MiB/s ETA 00:00\r[download]  94.2% of 4.24MiB at 22.27MiB/s ETA 00:00\r[download] 100% of 4.24MiB at 23.22MiB/s ETA 00:00  \r[download] 100% of 4.24MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:42:27Z","message":"[ExtractAudio] Destination: Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.mp3"}
+{"level":"info","time":"2022-05-03T02:42:38Z","message":"Deleting original file Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:38Z","message":"[Metadata] Adding metadata to \"Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.mp3\""}
+{"level":"info","time":"2022-05-03T02:42:38Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.webp\" to png"}
+{"level":"info","time":"2022-05-03T02:42:38Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.mp3\""}
+{"level":"info","time":"2022-05-03T02:42:39Z","message":"Deleting original file Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:39Z","message":"Deleting original file Zara Zara X Cradles Vaseegara | SUNBURN Remix (LOST STORIES) Remake Full Song Video.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:42Z","message":"[youtube] 5Ns58cF9z68: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:42:43Z","message":"[youtube] 5Ns58cF9z68: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:42:43Z","message":"[info] 5Ns58cF9z68: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:42:43Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:42:43Z","message":"[info] Writing video thumbnail 41 to: BoyWithUke - Toxic (Lyrics) | All my friends are toxic.webp"}
+{"level":"info","time":"2022-05-03T02:42:43Z","message":"[download] Destination: BoyWithUke - Toxic (Lyrics) | All my friends are toxic.webm"}
+{"level":"info","time":"2022-05-03T02:42:44Z","message":"\r[download]   0.0% of 2.61MiB at 242.70KiB/s ETA 00:11\r[download]   0.1% of 2.61MiB at 663.83KiB/s ETA 00:04\r[download]   0.3% of 2.61MiB at  1.45MiB/s ETA 00:01 \r[download]   0.6% of 2.61MiB at  2.95MiB/s ETA 00:00\r[download]   1.2% of 2.61MiB at  1.49MiB/s ETA 00:01\r[download]   2.4% of 2.61MiB at  1.76MiB/s ETA 00:01\r[download]   4.7% of 2.61MiB at  2.40MiB/s ETA 00:01\r[download]   9.5% of 2.61MiB at  3.67MiB/s ETA 00:00\r[download]  19.1% of 2.61MiB at  5.87MiB/s ETA 00:00\r[download]  38.2% of 2.61MiB at  9.71MiB/s ETA 00:00\r[download]  76.5% of 2.61MiB at 16.57MiB/s ETA 00:00\r[download] 100% of 2.61MiB at 19.39MiB/s ETA 00:00  \r[download] 100% of 2.61MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:42:44Z","message":"[ExtractAudio] Destination: BoyWithUke - Toxic (Lyrics) | All my friends are toxic.mp3"}
+{"level":"info","time":"2022-05-03T02:42:52Z","message":"Deleting original file BoyWithUke - Toxic (Lyrics) | All my friends are toxic.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:52Z","message":"[Metadata] Adding metadata to \"BoyWithUke - Toxic (Lyrics) | All my friends are toxic.mp3\""}
+{"level":"info","time":"2022-05-03T02:42:52Z","message":"[ThumbnailsConvertor] Converting thumbnail \"BoyWithUke - Toxic (Lyrics) | All my friends are toxic.webp\" to png"}
+{"level":"info","time":"2022-05-03T02:42:53Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"BoyWithUke - Toxic (Lyrics) | All my friends are toxic.mp3\""}
+{"level":"info","time":"2022-05-03T02:42:53Z","message":"Deleting original file BoyWithUke - Toxic (Lyrics) | All my friends are toxic.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:53Z","message":"Deleting original file BoyWithUke - Toxic (Lyrics) | All my friends are toxic.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:42:56Z","message":"[youtube] 0NCv99sRrVQ: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:42:57Z","message":"[youtube] 0NCv99sRrVQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:42:57Z","message":"[info] 0NCv99sRrVQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:42:58Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:42:58Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Build A B*tch (Lyrics) | Bella Poarch.webp"}
+{"level":"info","time":"2022-05-03T02:42:58Z","message":"[download] Destination: Nightcore - Build A B*tch (Lyrics) | Bella Poarch.webm"}
+{"level":"info","time":"2022-05-03T02:42:58Z","message":"\r[download]   0.1% of 1.83MiB at 241.25KiB/s ETA 00:07\r[download]   0.2% of 1.83MiB at 655.77KiB/s ETA 00:02\r[download]   0.4% of 1.83MiB at  1.43MiB/s ETA 00:01 \r[download]   0.8% of 1.83MiB at  2.93MiB/s ETA 00:00\r[download]   1.7% of 1.83MiB at  1.49MiB/s ETA 00:01\r[download]   3.4% of 1.83MiB at  1.76MiB/s ETA 00:01\r[download]   6.8% of 1.83MiB at  2.41MiB/s ETA 00:00\r[download]  13.6% of 1.83MiB at  3.67MiB/s ETA 00:00\r[download]  27.3% of 1.83MiB at  5.87MiB/s ETA 00:00\r[download]  54.7% of 1.83MiB at  9.72MiB/s ETA 00:00\r[download] 100% of 1.83MiB at 15.46MiB/s ETA 00:00  \r[download] 100% of 1.83MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:42:58Z","message":"[ExtractAudio] Destination: Nightcore - Build A B*tch (Lyrics) | Bella Poarch.mp3"}
+{"level":"info","time":"2022-05-03T02:43:02Z","message":"Deleting original file Nightcore - Build A B*tch (Lyrics) | Bella Poarch.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:02Z","message":"[Metadata] Adding metadata to \"Nightcore - Build A B*tch (Lyrics) | Bella Poarch.mp3\""}
+{"level":"info","time":"2022-05-03T02:43:03Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Build A B*tch (Lyrics) | Bella Poarch.webp\" to png"}
+{"level":"info","time":"2022-05-03T02:43:03Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Build A B*tch (Lyrics) | Bella Poarch.mp3\""}
+{"level":"info","time":"2022-05-03T02:43:03Z","message":"Deleting original file Nightcore - Build A B*tch (Lyrics) | Bella Poarch.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:03Z","message":"Deleting original file Nightcore - Build A B*tch (Lyrics) | Bella Poarch.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:06Z","message":"[youtube] HtanBR6hCSU: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:43:07Z","message":"[youtube] HtanBR6hCSU: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:43:08Z","message":"[info] HtanBR6hCSU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:43:08Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:43:08Z","message":"[info] Writing video thumbnail 41 to: 【Bella Poarch】 Build a B*tch (COVER).webp"}
+{"level":"info","time":"2022-05-03T02:43:08Z","message":"[download] Destination: 【Bella Poarch】 Build a B*tch (COVER).webm"}
+{"level":"info","time":"2022-05-03T02:43:08Z","message":"\r[download]   0.0% of 2.39MiB at 243.01KiB/s ETA 00:10\r[download]   0.1% of 2.39MiB at 662.92KiB/s ETA 00:03\r[download]   0.3% of 2.39MiB at  1.44MiB/s ETA 00:01 \r[download]   0.6% of 2.39MiB at  2.95MiB/s ETA 00:00\r[download]   1.3% of 2.39MiB at  1.49MiB/s ETA 00:01\r[download]   2.6% of 2.39MiB at  1.76MiB/s ETA 00:01\r[download]   5.2% of 2.39MiB at  2.41MiB/s ETA 00:00\r[download]  10.4% of 2.39MiB at  3.68MiB/s ETA 00:00\r[download]  20.8% of 2.39MiB at  5.89MiB/s ETA 00:00\r[download]  41.7% of 2.39MiB at  9.73MiB/s ETA 00:00\r[download]  83.5% of 2.39MiB at 16.61MiB/s ETA 00:00\r[download] 100% of 2.39MiB at 16.07MiB/s ETA 00:00  \r[download] 100% of 2.39MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:43:08Z","message":"[ExtractAudio] Destination: 【Bella Poarch】 Build a B*tch (COVER).mp3"}
+{"level":"info","time":"2022-05-03T02:43:16Z","message":"Deleting original file 【Bella Poarch】 Build a B*tch (COVER).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:16Z","message":"[Metadata] Adding metadata to \"【Bella Poarch】 Build a B*tch (COVER).mp3\""}
+{"level":"info","time":"2022-05-03T02:43:16Z","message":"[ThumbnailsConvertor] Converting thumbnail \"【Bella Poarch】 Build a B*tch (COVER).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:43:16Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"【Bella Poarch】 Build a B*tch (COVER).mp3\""}
+{"level":"info","time":"2022-05-03T02:43:16Z","message":"Deleting original file 【Bella Poarch】 Build a B*tch (COVER).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:16Z","message":"Deleting original file 【Bella Poarch】 Build a B*tch (COVER).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:19Z","message":"[youtube] zAB5AC9yhY0: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:43:19Z","message":"[youtube] zAB5AC9yhY0: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:43:19Z","message":"[info] zAB5AC9yhY0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:43:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:43:20Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T02:43:20Z","message":"[info] Writing video thumbnail 40 to: Melanie Martinez - Carousel (Official Music Video).jpg"}
+{"level":"info","time":"2022-05-03T02:43:20Z","message":"[download] Destination: Melanie Martinez - Carousel (Official Music Video).webm"}
+{"level":"info","time":"2022-05-03T02:43:20Z","message":"\r[download]   0.0% of 3.48MiB at 252.17KiB/s ETA 00:14\r[download]   0.1% of 3.48MiB at 668.70KiB/s ETA 00:05\r[download]   0.2% of 3.48MiB at  1.40MiB/s ETA 00:02 \r[download]   0.4% of 3.48MiB at  2.78MiB/s ETA 00:01\r[download]   0.9% of 3.48MiB at  1.55MiB/s ETA 00:02\r[download]   1.8% of 3.48MiB at  1.83MiB/s ETA 00:01\r[download]   3.6% of 3.48MiB at  2.49MiB/s ETA 00:01\r[download]   7.2% of 3.48MiB at  3.73MiB/s ETA 00:00\r[download]  14.4% of 3.48MiB at  6.02MiB/s ETA 00:00\r[download]  28.7% of 3.48MiB at  9.91MiB/s ETA 00:00\r[download]  57.5% of 3.48MiB at 16.63MiB/s ETA 00:00\r[download] 100% of 3.48MiB at 19.64MiB/s ETA 00:00  \r[download] 100% of 3.48MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:43:20Z","message":"[ExtractAudio] Destination: Melanie Martinez - Carousel (Official Music Video).mp3"}
+{"level":"info","time":"2022-05-03T02:43:33Z","message":"Deleting original file Melanie Martinez - Carousel (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:33Z","message":"[Metadata] Adding metadata to \"Melanie Martinez - Carousel (Official Music Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:43:33Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Carousel (Official Music Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:43:33Z","message":"Deleting original file Melanie Martinez - Carousel (Official Music Video).jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:37Z","message":"[youtube] crzVi631scc: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:43:37Z","message":"[youtube] crzVi631scc: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:43:37Z","message":"[info] crzVi631scc: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:43:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:43:39Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-05-03T02:43:40Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-05-03T02:43:40Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-05-03T02:43:42Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-05-03T02:43:43Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-05-03T02:43:43Z","message":"[info] Writing video thumbnail 36 to: Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.jpg"}
+{"level":"info","time":"2022-05-03T02:43:43Z","message":"[download] Destination: Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.webm"}
+{"level":"info","time":"2022-05-03T02:43:43Z","message":"\r[download]   0.0% of 3.33MiB at 190.13KiB/s ETA 00:18\r[download]   0.1% of 3.33MiB at 537.27KiB/s ETA 00:06\r[download]   0.2% of 3.33MiB at  1.18MiB/s ETA 00:02 \r[download]   0.4% of 3.33MiB at  2.44MiB/s ETA 00:01\r[download]   0.9% of 3.33MiB at  1.45MiB/s ETA 00:02\r[download]   1.8% of 3.33MiB at  1.79MiB/s ETA 00:01\r[download]   3.7% of 3.33MiB at  2.44MiB/s ETA 00:01\r[download]   7.5% of 3.33MiB at  3.74MiB/s ETA 00:00\r[download]  15.0% of 3.33MiB at  5.96MiB/s ETA 00:00\r[download]  30.0% of 3.33MiB at  9.90MiB/s ETA 00:00\r[download]  59.9% of 3.33MiB at 16.92MiB/s ETA 00:00\r[download] 100% of 3.33MiB at 25.58MiB/s ETA 00:00  \r[download] 100% of 3.33MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:43:43Z","message":"[ExtractAudio] Destination: Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.mp3"}
+{"level":"info","time":"2022-05-03T02:43:54Z","message":"Deleting original file Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:54Z","message":"[Metadata] Adding metadata to \"Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.mp3\""}
+{"level":"info","time":"2022-05-03T02:43:54Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.mp3\""}
+{"level":"info","time":"2022-05-03T02:43:54Z","message":"Deleting original file Mere Mehboob Qayamat Hogi - Yo Yo Honey Singh.jpg (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:43:58Z","message":"[youtube] U9pGr6KMdyg: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:43:58Z","message":"[youtube] U9pGr6KMdyg: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:43:59Z","message":"[info] U9pGr6KMdyg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:43:59Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:43:59Z","message":"[info] Writing video thumbnail 41 to: Lost Sky - Where We Started (feat. Jex) [NCS Release].webp"}
+{"level":"info","time":"2022-05-03T02:43:59Z","message":"[download] Destination: Lost Sky - Where We Started (feat. Jex) [NCS Release].webm"}
+{"level":"info","time":"2022-05-03T02:43:59Z","message":"\r[download]   0.0% of 3.69MiB at 199.35KiB/s ETA 00:18\r[download]   0.1% of 3.69MiB at 560.79KiB/s ETA 00:06\r[download]   0.2% of 3.69MiB at  1.23MiB/s ETA 00:02 \r[download]   0.4% of 3.69MiB at  2.53MiB/s ETA 00:01\r[download]   0.8% of 3.69MiB at  1.46MiB/s ETA 00:02\r[download]   1.7% of 3.69MiB at  1.80MiB/s ETA 00:02\r[download]   3.4% of 3.69MiB at  2.44MiB/s ETA 00:01\r[download]   6.8% of 3.69MiB at  3.75MiB/s ETA 00:00\r[download]  13.5% of 3.69MiB at  5.94MiB/s ETA 00:00\r[download]  27.1% of 3.69MiB at  9.94MiB/s ETA 00:00\r[download]  54.2% of 3.69MiB at 16.90MiB/s ETA 00:00\r[download] 100% of 3.69MiB at 26.70MiB/s ETA 00:00  \r[download] 100% of 3.69MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:43:59Z","message":"[ExtractAudio] Destination: Lost Sky - Where We Started (feat. Jex) [NCS Release].mp3"}
+{"level":"info","time":"2022-05-03T02:44:10Z","message":"Deleting original file Lost Sky - Where We Started (feat. Jex) [NCS Release].webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:10Z","message":"[Metadata] Adding metadata to \"Lost Sky - Where We Started (feat. Jex) [NCS Release].mp3\""}
+{"level":"info","time":"2022-05-03T02:44:10Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Lost Sky - Where We Started (feat. Jex) [NCS Release].webp\" to png"}
+{"level":"info","time":"2022-05-03T02:44:10Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Lost Sky - Where We Started (feat. Jex) [NCS Release].mp3\""}
+{"level":"info","time":"2022-05-03T02:44:10Z","message":"Deleting original file Lost Sky - Where We Started (feat. Jex) [NCS Release].png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:10Z","message":"Deleting original file Lost Sky - Where We Started (feat. Jex) [NCS Release].webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:14Z","message":"[youtube] tIxUUkmnFCo: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:44:15Z","message":"[youtube] tIxUUkmnFCo: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:44:15Z","message":"[info] tIxUUkmnFCo: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:44:15Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:44:15Z","message":"[info] Writing video thumbnail 41 to: Nyanners - Foolish Heart (Official Lyric Video).webp"}
+{"level":"info","time":"2022-05-03T02:44:15Z","message":"[download] Destination: Nyanners - Foolish Heart (Official Lyric Video).webm"}
+{"level":"info","time":"2022-05-03T02:44:15Z","message":"\r[download]   0.0% of 3.80MiB at 310.94KiB/s ETA 00:12\r[download]   0.1% of 3.80MiB at 829.84KiB/s ETA 00:04\r[download]   0.2% of 3.80MiB at  1.78MiB/s ETA 00:02 \r[download]   0.4% of 3.80MiB at  3.55MiB/s ETA 00:01\r[download]   0.8% of 3.80MiB at  1.53MiB/s ETA 00:02\r[download]   1.6% of 3.80MiB at  1.99MiB/s ETA 00:01\r[download]   3.3% of 3.80MiB at  2.58MiB/s ETA 00:01\r[download]   6.5% of 3.80MiB at  3.71MiB/s ETA 00:00\r[download]  13.1% of 3.80MiB at  5.69MiB/s ETA 00:00\r[download]  26.3% of 3.80MiB at  9.27MiB/s ETA 00:00\r[download]  52.5% of 3.80MiB at 13.27MiB/s ETA 00:00\r[download] 100% of 3.80MiB at 22.49MiB/s ETA 00:00  \r[download] 100% of 3.80MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:44:16Z","message":"[ExtractAudio] Destination: Nyanners - Foolish Heart (Official Lyric Video).mp3"}
+{"level":"info","time":"2022-05-03T02:44:28Z","message":"Deleting original file Nyanners - Foolish Heart (Official Lyric Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:28Z","message":"[Metadata] Adding metadata to \"Nyanners - Foolish Heart (Official Lyric Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:44:28Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nyanners - Foolish Heart (Official Lyric Video).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:44:28Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nyanners - Foolish Heart (Official Lyric Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:44:28Z","message":"Deleting original file Nyanners - Foolish Heart (Official Lyric Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:28Z","message":"Deleting original file Nyanners - Foolish Heart (Official Lyric Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:32Z","message":"[youtube] qCXGE1cLWrw: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:44:33Z","message":"[youtube] qCXGE1cLWrw: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:44:33Z","message":"[info] qCXGE1cLWrw: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:44:33Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:44:33Z","message":"[info] Writing video thumbnail 41 to: SCANDAL - Shojo S.webp"}
+{"level":"info","time":"2022-05-03T02:44:34Z","message":"[download] Destination: SCANDAL - Shojo S.webm"}
+{"level":"info","time":"2022-05-03T02:44:34Z","message":"\r[download]   0.0% of 3.84MiB at 199.75KiB/s ETA 00:19\r[download]   0.1% of 3.84MiB at 564.38KiB/s ETA 00:06\r[download]   0.2% of 3.84MiB at  1.24MiB/s ETA 00:03 \r[download]   0.4% of 3.84MiB at  2.56MiB/s ETA 00:01\r[download]   0.8% of 3.84MiB at  1.27MiB/s ETA 00:02\r[download]   1.6% of 3.84MiB at  1.51MiB/s ETA 00:02\r[download]   3.2% of 3.84MiB at  2.07MiB/s ETA 00:01\r[download]   6.5% of 3.84MiB at  3.15MiB/s ETA 00:01\r[download]  13.0% of 3.84MiB at  5.02MiB/s ETA 00:00\r[download]  26.0% of 3.84MiB at  8.35MiB/s ETA 00:00\r[download]  52.1% of 3.84MiB at 14.28MiB/s ETA 00:00\r[download] 100% of 3.84MiB at 23.95MiB/s ETA 00:00  \r[download] 100% of 3.84MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:44:34Z","message":"[ExtractAudio] Destination: SCANDAL - Shojo S.mp3"}
+{"level":"info","time":"2022-05-03T02:44:48Z","message":"Deleting original file SCANDAL - Shojo S.webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:48Z","message":"[Metadata] Adding metadata to \"SCANDAL - Shojo S.mp3\""}
+{"level":"info","time":"2022-05-03T02:44:48Z","message":"[ThumbnailsConvertor] Converting thumbnail \"SCANDAL - Shojo S.webp\" to png"}
+{"level":"info","time":"2022-05-03T02:44:49Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"SCANDAL - Shojo S.mp3\""}
+{"level":"info","time":"2022-05-03T02:44:49Z","message":"Deleting original file SCANDAL - Shojo S.png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:49Z","message":"Deleting original file SCANDAL - Shojo S.webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:44:55Z","message":"[youtube] uPD0QOGTmMI: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"[youtube] uPD0QOGTmMI: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"[info] uPD0QOGTmMI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"[info] Writing video thumbnail 41 to: The Weeknd - Die For You (Official Music Video).webp"}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"[download] Destination: The Weeknd - Die For You (Official Music Video).webm"}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"\r[download]   0.0% of 4.36MiB at 192.47KiB/s ETA 00:23\r[download]   0.1% of 4.36MiB at 545.90KiB/s ETA 00:08\r[download]   0.2% of 4.36MiB at  1.20MiB/s ETA 00:03 \r[download]   0.3% of 4.36MiB at  2.46MiB/s ETA 00:01\r[download]   0.7% of 4.36MiB at  1.44MiB/s ETA 00:03\r[download]   1.4% of 4.36MiB at  1.76MiB/s ETA 00:02\r[download]   2.8% of 4.36MiB at  2.40MiB/s ETA 00:01\r[download]   5.7% of 4.36MiB at  3.69MiB/s ETA 00:01\r[download]  11.4% of 4.36MiB at  5.90MiB/s ETA 00:00\r[download]  22.9% of 4.36MiB at  9.78MiB/s ETA 00:00\r[download]  45.8% of 4.36MiB at 16.64MiB/s ETA 00:00\r[download]  91.7% of 4.36MiB at 28.81MiB/s ETA 00:00\r[download] 100% of 4.36MiB at 30.58MiB/s ETA 00:00  \r[download] 100% of 4.36MiB in 00:00               "}
+{"level":"info","time":"2022-05-03T02:44:56Z","message":"[ExtractAudio] Destination: The Weeknd - Die For You (Official Music Video).mp3"}
+{"level":"info","time":"2022-05-03T02:45:11Z","message":"Deleting original file The Weeknd - Die For You (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:45:11Z","message":"[Metadata] Adding metadata to \"The Weeknd - Die For You (Official Music Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:45:11Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Weeknd - Die For You (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-05-03T02:45:11Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Weeknd - Die For You (Official Music Video).mp3\""}
+{"level":"info","time":"2022-05-03T02:45:11Z","message":"Deleting original file The Weeknd - Die For You (Official Music Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:45:11Z","message":"Deleting original file The Weeknd - Die For You (Official Music Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-05-03T02:45:14Z","message":"[youtube] s-bZD3O3P80: Downloading webpage"}
+{"level":"info","time":"2022-05-03T02:45:15Z","message":"[youtube] s-bZD3O3P80: Downloading android player API JSON"}
+{"level":"info","time":"2022-05-03T02:45:15Z","message":"[info] s-bZD3O3P80: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-05-03T02:45:15Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-05-03T02:45:15Z","message":"[info] Writing video thumbnail 41 to: Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version.webp"}
+{"level":"info","time":"2022-05-03T02:45:15Z","message":"[download] Destination: Let Me Down Slowly x Main Dhoondne Ko Zamaane Mein (Gravero Mashup) | Full Version.webm"}
