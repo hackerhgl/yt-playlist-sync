@@ -32,8 +32,10 @@ func main() {
 		panic(err)
 	}
 
-	playlist, total := GetPlayList(youtubeClient)
+	playlist, _, total := GetPlayList(youtubeClient)
 	err = SavePlaylistToJSON(playlist, total)
+
+	panic("(asdas)")
 
 	if err != nil {
 		log.Fatalln(err.Error())

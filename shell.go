@@ -7,10 +7,10 @@ import (
 
 	"github.com/rs/zerolog"
 	"google.golang.org/api/drive/v3"
-	"google.golang.org/api/youtube/v3"
 )
 
-func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistItem, drive *drive.Service) {
+// func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistItem, drive *drive.Service) {
+func WorkerShell(worker int, start int, end int, playlist []ParsedItem, drive *drive.Service) {
 	path := fmt.Sprintf("logs/worker-%d.log", worker)
 	logFile, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
@@ -45,7 +45,7 @@ func WorkerShell(worker int, start int, end int, playlist []*youtube.PlaylistIte
 		if err := in.Err(); err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
-		err = UploadAudio(drive, item.Snippet.Title)
+		err = UploadAudio(drive, item.Title)
 		// fileNotExist := err != nil && os.IsNotExist(err)
 		if err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())

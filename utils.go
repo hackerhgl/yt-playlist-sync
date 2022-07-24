@@ -2,7 +2,6 @@ package main
 
 import (
 	"google.golang.org/api/drive/v3"
-	"google.golang.org/api/youtube/v3"
 )
 
 func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA int) {
@@ -30,9 +29,9 @@ func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA in
 	return batches, perBatch, len(batches)
 }
 
-func itemExistsInDrive(item *youtube.PlaylistItem, files []*drive.File) bool {
+func itemExistsInDrive(item ParsedItem, files []*drive.File) bool {
 	for _, file := range files {
-		if item.Snippet.Title == file.Name {
+		if item.Title == file.Name {
 			return true
 		}
 	}
@@ -59,17 +58,18 @@ func GetValuesFromIgnoreChannels(channels []chan []string) []string {
 	return values
 }
 
-func isVideoIgnored(item *youtube.PlaylistItem, ignores []string) bool {
+func isVideoIgnored(item ParsedItem, ignores []string) bool {
 	for _, id := range ignores {
-		if item.ContentDetails.VideoId == id {
+		if item.ID == id {
 			return true
 		}
 	}
 	return false
 }
 
-func GetFilteredPlaylist(playlist []*youtube.PlaylistItem, files []*drive.File, ignores []string) ([]*youtube.PlaylistItem, int) {
-	var filtered []*youtube.PlaylistItem
+func GetFilteredPlaylist(playlist []ParsedItem, files []*drive.File, ignores []string) ([]ParsedItem, int) {
+	// func GetFilteredPlaylist(playlist []*youtube.PlaylistItem, files []*drive.File, ignores []string) ([]*youtube.PlaylistItem, int) {
+	var filtered []ParsedItem
 	for _, item := range playlist {
 		if !itemExistsInDrive(item, files) && !isVideoIgnored(item, ignores) {
 			filtered = append(filtered, item)

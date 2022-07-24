@@ -9,7 +9,7 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem, count int) {
+func GetPlayList(client *youtube.Service) (parsedList []ParsedItem, data []*youtube.PlaylistItem, count int) {
 	call := client.PlaylistItems.List([]string{"contentDetails,id,snippet,status"})
 	call.MaxResults(50)
 	call.PlaylistId(PLAYLIST)
@@ -40,17 +40,25 @@ func GetPlayList(client *youtube.Service) (data []*youtube.PlaylistItem, count i
 	}
 
 	var filtered []*youtube.PlaylistItem
+	var parsed []ParsedItem
 	for index, item := range items {
 		title := items[index].Snippet.Title
 		if strings.Contains(title, "Deleted") {
 			continue
 		}
-		items[index].Snippet.Title = strings.ReplaceAll(item.Snippet.Title, "/", "|") + ".mp3"
+		cleanTitle := strings.ReplaceAll(item.Snippet.Title, "/", "|") + ".mp3"
+		items[index].Snippet.Title = cleanTitle
 
 		filtered = append(filtered, item)
+
+		pItem := &ParsedItem{
+			ID:    item.ContentDetails.VideoId,
+			Title: item.Snippet.Title,
+		}
+		parsed = append(parsed, *pItem)
 	}
 
-	return filtered, len(filtered)
+	return parsed, filtered, len(filtered)
 }
 
 func YoutubeClient() (*youtube.Service, error) {

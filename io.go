@@ -4,8 +4,6 @@ import (
 	"encoding/json"
 	"os"
 	"time"
-
-	"google.golang.org/api/youtube/v3"
 )
 
 func GetIgnores() ([]string, error) {
@@ -54,8 +52,8 @@ func TimeStamp() error {
 	return nil
 }
 
-func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
-	b, err := json.Marshal(items)
+func SavePlaylistToJSON(items []ParsedItem, total int) error {
+	b, err := json.MarshalIndent(items, "", "	")
 	if err != nil {
 		return err
 	}
@@ -63,7 +61,6 @@ func SavePlaylistToJSON(items []*youtube.PlaylistItem, total int) error {
 	if err != nil {
 		return err
 	}
-	file.Write(b)
 	_, err = file.Write(b)
 	if err != nil {
 		return err
