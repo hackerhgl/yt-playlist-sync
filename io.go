@@ -45,7 +45,6 @@ func SyncIgnores(ignores []string) error {
 
 func TimeStamp() error {
 	file, err := os.Create("db/timestamp.txt")
-
 	if err != nil {
 		return err
 	}

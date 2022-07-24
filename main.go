@@ -7,7 +7,6 @@ import (
 
 func main() {
 	err := TimeStamp()
-
 	if err != nil {
 		log.Fatal(err.Error())
 		panic(err)
@@ -20,7 +19,7 @@ func main() {
 		panic(err)
 	}
 
-	ignores, err := GetIgnores()
+	// ignores, err := GetIgnores()
 	if err != nil {
 		log.Fatal(err.Error())
 		panic(err)
@@ -56,7 +55,7 @@ func main() {
 		return
 	}
 
-	playlist, total = GetFilteredPlaylist(playlist, files, ignores)
+	playlist, total = GetFilteredPlaylist(playlist, files, []string{})
 
 	if total == 0 {
 		println("Playlist is synced")
@@ -67,21 +66,22 @@ func main() {
 	var wg sync.WaitGroup
 	wg.Add(batchesSize)
 
-	ignoresChannels := GetIgnoreChannels(batchesSize)
-	// defer close(ignoresChan)
-
+	// ignoresChannels := GetIgnoreChannels(batchesSize)
+	// for _, c := range ignoresChannels {
+	// 	defer close(c)
+	// }
 	for index, value := range batches {
 		multiplier := (index * perBatch)
 		start := multiplier + 1
 		end := multiplier + value
 		go func(index int) {
-			WorkerShell(index, start, end, playlist, ignoresChannels[index], driveClient)
+			WorkerShell(index, start, end, playlist, driveClient)
 			wg.Done()
 		}(index)
 	}
-	ignores = append(ignores, GetValuesFromIgnoreChannels(ignoresChannels)...)
+	// ignores = append(ignores, GetValuesFromIgnoreChannels(ignoresChannels)...)
 	wg.Wait()
-	SyncIgnores(ignores)
+	// SyncIgnores(ignores)
 	if err != nil {
 		log.Fatal(err.Error())
 		return

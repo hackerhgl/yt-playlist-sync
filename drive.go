@@ -17,11 +17,13 @@ var rootDirId string
 func InitRootDir(service *drive.Service) {
 	call := service.Files.List()
 	fields := []googleapi.Field{"files/webViewLink", "files/name", "files/kind", "files/id", "files/mimeType"}
-	call.Fields(fields...)
 	query := fmt.Sprintf("mimeType='application/vnd.google-apps.folder' and name='%s'", DIR_NAME)
+
+	call.Fields(fields...)
 	call.Q(query)
-	// call.Q("mimeType='application/vnd.google-apps.folder' and name='Music'")
+
 	result, err := call.Do()
+
 	if err != nil {
 		log.Fatalln(err.Error())
 		log.Fatalln("Failed execute drive query")
@@ -84,10 +86,7 @@ func UploadAudio(service *drive.Service, name string) error {
 	}
 
 	call := service.Files.Create(driveFile).Media(file)
-	// call := service.Files.Create(driveFile).Media(bytes.NewReader(file), googleapi.ContentType("audio/mp3"), googleapi.ChunkSize(0), googleapi.)
-	// service.Cre
 	call.SupportsAllDrives(true)
-	// call.
 
 	_, err = call.Do()
 	if err != nil {
