@@ -692,3 +692,534 @@
 {"level":"info","time":"2022-07-24T15:12:57Z","message":"[download] Destination: Chaos Chaos (formerly Smoosh) - Do You Feel It?.webm"}
 {"level":"info","time":"2022-07-24T15:12:57Z","message":"\r[download]   0.0% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.8% of 3.97MiB at   26.45MiB/s ETA 00:00   \r[download]   1.6% of 3.97MiB at   26.11MiB/s ETA 00:00\r[download]   3.1% of 3.97MiB at   38.16MiB/s ETA 00:00\r[download]   6.3% of 3.97MiB at   51.64MiB/s ETA 00:00\r[download]  12.6% of 3.97MiB at   77.78MiB/s ETA 00:00\r[download]  25.2% of 3.97MiB at  106.92MiB/s ETA 00:00\r[download]  50.4% of 3.97MiB at  145.46MiB/s ETA 00:00\r[download] 100.0% of 3.97MiB at  172.47MiB/s ETA 00:00\r[download] 100% of 3.97MiB in 00:00                   "}
 {"level":"info","time":"2022-07-24T15:12:57Z","message":"[ExtractAudio] Destination: Chaos Chaos (formerly Smoosh) - Do You Feel It?.mp3"}
+{"level":"info","time":"2022-07-24T15:17:18Z","message":"[youtube] e1edxTqJnKk: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:17:19Z","message":"[youtube] e1edxTqJnKk: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:17:20Z","message":"[info] e1edxTqJnKk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:17:20Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:17:20Z","message":"[info] Writing video thumbnail 41 to: Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webp"}
+{"level":"info","time":"2022-07-24T15:17:20Z","message":"[download] Destination: Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webm"}
+{"level":"info","time":"2022-07-24T15:17:20Z","message":"\r[download]   0.0% of 4.64MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.64MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.64MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.64MiB at   13.41MiB/s ETA 00:00   \r[download]   0.7% of 4.64MiB at   20.08MiB/s ETA 00:00\r[download]   1.3% of 4.64MiB at   23.67MiB/s ETA 00:00\r[download]   2.7% of 4.64MiB at   32.70MiB/s ETA 00:00\r[download]   5.4% of 4.64MiB at   41.62MiB/s ETA 00:00\r[download]  10.8% of 4.64MiB at   62.98MiB/s ETA 00:00\r[download]  21.5% of 4.64MiB at   88.30MiB/s ETA 00:00\r[download]  43.1% of 4.64MiB at  110.75MiB/s ETA 00:00\r[download]  86.2% of 4.64MiB at  130.97MiB/s ETA 00:00\r[download] 100.0% of 4.64MiB at  105.83MiB/s ETA 00:00\r[download] 100% of 4.64MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:17:20Z","message":"[ExtractAudio] Destination: Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.mp3"}
+{"level":"info","time":"2022-07-24T15:17:40Z","message":"Deleting original file Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:17:40Z","message":"[Metadata] Adding metadata to \"Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.mp3\""}
+{"level":"info","time":"2022-07-24T15:17:41Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:17:41Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.mp3\""}
+{"level":"info","time":"2022-07-24T15:17:45Z","message":"[youtube] lUPltG1hb3k: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"[youtube] lUPltG1hb3k: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"[info] lUPltG1hb3k: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"[info] Writing video thumbnail 41 to: Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webp"}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"[download] Destination: Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webm"}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"\r[download]   0.0% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.54MiB at   10.82MiB/s ETA 00:00   \r[download]   0.9% of 3.54MiB at   16.65MiB/s ETA 00:00\r[download]   1.7% of 3.54MiB at   23.89MiB/s ETA 00:00\r[download]   3.5% of 3.54MiB at   28.12MiB/s ETA 00:00\r[download]   7.0% of 3.54MiB at   38.07MiB/s ETA 00:00\r[download]  14.1% of 3.54MiB at   34.54MiB/s ETA 00:00\r[download]  28.2% of 3.54MiB at   57.34MiB/s ETA 00:00\r[download]  56.4% of 3.54MiB at   82.99MiB/s ETA 00:00\r[download] 100.0% of 3.54MiB at  112.37MiB/s ETA 00:00\r[download] 100% of 3.54MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:17:46Z","message":"[ExtractAudio] Destination: Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.mp3"}
+{"level":"info","time":"2022-07-24T15:18:01Z","message":"Deleting original file Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:18:01Z","message":"[Metadata] Adding metadata to \"Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.mp3\""}
+{"level":"info","time":"2022-07-24T15:18:01Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:18:01Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.mp3\""}
+{"level":"info","time":"2022-07-24T15:18:06Z","message":"[youtube] un2HVdq4dfw: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"[youtube] un2HVdq4dfw: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"[info] un2HVdq4dfw: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"[info] Writing video thumbnail 41 to: Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webp"}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"[download] Destination: Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webm"}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"\r[download]   0.0% of 3.25MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.25MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.25MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 3.25MiB at   12.83MiB/s ETA 00:00   \r[download]   0.9% of 3.25MiB at   20.92MiB/s ETA 00:00\r[download]   1.9% of 3.25MiB at   19.40MiB/s ETA 00:00\r[download]   3.8% of 3.25MiB at   27.89MiB/s ETA 00:00\r[download]   7.7% of 3.25MiB at   35.30MiB/s ETA 00:00\r[download]  15.4% of 3.25MiB at   52.31MiB/s ETA 00:00\r[download]  30.8% of 3.25MiB at   72.73MiB/s ETA 00:00\r[download]  61.5% of 3.25MiB at  101.55MiB/s ETA 00:00\r[download] 100.0% of 3.25MiB at   87.41MiB/s ETA 00:00\r[download] 100% of 3.25MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:18:07Z","message":"[ExtractAudio] Destination: Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.mp3"}
+{"level":"info","time":"2022-07-24T15:18:18Z","message":"Deleting original file Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:18:18Z","message":"[Metadata] Adding metadata to \"Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.mp3\""}
+{"level":"info","time":"2022-07-24T15:18:18Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:18:19Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.mp3\""}
+{"level":"info","time":"2022-07-24T15:18:23Z","message":"[youtube] _MMhmPbhyEA: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:18:24Z","message":"[youtube] _MMhmPbhyEA: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:18:24Z","message":"[info] _MMhmPbhyEA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:18:24Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:18:24Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:18:24Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:18:24Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"[info] Writing video thumbnail 35 to: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp"}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"[download] Destination: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webm"}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"\r[download]   0.0% of 8.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 8.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 8.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 8.19MiB at   14.51MiB/s ETA 00:00   \r[download]   0.4% of 8.19MiB at   22.16MiB/s ETA 00:00\r[download]   0.8% of 8.19MiB at   22.83MiB/s ETA 00:00\r[download]   1.5% of 8.19MiB at   34.13MiB/s ETA 00:00\r[download]   3.0% of 8.19MiB at   44.62MiB/s ETA 00:00\r[download]   6.1% of 8.19MiB at   65.93MiB/s ETA 00:00\r[download]  12.2% of 8.19MiB at   81.86MiB/s ETA 00:00\r[download]  24.4% of 8.19MiB at  108.05MiB/s ETA 00:00\r[download]  48.9% of 8.19MiB at   97.77MiB/s ETA 00:00\r[download]  97.7% of 8.19MiB at  100.68MiB/s ETA 00:00\r[download] 100.0% of 8.19MiB at   82.90MiB/s ETA 00:00\r[download] 100% of 8.19MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:18:25Z","message":"[ExtractAudio] Destination: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3"}
+{"level":"info","time":"2022-07-24T15:18:51Z","message":"Deleting original file Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:18:51Z","message":"[Metadata] Adding metadata to \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3\""}
+{"level":"info","time":"2022-07-24T15:18:52Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:18:52Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3\""}
+{"level":"info","time":"2022-07-24T15:18:57Z","message":"[youtube] PvaO-YDyw-4: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:18:57Z","message":"[youtube] PvaO-YDyw-4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:18:57Z","message":"[info] PvaO-YDyw-4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:18:57Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:18:57Z","message":"[info] Writing video thumbnail 41 to: Kara Main Theme (Kara).webp"}
+{"level":"info","time":"2022-07-24T15:18:58Z","message":"[download] Destination: Kara Main Theme (Kara).webm"}
+{"level":"info","time":"2022-07-24T15:18:58Z","message":"\r[download]   0.0% of 6.76MiB at  999.12KiB/s ETA 00:07\r[download]   0.0% of 6.76MiB at    2.12MiB/s ETA 00:03\r[download]   0.1% of 6.76MiB at    4.23MiB/s ETA 00:01\r[download]   0.2% of 6.76MiB at    7.89MiB/s ETA 00:00\r[download]   0.4% of 6.76MiB at   14.31MiB/s ETA 00:00\r[download]   0.9% of 6.76MiB at   25.08MiB/s ETA 00:00\r[download]   1.8% of 6.76MiB at   24.19MiB/s ETA 00:00\r[download]   3.7% of 6.76MiB at   37.10MiB/s ETA 00:00\r[download]   7.4% of 6.76MiB at   55.37MiB/s ETA 00:00\r[download]  14.8% of 6.76MiB at   77.45MiB/s ETA 00:00\r[download]  29.6% of 6.76MiB at  108.43MiB/s ETA 00:00\r[download]  59.2% of 6.76MiB at   80.83MiB/s ETA 00:00\r[download] 100.0% of 6.76MiB at   75.10MiB/s ETA 00:00\r[download] 100% of 6.76MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:18:58Z","message":"[ExtractAudio] Destination: Kara Main Theme (Kara).mp3"}
+{"level":"info","time":"2022-07-24T15:19:20Z","message":"Deleting original file Kara Main Theme (Kara).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:19:20Z","message":"[Metadata] Adding metadata to \"Kara Main Theme (Kara).mp3\""}
+{"level":"info","time":"2022-07-24T15:19:21Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Kara Main Theme (Kara).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:19:21Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Kara Main Theme (Kara).mp3\""}
+{"level":"info","time":"2022-07-24T15:19:26Z","message":"[youtube] q7UVJ5z2oXU: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:19:27Z","message":"[youtube] q7UVJ5z2oXU: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:19:27Z","message":"[info] q7UVJ5z2oXU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:19:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:19:28Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:19:28Z","message":"[info] Writing video thumbnail 40 to: Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.jpg"}
+{"level":"info","time":"2022-07-24T15:19:28Z","message":"[download] Destination: Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.webm"}
+{"level":"info","time":"2022-07-24T15:19:28Z","message":"\r[download]   0.0% of 3.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.84MiB at   13.97MiB/s ETA 00:00   \r[download]   0.8% of 3.84MiB at   22.83MiB/s ETA 00:00\r[download]   1.6% of 3.84MiB at   17.30MiB/s ETA 00:00\r[download]   3.2% of 3.84MiB at   28.64MiB/s ETA 00:00\r[download]   6.5% of 3.84MiB at   36.81MiB/s ETA 00:00\r[download]  13.0% of 3.84MiB at   53.66MiB/s ETA 00:00\r[download]  26.0% of 3.84MiB at   49.80MiB/s ETA 00:00\r[download]  52.0% of 3.84MiB at   66.60MiB/s ETA 00:00\r[download] 100.0% of 3.84MiB at   96.24MiB/s ETA 00:00\r[download] 100% of 3.84MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:19:28Z","message":"[ExtractAudio] Destination: Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.mp3"}
+{"level":"info","time":"2022-07-24T15:19:41Z","message":"Deleting original file Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:19:41Z","message":"[Metadata] Adding metadata to \"Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.mp3\""}
+{"level":"info","time":"2022-07-24T15:19:41Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.mp3\""}
+{"level":"info","time":"2022-07-24T15:19:46Z","message":"[youtube] _24Bbm1hDI0: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:19:47Z","message":"[youtube] _24Bbm1hDI0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:19:47Z","message":"[info] _24Bbm1hDI0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:19:47Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:19:49Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:19:51Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:19:52Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:19:53Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:19:54Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:19:55Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-24T15:19:56Z","message":"[info] Downloading video thumbnail 34 ..."}
+{"level":"info","time":"2022-07-24T15:19:56Z","message":"[info] Writing video thumbnail 34 to: Nazia Hassan - Ankhein milanay walay.jpg"}
+{"level":"info","time":"2022-07-24T15:19:56Z","message":"[download] Destination: Nazia Hassan - Ankhein milanay walay.webm"}
+{"level":"info","time":"2022-07-24T15:19:56Z","message":"\r[download]   0.0% of 3.57MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.57MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.57MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.57MiB at   14.39MiB/s ETA 00:00   \r[download]   0.8% of 3.57MiB at   23.88MiB/s ETA 00:00\r[download]   1.7% of 3.57MiB at   20.41MiB/s ETA 00:00\r[download]   3.5% of 3.57MiB at   31.29MiB/s ETA 00:00\r[download]   7.0% of 3.57MiB at   37.48MiB/s ETA 00:00\r[download]  14.0% of 3.57MiB at   58.05MiB/s ETA 00:00\r[download]  28.0% of 3.57MiB at   86.94MiB/s ETA 00:00\r[download]  55.9% of 3.57MiB at  116.59MiB/s ETA 00:00\r[download] 100.0% of 3.57MiB at   98.15MiB/s ETA 00:00\r[download] 100% of 3.57MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:19:56Z","message":"[ExtractAudio] Destination: Nazia Hassan - Ankhein milanay walay.mp3"}
+{"level":"info","time":"2022-07-24T15:20:11Z","message":"Deleting original file Nazia Hassan - Ankhein milanay walay.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:20:11Z","message":"[Metadata] Adding metadata to \"Nazia Hassan - Ankhein milanay walay.mp3\""}
+{"level":"info","time":"2022-07-24T15:20:11Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nazia Hassan - Ankhein milanay walay.mp3\""}
+{"level":"info","time":"2022-07-24T15:20:16Z","message":"[youtube] gYkACVDFmeg: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:20:16Z","message":"[youtube] gYkACVDFmeg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:20:16Z","message":"[info] gYkACVDFmeg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:20:16Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:20:17Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:20:19Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:20:21Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:20:21Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:20:23Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:20:23Z","message":"[info] Writing video thumbnail 36 to: I Will Survive - Gloria Gaynor (1978).jpg"}
+{"level":"info","time":"2022-07-24T15:20:23Z","message":"[download] Destination: I Will Survive - Gloria Gaynor (1978).webm"}
+{"level":"info","time":"2022-07-24T15:20:23Z","message":"\r[download]   0.0% of 4.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.52MiB at   13.52MiB/s ETA 00:00   \r[download]   0.7% of 4.52MiB at   19.39MiB/s ETA 00:00\r[download]   1.4% of 4.52MiB at   22.37MiB/s ETA 00:00\r[download]   2.7% of 4.52MiB at   31.99MiB/s ETA 00:00\r[download]   5.5% of 4.52MiB at   43.29MiB/s ETA 00:00\r[download]  11.0% of 4.52MiB at   64.73MiB/s ETA 00:00\r[download]  22.1% of 4.52MiB at   86.56MiB/s ETA 00:00\r[download]  44.2% of 4.52MiB at   99.49MiB/s ETA 00:00\r[download]  88.5% of 4.52MiB at  112.33MiB/s ETA 00:00\r[download] 100.0% of 4.52MiB at   45.94MiB/s ETA 00:00\r[download] 100% of 4.52MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:20:23Z","message":"[ExtractAudio] Destination: I Will Survive - Gloria Gaynor (1978).mp3"}
+{"level":"info","time":"2022-07-24T15:20:40Z","message":"Deleting original file I Will Survive - Gloria Gaynor (1978).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:20:40Z","message":"[Metadata] Adding metadata to \"I Will Survive - Gloria Gaynor (1978).mp3\""}
+{"level":"info","time":"2022-07-24T15:20:40Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"I Will Survive - Gloria Gaynor (1978).mp3\""}
+{"level":"info","time":"2022-07-24T15:20:45Z","message":"[youtube] YPHn4xSvjNM: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"[youtube] YPHn4xSvjNM: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"[info] YPHn4xSvjNM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"[info] Writing video thumbnail 41 to: The Marías - Baby One More Time.webp"}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"[download] Destination: The Marías - Baby One More Time.webm"}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"\r[download]   0.1% of 1.82MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 1.82MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 1.82MiB at    5.54MiB/s ETA 00:00   \r[download]   0.8% of 1.82MiB at    9.21MiB/s ETA 00:00\r[download]   1.7% of 1.82MiB at   15.41MiB/s ETA 00:00\r[download]   3.4% of 1.82MiB at   25.53MiB/s ETA 00:00\r[download]   6.8% of 1.82MiB at   28.63MiB/s ETA 00:00\r[download]  13.7% of 1.82MiB at   42.43MiB/s ETA 00:00\r[download]  27.4% of 1.82MiB at   59.77MiB/s ETA 00:00\r[download]  54.9% of 1.82MiB at   89.35MiB/s ETA 00:00\r[download] 100.0% of 1.82MiB at  115.79MiB/s ETA 00:00\r[download] 100% of 1.82MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:20:46Z","message":"[ExtractAudio] Destination: The Marías - Baby One More Time.mp3"}
+{"level":"info","time":"2022-07-24T15:20:52Z","message":"Deleting original file The Marías - Baby One More Time.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:20:52Z","message":"[Metadata] Adding metadata to \"The Marías - Baby One More Time.mp3\""}
+{"level":"info","time":"2022-07-24T15:20:52Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Marías - Baby One More Time.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:20:52Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Marías - Baby One More Time.mp3\""}
+{"level":"info","time":"2022-07-24T15:20:57Z","message":"[youtube] Y--3tZ5N8s0: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:20:57Z","message":"[youtube] Y--3tZ5N8s0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:20:57Z","message":"[youtube] Y--3tZ5N8s0: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-24T15:20:58Z","message":"[youtube] Y--3tZ5N8s0: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-24T15:20:58Z","message":"[info] Y--3tZ5N8s0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:20:58Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:21:00Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:21:01Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:21:02Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:21:04Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:21:06Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:21:07Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-24T15:21:07Z","message":"[info] Writing video thumbnail 35 to: The Marias - Baby One More Time (slowed + reverb).webp"}
+{"level":"info","time":"2022-07-24T15:21:08Z","message":"[download] Destination: The Marias - Baby One More Time (slowed + reverb).webm"}
+{"level":"info","time":"2022-07-24T15:21:08Z","message":"\r[download]   0.0% of 2.00MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.00MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.00MiB at    6.19MiB/s ETA 00:00   \r[download]   0.7% of 2.00MiB at   10.48MiB/s ETA 00:00\r[download]   1.5% of 2.00MiB at   17.74MiB/s ETA 00:00\r[download]   3.1% of 2.00MiB at   25.02MiB/s ETA 00:00\r[download]   6.2% of 2.00MiB at   29.47MiB/s ETA 00:00\r[download]  12.5% of 2.00MiB at   18.95MiB/s ETA 00:00\r[download]  25.0% of 2.00MiB at   16.74MiB/s ETA 00:00\r[download]  50.1% of 2.00MiB at   15.60MiB/s ETA 00:00\r[download] 100.0% of 2.00MiB at   15.19MiB/s ETA 00:00\r[download] 100% of 2.00MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:21:08Z","message":"[ExtractAudio] Destination: The Marias - Baby One More Time (slowed + reverb).mp3"}
+{"level":"info","time":"2022-07-24T15:21:13Z","message":"Deleting original file The Marias - Baby One More Time (slowed + reverb).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:21:13Z","message":"[Metadata] Adding metadata to \"The Marias - Baby One More Time (slowed + reverb).mp3\""}
+{"level":"info","time":"2022-07-24T15:21:14Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Marias - Baby One More Time (slowed + reverb).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:21:14Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Marias - Baby One More Time (slowed + reverb).mp3\""}
+{"level":"info","time":"2022-07-24T15:21:18Z","message":"[youtube] 78RVLe6JGmY: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:21:18Z","message":"[youtube] 78RVLe6JGmY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:21:19Z","message":"[info] 78RVLe6JGmY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:21:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:21:20Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:21:20Z","message":"[info] Writing video thumbnail 40 to: [HD] Nightcore - Baby one more time.jpg"}
+{"level":"info","time":"2022-07-24T15:21:20Z","message":"[download] Destination: [HD] Nightcore - Baby one more time.webm"}
+{"level":"info","time":"2022-07-24T15:21:20Z","message":"\r[download]   0.0% of 2.61MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.61MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.61MiB at  Unknown B/s ETA  Unknown\r[download]   0.6% of 2.61MiB at   12.96MiB/s ETA 00:00   \r[download]   1.2% of 2.61MiB at   21.12MiB/s ETA 00:00\r[download]   2.4% of 2.61MiB at   20.89MiB/s ETA 00:00\r[download]   4.7% of 2.61MiB at   30.40MiB/s ETA 00:00\r[download]   9.5% of 2.61MiB at   43.47MiB/s ETA 00:00\r[download]  19.1% of 2.61MiB at   60.46MiB/s ETA 00:00\r[download]  38.3% of 2.61MiB at   87.58MiB/s ETA 00:00\r[download]  76.5% of 2.61MiB at  110.65MiB/s ETA 00:00\r[download] 100.0% of 2.61MiB at   90.13MiB/s ETA 00:00\r[download] 100% of 2.61MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:21:20Z","message":"[ExtractAudio] Destination: [HD] Nightcore - Baby one more time.mp3"}
+{"level":"info","time":"2022-07-24T15:21:29Z","message":"Deleting original file [HD] Nightcore - Baby one more time.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:21:29Z","message":"[Metadata] Adding metadata to \"[HD] Nightcore - Baby one more time.mp3\""}
+{"level":"info","time":"2022-07-24T15:21:29Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"[HD] Nightcore - Baby one more time.mp3\""}
+{"level":"info","time":"2022-07-24T15:21:34Z","message":"[youtube] Quzsv6ekcPQ: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:21:35Z","message":"[youtube] Quzsv6ekcPQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:21:37Z","message":"[info] Quzsv6ekcPQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:21:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:21:37Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Poison.webp"}
+{"level":"info","time":"2022-07-24T15:21:37Z","message":"[download] Destination: Nightcore - Poison.webm"}
+{"level":"info","time":"2022-07-24T15:21:37Z","message":"\r[download]   0.0% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.19MiB at   12.17MiB/s ETA 00:00   \r[download]   0.7% of 4.19MiB at   20.27MiB/s ETA 00:00\r[download]   1.5% of 4.19MiB at   26.72MiB/s ETA 00:00\r[download]   3.0% of 4.19MiB at   33.61MiB/s ETA 00:00\r[download]   5.9% of 4.19MiB at   46.25MiB/s ETA 00:00\r[download]  11.9% of 4.19MiB at   70.39MiB/s ETA 00:00\r[download]  23.8% of 4.19MiB at   88.37MiB/s ETA 00:00\r[download]  47.7% of 4.19MiB at  114.91MiB/s ETA 00:00\r[download]  95.4% of 4.19MiB at  134.62MiB/s ETA 00:00\r[download] 100.0% of 4.19MiB at  116.65MiB/s ETA 00:00\r[download] 100% of 4.19MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:21:37Z","message":"[ExtractAudio] Destination: Nightcore - Poison.mp3"}
+{"level":"info","time":"2022-07-24T15:21:51Z","message":"Deleting original file Nightcore - Poison.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:21:51Z","message":"[Metadata] Adding metadata to \"Nightcore - Poison.mp3\""}
+{"level":"info","time":"2022-07-24T15:21:51Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Poison.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:21:51Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Poison.mp3\""}
+{"level":"info","time":"2022-07-24T15:21:56Z","message":"[youtube] ejXJQHZMOPQ: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:21:57Z","message":"[youtube] ejXJQHZMOPQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:21:57Z","message":"[info] ejXJQHZMOPQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:21:57Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:21:58Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:21:58Z","message":"[info] Writing video thumbnail 40 to: Nightcore -  Oops!...I did it again.jpg"}
+{"level":"info","time":"2022-07-24T15:21:58Z","message":"[download] Destination: Nightcore -  Oops!...I did it again.webm"}
+{"level":"info","time":"2022-07-24T15:21:58Z","message":"\r[download]   0.0% of 2.45MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.45MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.45MiB at  Unknown B/s ETA  Unknown\r[download]   0.6% of 2.45MiB at   12.58MiB/s ETA 00:00   \r[download]   1.2% of 2.45MiB at   20.99MiB/s ETA 00:00\r[download]   2.5% of 2.45MiB at   25.34MiB/s ETA 00:00\r[download]   5.1% of 2.45MiB at   31.38MiB/s ETA 00:00\r[download]  10.2% of 2.45MiB at   44.42MiB/s ETA 00:00\r[download]  20.4% of 2.45MiB at   57.72MiB/s ETA 00:00\r[download]  40.8% of 2.45MiB at   69.69MiB/s ETA 00:00\r[download]  81.7% of 2.45MiB at  109.77MiB/s ETA 00:00\r[download] 100.0% of 2.45MiB at   84.96MiB/s ETA 00:00\r[download] 100% of 2.45MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:21:59Z","message":"[ExtractAudio] Destination: Nightcore -  Oops!...I did it again.mp3"}
+{"level":"info","time":"2022-07-24T15:22:08Z","message":"Deleting original file Nightcore -  Oops!...I did it again.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:22:08Z","message":"[Metadata] Adding metadata to \"Nightcore -  Oops!...I did it again.mp3\""}
+{"level":"info","time":"2022-07-24T15:22:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore -  Oops!...I did it again.mp3\""}
+{"level":"info","time":"2022-07-24T15:22:13Z","message":"[youtube] 1edHjgZnnaw: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:22:13Z","message":"[youtube] 1edHjgZnnaw: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:22:14Z","message":"[info] 1edHjgZnnaw: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:22:14Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:22:14Z","message":"[info] Writing video thumbnail 41 to: I LOVE YOU BABY ♫.webp"}
+{"level":"info","time":"2022-07-24T15:22:14Z","message":"[download] Destination: I LOVE YOU BABY ♫.webm"}
+{"level":"info","time":"2022-07-24T15:22:14Z","message":"\r[download]   0.1% of 1.62MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 1.62MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 1.62MiB at  Unknown B/s ETA  Unknown\r[download]   0.9% of 1.62MiB at   11.46MiB/s ETA 00:00   \r[download]   1.9% of 1.62MiB at   19.29MiB/s ETA 00:00\r[download]   3.8% of 1.62MiB at   22.33MiB/s ETA 00:00\r[download]   7.7% of 1.62MiB at   31.76MiB/s ETA 00:00\r[download]  15.4% of 1.62MiB at   43.61MiB/s ETA 00:00\r[download]  30.8% of 1.62MiB at   66.48MiB/s ETA 00:00\r[download]  61.7% of 1.62MiB at   87.52MiB/s ETA 00:00\r[download] 100.0% of 1.62MiB at  114.02MiB/s ETA 00:00\r[download] 100% of 1.62MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:22:14Z","message":"[ExtractAudio] Destination: I LOVE YOU BABY ♫.mp3"}
+{"level":"info","time":"2022-07-24T15:22:19Z","message":"Deleting original file I LOVE YOU BABY ♫.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:22:19Z","message":"[Metadata] Adding metadata to \"I LOVE YOU BABY ♫.mp3\""}
+{"level":"info","time":"2022-07-24T15:22:19Z","message":"[ThumbnailsConvertor] Converting thumbnail \"I LOVE YOU BABY ♫.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:22:19Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"I LOVE YOU BABY ♫.mp3\""}
+{"level":"info","time":"2022-07-24T15:22:24Z","message":"[youtube] xzUgmeUSOkY: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"[youtube] xzUgmeUSOkY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"[info] xzUgmeUSOkY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"[info] Writing video thumbnail 41 to: Oh No! Asuka Langley||Marina & the Diamonds.webp"}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"[download] Destination: Oh No! Asuka Langley||Marina & the Diamonds.webm"}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"\r[download]   0.0% of 2.49MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.49MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.49MiB at  Unknown B/s ETA  Unknown\r[download]   0.6% of 2.49MiB at   12.08MiB/s ETA 00:00   \r[download]   1.2% of 2.49MiB at   19.80MiB/s ETA 00:00\r[download]   2.5% of 2.49MiB at   24.49MiB/s ETA 00:00\r[download]   5.0% of 2.49MiB at   32.23MiB/s ETA 00:00\r[download]  10.0% of 2.49MiB at   45.08MiB/s ETA 00:00\r[download]  20.0% of 2.49MiB at   67.12MiB/s ETA 00:00\r[download]  40.1% of 2.49MiB at   91.74MiB/s ETA 00:00\r[download]  80.2% of 2.49MiB at   59.80MiB/s ETA 00:00\r[download] 100.0% of 2.49MiB at   69.92MiB/s ETA 00:00\r[download] 100% of 2.49MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:22:25Z","message":"[ExtractAudio] Destination: Oh No! Asuka Langley||Marina & the Diamonds.mp3"}
+{"level":"info","time":"2022-07-24T15:22:34Z","message":"Deleting original file Oh No! Asuka Langley||Marina & the Diamonds.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:22:34Z","message":"[Metadata] Adding metadata to \"Oh No! Asuka Langley||Marina & the Diamonds.mp3\""}
+{"level":"info","time":"2022-07-24T15:22:34Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Oh No! Asuka Langley||Marina & the Diamonds.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:22:34Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Oh No! Asuka Langley||Marina & the Diamonds.mp3\""}
+{"level":"info","time":"2022-07-24T15:22:39Z","message":"[youtube] 8WEtxJ4-sh4: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:22:40Z","message":"[youtube] 8WEtxJ4-sh4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:22:40Z","message":"[info] 8WEtxJ4-sh4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:22:40Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:22:40Z","message":"[info] Writing video thumbnail 41 to: TLC - Waterfalls (Official HD Video).webp"}
+{"level":"info","time":"2022-07-24T15:22:40Z","message":"[download] Destination: TLC - Waterfalls (Official HD Video).webm"}
+{"level":"info","time":"2022-07-24T15:22:41Z","message":"\r[download]   0.0% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.89MiB at    8.50MiB/s ETA 00:00   \r[download]   0.6% of 4.89MiB at   14.29MiB/s ETA 00:00\r[download]   1.3% of 4.89MiB at   18.68MiB/s ETA 00:00\r[download]   2.5% of 4.89MiB at   26.22MiB/s ETA 00:00\r[download]   5.1% of 4.89MiB at   35.76MiB/s ETA 00:00\r[download]  10.2% of 4.89MiB at   55.58MiB/s ETA 00:00\r[download]  20.4% of 4.89MiB at   63.50MiB/s ETA 00:00\r[download]  40.9% of 4.89MiB at   91.61MiB/s ETA 00:00\r[download]  81.8% of 4.89MiB at  105.23MiB/s ETA 00:00\r[download] 100.0% of 4.89MiB at  113.20MiB/s ETA 00:00\r[download] 100% of 4.89MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:22:41Z","message":"[ExtractAudio] Destination: TLC - Waterfalls (Official HD Video).mp3"}
+{"level":"info","time":"2022-07-24T15:22:58Z","message":"Deleting original file TLC - Waterfalls (Official HD Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:22:58Z","message":"[Metadata] Adding metadata to \"TLC - Waterfalls (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-24T15:22:58Z","message":"[ThumbnailsConvertor] Converting thumbnail \"TLC - Waterfalls (Official HD Video).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:22:59Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"TLC - Waterfalls (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-24T15:23:03Z","message":"[youtube] wYUyg6a8eEk: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:23:04Z","message":"[youtube] wYUyg6a8eEk: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:23:05Z","message":"[info] wYUyg6a8eEk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:23:05Z","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-07-24T15:23:05Z","message":"[info] Writing video thumbnail 45 to: One Last Kiss Cover • Evangelion 3.0 + 1.0.webp"}
+{"level":"info","time":"2022-07-24T15:23:05Z","message":"[download] Destination: One Last Kiss Cover • Evangelion 3.0 + 1.0.webm"}
+{"level":"info","time":"2022-07-24T15:23:05Z","message":"\r[download]   0.0% of 4.21MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.21MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.21MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.21MiB at   12.03MiB/s ETA 00:00   \r[download]   0.7% of 4.21MiB at   19.89MiB/s ETA 00:00\r[download]   1.5% of 4.21MiB at   23.60MiB/s ETA 00:00\r[download]   2.9% of 4.21MiB at   32.55MiB/s ETA 00:00\r[download]   5.9% of 4.21MiB at   21.03MiB/s ETA 00:00\r[download]  11.9% of 4.21MiB at   17.50MiB/s ETA 00:00\r[download]  23.8% of 4.21MiB at   16.15MiB/s ETA 00:00\r[download]  47.5% of 4.21MiB at   12.53MiB/s ETA 00:00\r[download]  95.1% of 4.21MiB at   23.08MiB/s ETA 00:00\r[download] 100.0% of 4.21MiB at   23.82MiB/s ETA 00:00\r[download] 100% of 4.21MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:23:05Z","message":"[ExtractAudio] Destination: One Last Kiss Cover • Evangelion 3.0 + 1.0.mp3"}
+{"level":"info","time":"2022-07-24T15:23:19Z","message":"Deleting original file One Last Kiss Cover • Evangelion 3.0 + 1.0.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:23:19Z","message":"[Metadata] Adding metadata to \"One Last Kiss Cover • Evangelion 3.0 + 1.0.mp3\""}
+{"level":"info","time":"2022-07-24T15:23:20Z","message":"[ThumbnailsConvertor] Converting thumbnail \"One Last Kiss Cover • Evangelion 3.0 + 1.0.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:23:20Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"One Last Kiss Cover • Evangelion 3.0 + 1.0.mp3\""}
+{"level":"info","time":"2022-07-24T15:23:25Z","message":"[youtube] R4-4krTkb_Y: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:23:25Z","message":"[youtube] R4-4krTkb_Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:23:26Z","message":"[info] R4-4krTkb_Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:23:26Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:23:27Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:23:29Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:23:30Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:23:32Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:23:34Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:23:36Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-24T15:23:36Z","message":"[info] Writing video thumbnail 35 to: Annie Khalid - Mahia (Official Music Video).webp"}
+{"level":"info","time":"2022-07-24T15:23:36Z","message":"[download] Destination: Annie Khalid - Mahia (Official Music Video).webm"}
+{"level":"info","time":"2022-07-24T15:23:36Z","message":"\r[download]   0.0% of 4.36MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.36MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.36MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.36MiB at   10.72MiB/s ETA 00:00   \r[download]   0.7% of 4.36MiB at   16.76MiB/s ETA 00:00\r[download]   1.4% of 4.36MiB at   27.07MiB/s ETA 00:00\r[download]   2.8% of 4.36MiB at   29.43MiB/s ETA 00:00\r[download]   5.7% of 4.36MiB at   43.84MiB/s ETA 00:00\r[download]  11.5% of 4.36MiB at   65.77MiB/s ETA 00:00\r[download]  22.9% of 4.36MiB at   89.28MiB/s ETA 00:00\r[download]  45.9% of 4.36MiB at   84.99MiB/s ETA 00:00\r[download]  91.8% of 4.36MiB at   88.37MiB/s ETA 00:00\r[download] 100.0% of 4.36MiB at   62.19MiB/s ETA 00:00\r[download] 100% of 4.36MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:23:36Z","message":"[ExtractAudio] Destination: Annie Khalid - Mahia (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-24T15:23:50Z","message":"Deleting original file Annie Khalid - Mahia (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:23:50Z","message":"[Metadata] Adding metadata to \"Annie Khalid - Mahia (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-24T15:23:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Annie Khalid - Mahia (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:23:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Annie Khalid - Mahia (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-24T15:23:54Z","message":"[youtube] GXFlILWExSY: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:23:54Z","message":"[youtube] GXFlILWExSY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:23:54Z","message":"[info] GXFlILWExSY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:23:54Z","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-07-24T15:23:55Z","message":"[info] Writing video thumbnail 45 to: 【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.webp"}
+{"level":"info","time":"2022-07-24T15:23:55Z","message":"[download] Destination: 【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.webm"}
+{"level":"info","time":"2022-07-24T15:23:55Z","message":"\r[download]   0.0% of 2.59MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.59MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.59MiB at  Unknown B/s ETA  Unknown\r[download]   0.6% of 2.59MiB at  Unknown B/s ETA 00:00   \r[download]   1.2% of 2.59MiB at   23.45MiB/s ETA 00:00\r[download]   2.4% of 2.59MiB at   21.00MiB/s ETA 00:00\r[download]   4.8% of 2.59MiB at   31.12MiB/s ETA 00:00\r[download]   9.6% of 2.59MiB at   37.61MiB/s ETA 00:00\r[download]  19.3% of 2.59MiB at   45.98MiB/s ETA 00:00\r[download]  38.6% of 2.59MiB at   71.49MiB/s ETA 00:00\r[download]  77.2% of 2.59MiB at   91.64MiB/s ETA 00:00\r[download] 100.0% of 2.59MiB at   83.48MiB/s ETA 00:00\r[download] 100% of 2.59MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:23:55Z","message":"[ExtractAudio] Destination: 【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.mp3"}
+{"level":"info","time":"2022-07-24T15:24:00Z","message":"Deleting original file 【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:24:00Z","message":"[Metadata] Adding metadata to \"【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.mp3\""}
+{"level":"info","time":"2022-07-24T15:24:00Z","message":"[ThumbnailsConvertor] Converting thumbnail \"【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:24:00Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"【Deadman 死人】Omae wa mou - Already Dead ❀ (Tiny Little Adiantum Remix ver) Cover【Himechin】.mp3\""}
+{"level":"info","time":"2022-07-24T15:24:06Z","message":"[youtube] rB7XFQgJHBI: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:24:06Z","message":"[youtube] rB7XFQgJHBI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:24:09Z","message":"[info] rB7XFQgJHBI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:24:09Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:24:09Z","message":"[info] Writing video thumbnail 41 to: タイニーリトル・アジアンタム.webp"}
+{"level":"info","time":"2022-07-24T15:24:09Z","message":"[download] Destination: タイニーリトル・アジアンタム.webm"}
+{"level":"info","time":"2022-07-24T15:24:09Z","message":"\r[download]   0.0% of 6.06MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 6.06MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 6.06MiB at    6.62MiB/s ETA 00:00   \r[download]   0.2% of 6.06MiB at   11.18MiB/s ETA 00:00\r[download]   0.5% of 6.06MiB at   18.87MiB/s ETA 00:00\r[download]   1.0% of 6.06MiB at   21.64MiB/s ETA 00:00\r[download]   2.0% of 6.06MiB at   26.52MiB/s ETA 00:00\r[download]   4.1% of 6.06MiB at   38.53MiB/s ETA 00:00\r[download]   8.2% of 6.06MiB at   55.98MiB/s ETA 00:00\r[download]  16.5% of 6.06MiB at   85.04MiB/s ETA 00:00\r[download]  33.0% of 6.06MiB at  109.55MiB/s ETA 00:00\r[download]  66.0% of 6.06MiB at  115.84MiB/s ETA 00:00\r[download] 100.0% of 6.06MiB at  131.31MiB/s ETA 00:00\r[download] 100% of 6.06MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:24:09Z","message":"[ExtractAudio] Destination: タイニーリトル・アジアンタム.mp3"}
+{"level":"info","time":"2022-07-24T15:24:22Z","message":"Deleting original file タイニーリトル・アジアンタム.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:24:22Z","message":"[Metadata] Adding metadata to \"タイニーリトル・アジアンタム.mp3\""}
+{"level":"info","time":"2022-07-24T15:24:22Z","message":"[ThumbnailsConvertor] Converting thumbnail \"タイニーリトル・アジアンタム.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:24:22Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"タイニーリトル・アジアンタム.mp3\""}
+{"level":"info","time":"2022-07-24T15:24:26Z","message":"[youtube] M0qMgoChzGI: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"[youtube] M0qMgoChzGI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"[info] M0qMgoChzGI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"[info] Writing video thumbnail 41 to: (ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].webp"}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"[download] Destination: (ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].webm"}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"\r[download]   0.0% of 5.37MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 5.37MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 5.37MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 5.37MiB at   13.77MiB/s ETA 00:00   \r[download]   0.6% of 5.37MiB at   21.88MiB/s ETA 00:00\r[download]   1.1% of 5.37MiB at   23.01MiB/s ETA 00:00\r[download]   2.3% of 5.37MiB at   27.88MiB/s ETA 00:00\r[download]   4.6% of 5.37MiB at   39.59MiB/s ETA 00:00\r[download]   9.3% of 5.37MiB at   59.06MiB/s ETA 00:00\r[download]  18.6% of 5.37MiB at   84.98MiB/s ETA 00:00\r[download]  37.2% of 5.37MiB at  114.20MiB/s ETA 00:00\r[download]  74.5% of 5.37MiB at  139.75MiB/s ETA 00:00\r[download] 100.0% of 5.37MiB at  125.41MiB/s ETA 00:00\r[download] 100% of 5.37MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:24:27Z","message":"[ExtractAudio] Destination: (ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].mp3"}
+{"level":"info","time":"2022-07-24T15:24:44Z","message":"Deleting original file (ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:24:44Z","message":"[Metadata] Adding metadata to \"(ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].mp3\""}
+{"level":"info","time":"2022-07-24T15:24:44Z","message":"[ThumbnailsConvertor] Converting thumbnail \"(ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].webp\" to png"}
+{"level":"info","time":"2022-07-24T15:24:44Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"(ORIGINAL Music Video) Stay With Me - Miki Matsubara [HITACHI Sound Break].mp3\""}
+{"level":"info","time":"2022-07-24T15:24:48Z","message":"[youtube] fdpEAyrKwvU: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:24:49Z","message":"[youtube] fdpEAyrKwvU: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:24:49Z","message":"[info] fdpEAyrKwvU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:24:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:24:51Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:24:52Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:24:54Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:24:55Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:24:55Z","message":"[info] Writing video thumbnail 37 to: 中原めいこ Nakahara Meiko - Fantasy.webp"}
+{"level":"info","time":"2022-07-24T15:24:55Z","message":"[download] Destination: 中原めいこ Nakahara Meiko - Fantasy.webm"}
+{"level":"info","time":"2022-07-24T15:24:55Z","message":"\r[download]   0.0% of 4.26MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.26MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.26MiB at    6.28MiB/s ETA 00:00   \r[download]   0.3% of 4.26MiB at    9.88MiB/s ETA 00:00\r[download]   0.7% of 4.26MiB at   16.16MiB/s ETA 00:00\r[download]   1.4% of 4.26MiB at   23.54MiB/s ETA 00:00\r[download]   2.9% of 4.26MiB at   28.10MiB/s ETA 00:00\r[download]   5.9% of 4.26MiB at   38.26MiB/s ETA 00:00\r[download]  11.7% of 4.26MiB at   58.48MiB/s ETA 00:00\r[download]  23.5% of 4.26MiB at   76.67MiB/s ETA 00:00\r[download]  47.0% of 4.26MiB at  112.64MiB/s ETA 00:00\r[download]  94.0% of 4.26MiB at   99.69MiB/s ETA 00:00\r[download] 100.0% of 4.26MiB at   97.84MiB/s ETA 00:00\r[download] 100% of 4.26MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:24:55Z","message":"[ExtractAudio] Destination: 中原めいこ Nakahara Meiko - Fantasy.mp3"}
+{"level":"info","time":"2022-07-24T15:25:07Z","message":"Deleting original file 中原めいこ Nakahara Meiko - Fantasy.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:25:07Z","message":"[Metadata] Adding metadata to \"中原めいこ Nakahara Meiko - Fantasy.mp3\""}
+{"level":"info","time":"2022-07-24T15:25:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"中原めいこ Nakahara Meiko - Fantasy.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:25:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"中原めいこ Nakahara Meiko - Fantasy.mp3\""}
+{"level":"info","time":"2022-07-24T15:25:13Z","message":"[youtube] dyhMX_YCO4Y: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:25:13Z","message":"[youtube] dyhMX_YCO4Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:25:13Z","message":"[youtube] dyhMX_YCO4Y: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-24T15:25:14Z","message":"[youtube] dyhMX_YCO4Y: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-24T15:25:14Z","message":"[info] dyhMX_YCO4Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:25:14Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:25:14Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:25:14Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[info] Writing video thumbnail 35 to: Mariya Takeuchi - Sweetest Music | LEGENDADO.webp"}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[download] Destination: Mariya Takeuchi - Sweetest Music | LEGENDADO.webm"}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"\r[download]   0.0% of 2.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 2.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 2.84MiB at   14.43MiB/s ETA 00:00   \r[download]   1.1% of 2.84MiB at   20.48MiB/s ETA 00:00\r[download]   2.2% of 2.84MiB at   22.46MiB/s ETA 00:00\r[download]   4.4% of 2.84MiB at   30.52MiB/s ETA 00:00\r[download]   8.8% of 2.84MiB at   41.61MiB/s ETA 00:00\r[download]  17.6% of 2.84MiB at   46.92MiB/s ETA 00:00\r[download]  35.1% of 2.84MiB at   76.39MiB/s ETA 00:00\r[download]  70.3% of 2.84MiB at  107.43MiB/s ETA 00:00\r[download] 100.0% of 2.84MiB at   55.11MiB/s ETA 00:00\r[download] 100% of 2.84MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:25:15Z","message":"[ExtractAudio] Destination: Mariya Takeuchi - Sweetest Music | LEGENDADO.mp3"}
+{"level":"info","time":"2022-07-24T15:25:24Z","message":"Deleting original file Mariya Takeuchi - Sweetest Music | LEGENDADO.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:25:24Z","message":"[Metadata] Adding metadata to \"Mariya Takeuchi - Sweetest Music | LEGENDADO.mp3\""}
+{"level":"info","time":"2022-07-24T15:25:24Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mariya Takeuchi - Sweetest Music | LEGENDADO.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:25:24Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mariya Takeuchi - Sweetest Music | LEGENDADO.mp3\""}
+{"level":"info","time":"2022-07-24T15:25:28Z","message":"[youtube] sq6Ek0ioWH4: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:25:28Z","message":"[youtube] sq6Ek0ioWH4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:25:29Z","message":"[info] sq6Ek0ioWH4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:25:29Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:25:30Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:25:32Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:25:33Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:25:35Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:25:36Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:25:38Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-24T15:25:38Z","message":"[info] Writing video thumbnail 35 to: Sweetest Music　竹内まりや.webp"}
+{"level":"info","time":"2022-07-24T15:25:38Z","message":"[download] Destination: Sweetest Music　竹内まりや.webm"}
+{"level":"info","time":"2022-07-24T15:25:38Z","message":"\r[download]   0.0% of 2.96MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.96MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 2.96MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 2.96MiB at   13.24MiB/s ETA 00:00   \r[download]   1.0% of 2.96MiB at   20.82MiB/s ETA 00:00\r[download]   2.1% of 2.96MiB at   18.78MiB/s ETA 00:00\r[download]   4.2% of 2.96MiB at   29.21MiB/s ETA 00:00\r[download]   8.4% of 2.96MiB at   38.48MiB/s ETA 00:00\r[download]  16.8% of 2.96MiB at   56.88MiB/s ETA 00:00\r[download]  33.7% of 2.96MiB at   85.37MiB/s ETA 00:00\r[download]  67.5% of 2.96MiB at   83.75MiB/s ETA 00:00\r[download] 100.0% of 2.96MiB at   38.71MiB/s ETA 00:00\r[download] 100% of 2.96MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:25:38Z","message":"[ExtractAudio] Destination: Sweetest Music　竹内まりや.mp3"}
+{"level":"info","time":"2022-07-24T15:25:50Z","message":"Deleting original file Sweetest Music　竹内まりや.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:25:50Z","message":"[Metadata] Adding metadata to \"Sweetest Music　竹内まりや.mp3\""}
+{"level":"info","time":"2022-07-24T15:25:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Sweetest Music　竹内まりや.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:25:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Sweetest Music　竹内まりや.mp3\""}
+{"level":"info","time":"2022-07-24T15:25:54Z","message":"[youtube] cziezzKvshA: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:25:55Z","message":"[youtube] cziezzKvshA: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:25:55Z","message":"[info] cziezzKvshA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:25:56Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:25:56Z","message":"[info] Writing video thumbnail 41 to: 森高千里 「17才」  非実力派宣言.webp"}
+{"level":"info","time":"2022-07-24T15:25:56Z","message":"[download] Destination: 森高千里 「17才」  非実力派宣言.webm"}
+{"level":"info","time":"2022-07-24T15:25:56Z","message":"\r[download]   0.0% of 4.65MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.65MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.65MiB at    6.49MiB/s ETA 00:00   \r[download]   0.3% of 4.65MiB at   10.79MiB/s ETA 00:00\r[download]   0.7% of 4.65MiB at   18.24MiB/s ETA 00:00\r[download]   1.3% of 4.65MiB at   23.84MiB/s ETA 00:00\r[download]   2.7% of 4.65MiB at   29.04MiB/s ETA 00:00\r[download]   5.4% of 4.65MiB at   39.54MiB/s ETA 00:00\r[download]  10.7% of 4.65MiB at   56.62MiB/s ETA 00:00\r[download]  21.5% of 4.65MiB at   83.74MiB/s ETA 00:00\r[download]  43.0% of 4.65MiB at  106.52MiB/s ETA 00:00\r[download]  86.1% of 4.65MiB at   78.45MiB/s ETA 00:00\r[download] 100.0% of 4.65MiB at   83.72MiB/s ETA 00:00\r[download] 100% of 4.65MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:25:56Z","message":"[ExtractAudio] Destination: 森高千里 「17才」  非実力派宣言.mp3"}
+{"level":"info","time":"2022-07-24T15:26:13Z","message":"Deleting original file 森高千里 「17才」  非実力派宣言.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:26:13Z","message":"[Metadata] Adding metadata to \"森高千里 「17才」  非実力派宣言.mp3\""}
+{"level":"info","time":"2022-07-24T15:26:13Z","message":"[ThumbnailsConvertor] Converting thumbnail \"森高千里 「17才」  非実力派宣言.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:26:13Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"森高千里 「17才」  非実力派宣言.mp3\""}
+{"level":"info","time":"2022-07-24T15:26:18Z","message":"[youtube] 4Q4JRVW5BFE: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:26:19Z","message":"[youtube] 4Q4JRVW5BFE: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:26:19Z","message":"[info] 4Q4JRVW5BFE: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:26:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:26:21Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:26:22Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:26:23Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:26:25Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:26:25Z","message":"[info] Writing video thumbnail 37 to: Miki Matsubara - 真夜中のドア～Stay With Me.webp"}
+{"level":"info","time":"2022-07-24T15:26:25Z","message":"[download] Destination: Miki Matsubara - 真夜中のドア～Stay With Me.webm"}
+{"level":"info","time":"2022-07-24T15:26:25Z","message":"\r[download]   0.0% of 2.53MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.53MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.53MiB at    6.56MiB/s ETA 00:00   \r[download]   0.6% of 2.53MiB at    9.32MiB/s ETA 00:00\r[download]   1.2% of 2.53MiB at   14.92MiB/s ETA 00:00\r[download]   2.4% of 2.53MiB at   23.74MiB/s ETA 00:00\r[download]   4.9% of 2.53MiB at   27.46MiB/s ETA 00:00\r[download]   9.8% of 2.53MiB at   18.94MiB/s ETA 00:00\r[download]  19.7% of 2.53MiB at   31.59MiB/s ETA 00:00\r[download]  39.5% of 2.53MiB at   48.16MiB/s ETA 00:00\r[download]  78.9% of 2.53MiB at   75.04MiB/s ETA 00:00\r[download] 100.0% of 2.53MiB at   84.56MiB/s ETA 00:00\r[download] 100% of 2.53MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:26:25Z","message":"[ExtractAudio] Destination: Miki Matsubara - 真夜中のドア～Stay With Me.mp3"}
+{"level":"info","time":"2022-07-24T15:26:32Z","message":"Deleting original file Miki Matsubara - 真夜中のドア～Stay With Me.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:26:32Z","message":"[Metadata] Adding metadata to \"Miki Matsubara - 真夜中のドア～Stay With Me.mp3\""}
+{"level":"info","time":"2022-07-24T15:26:32Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Miki Matsubara - 真夜中のドア～Stay With Me.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:26:32Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Miki Matsubara - 真夜中のドア～Stay With Me.mp3\""}
+{"level":"info","time":"2022-07-24T15:26:37Z","message":"[youtube] zHSbBZhxgBI: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:26:37Z","message":"[youtube] zHSbBZhxgBI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:26:38Z","message":"[youtube] zHSbBZhxgBI: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-24T15:26:38Z","message":"[youtube] zHSbBZhxgBI: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-24T15:26:38Z","message":"[info] zHSbBZhxgBI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:26:38Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:26:38Z","message":"[info] Writing video thumbnail 41 to: STUDIO APARTMENT - One True Love.webp"}
+{"level":"info","time":"2022-07-24T15:26:38Z","message":"[download] Destination: STUDIO APARTMENT - One True Love.webm"}
+{"level":"info","time":"2022-07-24T15:26:39Z","message":"\r[download]   0.0% of 6.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 6.54MiB at    2.26MiB/s ETA 00:02   \r[download]   0.1% of 6.54MiB at    3.69MiB/s ETA 00:01\r[download]   0.2% of 6.54MiB at    6.10MiB/s ETA 00:01\r[download]   0.5% of 6.54MiB at   10.06MiB/s ETA 00:00\r[download]   0.9% of 6.54MiB at   16.74MiB/s ETA 00:00\r[download]   1.9% of 6.54MiB at   23.48MiB/s ETA 00:00\r[download]   3.8% of 6.54MiB at   31.31MiB/s ETA 00:00\r[download]   7.6% of 6.54MiB at   51.25MiB/s ETA 00:00\r[download]  15.3% of 6.54MiB at   73.70MiB/s ETA 00:00\r[download]  30.6% of 6.54MiB at  108.36MiB/s ETA 00:00\r[download]  61.1% of 6.54MiB at   76.32MiB/s ETA 00:00\r[download] 100.0% of 6.54MiB at   76.98MiB/s ETA 00:00\r[download] 100% of 6.54MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:26:39Z","message":"[ExtractAudio] Destination: STUDIO APARTMENT - One True Love.mp3"}
+{"level":"info","time":"2022-07-24T15:26:54Z","message":"Deleting original file STUDIO APARTMENT - One True Love.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:26:54Z","message":"[Metadata] Adding metadata to \"STUDIO APARTMENT - One True Love.mp3\""}
+{"level":"info","time":"2022-07-24T15:26:54Z","message":"[ThumbnailsConvertor] Converting thumbnail \"STUDIO APARTMENT - One True Love.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:26:55Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"STUDIO APARTMENT - One True Love.mp3\""}
+{"level":"info","time":"2022-07-24T15:27:00Z","message":"[youtube] ckHvM3eEX0w: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:27:00Z","message":"[youtube] ckHvM3eEX0w: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:27:01Z","message":"[info] ckHvM3eEX0w: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:27:01Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:27:01Z","message":"[info] Writing video thumbnail 41 to: Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).webp"}
+{"level":"info","time":"2022-07-24T15:27:01Z","message":"[download] Destination: Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).webm"}
+{"level":"info","time":"2022-07-24T15:27:01Z","message":"\r[download]   0.0% of 4.18MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.18MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.18MiB at    5.53MiB/s ETA 00:00   \r[download]   0.4% of 4.18MiB at    9.46MiB/s ETA 00:00\r[download]   0.7% of 4.18MiB at   16.15MiB/s ETA 00:00\r[download]   1.5% of 4.18MiB at   26.82MiB/s ETA 00:00\r[download]   3.0% of 4.18MiB at   15.90MiB/s ETA 00:00\r[download]   6.0% of 4.18MiB at   29.50MiB/s ETA 00:00\r[download]  11.9% of 4.18MiB at   52.39MiB/s ETA 00:00\r[download]  23.9% of 4.18MiB at   79.36MiB/s ETA 00:00\r[download]  47.8% of 4.18MiB at   73.12MiB/s ETA 00:00\r[download]  95.6% of 4.18MiB at   51.85MiB/s ETA 00:00\r[download] 100.0% of 4.18MiB at   49.46MiB/s ETA 00:00\r[download] 100% of 4.18MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:27:01Z","message":"[ExtractAudio] Destination: Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).mp3"}
+{"level":"info","time":"2022-07-24T15:27:13Z","message":"Deleting original file Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:27:13Z","message":"[Metadata] Adding metadata to \"Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).mp3\""}
+{"level":"info","time":"2022-07-24T15:27:13Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:27:13Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Neon Genesis Evangelion - Fly Me To The Moon (Asuka, Rei & Misato).mp3\""}
+{"level":"info","time":"2022-07-24T15:27:18Z","message":"[youtube] sdQhU5JKMno: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:27:18Z","message":"[youtube] sdQhU5JKMno: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:27:19Z","message":"[info] sdQhU5JKMno: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:27:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:27:19Z","message":"[info] Writing video thumbnail 41 to: Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).webp"}
+{"level":"info","time":"2022-07-24T15:27:19Z","message":"[download] Destination: Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).webm"}
+{"level":"info","time":"2022-07-24T15:27:19Z","message":"\r[download]   0.0% of 2.98MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.98MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 2.98MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 2.98MiB at   13.43MiB/s ETA 00:00   \r[download]   1.0% of 2.98MiB at   20.26MiB/s ETA 00:00\r[download]   2.1% of 2.98MiB at   23.11MiB/s ETA 00:00\r[download]   4.2% of 2.98MiB at   32.67MiB/s ETA 00:00\r[download]   8.3% of 2.98MiB at   43.68MiB/s ETA 00:00\r[download]  16.7% of 2.98MiB at   65.67MiB/s ETA 00:00\r[download]  33.5% of 2.98MiB at   90.00MiB/s ETA 00:00\r[download]  67.0% of 2.98MiB at   87.20MiB/s ETA 00:00\r[download] 100.0% of 2.98MiB at   66.77MiB/s ETA 00:00\r[download] 100% of 2.98MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:27:19Z","message":"[ExtractAudio] Destination: Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).mp3"}
+{"level":"info","time":"2022-07-24T15:27:29Z","message":"Deleting original file Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:27:29Z","message":"[Metadata] Adding metadata to \"Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).mp3\""}
+{"level":"info","time":"2022-07-24T15:27:30Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:27:30Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Going Spaceward & ibrahim - \"Fly Me to the Moon\" (Official Audio).mp3\""}
+{"level":"info","time":"2022-07-24T15:27:34Z","message":"[youtube] --B2MJbUv-o: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:27:34Z","message":"[youtube] --B2MJbUv-o: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:27:35Z","message":"[info] --B2MJbUv-o: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:27:35Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:27:35Z","message":"[info] Writing video thumbnail 41 to: Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webp"}
+{"level":"info","time":"2022-07-24T15:27:35Z","message":"[download] Destination: Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webm"}
+{"level":"info","time":"2022-07-24T15:27:35Z","message":"\r[download]   0.0% of 2.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 2.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 2.89MiB at   12.98MiB/s ETA 00:00   \r[download]   1.0% of 2.89MiB at   21.13MiB/s ETA 00:00\r[download]   2.1% of 2.89MiB at   26.68MiB/s ETA 00:00\r[download]   4.3% of 2.89MiB at   32.81MiB/s ETA 00:00\r[download]   8.6% of 2.89MiB at   46.89MiB/s ETA 00:00\r[download]  17.2% of 2.89MiB at   63.88MiB/s ETA 00:00\r[download]  34.5% of 2.89MiB at   89.75MiB/s ETA 00:00\r[download]  69.1% of 2.89MiB at  121.84MiB/s ETA 00:00\r[download] 100.0% of 2.89MiB at   85.14MiB/s ETA 00:00\r[download] 100% of 2.89MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:27:35Z","message":"[ExtractAudio] Destination: Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3"}
+{"level":"info","time":"2022-07-24T15:27:43Z","message":"Deleting original file Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:27:43Z","message":"[Metadata] Adding metadata to \"Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3\""}
+{"level":"info","time":"2022-07-24T15:27:44Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:27:44Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Fly Me To The Moon - Lofi Cover (Prod. YungRhythm).mp3\""}
+{"level":"info","time":"2022-07-24T15:27:49Z","message":"[youtube] mBxt1mjAGcA: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:27:49Z","message":"[youtube] mBxt1mjAGcA: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:27:49Z","message":"[info] mBxt1mjAGcA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:27:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:27:50Z","message":"[info] Writing video thumbnail 41 to: Michael Bublé hands me the mic to sing Fly Me To The Moon.webp"}
+{"level":"info","time":"2022-07-24T15:27:50Z","message":"[download] Destination: Michael Bublé hands me the mic to sing Fly Me To The Moon.webm"}
+{"level":"info","time":"2022-07-24T15:27:50Z","message":"\r[download]   0.1% of 1.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 1.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 1.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.8% of 1.84MiB at   11.90MiB/s ETA 00:00   \r[download]   1.6% of 1.84MiB at   20.14MiB/s ETA 00:00\r[download]   3.3% of 1.84MiB at   25.76MiB/s ETA 00:00\r[download]   6.7% of 1.84MiB at   31.20MiB/s ETA 00:00\r[download]  13.5% of 1.84MiB at   39.13MiB/s ETA 00:00\r[download]  27.1% of 1.84MiB at   51.41MiB/s ETA 00:00\r[download]  54.3% of 1.84MiB at   82.27MiB/s ETA 00:00\r[download] 100.0% of 1.84MiB at  108.85MiB/s ETA 00:00\r[download] 100% of 1.84MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:27:50Z","message":"[ExtractAudio] Destination: Michael Bublé hands me the mic to sing Fly Me To The Moon.mp3"}
+{"level":"info","time":"2022-07-24T15:27:57Z","message":"Deleting original file Michael Bublé hands me the mic to sing Fly Me To The Moon.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:27:57Z","message":"[Metadata] Adding metadata to \"Michael Bublé hands me the mic to sing Fly Me To The Moon.mp3\""}
+{"level":"info","time":"2022-07-24T15:27:57Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Michael Bublé hands me the mic to sing Fly Me To The Moon.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:27:57Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Michael Bublé hands me the mic to sing Fly Me To The Moon.mp3\""}
+{"level":"info","time":"2022-07-24T15:28:02Z","message":"[youtube] 9Hf1t_BXGfk: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:28:02Z","message":"[youtube] 9Hf1t_BXGfk: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:28:02Z","message":"[info] 9Hf1t_BXGfk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:28:02Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:28:02Z","message":"[info] Writing video thumbnail 41 to: Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.webp"}
+{"level":"info","time":"2022-07-24T15:28:02Z","message":"[download] Destination: Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.webm"}
+{"level":"info","time":"2022-07-24T15:28:03Z","message":"\r[download]   0.0% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.54MiB at   12.68MiB/s ETA 00:00   \r[download]   0.9% of 3.54MiB at   19.10MiB/s ETA 00:00\r[download]   1.7% of 3.54MiB at   25.76MiB/s ETA 00:00\r[download]   3.5% of 3.54MiB at   33.79MiB/s ETA 00:00\r[download]   7.0% of 3.54MiB at   46.91MiB/s ETA 00:00\r[download]  14.1% of 3.54MiB at   48.88MiB/s ETA 00:00\r[download]  28.2% of 3.54MiB at   70.50MiB/s ETA 00:00\r[download]  56.4% of 3.54MiB at   93.15MiB/s ETA 00:00\r[download] 100.0% of 3.54MiB at   97.79MiB/s ETA 00:00\r[download] 100% of 3.54MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:28:03Z","message":"[ExtractAudio] Destination: Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.mp3"}
+{"level":"info","time":"2022-07-24T15:28:12Z","message":"Deleting original file Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:28:12Z","message":"[Metadata] Adding metadata to \"Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.mp3\""}
+{"level":"info","time":"2022-07-24T15:28:12Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:28:13Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Fly Me to the Moon|Lucky (Sinatra|Jason Mraz & Colbie Caillat MASHUP) Rick Hale & Breea Guttery.mp3\""}
+{"level":"info","time":"2022-07-24T15:28:18Z","message":"[youtube] 3knQMeTj6xI: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:28:18Z","message":"[youtube] 3knQMeTj6xI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:28:19Z","message":"[info] 3knQMeTj6xI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:28:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:28:21Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:28:22Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:28:23Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:28:24Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:28:24Z","message":"[info] Writing video thumbnail 37 to: Micheal Bublé fan shocks crowd when handed the mic..webp"}
+{"level":"info","time":"2022-07-24T15:28:24Z","message":"[download] Destination: Micheal Bublé fan shocks crowd when handed the mic..webm"}
+{"level":"info","time":"2022-07-24T15:28:24Z","message":"\r[download]   0.1% of 1.75MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 1.75MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 1.75MiB at  Unknown B/s ETA  Unknown\r[download]   0.8% of 1.75MiB at   12.47MiB/s ETA 00:00   \r[download]   1.7% of 1.75MiB at   16.68MiB/s ETA 00:00\r[download]   3.5% of 1.75MiB at   25.66MiB/s ETA 00:00\r[download]   7.1% of 1.75MiB at   28.43MiB/s ETA 00:00\r[download]  14.2% of 1.75MiB at   41.80MiB/s ETA 00:00\r[download]  28.5% of 1.75MiB at   60.54MiB/s ETA 00:00\r[download]  57.0% of 1.75MiB at   84.01MiB/s ETA 00:00\r[download] 100.0% of 1.75MiB at  102.08MiB/s ETA 00:00\r[download] 100% of 1.75MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:28:24Z","message":"[ExtractAudio] Destination: Micheal Bublé fan shocks crowd when handed the mic..mp3"}
+{"level":"info","time":"2022-07-24T15:28:29Z","message":"Deleting original file Micheal Bublé fan shocks crowd when handed the mic..webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:28:29Z","message":"[Metadata] Adding metadata to \"Micheal Bublé fan shocks crowd when handed the mic..mp3\""}
+{"level":"info","time":"2022-07-24T15:28:29Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Micheal Bublé fan shocks crowd when handed the mic..webp\" to png"}
+{"level":"info","time":"2022-07-24T15:28:29Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Micheal Bublé fan shocks crowd when handed the mic..mp3\""}
+{"level":"info","time":"2022-07-24T15:28:33Z","message":"[youtube] Cs7eTA1ct8k: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:28:33Z","message":"[youtube] Cs7eTA1ct8k: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:28:34Z","message":"[info] Cs7eTA1ct8k: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:28:34Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:28:35Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:28:36Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:28:39Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:28:40Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:28:41Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-24T15:28:41Z","message":"[info] Writing video thumbnail 36 to: NG Evangelion - Fly me to the moon (Rei Ayanami Ver.).jpg"}
+{"level":"info","time":"2022-07-24T15:28:41Z","message":"[download] Destination: NG Evangelion - Fly me to the moon (Rei Ayanami Ver.).webm"}
+{"level":"info","time":"2022-07-24T15:28:41Z","message":"\r[download]   0.1% of 802.05KiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 802.05KiB at  Unknown B/s ETA  Unknown\r[download]   0.9% of 802.05KiB at  Unknown B/s ETA  Unknown\r[download]   1.9% of 802.05KiB at   13.87MiB/s ETA 00:00   \r[download]   3.9% of 802.05KiB at   21.35MiB/s ETA 00:00\r[download]   7.9% of 802.05KiB at   20.39MiB/s ETA 00:00\r[download]  15.8% of 802.05KiB at   29.23MiB/s ETA 00:00\r[download]  31.8% of 802.05KiB at   37.23MiB/s ETA 00:00\r[download]  63.7% of 802.05KiB at   55.43MiB/s ETA 00:00\r[download] 100.0% of 802.05KiB at   71.59MiB/s ETA 00:00\r[download] 100% of 802.05KiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:28:41Z","message":"[ExtractAudio] Destination: NG Evangelion - Fly me to the moon (Rei Ayanami Ver.).mp3"}
+{"level":"info","time":"2022-07-24T15:28:44Z","message":"Deleting original file NG Evangelion - Fly me to the moon (Rei Ayanami Ver.).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:28:44Z","message":"[Metadata] Adding metadata to \"NG Evangelion - Fly me to the moon (Rei Ayanami Ver.).mp3\""}
+{"level":"info","time":"2022-07-24T15:28:44Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"NG Evangelion - Fly me to the moon (Rei Ayanami Ver.).mp3\""}
+{"level":"info","time":"2022-07-24T15:28:49Z","message":"[youtube] tZVMpgBbXos: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:28:49Z","message":"[youtube] tZVMpgBbXos: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:28:50Z","message":"[info] tZVMpgBbXos: Downloading 1 format(s): 258"}
+{"level":"info","time":"2022-07-24T15:28:50Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:28:52Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-24T15:28:53Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-24T15:28:54Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-24T15:28:56Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-24T15:28:56Z","message":"[info] Writing video thumbnail 37 to: Fly Me To The Moon (Neon Genesis Evangelion).webp"}
+{"level":"info","time":"2022-07-24T15:28:56Z","message":"[download] Destination: Fly Me To The Moon (Neon Genesis Evangelion).m4a"}
+{"level":"info","time":"2022-07-24T15:28:57Z","message":"\r[download]   0.0% of 12.65MiB at  446.54KiB/s ETA 00:29\r[download]   0.0% of 12.65MiB at    1.07MiB/s ETA 00:11\r[download]   0.1% of 12.65MiB at    2.29MiB/s ETA 00:05\r[download]   0.1% of 12.65MiB at    4.55MiB/s ETA 00:02\r[download]   0.2% of 12.65MiB at    2.96MiB/s ETA 00:04\r[download]   0.5% of 12.65MiB at    3.61MiB/s ETA 00:03\r[download]   1.0% of 12.65MiB at    4.81MiB/s ETA 00:02\r[download]   2.0% of 12.65MiB at    7.38MiB/s ETA 00:01\r[download]   3.9% of 12.65MiB at   11.89MiB/s ETA 00:01\r[download]   7.9% of 12.65MiB at   19.24MiB/s ETA 00:00\r[download]  15.8% of 12.65MiB at   31.63MiB/s ETA 00:00\r[download]  31.6% of 12.65MiB at   36.41MiB/s ETA 00:00\r[download]  63.2% of 12.65MiB at   39.46MiB/s ETA 00:00\r[download]  78.8% of 12.65MiB at   44.95MiB/s ETA 00:00\r[download]  78.8% of 12.65MiB at  455.16KiB/s ETA 00:06\r[download]  78.8% of 12.65MiB at    1.14MiB/s ETA 00:02\r[download]  78.8% of 12.65MiB at    2.45MiB/s ETA 00:01\r[download]  78.9% of 12.65MiB at    4.84MiB/s ETA 00:00\r[download]  79.0% of 12.65MiB at    2.96MiB/s ETA 00:00\r[download]  79.2% of 12.65MiB at    3.67MiB/s ETA 00:00\r[download]  79.7% of 12.65MiB at    4.86MiB/s ETA 00:00\r[download]  80.7% of 12.65MiB at    7.42MiB/s ETA 00:00\r[download]  82.7% of 12.65MiB at   12.14MiB/s ETA 00:00\r[download]  86.6% of 12.65MiB at   19.64MiB/s ETA 00:00\r[download]  94.6% of 12.65MiB at   31.83MiB/s ETA 00:00\r[download] 100.0% of 12.65MiB at   28.43MiB/s ETA 00:00\r[download] 100% of 12.65MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:28:57Z","message":"[FixupM4a] Correcting container of \"Fly Me To The Moon (Neon Genesis Evangelion).m4a\""}
+{"level":"info","time":"2022-07-24T15:28:57Z","message":"[ExtractAudio] Destination: Fly Me To The Moon (Neon Genesis Evangelion).mp3"}
+{"level":"info","time":"2022-07-24T15:29:10Z","message":"Deleting original file Fly Me To The Moon (Neon Genesis Evangelion).m4a (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:29:10Z","message":"[Metadata] Adding metadata to \"Fly Me To The Moon (Neon Genesis Evangelion).mp3\""}
+{"level":"info","time":"2022-07-24T15:29:10Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Fly Me To The Moon (Neon Genesis Evangelion).webp\" to png"}
+{"level":"info","time":"2022-07-24T15:29:10Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Fly Me To The Moon (Neon Genesis Evangelion).mp3\""}
+{"level":"info","time":"2022-07-24T15:29:15Z","message":"[youtube] pTA0DSfrGZ0: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"[youtube] pTA0DSfrGZ0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"[info] pTA0DSfrGZ0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"[info] Writing video thumbnail 41 to: Chaos Chaos (formerly Smoosh) - Do You Feel It?.webp"}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"[download] Destination: Chaos Chaos (formerly Smoosh) - Do You Feel It?.webm"}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"\r[download]   0.0% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.97MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.97MiB at   14.50MiB/s ETA 00:00   \r[download]   0.8% of 3.97MiB at   23.69MiB/s ETA 00:00\r[download]   1.6% of 3.97MiB at   22.38MiB/s ETA 00:00\r[download]   3.1% of 3.97MiB at   27.73MiB/s ETA 00:00\r[download]   6.3% of 3.97MiB at   38.95MiB/s ETA 00:00\r[download]  12.6% of 3.97MiB at   57.06MiB/s ETA 00:00\r[download]  25.2% of 3.97MiB at   86.73MiB/s ETA 00:00\r[download]  50.4% of 3.97MiB at  116.95MiB/s ETA 00:00\r[download] 100.0% of 3.97MiB at   97.47MiB/s ETA 00:00\r[download] 100% of 3.97MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:29:16Z","message":"[ExtractAudio] Destination: Chaos Chaos (formerly Smoosh) - Do You Feel It?.mp3"}
+{"level":"info","time":"2022-07-24T15:29:30Z","message":"Deleting original file Chaos Chaos (formerly Smoosh) - Do You Feel It?.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:29:30Z","message":"[Metadata] Adding metadata to \"Chaos Chaos (formerly Smoosh) - Do You Feel It?.mp3\""}
+{"level":"info","time":"2022-07-24T15:29:31Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Chaos Chaos (formerly Smoosh) - Do You Feel It?.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:29:31Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Chaos Chaos (formerly Smoosh) - Do You Feel It?.mp3\""}
+{"level":"info","time":"2022-07-24T15:29:36Z","message":"[youtube] 9uXweFk8Ll8: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"[youtube] 9uXweFk8Ll8: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"[info] 9uXweFk8Ll8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"[info] Writing video thumbnail 41 to: 【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.webp"}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"[download] Destination: 【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.webm"}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"\r[download]   0.0% of 3.72MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.72MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.72MiB at    6.57MiB/s ETA 00:00   \r[download]   0.4% of 3.72MiB at   10.55MiB/s ETA 00:00\r[download]   0.8% of 3.72MiB at   17.51MiB/s ETA 00:00\r[download]   1.7% of 3.72MiB at   23.80MiB/s ETA 00:00\r[download]   3.3% of 3.72MiB at   29.60MiB/s ETA 00:00\r[download]   6.7% of 3.72MiB at   27.13MiB/s ETA 00:00\r[download]  13.4% of 3.72MiB at   47.22MiB/s ETA 00:00\r[download]  26.8% of 3.72MiB at   55.99MiB/s ETA 00:00\r[download]  53.7% of 3.72MiB at   90.67MiB/s ETA 00:00\r[download] 100.0% of 3.72MiB at   90.81MiB/s ETA 00:00\r[download] 100% of 3.72MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:29:37Z","message":"[ExtractAudio] Destination: 【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.mp3"}
+{"level":"info","time":"2022-07-24T15:29:50Z","message":"Deleting original file 【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:29:50Z","message":"[Metadata] Adding metadata to \"【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.mp3\""}
+{"level":"info","time":"2022-07-24T15:29:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.webp\" to png"}
+{"level":"info","time":"2022-07-24T15:29:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"【Yowamushi Pedal】 Love ☆ Hime ｢eng + romaji sub｣.mp3\""}
+{"level":"info","time":"2022-07-24T15:29:55Z","message":"[youtube] fPO76Jlnz6c: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:29:56Z","message":"[youtube] fPO76Jlnz6c: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:29:58Z","message":"[info] fPO76Jlnz6c: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:29:58Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:29:59Z","message":"[info] Writing video thumbnail 41 to: Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].webp"}
+{"level":"info","time":"2022-07-24T15:29:59Z","message":"[download] Destination: Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].webm"}
+{"level":"info","time":"2022-07-24T15:29:59Z","message":"\r[download]   0.0% of 3.85MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.85MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.85MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.85MiB at   12.47MiB/s ETA 00:00   \r[download]   0.8% of 3.85MiB at   19.33MiB/s ETA 00:00\r[download]   1.6% of 3.85MiB at   21.80MiB/s ETA 00:00\r[download]   3.2% of 3.85MiB at   31.10MiB/s ETA 00:00\r[download]   6.5% of 3.85MiB at   41.60MiB/s ETA 00:00\r[download]  13.0% of 3.85MiB at   62.41MiB/s ETA 00:00\r[download]  26.0% of 3.85MiB at   86.28MiB/s ETA 00:00\r[download]  52.0% of 3.85MiB at   97.21MiB/s ETA 00:00\r[download] 100.0% of 3.85MiB at  113.15MiB/s ETA 00:00\r[download] 100% of 3.85MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:29:59Z","message":"[ExtractAudio] Destination: Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3"}
+{"level":"info","time":"2022-07-24T15:30:10Z","message":"Deleting original file Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-24T15:30:10Z","message":"[Metadata] Adding metadata to \"Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3\""}
+{"level":"info","time":"2022-07-24T15:30:11Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].webp\" to png"}
+{"level":"info","time":"2022-07-24T15:30:11Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Coolio - Gangsta's Paradise (feat. L.V.) [Official Music Video].mp3\""}
+{"level":"info","time":"2022-07-24T15:30:15Z","message":"[youtube] Rm_go-jlHBE: Downloading webpage"}
+{"level":"info","time":"2022-07-24T15:30:16Z","message":"[youtube] Rm_go-jlHBE: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-24T15:30:17Z","message":"[info] Rm_go-jlHBE: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-24T15:30:17Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-24T15:30:17Z","message":"[info] Writing video thumbnail 41 to: Remember You're Dead To Me (Goblin Mashup).webp"}
+{"level":"info","time":"2022-07-24T15:30:17Z","message":"[download] Destination: Remember You're Dead To Me (Goblin Mashup).webm"}
+{"level":"info","time":"2022-07-24T15:30:17Z","message":"\r[download]   0.0% of 3.09MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.09MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.09MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 3.09MiB at   11.95MiB/s ETA 00:00   \r[download]   1.0% of 3.09MiB at   19.78MiB/s ETA 00:00\r[download]   2.0% of 3.09MiB at   25.45MiB/s ETA 00:00\r[download]   4.0% of 3.09MiB at   31.86MiB/s ETA 00:00\r[download]   8.1% of 3.09MiB at   41.48MiB/s ETA 00:00\r[download]  16.1% of 3.09MiB at   61.87MiB/s ETA 00:00\r[download]  32.3% of 3.09MiB at   88.76MiB/s ETA 00:00\r[download]  64.7% of 3.09MiB at   86.31MiB/s ETA 00:00\r[download] 100.0% of 3.09MiB at   69.00MiB/s ETA 00:00\r[download] 100% of 3.09MiB in 00:00                   "}
+{"level":"info","time":"2022-07-24T15:30:17Z","message":"[ExtractAudio] Destination: Remember You're Dead To Me (Goblin Mashup).mp3"}
