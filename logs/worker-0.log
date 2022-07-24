@@ -1297,3 +1297,6 @@
 {"level":"info","time":"2022-07-24T15:30:18Z","message":"[youtube] XAbgOPvpZe0: Downloading webpage"}
 {"level":"info","time":"2022-07-24T15:30:19Z","message":"[youtube] XAbgOPvpZe0: Downloading android player API JSON"}
 {"level":"fatal","error":"open songs/Little Dark Age - Chainsaw Man edit.mp3: no such file or directory","time":"2022-07-24T15:30:19Z","message":"open songs/Little Dark Age - Chainsaw Man edit.mp3: no such file or directory"}
+{"level":"info","time":"2022-07-24T17:37:13Z","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-07-24T17:37:13Z","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","error":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory","time":"2022-07-24T17:37:13Z","message":"open songs/MACROSS 82-99 - Fun Tonight.mp3: no such file or directory"}
