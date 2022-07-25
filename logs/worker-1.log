@@ -1,0 +1,255 @@
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[youtube] uuCFRaFWjwY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[youtube] uuCFRaFWjwY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[info] uuCFRaFWjwY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:49:53Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:49:56Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:49:58Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:49:58Z","message":"[info] Writing video thumbnail 37 to: Imran Khan - Amplifier (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T01:49:58Z","message":"[download] Destination: Imran Khan - Amplifier (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T01:49:58Z","message":"\r[download]   0.0% of 3.91MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.91MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.91MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.91MiB at   14.39MiB/s ETA 00:00   \r[download]   0.8% of 3.91MiB at   21.15MiB/s ETA 00:00\r[download]   1.6% of 3.91MiB at   19.71MiB/s ETA 00:00\r[download]   3.2% of 3.91MiB at   23.36MiB/s ETA 00:00\r[download]   6.4% of 3.91MiB at   37.70MiB/s ETA 00:00\r[download]  12.8% of 3.91MiB at   49.47MiB/s ETA 00:00\r[download]  25.5% of 3.91MiB at   76.29MiB/s ETA 00:00\r[download]  51.1% of 3.91MiB at   80.97MiB/s ETA 00:00\r[download] 100.0% of 3.91MiB at   85.51MiB/s ETA 00:00\r[download] 100% of 3.91MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:49:58Z","message":"[ExtractAudio] Destination: Imran Khan - Amplifier (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"Deleting original file Imran Khan - Amplifier (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"[Metadata] Adding metadata to \"Imran Khan - Amplifier (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Imran Khan - Amplifier (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Imran Khan - Amplifier (Official Music Video).mp3\""}
+{"level":"fatal","time":"2022-07-25T01:50:16Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:50:16Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:50:16Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:50:16Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:50:21Z","message":"[youtube] i0BURncJM9Q: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[youtube] i0BURncJM9Q: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[info] i0BURncJM9Q: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[info] Writing video thumbnail 41 to: A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webp"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[download] Destination: A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webm"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"\r[download]   0.0% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.89MiB at    5.10MiB/s ETA 00:00   \r[download]   0.3% of 4.89MiB at    8.76MiB/s ETA 00:00\r[download]   0.6% of 4.89MiB at   14.70MiB/s ETA 00:00\r[download]   1.3% of 4.89MiB at   20.34MiB/s ETA 00:00\r[download]   2.5% of 4.89MiB at   25.71MiB/s ETA 00:00\r[download]   5.1% of 4.89MiB at   28.39MiB/s ETA 00:00\r[download]  10.2% of 4.89MiB at   43.70MiB/s ETA 00:00\r[download]  20.4% of 4.89MiB at   68.64MiB/s ETA 00:00\r[download]  40.9% of 4.89MiB at   76.72MiB/s ETA 00:00\r[download]  81.8% of 4.89MiB at  112.17MiB/s ETA 00:00\r[download] 100.0% of 4.89MiB at   99.27MiB/s ETA 00:00\r[download] 100% of 4.89MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[ExtractAudio] Destination: A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.mp3"}
+{"level":"info","time":"2022-07-25T01:50:45Z","message":"Deleting original file A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:50:45Z","message":"[Metadata] Adding metadata to \"A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.mp3\""}
+{"level":"info","time":"2022-07-25T01:50:45Z","message":"[ThumbnailsConvertor] Converting thumbnail \"A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:50:45Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.mp3\""}
+{"level":"info","time":"2022-07-25T01:50:51Z","message":"[youtube] dQw4w9WgXcQ: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:50:51Z","message":"[youtube] dQw4w9WgXcQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:50:52Z","message":"[info] dQw4w9WgXcQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:50:52Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:50:52Z","message":"[info] Writing video thumbnail 41 to: Rick Astley - Never Gonna Give You Up (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T01:50:52Z","message":"[download] Destination: Rick Astley - Never Gonna Give You Up (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T01:50:52Z","message":"\r[download]   0.0% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.28MiB at    6.64MiB/s ETA 00:00   \r[download]   0.4% of 3.28MiB at    8.11MiB/s ETA 00:00\r[download]   0.9% of 3.28MiB at   14.21MiB/s ETA 00:00\r[download]   1.9% of 3.28MiB at   23.10MiB/s ETA 00:00\r[download]   3.8% of 3.28MiB at   26.48MiB/s ETA 00:00\r[download]   7.6% of 3.28MiB at   39.78MiB/s ETA 00:00\r[download]  15.2% of 3.28MiB at   59.76MiB/s ETA 00:00\r[download]  30.5% of 3.28MiB at   77.28MiB/s ETA 00:00\r[download]  61.0% of 3.28MiB at   72.31MiB/s ETA 00:00\r[download] 100.0% of 3.28MiB at  101.49MiB/s ETA 00:00\r[download] 100% of 3.28MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:50:52Z","message":"[ExtractAudio] Destination: Rick Astley - Never Gonna Give You Up (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T01:51:03Z","message":"Deleting original file Rick Astley - Never Gonna Give You Up (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:03Z","message":"[Metadata] Adding metadata to \"Rick Astley - Never Gonna Give You Up (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:03Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Rick Astley - Never Gonna Give You Up (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:03Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Rick Astley - Never Gonna Give You Up (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[youtube] ZaI2IlHwmgQ: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[youtube] ZaI2IlHwmgQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"[info] ZaI2IlHwmgQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"[info] Writing video thumbnail 41 to: The Black Eyed Peas - Pump It (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"[download] Destination: The Black Eyed Peas - Pump It (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"\r[download]   0.0% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.28MiB at   11.35MiB/s ETA 00:00   \r[download]   0.9% of 3.28MiB at   18.01MiB/s ETA 00:00\r[download]   1.9% of 3.28MiB at   22.71MiB/s ETA 00:00\r[download]   3.8% of 3.28MiB at   29.37MiB/s ETA 00:00\r[download]   7.6% of 3.28MiB at   39.89MiB/s ETA 00:00\r[download]  15.2% of 3.28MiB at   48.70MiB/s ETA 00:00\r[download]  30.5% of 3.28MiB at   45.04MiB/s ETA 00:00\r[download]  61.0% of 3.28MiB at   76.04MiB/s ETA 00:00\r[download] 100.0% of 3.28MiB at   85.97MiB/s ETA 00:00\r[download] 100% of 3.28MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"[ExtractAudio] Destination: The Black Eyed Peas - Pump It (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"Deleting original file The Black Eyed Peas - Pump It (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"[Metadata] Adding metadata to \"The Black Eyed Peas - Pump It (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Black Eyed Peas - Pump It (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Black Eyed Peas - Pump It (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[youtube] bKDdT_nyP54: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[youtube] bKDdT_nyP54: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] bKDdT_nyP54: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] Writing video thumbnail 41 to: Akon - Smack That (Official Music Video) ft. Eminem.webp"}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[download] Destination: Akon - Smack That (Official Music Video) ft. Eminem.webm"}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"\r[download]   0.0% of 4.11MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.11MiB at    2.86MiB/s ETA 00:01   \r[download]   0.2% of 4.11MiB at    4.61MiB/s ETA 00:00\r[download]   0.4% of 4.11MiB at    7.08MiB/s ETA 00:00\r[download]   0.7% of 4.11MiB at   10.69MiB/s ETA 00:00\r[download]   1.5% of 4.11MiB at   18.45MiB/s ETA 00:00\r[download]   3.0% of 4.11MiB at   21.60MiB/s ETA 00:00\r[download]   6.1% of 4.11MiB at   17.61MiB/s ETA 00:00\r[download]  12.1% of 4.11MiB at   23.55MiB/s ETA 00:00\r[download]  24.3% of 4.11MiB at   32.78MiB/s ETA 00:00\r[download]  48.6% of 4.11MiB at   37.64MiB/s ETA 00:00\r[download]  97.2% of 4.11MiB at   53.32MiB/s ETA 00:00\r[download] 100.0% of 4.11MiB at   52.38MiB/s ETA 00:00\r[download] 100% of 4.11MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[ExtractAudio] Destination: Akon - Smack That (Official Music Video) ft. Eminem.mp3"}
+{"level":"info","time":"2022-07-25T01:51:43Z","message":"Deleting original file Akon - Smack That (Official Music Video) ft. Eminem.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:43Z","message":"[Metadata] Adding metadata to \"Akon - Smack That (Official Music Video) ft. Eminem.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:43Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Akon - Smack That (Official Music Video) ft. Eminem.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:43Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Akon - Smack That (Official Music Video) ft. Eminem.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"[youtube] 4fndeDfaWCg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"[youtube] 4fndeDfaWCg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"[info] 4fndeDfaWCg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"[info] Writing video thumbnail 41 to: Backstreet Boys - I Want It That Way (Official HD Video).webp"}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"[download] Destination: Backstreet Boys - I Want It That Way (Official HD Video).webm"}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"\r[download]   0.0% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.54MiB at    5.76MiB/s ETA 00:00   \r[download]   0.4% of 3.54MiB at    9.37MiB/s ETA 00:00\r[download]   0.9% of 3.54MiB at   15.55MiB/s ETA 00:00\r[download]   1.7% of 3.54MiB at   18.58MiB/s ETA 00:00\r[download]   3.5% of 3.54MiB at   24.62MiB/s ETA 00:00\r[download]   7.0% of 3.54MiB at   34.53MiB/s ETA 00:00\r[download]  14.1% of 3.54MiB at   50.82MiB/s ETA 00:00\r[download]  28.2% of 3.54MiB at   74.58MiB/s ETA 00:00\r[download]  56.4% of 3.54MiB at   81.31MiB/s ETA 00:00\r[download] 100.0% of 3.54MiB at  115.47MiB/s ETA 00:00\r[download] 100% of 3.54MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:51Z","message":"[ExtractAudio] Destination: Backstreet Boys - I Want It That Way (Official HD Video).mp3"}
+{"level":"info","time":"2022-07-25T01:52:04Z","message":"Deleting original file Backstreet Boys - I Want It That Way (Official HD Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:04Z","message":"[Metadata] Adding metadata to \"Backstreet Boys - I Want It That Way (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:04Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Backstreet Boys - I Want It That Way (Official HD Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:05Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Backstreet Boys - I Want It That Way (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:09Z","message":"[youtube] 4vvBAONkYwI: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:09Z","message":"[youtube] 4vvBAONkYwI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:10Z","message":"[info] 4vvBAONkYwI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:10Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:10Z","message":"[info] Writing video thumbnail 41 to: Britney Spears - Lucky (Official HD Video).webp"}
+{"level":"info","time":"2022-07-25T01:52:10Z","message":"[download] Destination: Britney Spears - Lucky (Official HD Video).webm"}
+{"level":"info","time":"2022-07-25T01:52:10Z","message":"\r[download]   0.0% of 3.80MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.80MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.80MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.80MiB at   12.51MiB/s ETA 00:00   \r[download]   0.8% of 3.80MiB at   20.09MiB/s ETA 00:00\r[download]   1.6% of 3.80MiB at   17.85MiB/s ETA 00:00\r[download]   3.3% of 3.80MiB at   24.94MiB/s ETA 00:00\r[download]   6.6% of 3.80MiB at   26.10MiB/s ETA 00:00\r[download]  13.1% of 3.80MiB at   20.21MiB/s ETA 00:00\r[download]  26.3% of 3.80MiB at   34.46MiB/s ETA 00:00\r[download]  52.6% of 3.80MiB at   55.92MiB/s ETA 00:00\r[download] 100.0% of 3.80MiB at   65.52MiB/s ETA 00:00\r[download] 100% of 3.80MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:10Z","message":"[ExtractAudio] Destination: Britney Spears - Lucky (Official HD Video).mp3"}
+{"level":"info","time":"2022-07-25T01:52:25Z","message":"Deleting original file Britney Spears - Lucky (Official HD Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:25Z","message":"[Metadata] Adding metadata to \"Britney Spears - Lucky (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:25Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Britney Spears - Lucky (Official HD Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:25Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Britney Spears - Lucky (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:30Z","message":"[youtube] t0bPrt69rag: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"[youtube] t0bPrt69rag: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"[info] t0bPrt69rag: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"[info] Writing video thumbnail 41 to: Britney Spears - Sometimes (Official HD Video).webp"}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"[download] Destination: Britney Spears - Sometimes (Official HD Video).webm"}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"\r[download]   0.0% of 3.66MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.66MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.66MiB at    5.57MiB/s ETA 00:00   \r[download]   0.4% of 3.66MiB at    9.39MiB/s ETA 00:00\r[download]   0.8% of 3.66MiB at   15.50MiB/s ETA 00:00\r[download]   1.7% of 3.66MiB at   25.91MiB/s ETA 00:00\r[download]   3.4% of 3.66MiB at   28.63MiB/s ETA 00:00\r[download]   6.8% of 3.66MiB at   38.70MiB/s ETA 00:00\r[download]  13.6% of 3.66MiB at   58.43MiB/s ETA 00:00\r[download]  27.3% of 3.66MiB at   65.74MiB/s ETA 00:00\r[download]  54.6% of 3.66MiB at  103.15MiB/s ETA 00:00\r[download] 100.0% of 3.66MiB at  106.39MiB/s ETA 00:00\r[download] 100% of 3.66MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[ExtractAudio] Destination: Britney Spears - Sometimes (Official HD Video).mp3"}
+{"level":"info","time":"2022-07-25T01:52:45Z","message":"Deleting original file Britney Spears - Sometimes (Official HD Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:45Z","message":"[Metadata] Adding metadata to \"Britney Spears - Sometimes (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:45Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Britney Spears - Sometimes (Official HD Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:46Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Britney Spears - Sometimes (Official HD Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[youtube] xo1VInw-SKc: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[youtube] xo1VInw-SKc: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[info] xo1VInw-SKc: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[info] Writing video thumbnail 41 to: Rachel Platten - Fight Song (Official Video).webp"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[download] Destination: Rachel Platten - Fight Song (Official Video).webm"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"\r[download]   0.0% of 3.22MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.22MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.22MiB at    5.80MiB/s ETA 00:00   \r[download]   0.5% of 3.22MiB at    9.84MiB/s ETA 00:00\r[download]   0.9% of 3.22MiB at   16.40MiB/s ETA 00:00\r[download]   1.9% of 3.22MiB at   12.88MiB/s ETA 00:00\r[download]   3.9% of 3.22MiB at   23.04MiB/s ETA 00:00\r[download]   7.7% of 3.22MiB at   25.80MiB/s ETA 00:00\r[download]  15.5% of 3.22MiB at   38.24MiB/s ETA 00:00\r[download]  31.0% of 3.22MiB at   56.67MiB/s ETA 00:00\r[download]  62.1% of 3.22MiB at   78.57MiB/s ETA 00:00\r[download] 100.0% of 3.22MiB at  107.63MiB/s ETA 00:00\r[download] 100% of 3.22MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[ExtractAudio] Destination: Rachel Platten - Fight Song (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T01:53:05Z","message":"Deleting original file Rachel Platten - Fight Song (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:05Z","message":"[Metadata] Adding metadata to \"Rachel Platten - Fight Song (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:53:05Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Rachel Platten - Fight Song (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:05Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Rachel Platten - Fight Song (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:53:11Z","message":"[youtube] T3E9Wjbq44E: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:11Z","message":"[youtube] T3E9Wjbq44E: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:11Z","message":"[info] T3E9Wjbq44E: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:11Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:53:13Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:53:13Z","message":"[info] Writing video thumbnail 40 to: Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO].jpg"}
+{"level":"info","time":"2022-07-25T01:53:13Z","message":"[download] Destination: Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO].webm"}
+{"level":"info","time":"2022-07-25T01:53:13Z","message":"\r[download]   0.0% of 3.39MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.39MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.39MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.39MiB at   10.75MiB/s ETA 00:00   \r[download]   0.9% of 3.39MiB at   15.21MiB/s ETA 00:00\r[download]   1.8% of 3.39MiB at   22.46MiB/s ETA 00:00\r[download]   3.7% of 3.39MiB at   28.85MiB/s ETA 00:00\r[download]   7.4% of 3.39MiB at   39.88MiB/s ETA 00:00\r[download]  14.7% of 3.39MiB at   48.81MiB/s ETA 00:00\r[download]  29.5% of 3.39MiB at   80.33MiB/s ETA 00:00\r[download]  59.0% of 3.39MiB at   94.41MiB/s ETA 00:00\r[download] 100.0% of 3.39MiB at   63.57MiB/s ETA 00:00\r[download] 100% of 3.39MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:53:13Z","message":"[ExtractAudio] Destination: Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO].mp3"}
+{"level":"info","time":"2022-07-25T01:53:26Z","message":"Deleting original file Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO].webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:26Z","message":"[Metadata] Adding metadata to \"Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO].mp3\""}
+{"level":"info","time":"2022-07-25T01:53:26Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Gym Class Heroes: Stereo Hearts ft. Adam Levine [OFFICIAL VIDEO].mp3\""}
+{"level":"fatal","time":"2022-07-25T01:53:27Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:53:32Z","message":"[youtube] O0lf_fE3HwA: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"[youtube] O0lf_fE3HwA: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"[info] O0lf_fE3HwA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"[info] Writing video thumbnail 41 to: Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.webp"}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"[download] Destination: Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.webm"}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"\r[download]   0.0% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.01MiB at    2.89MiB/s ETA 00:01   \r[download]   0.2% of 4.01MiB at    5.02MiB/s ETA 00:00\r[download]   0.4% of 4.01MiB at    9.01MiB/s ETA 00:00\r[download]   0.8% of 4.01MiB at   14.97MiB/s ETA 00:00\r[download]   1.5% of 4.01MiB at   24.07MiB/s ETA 00:00\r[download]   3.1% of 4.01MiB at   26.67MiB/s ETA 00:00\r[download]   6.2% of 4.01MiB at   37.27MiB/s ETA 00:00\r[download]  12.4% of 4.01MiB at   51.93MiB/s ETA 00:00\r[download]  24.9% of 4.01MiB at   75.98MiB/s ETA 00:00\r[download]  49.8% of 4.01MiB at   94.30MiB/s ETA 00:00\r[download]  99.7% of 4.01MiB at  103.17MiB/s ETA 00:00\r[download] 100.0% of 4.01MiB at   95.65MiB/s ETA 00:00\r[download] 100% of 4.01MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:53:33Z","message":"[ExtractAudio] Destination: Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.mp3"}
+{"level":"info","time":"2022-07-25T01:53:48Z","message":"Deleting original file Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:48Z","message":"[Metadata] Adding metadata to \"Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.mp3\""}
+{"level":"info","time":"2022-07-25T01:53:48Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:48Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Gwen Stefani - The Sweet Escape (Closed Captioned) ft. Akon.mp3\""}
+{"level":"info","time":"2022-07-25T01:53:53Z","message":"[youtube] Zi_XLOBDo_Y: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"[youtube] Zi_XLOBDo_Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"[info] Zi_XLOBDo_Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"[info] Writing video thumbnail 41 to: Michael Jackson - Billie Jean (Official Video).webp"}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"[download] Destination: Michael Jackson - Billie Jean (Official Video).webm"}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"\r[download]   0.0% of 4.71MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.71MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.71MiB at    5.15MiB/s ETA 00:00   \r[download]   0.3% of 4.71MiB at    8.62MiB/s ETA 00:00\r[download]   0.6% of 4.71MiB at   14.76MiB/s ETA 00:00\r[download]   1.3% of 4.71MiB at   23.47MiB/s ETA 00:00\r[download]   2.6% of 4.71MiB at   18.51MiB/s ETA 00:00\r[download]   5.3% of 4.71MiB at   28.13MiB/s ETA 00:00\r[download]  10.6% of 4.71MiB at   41.05MiB/s ETA 00:00\r[download]  21.2% of 4.71MiB at   56.21MiB/s ETA 00:00\r[download]  42.5% of 4.71MiB at   75.25MiB/s ETA 00:00\r[download]  85.0% of 4.71MiB at   93.09MiB/s ETA 00:00\r[download] 100.0% of 4.71MiB at   76.78MiB/s ETA 00:00\r[download] 100% of 4.71MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:53:54Z","message":"[ExtractAudio] Destination: Michael Jackson - Billie Jean (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T01:54:12Z","message":"Deleting original file Michael Jackson - Billie Jean (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:12Z","message":"[Metadata] Adding metadata to \"Michael Jackson - Billie Jean (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:12Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Michael Jackson - Billie Jean (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:12Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Michael Jackson - Billie Jean (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:17Z","message":"[youtube] ecdr3nFy9Rc: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"[youtube] ecdr3nFy9Rc: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"[info] ecdr3nFy9Rc: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"[info] Writing video thumbnail 41 to: MrBeast Sings Bitch Lasagna (T-Series Diss Track).webp"}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"[download] Destination: MrBeast Sings Bitch Lasagna (T-Series Diss Track).webm"}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"\r[download]   0.0% of 2.00MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.00MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.00MiB at  Unknown B/s ETA  Unknown\r[download]   0.7% of 2.00MiB at   12.64MiB/s ETA 00:00   \r[download]   1.5% of 2.00MiB at   19.88MiB/s ETA 00:00\r[download]   3.1% of 2.00MiB at   21.58MiB/s ETA 00:00\r[download]   6.2% of 2.00MiB at   23.67MiB/s ETA 00:00\r[download]  12.5% of 2.00MiB at   34.70MiB/s ETA 00:00\r[download]  25.0% of 2.00MiB at   53.45MiB/s ETA 00:00\r[download]  50.0% of 2.00MiB at   69.54MiB/s ETA 00:00\r[download] 100.0% of 2.00MiB at   78.25MiB/s ETA 00:00\r[download] 100.0% of 2.00MiB at   67.87MiB/s ETA 00:00\r[download] 100% of 2.00MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:18Z","message":"[ExtractAudio] Destination: MrBeast Sings Bitch Lasagna (T-Series Diss Track).mp3"}
+{"level":"info","time":"2022-07-25T01:54:23Z","message":"Deleting original file MrBeast Sings Bitch Lasagna (T-Series Diss Track).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:23Z","message":"[Metadata] Adding metadata to \"MrBeast Sings Bitch Lasagna (T-Series Diss Track).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:23Z","message":"[ThumbnailsConvertor] Converting thumbnail \"MrBeast Sings Bitch Lasagna (T-Series Diss Track).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:23Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"MrBeast Sings Bitch Lasagna (T-Series Diss Track).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:28Z","message":"[youtube] tbNlMtqrYS0: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"[youtube] tbNlMtqrYS0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"[info] tbNlMtqrYS0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"[info] Writing video thumbnail 41 to: The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"[download] Destination: The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"\r[download]   0.0% of 3.37MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.37MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.37MiB at    6.53MiB/s ETA 00:00   \r[download]   0.4% of 3.37MiB at   10.60MiB/s ETA 00:00\r[download]   0.9% of 3.37MiB at   17.18MiB/s ETA 00:00\r[download]   1.8% of 3.37MiB at   20.44MiB/s ETA 00:00\r[download]   3.7% of 3.37MiB at   27.51MiB/s ETA 00:00\r[download]   7.4% of 3.37MiB at   38.61MiB/s ETA 00:00\r[download]  14.8% of 3.37MiB at   58.14MiB/s ETA 00:00\r[download]  29.6% of 3.37MiB at   76.49MiB/s ETA 00:00\r[download]  59.3% of 3.37MiB at   98.15MiB/s ETA 00:00\r[download] 100.0% of 3.37MiB at  121.11MiB/s ETA 00:00\r[download] 100% of 3.37MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:29Z","message":"[ExtractAudio] Destination: The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T01:54:40Z","message":"Deleting original file The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:40Z","message":"[Metadata] Adding metadata to \"The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:40Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:40Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Proclaimers - I'm Gonna Be (500 Miles) (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:46Z","message":"[youtube] dcu3Bq6gvWU: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:46Z","message":"[youtube] dcu3Bq6gvWU: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:47Z","message":"[info] dcu3Bq6gvWU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:47Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:48Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:54:49Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:54:51Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[info] Writing video thumbnail 37 to: Lucifer S03E17 - I will survive.webp"}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[download] Destination: Lucifer S03E17 - I will survive.webm"}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"\r[download]   0.1% of 1.93MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 1.93MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 1.93MiB at    5.63MiB/s ETA 00:00   \r[download]   0.8% of 1.93MiB at    9.33MiB/s ETA 00:00\r[download]   1.6% of 1.93MiB at   15.05MiB/s ETA 00:00\r[download]   3.2% of 1.93MiB at   23.33MiB/s ETA 00:00\r[download]   6.4% of 1.93MiB at   14.96MiB/s ETA 00:00\r[download]  12.9% of 1.93MiB at   20.57MiB/s ETA 00:00\r[download]  25.9% of 1.93MiB at   30.70MiB/s ETA 00:00\r[download]  51.8% of 1.93MiB at   47.51MiB/s ETA 00:00\r[download] 100.0% of 1.93MiB at   71.45MiB/s ETA 00:00\r[download] 100% of 1.93MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[ExtractAudio] Destination: Lucifer S03E17 - I will survive.mp3"}
+{"level":"info","time":"2022-07-25T01:55:00Z","message":"Deleting original file Lucifer S03E17 - I will survive.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:00Z","message":"[Metadata] Adding metadata to \"Lucifer S03E17 - I will survive.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:00Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Lucifer S03E17 - I will survive.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:00Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Lucifer S03E17 - I will survive.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:55:00Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:00Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:00Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:00Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:55:05Z","message":"[youtube] pMo00moIIVo: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:06Z","message":"[youtube] pMo00moIIVo: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:06Z","message":"[info] pMo00moIIVo: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:06Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:08Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:55:08Z","message":"[info] Writing video thumbnail 40 to: Nightcore - I Move On [DJ Fierce ft. Amelia] Lyrics.jpg"}
+{"level":"info","time":"2022-07-25T01:55:08Z","message":"[download] Destination: Nightcore - I Move On [DJ Fierce ft. Amelia] Lyrics.webm"}
+{"level":"info","time":"2022-07-25T01:55:08Z","message":"\r[download]   0.0% of 2.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.52MiB at    6.21MiB/s ETA 00:00   \r[download]   0.6% of 2.52MiB at   10.15MiB/s ETA 00:00\r[download]   1.2% of 2.52MiB at   15.46MiB/s ETA 00:00\r[download]   2.4% of 2.52MiB at   18.88MiB/s ETA 00:00\r[download]   4.9% of 2.52MiB at   16.05MiB/s ETA 00:00\r[download]   9.9% of 2.52MiB at   25.04MiB/s ETA 00:00\r[download]  19.8% of 2.52MiB at   39.02MiB/s ETA 00:00\r[download]  39.7% of 2.52MiB at   57.82MiB/s ETA 00:00\r[download]  79.4% of 2.52MiB at   88.12MiB/s ETA 00:00\r[download] 100.0% of 2.52MiB at   72.24MiB/s ETA 00:00\r[download] 100% of 2.52MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:08Z","message":"[ExtractAudio] Destination: Nightcore - I Move On [DJ Fierce ft. Amelia] Lyrics.mp3"}
+{"level":"info","time":"2022-07-25T01:55:18Z","message":"Deleting original file Nightcore - I Move On [DJ Fierce ft. Amelia] Lyrics.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:18Z","message":"[Metadata] Adding metadata to \"Nightcore - I Move On [DJ Fierce ft. Amelia] Lyrics.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:18Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - I Move On [DJ Fierce ft. Amelia] Lyrics.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:55:18Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:55:24Z","message":"[youtube] Bznxx12Ptl0: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:24Z","message":"[youtube] Bznxx12Ptl0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:24Z","message":"[info] Bznxx12Ptl0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:24Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:24Z","message":"[info] Writing video thumbnail 41 to: AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.webp"}
+{"level":"info","time":"2022-07-25T01:55:24Z","message":"[download] Destination: AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.webm"}
+{"level":"info","time":"2022-07-25T01:55:25Z","message":"\r[download]   0.0% of 2.40MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.40MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.40MiB at  Unknown B/s ETA  Unknown\r[download]   0.6% of 2.40MiB at   10.96MiB/s ETA 00:00   \r[download]   1.3% of 2.40MiB at   17.34MiB/s ETA 00:00\r[download]   2.6% of 2.40MiB at   24.50MiB/s ETA 00:00\r[download]   5.2% of 2.40MiB at   29.30MiB/s ETA 00:00\r[download]  10.4% of 2.40MiB at   41.44MiB/s ETA 00:00\r[download]  20.8% of 2.40MiB at   61.78MiB/s ETA 00:00\r[download]  41.7% of 2.40MiB at   77.50MiB/s ETA 00:00\r[download]  83.4% of 2.40MiB at   80.94MiB/s ETA 00:00\r[download] 100.0% of 2.40MiB at   84.64MiB/s ETA 00:00\r[download] 100% of 2.40MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:25Z","message":"[ExtractAudio] Destination: AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.mp3"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"Deleting original file AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"[Metadata] Adding metadata to \"AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:33Z","message":"[ThumbnailsConvertor] Converting thumbnail \"AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:33Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"AronChupa, Little Sis Nora - I'm an Albatraoz | OFFICIAL VIDEO.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:37Z","message":"[youtube] hT_nvWreIhg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[youtube] hT_nvWreIhg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[info] hT_nvWreIhg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[info] Writing video thumbnail 41 to: OneRepublic - Counting Stars (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[download] Destination: OneRepublic - Counting Stars (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"\r[download]   0.0% of 4.33MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.33MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.33MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.33MiB at   13.02MiB/s ETA 00:00   \r[download]   0.7% of 4.33MiB at   20.24MiB/s ETA 00:00\r[download]   1.4% of 4.33MiB at   21.72MiB/s ETA 00:00\r[download]   2.9% of 4.33MiB at   28.68MiB/s ETA 00:00\r[download]   5.8% of 4.33MiB at   40.79MiB/s ETA 00:00\r[download]  11.5% of 4.33MiB at   61.16MiB/s ETA 00:00\r[download]  23.1% of 4.33MiB at   87.66MiB/s ETA 00:00\r[download]  46.2% of 4.33MiB at   83.04MiB/s ETA 00:00\r[download]  92.4% of 4.33MiB at  112.02MiB/s ETA 00:00\r[download] 100.0% of 4.33MiB at  104.75MiB/s ETA 00:00\r[download] 100% of 4.33MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[ExtractAudio] Destination: OneRepublic - Counting Stars (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"Deleting original file OneRepublic - Counting Stars (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[Metadata] Adding metadata to \"OneRepublic - Counting Stars (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[ThumbnailsConvertor] Converting thumbnail \"OneRepublic - Counting Stars (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"OneRepublic - Counting Stars (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:56:01Z","message":"[youtube] 0KSOMA3QBU0: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:56:03Z","message":"[youtube] 0KSOMA3QBU0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:56:03Z","message":"[info] 0KSOMA3QBU0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:56:03Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:56:04Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:56:04Z","message":"[info] Writing video thumbnail 40 to: Katy Perry - Dark Horse (Official) ft. Juicy J.jpg"}
+{"level":"info","time":"2022-07-25T01:56:04Z","message":"[download] Destination: Katy Perry - Dark Horse (Official) ft. Juicy J.webm"}
+{"level":"info","time":"2022-07-25T01:56:05Z","message":"\r[download]   0.0% of 3.45MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.45MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.45MiB at    5.96MiB/s ETA 00:00   \r[download]   0.4% of 3.45MiB at    9.80MiB/s ETA 00:00\r[download]   0.9% of 3.45MiB at   15.63MiB/s ETA 00:00\r[download]   1.8% of 3.45MiB at   14.78MiB/s ETA 00:00\r[download]   3.6% of 3.45MiB at   25.64MiB/s ETA 00:00\r[download]   7.2% of 3.45MiB at   29.54MiB/s ETA 00:00\r[download]  14.5% of 3.45MiB at   44.69MiB/s ETA 00:00\r[download]  29.0% of 3.45MiB at   64.79MiB/s ETA 00:00\r[download]  57.9% of 3.45MiB at   83.67MiB/s ETA 00:00\r[download] 100.0% of 3.45MiB at   84.18MiB/s ETA 00:00\r[download] 100% of 3.45MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:56:05Z","message":"[ExtractAudio] Destination: Katy Perry - Dark Horse (Official) ft. Juicy J.mp3"}
+{"level":"info","time":"2022-07-25T01:56:18Z","message":"Deleting original file Katy Perry - Dark Horse (Official) ft. Juicy J.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:56:18Z","message":"[Metadata] Adding metadata to \"Katy Perry - Dark Horse (Official) ft. Juicy J.mp3\""}
+{"level":"info","time":"2022-07-25T01:56:19Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Katy Perry - Dark Horse (Official) ft. Juicy J.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:56:19Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:56:24Z","message":"[youtube] ZBkoJLclZkk: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:56:25Z","message":"[youtube] ZBkoJLclZkk: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:56:25Z","message":"[info] ZBkoJLclZkk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:56:25Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:56:25Z","message":"[info] Writing video thumbnail 41 to: Sex And The City 2 - Girls Singing 'I Am Woman'..webp"}
+{"level":"info","time":"2022-07-25T01:56:25Z","message":"[download] Destination: Sex And The City 2 - Girls Singing 'I Am Woman'..webm"}
+{"level":"info","time":"2022-07-25T01:56:25Z","message":"\r[download]   0.0% of 2.55MiB at  Unknown B/s ETA 00:02\r[download]   0.1% of 2.55MiB at    1.94MiB/s ETA 00:01\r[download]   0.3% of 2.55MiB at    3.68MiB/s ETA 00:00\r[download]   0.6% of 2.55MiB at    6.64MiB/s ETA 00:00\r[download]   1.2% of 2.55MiB at    7.85MiB/s ETA 00:00\r[download]   2.4% of 2.55MiB at   14.12MiB/s ETA 00:00\r[download]   4.9% of 2.55MiB at   11.78MiB/s ETA 00:00\r[download]   9.8% of 2.55MiB at   13.64MiB/s ETA 00:00\r[download]  19.6% of 2.55MiB at   17.24MiB/s ETA 00:00\r[download]  39.2% of 2.55MiB at   16.05MiB/s ETA 00:00\r[download]  78.4% of 2.55MiB at   23.79MiB/s ETA 00:00\r[download] 100.0% of 2.55MiB at   26.70MiB/s ETA 00:00\r[download] 100% of 2.55MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:56:26Z","message":"[ExtractAudio] Destination: Sex And The City 2 - Girls Singing 'I Am Woman'..mp3"}

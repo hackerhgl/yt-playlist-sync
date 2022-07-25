@@ -1,0 +1,271 @@
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[youtube] C-u5WLJ9Yk4: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[youtube] C-u5WLJ9Yk4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[info] C-u5WLJ9Yk4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[info] Writing video thumbnail 41 to: Britney Spears - ...Baby One More Time (Official Video).webp"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[download] Destination: Britney Spears - ...Baby One More Time (Official Video).webm"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"\r[download]   0.0% of 3.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.50MiB at    5.96MiB/s ETA 00:00   \r[download]   0.4% of 3.50MiB at    9.41MiB/s ETA 00:00\r[download]   0.9% of 3.50MiB at   15.88MiB/s ETA 00:00\r[download]   1.8% of 3.50MiB at   22.97MiB/s ETA 00:00\r[download]   3.5% of 3.50MiB at   28.39MiB/s ETA 00:00\r[download]   7.1% of 3.50MiB at   28.60MiB/s ETA 00:00\r[download]  14.3% of 3.50MiB at   46.73MiB/s ETA 00:00\r[download]  28.6% of 3.50MiB at   70.51MiB/s ETA 00:00\r[download]  57.2% of 3.50MiB at   95.52MiB/s ETA 00:00\r[download] 100.0% of 3.50MiB at  101.20MiB/s ETA 00:00\r[download] 100% of 3.50MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[ExtractAudio] Destination: Britney Spears - ...Baby One More Time (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T01:50:07Z","message":"Deleting original file Britney Spears - ...Baby One More Time (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:50:07Z","message":"[Metadata] Adding metadata to \"Britney Spears - ...Baby One More Time (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:50:07Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Britney Spears - ...Baby One More Time (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:50:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Britney Spears - ...Baby One More Time (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:50:14Z","message":"[youtube] n-D1EB74Ckg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:50:14Z","message":"[youtube] n-D1EB74Ckg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:50:14Z","message":"[info] n-D1EB74Ckg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:50:14Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:50:14Z","message":"[info] Writing video thumbnail 41 to: Selena Gomez - Come & Get It.webp"}
+{"level":"info","time":"2022-07-25T01:50:15Z","message":"[download] Destination: Selena Gomez - Come & Get It.webm"}
+{"level":"info","time":"2022-07-25T01:50:15Z","message":"\r[download]   0.0% of 4.34MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.34MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.34MiB at    6.50MiB/s ETA 00:00   \r[download]   0.3% of 4.34MiB at    9.85MiB/s ETA 00:00\r[download]   0.7% of 4.34MiB at   15.81MiB/s ETA 00:00\r[download]   1.4% of 4.34MiB at    9.00MiB/s ETA 00:00\r[download]   2.9% of 4.34MiB at    8.12MiB/s ETA 00:00\r[download]   5.7% of 4.34MiB at   14.54MiB/s ETA 00:00\r[download]  11.5% of 4.34MiB at   25.58MiB/s ETA 00:00\r[download]  23.0% of 4.34MiB at   41.05MiB/s ETA 00:00\r[download]  46.0% of 4.34MiB at   65.77MiB/s ETA 00:00\r[download]  92.1% of 4.34MiB at   85.82MiB/s ETA 00:00\r[download] 100.0% of 4.34MiB at   82.49MiB/s ETA 00:00\r[download] 100% of 4.34MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:50:15Z","message":"[ExtractAudio] Destination: Selena Gomez - Come & Get It.mp3"}
+{"level":"info","time":"2022-07-25T01:50:36Z","message":"Deleting original file Selena Gomez - Come & Get It.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:50:36Z","message":"[Metadata] Adding metadata to \"Selena Gomez - Come & Get It.mp3\""}
+{"level":"info","time":"2022-07-25T01:50:36Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Selena Gomez - Come & Get It.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:50:36Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Selena Gomez - Come & Get It.mp3\""}
+{"level":"info","time":"2022-07-25T01:50:44Z","message":"[youtube] __DnLFT_Y_o: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:50:44Z","message":"[youtube] __DnLFT_Y_o: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:50:44Z","message":"[info] __DnLFT_Y_o: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:50:44Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:50:46Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:50:47Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:50:48Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:50:50Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:50:51Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T01:50:53Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T01:50:53Z","message":"[info] Writing video thumbnail 35 to: Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webp"}
+{"level":"info","time":"2022-07-25T01:50:53Z","message":"[download] Destination: Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webm"}
+{"level":"info","time":"2022-07-25T01:50:53Z","message":"\r[download]   0.0% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.78MiB at    2.74MiB/s ETA 00:01   \r[download]   0.2% of 3.78MiB at    4.19MiB/s ETA 00:00\r[download]   0.4% of 3.78MiB at    7.37MiB/s ETA 00:00\r[download]   0.8% of 3.78MiB at   11.53MiB/s ETA 00:00\r[download]   1.6% of 3.78MiB at   20.03MiB/s ETA 00:00\r[download]   3.3% of 3.78MiB at   23.84MiB/s ETA 00:00\r[download]   6.6% of 3.78MiB at   16.31MiB/s ETA 00:00\r[download]  13.2% of 3.78MiB at   29.26MiB/s ETA 00:00\r[download]  26.4% of 3.78MiB at   44.73MiB/s ETA 00:00\r[download]  52.9% of 3.78MiB at   58.51MiB/s ETA 00:00\r[download] 100.0% of 3.78MiB at   80.31MiB/s ETA 00:00\r[download] 100% of 3.78MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:50:53Z","message":"[ExtractAudio] Destination: Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.mp3"}
+{"level":"info","time":"2022-07-25T01:51:01Z","message":"Deleting original file Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:01Z","message":"[Metadata] Adding metadata to \"Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:01Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:01Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:51:01Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:01Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:01Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:01Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:01Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:01Z","message":"WARNING: Unable to download video thumbnail 36: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:51:05Z","message":"[youtube] ltMMYyVqFbI: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:06Z","message":"[youtube] ltMMYyVqFbI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:06Z","message":"[info] ltMMYyVqFbI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:06Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:07Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:51:09Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:51:10Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:51:10Z","message":"[info] Writing video thumbnail 37 to: Tu hy mera pyar mahia.webp"}
+{"level":"info","time":"2022-07-25T01:51:11Z","message":"[download] Destination: Tu hy mera pyar mahia.webm"}
+{"level":"info","time":"2022-07-25T01:51:11Z","message":"\r[download]   0.0% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.78MiB at    6.21MiB/s ETA 00:00   \r[download]   0.4% of 3.78MiB at   10.13MiB/s ETA 00:00\r[download]   0.8% of 3.78MiB at   17.08MiB/s ETA 00:00\r[download]   1.6% of 3.78MiB at   27.85MiB/s ETA 00:00\r[download]   3.3% of 3.78MiB at   29.00MiB/s ETA 00:00\r[download]   6.6% of 3.78MiB at   41.47MiB/s ETA 00:00\r[download]  13.2% of 3.78MiB at   57.97MiB/s ETA 00:00\r[download]  26.5% of 3.78MiB at   60.05MiB/s ETA 00:00\r[download]  52.9% of 3.78MiB at   96.15MiB/s ETA 00:00\r[download] 100.0% of 3.78MiB at   53.18MiB/s ETA 00:00\r[download] 100% of 3.78MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:11Z","message":"[ExtractAudio] Destination: Tu hy mera pyar mahia.mp3"}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"Deleting original file Tu hy mera pyar mahia.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"[Metadata] Adding metadata to \"Tu hy mera pyar mahia.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Tu hy mera pyar mahia.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:23Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Tu hy mera pyar mahia.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:51:24Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:24Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:24Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:24Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[youtube] zImxlnPx-AI: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[youtube] zImxlnPx-AI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:30Z","message":"[info] zImxlnPx-AI: Downloading 1 format(s): 258"}
+{"level":"info","time":"2022-07-25T01:51:30Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:30Z","message":"[info] Writing video thumbnail 41 to: Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.webp"}
+{"level":"info","time":"2022-07-25T01:51:30Z","message":"[download] Destination: Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.m4a"}
+{"level":"info","time":"2022-07-25T01:51:31Z","message":"\r[download]   0.0% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 10.29MiB at    6.41MiB/s ETA 00:01   \r[download]   0.1% of 10.29MiB at   10.16MiB/s ETA 00:01\r[download]   0.3% of 10.29MiB at   16.99MiB/s ETA 00:00\r[download]   0.6% of 10.29MiB at    9.36MiB/s ETA 00:01\r[download]   1.2% of 10.29MiB at   17.34MiB/s ETA 00:00\r[download]   2.4% of 10.29MiB at   19.03MiB/s ETA 00:00\r[download]   4.9% of 10.29MiB at   16.81MiB/s ETA 00:00\r[download]   9.7% of 10.29MiB at   15.64MiB/s ETA 00:00\r[download]  19.4% of 10.29MiB at   14.85MiB/s ETA 00:00\r[download]  38.9% of 10.29MiB at   26.63MiB/s ETA 00:00\r[download]  77.8% of 10.29MiB at   21.98MiB/s ETA 00:00\r[download]  96.8% of 10.29MiB at   18.89MiB/s ETA 00:00\r[download]  96.8% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]  96.9% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]  96.9% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]  97.0% of 10.29MiB at  Unknown B/s ETA 00:00   \r[download]  97.1% of 10.29MiB at   22.10MiB/s ETA 00:00\r[download]  97.4% of 10.29MiB at   20.28MiB/s ETA 00:00\r[download]  98.0% of 10.29MiB at   22.97MiB/s ETA 00:00\r[download]  99.2% of 10.29MiB at   26.08MiB/s ETA 00:00\r[download] 100.0% of 10.29MiB at   31.74MiB/s ETA 00:00\r[download] 100% of 10.29MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:31Z","message":"[FixupM4a] Correcting container of \"Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.m4a\""}
+{"level":"info","time":"2022-07-25T01:51:31Z","message":"[ExtractAudio] Destination: Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.mp3"}
+{"level":"info","time":"2022-07-25T01:51:42Z","message":"Deleting original file Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.m4a (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:42Z","message":"[Metadata] Adding metadata to \"Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:42Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:42Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:48Z","message":"[youtube] e1edxTqJnKk: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:48Z","message":"[youtube] e1edxTqJnKk: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"[info] e1edxTqJnKk: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"[info] Writing video thumbnail 41 to: Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webp"}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"[download] Destination: Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webm"}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"\r[download]   0.0% of 4.64MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.64MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.64MiB at    5.73MiB/s ETA 00:00   \r[download]   0.3% of 4.64MiB at    9.52MiB/s ETA 00:00\r[download]   0.7% of 4.64MiB at   16.23MiB/s ETA 00:00\r[download]   1.3% of 4.64MiB at   27.14MiB/s ETA 00:00\r[download]   2.7% of 4.64MiB at   28.68MiB/s ETA 00:00\r[download]   5.4% of 4.64MiB at   40.91MiB/s ETA 00:00\r[download]  10.8% of 4.64MiB at   59.97MiB/s ETA 00:00\r[download]  21.5% of 4.64MiB at   55.37MiB/s ETA 00:00\r[download]  43.1% of 4.64MiB at   79.91MiB/s ETA 00:00\r[download]  86.2% of 4.64MiB at  105.42MiB/s ETA 00:00\r[download] 100.0% of 4.64MiB at   94.63MiB/s ETA 00:00\r[download] 100% of 4.64MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:49Z","message":"[ExtractAudio] Destination: Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.mp3"}
+{"level":"info","time":"2022-07-25T01:52:06Z","message":"Deleting original file Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:06Z","message":"[Metadata] Adding metadata to \"Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:06Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:06Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Maahi Full Video - Raaz 2|Kangana Ranaut,Emraan Hashmi|Toshi & Sharib Sabri|Mohit Suri.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:11Z","message":"[youtube] lUPltG1hb3k: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[youtube] lUPltG1hb3k: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[info] lUPltG1hb3k: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[info] Writing video thumbnail 41 to: Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webp"}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[download] Destination: Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webm"}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"\r[download]   0.0% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.54MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.54MiB at    6.17MiB/s ETA 00:00   \r[download]   0.4% of 3.54MiB at    9.18MiB/s ETA 00:00\r[download]   0.9% of 3.54MiB at   13.65MiB/s ETA 00:00\r[download]   1.7% of 3.54MiB at   12.97MiB/s ETA 00:00\r[download]   3.5% of 3.54MiB at   15.59MiB/s ETA 00:00\r[download]   7.0% of 3.54MiB at   23.72MiB/s ETA 00:00\r[download]  14.1% of 3.54MiB at   38.61MiB/s ETA 00:00\r[download]  28.2% of 3.54MiB at   54.73MiB/s ETA 00:00\r[download]  56.4% of 3.54MiB at   65.84MiB/s ETA 00:00\r[download] 100.0% of 3.54MiB at   73.73MiB/s ETA 00:00\r[download] 100% of 3.54MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[ExtractAudio] Destination: Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.mp3"}
+{"level":"info","time":"2022-07-25T01:52:26Z","message":"Deleting original file Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:26Z","message":"[Metadata] Adding metadata to \"Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:27Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:27Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Zara Sa Lyric Video - Jannat|Emraan Hashmi, Sonal Chauhan|KK|Pritam|Sayeed Quadri.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:31Z","message":"[youtube] un2HVdq4dfw: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[youtube] un2HVdq4dfw: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[info] un2HVdq4dfw: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[info] Writing video thumbnail 41 to: Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webp"}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[download] Destination: Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webm"}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"\r[download]   0.0% of 3.25MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.25MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.25MiB at    5.34MiB/s ETA 00:00   \r[download]   0.5% of 3.25MiB at    8.55MiB/s ETA 00:00\r[download]   0.9% of 3.25MiB at   14.60MiB/s ETA 00:00\r[download]   1.9% of 3.25MiB at   23.94MiB/s ETA 00:00\r[download]   3.8% of 3.25MiB at   27.64MiB/s ETA 00:00\r[download]   7.7% of 3.25MiB at   38.77MiB/s ETA 00:00\r[download]  15.4% of 3.25MiB at   60.95MiB/s ETA 00:00\r[download]  30.8% of 3.25MiB at   77.16MiB/s ETA 00:00\r[download]  61.5% of 3.25MiB at   83.32MiB/s ETA 00:00\r[download] 100.0% of 3.25MiB at  113.86MiB/s ETA 00:00\r[download] 100% of 3.25MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:32Z","message":"[ExtractAudio] Destination: Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.mp3"}
+{"level":"info","time":"2022-07-25T01:52:44Z","message":"Deleting original file Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:44Z","message":"[Metadata] Adding metadata to \"Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:44Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:44Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Maahi Ve Full Video Song Wajah Tum Ho | Neha Kakkar, Sana, Sharman, Gurmeet | Vishal Pandya.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:49Z","message":"[youtube] _MMhmPbhyEA: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[youtube] _MMhmPbhyEA: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] _MMhmPbhyEA: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:52:50Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[info] Writing video thumbnail 35 to: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[download] Destination: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webm"}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"\r[download]   0.0% of 8.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 8.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 8.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 8.19MiB at   11.84MiB/s ETA 00:00   \r[download]   0.4% of 8.19MiB at    1.09MiB/s ETA 00:07\r[download]   0.8% of 8.19MiB at    2.18MiB/s ETA 00:03\r[download]   1.5% of 8.19MiB at    3.91MiB/s ETA 00:02\r[download]   3.0% of 8.19MiB at    7.45MiB/s ETA 00:01\r[download]   6.1% of 8.19MiB at   13.87MiB/s ETA 00:00\r[download]  12.2% of 8.19MiB at   24.42MiB/s ETA 00:00\r[download]  24.4% of 8.19MiB at   40.54MiB/s ETA 00:00\r[download]  48.9% of 8.19MiB at   49.28MiB/s ETA 00:00\r[download]  97.7% of 8.19MiB at   55.74MiB/s ETA 00:00\r[download] 100.0% of 8.19MiB at   55.86MiB/s ETA 00:00\r[download] 100% of 8.19MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:51Z","message":"[ExtractAudio] Destination: Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3"}
+{"level":"info","time":"2022-07-25T01:53:19Z","message":"Deleting original file Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:19Z","message":"[Metadata] Adding metadata to \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3\""}
+{"level":"info","time":"2022-07-25T01:53:20Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:20Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Zlatko - Chase | Confrontation (Custom Ingame Mix) | Detroit: Become Human Unreleased OST.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:53:21Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:53:21Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:53:21Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:53:21Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:53:21Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:53:21Z","message":"WARNING: Unable to download video thumbnail 36: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:53:26Z","message":"[youtube] PvaO-YDyw-4: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"[youtube] PvaO-YDyw-4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"[info] PvaO-YDyw-4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"[info] Writing video thumbnail 41 to: Kara Main Theme (Kara).webp"}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"[download] Destination: Kara Main Theme (Kara).webm"}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"\r[download]   0.0% of 6.76MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 6.76MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 6.76MiB at    5.47MiB/s ETA 00:01   \r[download]   0.2% of 6.76MiB at    8.61MiB/s ETA 00:00\r[download]   0.4% of 6.76MiB at   14.49MiB/s ETA 00:00\r[download]   0.9% of 6.76MiB at   23.41MiB/s ETA 00:00\r[download]   1.8% of 6.76MiB at   27.07MiB/s ETA 00:00\r[download]   3.7% of 6.76MiB at   33.60MiB/s ETA 00:00\r[download]   7.4% of 6.76MiB at   53.49MiB/s ETA 00:00\r[download]  14.8% of 6.76MiB at   49.19MiB/s ETA 00:00\r[download]  29.6% of 6.76MiB at   82.72MiB/s ETA 00:00\r[download]  59.2% of 6.76MiB at   84.55MiB/s ETA 00:00\r[download] 100.0% of 6.76MiB at   62.25MiB/s ETA 00:00\r[download] 100% of 6.76MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:53:27Z","message":"[ExtractAudio] Destination: Kara Main Theme (Kara).mp3"}
+{"level":"info","time":"2022-07-25T01:53:51Z","message":"Deleting original file Kara Main Theme (Kara).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:51Z","message":"[Metadata] Adding metadata to \"Kara Main Theme (Kara).mp3\""}
+{"level":"info","time":"2022-07-25T01:53:51Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Kara Main Theme (Kara).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:51Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Kara Main Theme (Kara).mp3\""}
+{"level":"info","time":"2022-07-25T01:53:58Z","message":"[youtube] q7UVJ5z2oXU: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:58Z","message":"[youtube] q7UVJ5z2oXU: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:59Z","message":"[info] q7UVJ5z2oXU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:59Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:00Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:54:00Z","message":"[info] Writing video thumbnail 40 to: Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.jpg"}
+{"level":"info","time":"2022-07-25T01:54:00Z","message":"[download] Destination: Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.webm"}
+{"level":"info","time":"2022-07-25T01:54:00Z","message":"\r[download]   0.0% of 3.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.84MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.84MiB at    5.87MiB/s ETA 00:00   \r[download]   0.4% of 3.84MiB at    9.64MiB/s ETA 00:00\r[download]   0.8% of 3.84MiB at   15.03MiB/s ETA 00:00\r[download]   1.6% of 3.84MiB at   23.79MiB/s ETA 00:00\r[download]   3.2% of 3.84MiB at   27.61MiB/s ETA 00:00\r[download]   6.5% of 3.84MiB at   39.11MiB/s ETA 00:00\r[download]  13.0% of 3.84MiB at   58.63MiB/s ETA 00:00\r[download]  26.0% of 3.84MiB at   55.13MiB/s ETA 00:00\r[download]  52.0% of 3.84MiB at   90.08MiB/s ETA 00:00\r[download] 100.0% of 3.84MiB at  101.48MiB/s ETA 00:00\r[download] 100% of 3.84MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:00Z","message":"[ExtractAudio] Destination: Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.mp3"}
+{"level":"info","time":"2022-07-25T01:54:14Z","message":"Deleting original file Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:14Z","message":"[Metadata] Adding metadata to \"Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.mp3\""}
+{"level":"info","time":"2022-07-25T01:54:14Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Chadhti Jawani (DJ Hot Remix Song) Feat. Hot Negar Khan.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:54:15Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:54:19Z","message":"[youtube] _24Bbm1hDI0: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:19Z","message":"[youtube] _24Bbm1hDI0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:20Z","message":"[info] _24Bbm1hDI0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:20Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:54:22Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:54:23Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:54:25Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:54:26Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T01:54:28Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T01:54:30Z","message":"[info] Downloading video thumbnail 34 ..."}
+{"level":"info","time":"2022-07-25T01:54:30Z","message":"[info] Writing video thumbnail 34 to: Nazia Hassan - Ankhein milanay walay.jpg"}
+{"level":"info","time":"2022-07-25T01:54:30Z","message":"[download] Destination: Nazia Hassan - Ankhein milanay walay.webm"}
+{"level":"info","time":"2022-07-25T01:54:30Z","message":"\r[download]   0.0% of 3.57MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.57MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.57MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.57MiB at   12.64MiB/s ETA 00:00   \r[download]   0.8% of 3.57MiB at   20.07MiB/s ETA 00:00\r[download]   1.7% of 3.57MiB at   21.77MiB/s ETA 00:00\r[download]   3.5% of 3.57MiB at   32.50MiB/s ETA 00:00\r[download]   7.0% of 3.57MiB at   42.90MiB/s ETA 00:00\r[download]  14.0% of 3.57MiB at   43.50MiB/s ETA 00:00\r[download]  28.0% of 3.57MiB at   75.31MiB/s ETA 00:00\r[download]  55.9% of 3.57MiB at  112.93MiB/s ETA 00:00\r[download] 100.0% of 3.57MiB at  112.05MiB/s ETA 00:00\r[download] 100% of 3.57MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:30Z","message":"[ExtractAudio] Destination: Nazia Hassan - Ankhein milanay walay.mp3"}
+{"level":"info","time":"2022-07-25T01:54:44Z","message":"Deleting original file Nazia Hassan - Ankhein milanay walay.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:44Z","message":"[Metadata] Adding metadata to \"Nazia Hassan - Ankhein milanay walay.mp3\""}
+{"level":"info","time":"2022-07-25T01:54:45Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nazia Hassan - Ankhein milanay walay.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 36: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:54:45Z","message":"WARNING: Unable to download video thumbnail 35: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:54:48Z","message":"[youtube] gYkACVDFmeg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:49Z","message":"[youtube] gYkACVDFmeg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:49Z","message":"[info] gYkACVDFmeg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:54:52Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:54:56Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:54:57Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T01:54:57Z","message":"[info] Writing video thumbnail 36 to: I Will Survive - Gloria Gaynor (1978).jpg"}
+{"level":"info","time":"2022-07-25T01:54:57Z","message":"[download] Destination: I Will Survive - Gloria Gaynor (1978).webm"}
+{"level":"info","time":"2022-07-25T01:54:57Z","message":"\r[download]   0.0% of 4.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.52MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.52MiB at    6.11MiB/s ETA 00:00   \r[download]   0.3% of 4.52MiB at    8.99MiB/s ETA 00:00\r[download]   0.7% of 4.52MiB at   15.72MiB/s ETA 00:00\r[download]   1.4% of 4.52MiB at   25.23MiB/s ETA 00:00\r[download]   2.7% of 4.52MiB at   25.32MiB/s ETA 00:00\r[download]   5.5% of 4.52MiB at   35.75MiB/s ETA 00:00\r[download]  11.0% of 4.52MiB at   52.18MiB/s ETA 00:00\r[download]  22.1% of 4.52MiB at   75.40MiB/s ETA 00:00\r[download]  44.2% of 4.52MiB at   78.16MiB/s ETA 00:00\r[download]  88.5% of 4.52MiB at   85.91MiB/s ETA 00:00\r[download] 100.0% of 4.52MiB at   80.51MiB/s ETA 00:00\r[download] 100% of 4.52MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:57Z","message":"[ExtractAudio] Destination: I Will Survive - Gloria Gaynor (1978).mp3"}
+{"level":"info","time":"2022-07-25T01:55:13Z","message":"Deleting original file I Will Survive - Gloria Gaynor (1978).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:13Z","message":"[Metadata] Adding metadata to \"I Will Survive - Gloria Gaynor (1978).mp3\""}
+{"level":"info","time":"2022-07-25T01:55:13Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"I Will Survive - Gloria Gaynor (1978).mp3\""}
+{"level":"fatal","time":"2022-07-25T01:55:14Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:14Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:14Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:14Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:14Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:55:18Z","message":"[youtube] YPHn4xSvjNM: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[youtube] YPHn4xSvjNM: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[info] YPHn4xSvjNM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[info] Writing video thumbnail 41 to: The Marías - Baby One More Time.webp"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[download] Destination: The Marías - Baby One More Time.webm"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"\r[download]   0.1% of 1.82MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 1.82MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 1.82MiB at    5.61MiB/s ETA 00:00   \r[download]   0.8% of 1.82MiB at    9.49MiB/s ETA 00:00\r[download]   1.7% of 1.82MiB at   15.47MiB/s ETA 00:00\r[download]   3.4% of 1.82MiB at   24.51MiB/s ETA 00:00\r[download]   6.8% of 1.82MiB at   16.86MiB/s ETA 00:00\r[download]  13.7% of 1.82MiB at   27.49MiB/s ETA 00:00\r[download]  27.4% of 1.82MiB at   38.26MiB/s ETA 00:00\r[download]  54.9% of 1.82MiB at   57.30MiB/s ETA 00:00\r[download] 100.0% of 1.82MiB at   68.26MiB/s ETA 00:00\r[download] 100% of 1.82MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[ExtractAudio] Destination: The Marías - Baby One More Time.mp3"}
+{"level":"info","time":"2022-07-25T01:55:26Z","message":"Deleting original file The Marías - Baby One More Time.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:26Z","message":"[Metadata] Adding metadata to \"The Marías - Baby One More Time.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:26Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Marías - Baby One More Time.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:26Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Marías - Baby One More Time.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:31Z","message":"[youtube] Y--3tZ5N8s0: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"[youtube] Y--3tZ5N8s0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"[youtube] Y--3tZ5N8s0: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"[youtube] Y--3tZ5N8s0: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"[info] Y--3tZ5N8s0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:32Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:55:36Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:55:37Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:55:38Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:55:39Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T01:55:40Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T01:55:40Z","message":"[info] Writing video thumbnail 35 to: The Marias - Baby One More Time (slowed + reverb).webp"}
+{"level":"info","time":"2022-07-25T01:55:40Z","message":"[download] Destination: The Marias - Baby One More Time (slowed + reverb).webm"}
+{"level":"info","time":"2022-07-25T01:55:40Z","message":"\r[download]   0.0% of 2.00MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.00MiB at    2.62MiB/s ETA 00:00   \r[download]   0.3% of 2.00MiB at    4.79MiB/s ETA 00:00\r[download]   0.7% of 2.00MiB at    8.12MiB/s ETA 00:00\r[download]   1.5% of 2.00MiB at   14.38MiB/s ETA 00:00\r[download]   3.1% of 2.00MiB at   24.78MiB/s ETA 00:00\r[download]   6.2% of 2.00MiB at   24.43MiB/s ETA 00:00\r[download]  12.5% of 2.00MiB at   35.64MiB/s ETA 00:00\r[download]  25.0% of 2.00MiB at   52.07MiB/s ETA 00:00\r[download]  50.1% of 2.00MiB at   78.75MiB/s ETA 00:00\r[download] 100.0% of 2.00MiB at   99.25MiB/s ETA 00:00\r[download] 100% of 2.00MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:41Z","message":"[ExtractAudio] Destination: The Marias - Baby One More Time (slowed + reverb).mp3"}
+{"level":"info","time":"2022-07-25T01:55:47Z","message":"Deleting original file The Marias - Baby One More Time (slowed + reverb).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:47Z","message":"[Metadata] Adding metadata to \"The Marias - Baby One More Time (slowed + reverb).mp3\""}
+{"level":"info","time":"2022-07-25T01:55:48Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Marias - Baby One More Time (slowed + reverb).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:48Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Marias - Baby One More Time (slowed + reverb).mp3\""}
+{"level":"fatal","time":"2022-07-25T01:55:48Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:48Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:48Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:48Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:48Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:55:48Z","message":"WARNING: Unable to download video thumbnail 36: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:55:53Z","message":"[youtube] 78RVLe6JGmY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:54Z","message":"[youtube] 78RVLe6JGmY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:54Z","message":"[info] 78RVLe6JGmY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:54Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[info] Writing video thumbnail 40 to: [HD] Nightcore - Baby one more time.jpg"}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[download] Destination: [HD] Nightcore - Baby one more time.webm"}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"\r[download]   0.0% of 2.61MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.61MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.61MiB at    6.04MiB/s ETA 00:00   \r[download]   0.6% of 2.61MiB at    9.36MiB/s ETA 00:00\r[download]   1.2% of 2.61MiB at   16.01MiB/s ETA 00:00\r[download]   2.4% of 2.61MiB at    9.74MiB/s ETA 00:00\r[download]   4.7% of 2.61MiB at   13.78MiB/s ETA 00:00\r[download]   9.5% of 2.61MiB at   21.17MiB/s ETA 00:00\r[download]  19.1% of 2.61MiB at   27.89MiB/s ETA 00:00\r[download]  38.3% of 2.61MiB at   46.00MiB/s ETA 00:00\r[download]  76.5% of 2.61MiB at   75.26MiB/s ETA 00:00\r[download] 100.0% of 2.61MiB at   61.77MiB/s ETA 00:00\r[download] 100% of 2.61MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:56Z","message":"[ExtractAudio] Destination: [HD] Nightcore - Baby one more time.mp3"}
+{"level":"info","time":"2022-07-25T01:56:04Z","message":"Deleting original file [HD] Nightcore - Baby one more time.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:56:04Z","message":"[Metadata] Adding metadata to \"[HD] Nightcore - Baby one more time.mp3\""}
+{"level":"info","time":"2022-07-25T01:56:04Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"[HD] Nightcore - Baby one more time.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:56:05Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:56:10Z","message":"[youtube] Quzsv6ekcPQ: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:56:11Z","message":"[youtube] Quzsv6ekcPQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"[info] Quzsv6ekcPQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Poison.webp"}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"[download] Destination: Nightcore - Poison.webm"}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"\r[download]   0.0% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.19MiB at  Unknown B/s ETA 00:00   \r[download]   0.3% of 4.19MiB at   11.10MiB/s ETA 00:00\r[download]   0.7% of 4.19MiB at   17.12MiB/s ETA 00:00\r[download]   1.5% of 4.19MiB at   24.30MiB/s ETA 00:00\r[download]   3.0% of 4.19MiB at   28.47MiB/s ETA 00:00\r[download]   5.9% of 4.19MiB at   41.46MiB/s ETA 00:00\r[download]  11.9% of 4.19MiB at   62.94MiB/s ETA 00:00\r[download]  23.8% of 4.19MiB at   65.36MiB/s ETA 00:00\r[download]  47.7% of 4.19MiB at   87.64MiB/s ETA 00:00\r[download]  95.4% of 4.19MiB at  105.98MiB/s ETA 00:00\r[download] 100.0% of 4.19MiB at  107.02MiB/s ETA 00:00\r[download] 100% of 4.19MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"[ExtractAudio] Destination: Nightcore - Poison.mp3"}

@@ -1,0 +1,283 @@
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:49:51Z","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","time":"2022-07-25T01:49:51Z","message":"ERROR: [youtube] 4BSJAAo1uNY: Video unavailable. This video contains content from Molebeat, who has blocked it in your country on copyright grounds"}
+{"level":"info","time":"2022-07-25T01:49:54Z","message":"[youtube] 1TO48Cnl66w: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:49:54Z","message":"[youtube] 1TO48Cnl66w: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"[info] 1TO48Cnl66w: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"[info] Writing video thumbnail 41 to: Dido - Thank You (Official Video).webp"}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"[download] Destination: Dido - Thank You (Official Video).webm"}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"\r[download]   0.0% of 3.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.29MiB at   11.44MiB/s ETA 00:00   \r[download]   0.9% of 3.29MiB at   18.50MiB/s ETA 00:00\r[download]   1.9% of 3.29MiB at   18.56MiB/s ETA 00:00\r[download]   3.8% of 3.29MiB at   25.88MiB/s ETA 00:00\r[download]   7.6% of 3.29MiB at   32.72MiB/s ETA 00:00\r[download]  15.2% of 3.29MiB at   49.77MiB/s ETA 00:00\r[download]  30.3% of 3.29MiB at   74.99MiB/s ETA 00:00\r[download]  60.7% of 3.29MiB at  105.91MiB/s ETA 00:00\r[download] 100.0% of 3.29MiB at  115.23MiB/s ETA 00:00\r[download] 100% of 3.29MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:49:55Z","message":"[ExtractAudio] Destination: Dido - Thank You (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T01:50:08Z","message":"Deleting original file Dido - Thank You (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:50:08Z","message":"[Metadata] Adding metadata to \"Dido - Thank You (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:50:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Dido - Thank You (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:50:09Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Dido - Thank You (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:50:15Z","message":"[youtube] wp43OdtAAkM: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"[youtube] wp43OdtAAkM: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"[info] wp43OdtAAkM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:50:16Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:50:18Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:50:19Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:50:20Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[info] Writing video thumbnail 37 to: Kate Bush - Running Up That Hill - Official Music Video.webp"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"[download] Destination: Kate Bush - Running Up That Hill - Official Music Video.webm"}
+{"level":"info","time":"2022-07-25T01:50:22Z","message":"\r[download]   0.0% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.43MiB at   12.72MiB/s ETA 00:00   \r[download]   0.7% of 4.43MiB at   20.36MiB/s ETA 00:00\r[download]   1.4% of 4.43MiB at   24.76MiB/s ETA 00:00\r[download]   2.8% of 4.43MiB at   30.44MiB/s ETA 00:00\r[download]   5.6% of 4.43MiB at   40.35MiB/s ETA 00:00\r[download]  11.3% of 4.43MiB at   58.16MiB/s ETA 00:00\r[download]  22.5% of 4.43MiB at   83.52MiB/s ETA 00:00\r[download]  45.1% of 4.43MiB at   88.90MiB/s ETA 00:00\r[download]  90.2% of 4.43MiB at  102.06MiB/s ETA 00:00\r[download] 100.0% of 4.43MiB at   87.22MiB/s ETA 00:00\r[download] 100% of 4.43MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:50:23Z","message":"[ExtractAudio] Destination: Kate Bush - Running Up That Hill - Official Music Video.mp3"}
+{"level":"info","time":"2022-07-25T01:50:43Z","message":"Deleting original file Kate Bush - Running Up That Hill - Official Music Video.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:50:43Z","message":"[Metadata] Adding metadata to \"Kate Bush - Running Up That Hill - Official Music Video.mp3\""}
+{"level":"info","time":"2022-07-25T01:50:43Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Kate Bush - Running Up That Hill - Official Music Video.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:50:43Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Kate Bush - Running Up That Hill - Official Music Video.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:50:44Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:50:44Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:50:44Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:50:44Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:50:48Z","message":"[youtube] vtzOPN68Vis: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"[youtube] vtzOPN68Vis: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"[info] vtzOPN68Vis: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"[info] Writing video thumbnail 41 to: Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webp"}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"[download] Destination: Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webm"}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"\r[download]   0.0% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 4.01MiB at   10.74MiB/s ETA 00:00   \r[download]   0.8% of 4.01MiB at   17.17MiB/s ETA 00:00\r[download]   1.5% of 4.01MiB at   19.69MiB/s ETA 00:00\r[download]   3.1% of 4.01MiB at   24.78MiB/s ETA 00:00\r[download]   6.2% of 4.01MiB at   36.09MiB/s ETA 00:00\r[download]  12.5% of 4.01MiB at   54.92MiB/s ETA 00:00\r[download]  24.9% of 4.01MiB at   59.41MiB/s ETA 00:00\r[download]  49.9% of 4.01MiB at   95.60MiB/s ETA 00:00\r[download]  99.8% of 4.01MiB at   70.60MiB/s ETA 00:00\r[download] 100.0% of 4.01MiB at   58.83MiB/s ETA 00:00\r[download] 100% of 4.01MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:50:49Z","message":"[ExtractAudio] Destination: Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.mp3"}
+{"level":"info","time":"2022-07-25T01:51:02Z","message":"Deleting original file Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:02Z","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:02Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:02Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:07Z","message":"[youtube] 6WJ13zrscxs: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[youtube] 6WJ13zrscxs: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[info] 6WJ13zrscxs: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[info] Writing video thumbnail 41 to: Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webp"}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[download] Destination: Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webm"}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"\r[download]   0.0% of 3.98MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.98MiB at    2.68MiB/s ETA 00:01   \r[download]   0.2% of 3.98MiB at    4.55MiB/s ETA 00:00\r[download]   0.4% of 3.98MiB at    7.72MiB/s ETA 00:00\r[download]   0.8% of 3.98MiB at   12.67MiB/s ETA 00:00\r[download]   1.5% of 3.98MiB at   20.94MiB/s ETA 00:00\r[download]   3.1% of 3.98MiB at   21.18MiB/s ETA 00:00\r[download]   6.3% of 3.98MiB at   32.09MiB/s ETA 00:00\r[download]  12.5% of 3.98MiB at   44.90MiB/s ETA 00:00\r[download]  25.1% of 3.98MiB at   65.19MiB/s ETA 00:00\r[download]  50.2% of 3.98MiB at   69.73MiB/s ETA 00:00\r[download] 100.0% of 3.98MiB at   69.22MiB/s ETA 00:00\r[download] 100% of 3.98MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:08Z","message":"[ExtractAudio] Destination: Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).mp3"}
+{"level":"info","time":"2022-07-25T01:51:21Z","message":"Deleting original file Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:21Z","message":"[Metadata] Adding metadata to \"Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:21Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:22Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:27Z","message":"[youtube] 4ocH0nnXU80: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:27Z","message":"[youtube] 4ocH0nnXU80: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[youtube] 4ocH0nnXU80: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[youtube] 4ocH0nnXU80: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] 4ocH0nnXU80: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:51:28Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[info] Writing video thumbnail 37 to: heat waves x middle of the night |edit audio|mashup|.webp"}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[download] Destination: heat waves x middle of the night |edit audio|mashup|.webm"}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"\r[download]   0.1% of 719.31KiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 719.31KiB at  Unknown B/s ETA  Unknown\r[download]   1.0% of 719.31KiB at  Unknown B/s ETA  Unknown\r[download]   2.1% of 719.31KiB at   11.65MiB/s ETA 00:00   \r[download]   4.3% of 719.31KiB at   18.99MiB/s ETA 00:00\r[download]   8.8% of 719.31KiB at    9.38MiB/s ETA 00:00\r[download]  17.7% of 719.31KiB at   15.27MiB/s ETA 00:00\r[download]  35.5% of 719.31KiB at   21.36MiB/s ETA 00:00\r[download]  71.0% of 719.31KiB at   35.07MiB/s ETA 00:00\r[download] 100.0% of 719.31KiB at   44.90MiB/s ETA 00:00\r[download] 100% of 719.31KiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:29Z","message":"[ExtractAudio] Destination: heat waves x middle of the night |edit audio|mashup|.mp3"}
+{"level":"info","time":"2022-07-25T01:51:31Z","message":"Deleting original file heat waves x middle of the night |edit audio|mashup|.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:31Z","message":"[Metadata] Adding metadata to \"heat waves x middle of the night |edit audio|mashup|.mp3\""}
+{"level":"info","time":"2022-07-25T01:51:31Z","message":"[ThumbnailsConvertor] Converting thumbnail \"heat waves x middle of the night |edit audio|mashup|.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:32Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"heat waves x middle of the night |edit audio|mashup|.mp3\""}
+{"level":"fatal","time":"2022-07-25T01:51:32Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:32Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:32Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:51:32Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:51:37Z","message":"[youtube] O1nz67qWd-M: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:37Z","message":"[youtube] O1nz67qWd-M: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:38Z","message":"[info] O1nz67qWd-M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:38Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:38Z","message":"[info] Writing video thumbnail 41 to: Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).webp"}
+{"level":"info","time":"2022-07-25T01:51:38Z","message":"[download] Destination: Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).webm"}
+{"level":"info","time":"2022-07-25T01:51:38Z","message":"\r[download]   0.0% of 3.79MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.79MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.79MiB at    6.17MiB/s ETA 00:00   \r[download]   0.4% of 3.79MiB at   10.39MiB/s ETA 00:00\r[download]   0.8% of 3.79MiB at   17.49MiB/s ETA 00:00\r[download]   1.6% of 3.79MiB at   29.71MiB/s ETA 00:00\r[download]   3.3% of 3.79MiB at   25.67MiB/s ETA 00:00\r[download]   6.6% of 3.79MiB at   33.63MiB/s ETA 00:00\r[download]  13.2% of 3.79MiB at   52.50MiB/s ETA 00:00\r[download]  26.4% of 3.79MiB at   78.26MiB/s ETA 00:00\r[download]  52.8% of 3.79MiB at   62.20MiB/s ETA 00:00\r[download] 100.0% of 3.79MiB at   90.36MiB/s ETA 00:00\r[download] 100% of 3.79MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:38Z","message":"[ExtractAudio] Destination: Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).mp3"}
+{"level":"info","time":"2022-07-25T01:51:50Z","message":"Deleting original file Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:51:50Z","message":"[Metadata] Adding metadata to \"Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:51:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).mp3\""}
+{"level":"info","time":"2022-07-25T01:51:56Z","message":"[youtube] ZhTjo4XioH0: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:51:56Z","message":"[youtube] ZhTjo4XioH0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:51:57Z","message":"[info] ZhTjo4XioH0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:51:57Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:51:57Z","message":"[info] Writing video thumbnail 41 to: 𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).webp"}
+{"level":"info","time":"2022-07-25T01:51:57Z","message":"[download] Destination: 𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).webm"}
+{"level":"info","time":"2022-07-25T01:51:57Z","message":"\r[download]   0.0% of 2.87MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.87MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 2.87MiB at    6.36MiB/s ETA 00:00   \r[download]   0.5% of 2.87MiB at   10.57MiB/s ETA 00:00\r[download]   1.1% of 2.87MiB at   17.74MiB/s ETA 00:00\r[download]   2.1% of 2.87MiB at   23.39MiB/s ETA 00:00\r[download]   4.3% of 2.87MiB at   29.96MiB/s ETA 00:00\r[download]   8.7% of 2.87MiB at   41.79MiB/s ETA 00:00\r[download]  17.4% of 2.87MiB at   60.39MiB/s ETA 00:00\r[download]  34.8% of 2.87MiB at   87.77MiB/s ETA 00:00\r[download]  69.7% of 2.87MiB at   95.22MiB/s ETA 00:00\r[download] 100.0% of 2.87MiB at   66.11MiB/s ETA 00:00\r[download] 100% of 2.87MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:51:57Z","message":"[ExtractAudio] Destination: 𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).mp3"}
+{"level":"info","time":"2022-07-25T01:52:07Z","message":"Deleting original file 𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:07Z","message":"[Metadata] Adding metadata to \"𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:07Z","message":"[ThumbnailsConvertor] Converting thumbnail \"𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:07Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"𝐴𝐵𝐶𝐷𝐸𝐹𝑈 𝑋 𝑃𝑙𝑎𝑦 𝑑𝑎𝑡𝑒 (TikTok Full Version).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[youtube] m9QU69958JU: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:12Z","message":"[youtube] m9QU69958JU: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:13Z","message":"[info] m9QU69958JU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:13Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:13Z","message":"[info] Writing video thumbnail 41 to: Blade Runner 2049 | After Dark - Mr.Kitty.webp"}
+{"level":"info","time":"2022-07-25T01:52:13Z","message":"[download] Destination: Blade Runner 2049 | After Dark - Mr.Kitty.webm"}
+{"level":"info","time":"2022-07-25T01:52:13Z","message":"\r[download]   0.0% of 3.67MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.67MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.67MiB at    5.22MiB/s ETA 00:00   \r[download]   0.4% of 3.67MiB at    8.53MiB/s ETA 00:00\r[download]   0.8% of 3.67MiB at   13.44MiB/s ETA 00:00\r[download]   1.7% of 3.67MiB at   20.70MiB/s ETA 00:00\r[download]   3.4% of 3.67MiB at   25.17MiB/s ETA 00:00\r[download]   6.8% of 3.67MiB at   36.43MiB/s ETA 00:00\r[download]  13.6% of 3.67MiB at   55.37MiB/s ETA 00:00\r[download]  27.3% of 3.67MiB at   58.14MiB/s ETA 00:00\r[download]  54.5% of 3.67MiB at   94.18MiB/s ETA 00:00\r[download] 100.0% of 3.67MiB at  118.62MiB/s ETA 00:00\r[download] 100% of 3.67MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:13Z","message":"[ExtractAudio] Destination: Blade Runner 2049 | After Dark - Mr.Kitty.mp3"}
+{"level":"info","time":"2022-07-25T01:52:28Z","message":"Deleting original file Blade Runner 2049 | After Dark - Mr.Kitty.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:28Z","message":"[Metadata] Adding metadata to \"Blade Runner 2049 | After Dark - Mr.Kitty.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:28Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Blade Runner 2049 | After Dark - Mr.Kitty.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:28Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Blade Runner 2049 | After Dark - Mr.Kitty.mp3\""}
+{"level":"info","time":"2022-07-25T01:52:33Z","message":"[youtube] KT7F15T9VBI: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"[youtube] KT7F15T9VBI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"[info] KT7F15T9VBI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"[info] Writing video thumbnail 41 to: Glass Animals - Heat Waves (Lyric video).webp"}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"[download] Destination: Glass Animals - Heat Waves (Lyric video).webm"}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"\r[download]   0.0% of 3.90MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.90MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.90MiB at    6.33MiB/s ETA 00:00   \r[download]   0.4% of 3.90MiB at   10.18MiB/s ETA 00:00\r[download]   0.8% of 3.90MiB at   15.94MiB/s ETA 00:00\r[download]   1.6% of 3.90MiB at   21.22MiB/s ETA 00:00\r[download]   3.2% of 3.90MiB at   23.45MiB/s ETA 00:00\r[download]   6.4% of 3.90MiB at   33.59MiB/s ETA 00:00\r[download]  12.8% of 3.90MiB at   52.67MiB/s ETA 00:00\r[download]  25.6% of 3.90MiB at   76.32MiB/s ETA 00:00\r[download]  51.3% of 3.90MiB at   81.52MiB/s ETA 00:00\r[download] 100.0% of 3.90MiB at  104.94MiB/s ETA 00:00\r[download] 100% of 3.90MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:34Z","message":"[ExtractAudio] Destination: Glass Animals - Heat Waves (Lyric video).mp3"}
+{"level":"info","time":"2022-07-25T01:52:48Z","message":"Deleting original file Glass Animals - Heat Waves (Lyric video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:52:48Z","message":"[Metadata] Adding metadata to \"Glass Animals - Heat Waves (Lyric video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:48Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Glass Animals - Heat Waves (Lyric video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:52:49Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Glass Animals - Heat Waves (Lyric video).mp3\""}
+{"level":"info","time":"2022-07-25T01:52:54Z","message":"[youtube] hnsl_ejoBIU: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:52:54Z","message":"[youtube] hnsl_ejoBIU: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:52:55Z","message":"[info] hnsl_ejoBIU: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:52:55Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:52:55Z","message":"[info] Writing video thumbnail 41 to: Only You X Play Date TikTok Transition (FULL VERSION).webp"}
+{"level":"info","time":"2022-07-25T01:52:55Z","message":"[download] Destination: Only You X Play Date TikTok Transition (FULL VERSION).webm"}
+{"level":"info","time":"2022-07-25T01:52:55Z","message":"\r[download]   0.0% of 3.92MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.92MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.92MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.92MiB at   11.45MiB/s ETA 00:00   \r[download]   0.8% of 3.92MiB at   17.59MiB/s ETA 00:00\r[download]   1.6% of 3.92MiB at   24.81MiB/s ETA 00:00\r[download]   3.2% of 3.92MiB at   27.30MiB/s ETA 00:00\r[download]   6.4% of 3.92MiB at   38.92MiB/s ETA 00:00\r[download]  12.7% of 3.92MiB at   35.31MiB/s ETA 00:00\r[download]  25.5% of 3.92MiB at   58.13MiB/s ETA 00:00\r[download]  51.0% of 3.92MiB at   70.96MiB/s ETA 00:00\r[download] 100.0% of 3.92MiB at   70.91MiB/s ETA 00:00\r[download] 100% of 3.92MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:52:55Z","message":"[ExtractAudio] Destination: Only You X Play Date TikTok Transition (FULL VERSION).mp3"}
+{"level":"info","time":"2022-07-25T01:53:09Z","message":"Deleting original file Only You X Play Date TikTok Transition (FULL VERSION).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:09Z","message":"[Metadata] Adding metadata to \"Only You X Play Date TikTok Transition (FULL VERSION).mp3\""}
+{"level":"info","time":"2022-07-25T01:53:09Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Only You X Play Date TikTok Transition (FULL VERSION).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:09Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Only You X Play Date TikTok Transition (FULL VERSION).mp3\""}
+{"level":"info","time":"2022-07-25T01:53:14Z","message":"[youtube] hvL-2TF9bLY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:14Z","message":"[youtube] hvL-2TF9bLY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:15Z","message":"[info] hvL-2TF9bLY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:15Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:53:15Z","message":"[info] Writing video thumbnail 41 to: After Dark x Sweater Weather.webp"}
+{"level":"info","time":"2022-07-25T01:53:15Z","message":"[download] Destination: After Dark x Sweater Weather.webm"}
+{"level":"info","time":"2022-07-25T01:53:15Z","message":"\r[download]   0.0% of 4.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.50MiB at   11.61MiB/s ETA 00:00   \r[download]   0.7% of 4.50MiB at    7.19MiB/s ETA 00:00\r[download]   1.4% of 4.50MiB at   10.43MiB/s ETA 00:00\r[download]   2.8% of 4.50MiB at   12.98MiB/s ETA 00:00\r[download]   5.5% of 4.50MiB at   12.48MiB/s ETA 00:00\r[download]  11.1% of 4.50MiB at   20.90MiB/s ETA 00:00\r[download]  22.2% of 4.50MiB at   31.59MiB/s ETA 00:00\r[download]  44.4% of 4.50MiB at   42.58MiB/s ETA 00:00\r[download]  88.9% of 4.50MiB at   55.74MiB/s ETA 00:00\r[download] 100.0% of 4.50MiB at   57.25MiB/s ETA 00:00\r[download] 100% of 4.50MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:53:16Z","message":"[ExtractAudio] Destination: After Dark x Sweater Weather.mp3"}
+{"level":"info","time":"2022-07-25T01:53:32Z","message":"Deleting original file After Dark x Sweater Weather.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:32Z","message":"[Metadata] Adding metadata to \"After Dark x Sweater Weather.mp3\""}
+{"level":"info","time":"2022-07-25T01:53:32Z","message":"[ThumbnailsConvertor] Converting thumbnail \"After Dark x Sweater Weather.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:32Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"After Dark x Sweater Weather.mp3\""}
+{"level":"info","time":"2022-07-25T01:53:38Z","message":"[youtube] hvL-2TF9bLY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:53:39Z","message":"[youtube] hvL-2TF9bLY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:53:40Z","message":"[info] hvL-2TF9bLY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:53:40Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:53:40Z","message":"[info] Writing video thumbnail 41 to: After Dark x Sweater Weather.webp"}
+{"level":"info","time":"2022-07-25T01:53:40Z","message":"[download] Destination: After Dark x Sweater Weather.webm"}
+{"level":"info","time":"2022-07-25T01:53:40Z","message":"\r[download]   0.0% of 4.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.50MiB at   10.84MiB/s ETA 00:00   \r[download]   0.7% of 4.50MiB at   17.11MiB/s ETA 00:00\r[download]   1.4% of 4.50MiB at   23.48MiB/s ETA 00:00\r[download]   2.8% of 4.50MiB at   30.57MiB/s ETA 00:00\r[download]   5.5% of 4.50MiB at   39.50MiB/s ETA 00:00\r[download]  11.1% of 4.50MiB at   56.46MiB/s ETA 00:00\r[download]  22.2% of 4.50MiB at   68.86MiB/s ETA 00:00\r[download]  44.4% of 4.50MiB at   91.86MiB/s ETA 00:00\r[download]  88.9% of 4.50MiB at  100.91MiB/s ETA 00:00\r[download] 100.0% of 4.50MiB at  104.22MiB/s ETA 00:00\r[download] 100% of 4.50MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:53:40Z","message":"[ExtractAudio] Destination: After Dark x Sweater Weather.mp3"}
+{"level":"info","time":"2022-07-25T01:53:55Z","message":"Deleting original file After Dark x Sweater Weather.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:53:55Z","message":"[Metadata] Adding metadata to \"After Dark x Sweater Weather.mp3\""}
+{"level":"info","time":"2022-07-25T01:53:56Z","message":"[ThumbnailsConvertor] Converting thumbnail \"After Dark x Sweater Weather.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:53:56Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"After Dark x Sweater Weather.mp3\""}
+{"level":"info","time":"2022-07-25T01:54:01Z","message":"[youtube] WNeLUngb-Xg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"[youtube] WNeLUngb-Xg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"[info] WNeLUngb-Xg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"[info] Writing video thumbnail 41 to: Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).webp"}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"[download] Destination: Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).webm"}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"\r[download]   0.0% of 3.58MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.58MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.58MiB at    6.08MiB/s ETA 00:00   \r[download]   0.4% of 3.58MiB at    9.89MiB/s ETA 00:00\r[download]   0.8% of 3.58MiB at   16.34MiB/s ETA 00:00\r[download]   1.7% of 3.58MiB at   22.82MiB/s ETA 00:00\r[download]   3.5% of 3.58MiB at   18.08MiB/s ETA 00:00\r[download]   7.0% of 3.58MiB at   26.53MiB/s ETA 00:00\r[download]  14.0% of 3.58MiB at   39.80MiB/s ETA 00:00\r[download]  27.9% of 3.58MiB at   60.69MiB/s ETA 00:00\r[download]  55.9% of 3.58MiB at   79.74MiB/s ETA 00:00\r[download] 100.0% of 3.58MiB at  110.80MiB/s ETA 00:00\r[download] 100% of 3.58MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:02Z","message":"[ExtractAudio] Destination: Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).mp3"}
+{"level":"info","time":"2022-07-25T01:54:15Z","message":"Deleting original file Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:15Z","message":"[Metadata] Adding metadata to \"Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:15Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:15Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Linkin Park - In The End (Mellen Gi & Tommee Profitt Remix).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:20Z","message":"[youtube] 8zqav3M35kM: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:20Z","message":"[youtube] 8zqav3M35kM: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"[info] 8zqav3M35kM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"[info] Writing video thumbnail 41 to: somebody that i used to know, 80s slowed (tik tok version + no tempo changes).webp"}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"[download] Destination: somebody that i used to know, 80s slowed (tik tok version + no tempo changes).webm"}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"\r[download]   0.0% of 4.08MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.08MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.08MiB at    6.00MiB/s ETA 00:00   \r[download]   0.4% of 4.08MiB at    9.51MiB/s ETA 00:00\r[download]   0.7% of 4.08MiB at   15.96MiB/s ETA 00:00\r[download]   1.5% of 4.08MiB at   20.01MiB/s ETA 00:00\r[download]   3.0% of 4.08MiB at   27.36MiB/s ETA 00:00\r[download]   6.1% of 4.08MiB at   38.80MiB/s ETA 00:00\r[download]  12.2% of 4.08MiB at   38.69MiB/s ETA 00:00\r[download]  24.5% of 4.08MiB at   59.66MiB/s ETA 00:00\r[download]  49.0% of 4.08MiB at   88.26MiB/s ETA 00:00\r[download]  98.1% of 4.08MiB at  119.15MiB/s ETA 00:00\r[download] 100.0% of 4.08MiB at   89.72MiB/s ETA 00:00\r[download] 100% of 4.08MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:21Z","message":"[ExtractAudio] Destination: somebody that i used to know, 80s slowed (tik tok version + no tempo changes).mp3"}
+{"level":"info","time":"2022-07-25T01:54:31Z","message":"Deleting original file somebody that i used to know, 80s slowed (tik tok version + no tempo changes).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:31Z","message":"[Metadata] Adding metadata to \"somebody that i used to know, 80s slowed (tik tok version + no tempo changes).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:31Z","message":"[ThumbnailsConvertor] Converting thumbnail \"somebody that i used to know, 80s slowed (tik tok version + no tempo changes).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:32Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"somebody that i used to know, 80s slowed (tik tok version + no tempo changes).mp3\""}
+{"level":"info","time":"2022-07-25T01:54:37Z","message":"[youtube] XEw5U1mStbg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:37Z","message":"[youtube] XEw5U1mStbg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[youtube] XEw5U1mStbg: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[youtube] XEw5U1mStbg: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[info] XEw5U1mStbg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[info] Writing video thumbnail 41 to: High School DxD Born OST - 27 - Shiretsu.webp"}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[download] Destination: High School DxD Born OST - 27 - Shiretsu.webm"}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"\r[download]   0.0% of 2.13MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.13MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.13MiB at    5.64MiB/s ETA 00:00   \r[download]   0.7% of 2.13MiB at    9.56MiB/s ETA 00:00\r[download]   1.4% of 2.13MiB at   16.14MiB/s ETA 00:00\r[download]   2.9% of 2.13MiB at   23.58MiB/s ETA 00:00\r[download]   5.8% of 2.13MiB at   27.29MiB/s ETA 00:00\r[download]  11.7% of 2.13MiB at   40.64MiB/s ETA 00:00\r[download]  23.5% of 2.13MiB at   61.44MiB/s ETA 00:00\r[download]  47.0% of 2.13MiB at   82.87MiB/s ETA 00:00\r[download]  94.0% of 2.13MiB at  118.17MiB/s ETA 00:00\r[download] 100.0% of 2.13MiB at   25.75MiB/s ETA 00:00\r[download] 100% of 2.13MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:38Z","message":"[ExtractAudio] Destination: High School DxD Born OST - 27 - Shiretsu.mp3"}
+{"level":"info","time":"2022-07-25T01:54:46Z","message":"Deleting original file High School DxD Born OST - 27 - Shiretsu.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:46Z","message":"[Metadata] Adding metadata to \"High School DxD Born OST - 27 - Shiretsu.mp3\""}
+{"level":"info","time":"2022-07-25T01:54:46Z","message":"[ThumbnailsConvertor] Converting thumbnail \"High School DxD Born OST - 27 - Shiretsu.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:46Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"High School DxD Born OST - 27 - Shiretsu.mp3\""}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[youtube] LHeYo_-ej2w: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[youtube] LHeYo_-ej2w: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[info] LHeYo_-ej2w: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[info] Writing video thumbnail 41 to: Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.webp"}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[download] Destination: Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.webm"}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"\r[download]   0.0% of 2.02MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.02MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.02MiB at    6.21MiB/s ETA 00:00   \r[download]   0.7% of 2.02MiB at   10.19MiB/s ETA 00:00\r[download]   1.5% of 2.02MiB at   17.29MiB/s ETA 00:00\r[download]   3.0% of 2.02MiB at   22.41MiB/s ETA 00:00\r[download]   6.1% of 2.02MiB at   27.81MiB/s ETA 00:00\r[download]  12.3% of 2.02MiB at   38.96MiB/s ETA 00:00\r[download]  24.7% of 2.02MiB at   58.25MiB/s ETA 00:00\r[download]  49.4% of 2.02MiB at   85.46MiB/s ETA 00:00\r[download]  98.8% of 2.02MiB at  118.10MiB/s ETA 00:00\r[download] 100.0% of 2.02MiB at   35.83MiB/s ETA 00:00\r[download] 100% of 2.02MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:54:50Z","message":"[ExtractAudio] Destination: Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.mp3"}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"Deleting original file Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[Metadata] Adding metadata to \"Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.mp3\""}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:54:54Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Shinsou no, Ojou-sama desu | Rias Gremory theme | Is a Princess.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:00Z","message":"[youtube] fG8nF53ceQc: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:00Z","message":"[youtube] fG8nF53ceQc: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:01Z","message":"[info] fG8nF53ceQc: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:01Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:01Z","message":"[info] Writing video thumbnail 41 to: 𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.webp"}
+{"level":"info","time":"2022-07-25T01:55:01Z","message":"[download] Destination: 𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.webm"}
+{"level":"info","time":"2022-07-25T01:55:01Z","message":"\r[download]   0.0% of 2.99MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.99MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 2.99MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 2.99MiB at   12.10MiB/s ETA 00:00   \r[download]   1.0% of 2.99MiB at   19.77MiB/s ETA 00:00\r[download]   2.1% of 2.99MiB at   13.32MiB/s ETA 00:00\r[download]   4.1% of 2.99MiB at   19.06MiB/s ETA 00:00\r[download]   8.3% of 2.99MiB at   26.21MiB/s ETA 00:00\r[download]  16.7% of 2.99MiB at   38.01MiB/s ETA 00:00\r[download]  33.4% of 2.99MiB at   59.71MiB/s ETA 00:00\r[download]  66.8% of 2.99MiB at   73.68MiB/s ETA 00:00\r[download] 100.0% of 2.99MiB at   77.36MiB/s ETA 00:00\r[download] 100% of 2.99MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:01Z","message":"[ExtractAudio] Destination: 𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.mp3"}
+{"level":"info","time":"2022-07-25T01:55:11Z","message":"Deleting original file 𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:11Z","message":"[Metadata] Adding metadata to \"𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:12Z","message":"[ThumbnailsConvertor] Converting thumbnail \"𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:12Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"𝐦𝐞𝐥𝐚𝐧𝐢𝐞 𝐦𝐚𝐫𝐭𝐢𝐧𝐞𝐳 - 𝐩𝐥𝐚𝐲𝐝𝐚𝐭𝐞 (𝐬𝐥𝐨𝐰𝐞𝐝 + 𝐫𝐞𝐯𝐞𝐫𝐛) - timothée chalamet tiktok.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:16Z","message":"[youtube] nR01ZgOlsV8: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:18Z","message":"[youtube] nR01ZgOlsV8: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[info] nR01ZgOlsV8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[info] Writing video thumbnail 41 to: Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).webp"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[download] Destination: Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).webm"}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"\r[download]   0.0% of 2.93MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.93MiB at    2.65MiB/s ETA 00:01   \r[download]   0.2% of 2.93MiB at    4.82MiB/s ETA 00:00\r[download]   0.5% of 2.93MiB at    8.38MiB/s ETA 00:00\r[download]   1.0% of 2.93MiB at   14.39MiB/s ETA 00:00\r[download]   2.1% of 2.93MiB at   24.39MiB/s ETA 00:00\r[download]   4.2% of 2.93MiB at   27.17MiB/s ETA 00:00\r[download]   8.5% of 2.93MiB at   38.81MiB/s ETA 00:00\r[download]  17.0% of 2.93MiB at   59.81MiB/s ETA 00:00\r[download]  34.1% of 2.93MiB at   83.23MiB/s ETA 00:00\r[download]  68.2% of 2.93MiB at   92.51MiB/s ETA 00:00\r[download] 100.0% of 2.93MiB at   49.09MiB/s ETA 00:00\r[download] 100% of 2.93MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:19Z","message":"[ExtractAudio] Destination: Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).mp3"}
+{"level":"info","time":"2022-07-25T01:55:29Z","message":"Deleting original file Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:29Z","message":"[Metadata] Adding metadata to \"Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:55:29Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:30Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Demi Lovato - Cool For the Summer [Sped Up Remix] - (Official Lyric Video).mp3\""}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[youtube] J6qIzKxmW8Y: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[youtube] J6qIzKxmW8Y: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[info] J6qIzKxmW8Y: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[info] Writing video thumbnail 41 to: Howl's Moving Castle - Merry go round of Life cover by Grissini Project.webp"}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"[download] Destination: Howl's Moving Castle - Merry go round of Life cover by Grissini Project.webm"}
+{"level":"info","time":"2022-07-25T01:55:34Z","message":"\r[download]   0.0% of 6.27MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 6.27MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 6.27MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 6.27MiB at   13.25MiB/s ETA 00:00   \r[download]   0.5% of 6.27MiB at   20.79MiB/s ETA 00:00\r[download]   1.0% of 6.27MiB at   33.33MiB/s ETA 00:00\r[download]   2.0% of 6.27MiB at   22.97MiB/s ETA 00:00\r[download]   4.0% of 6.27MiB at   15.81MiB/s ETA 00:00\r[download]   8.0% of 6.27MiB at   29.56MiB/s ETA 00:00\r[download]  15.9% of 6.27MiB at   54.41MiB/s ETA 00:00\r[download]  31.9% of 6.27MiB at   85.02MiB/s ETA 00:00\r[download]  63.8% of 6.27MiB at   97.06MiB/s ETA 00:00\r[download] 100.0% of 6.27MiB at  111.30MiB/s ETA 00:00\r[download] 100% of 6.27MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:55:35Z","message":"[ExtractAudio] Destination: Howl's Moving Castle - Merry go round of Life cover by Grissini Project.mp3"}
+{"level":"info","time":"2022-07-25T01:55:53Z","message":"Deleting original file Howl's Moving Castle - Merry go round of Life cover by Grissini Project.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:55:53Z","message":"[Metadata] Adding metadata to \"Howl's Moving Castle - Merry go round of Life cover by Grissini Project.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:53Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Howl's Moving Castle - Merry go round of Life cover by Grissini Project.webp\" to png"}
+{"level":"info","time":"2022-07-25T01:55:54Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Howl's Moving Castle - Merry go round of Life cover by Grissini Project.mp3\""}
+{"level":"info","time":"2022-07-25T01:55:59Z","message":"[youtube] k4FF7x8vnZg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:55:59Z","message":"[youtube] k4FF7x8vnZg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] k4FF7x8vnZg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[info] Writing video thumbnail 35 to: Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).webp"}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"[download] Destination: Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).webm"}
+{"level":"info","time":"2022-07-25T01:56:00Z","message":"\r[download]   0.0% of 2.65MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.65MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.65MiB at  Unknown B/s ETA  Unknown\r[download]   0.6% of 2.65MiB at   11.11MiB/s ETA 00:00   \r[download]   1.1% of 2.65MiB at   17.35MiB/s ETA 00:00\r[download]   2.3% of 2.65MiB at   24.15MiB/s ETA 00:00\r[download]   4.7% of 2.65MiB at   16.33MiB/s ETA 00:00\r[download]   9.4% of 2.65MiB at   25.68MiB/s ETA 00:00\r[download]  18.8% of 2.65MiB at   36.97MiB/s ETA 00:00\r[download]  37.7% of 2.65MiB at   56.65MiB/s ETA 00:00\r[download]  75.5% of 2.65MiB at   76.40MiB/s ETA 00:00\r[download] 100.0% of 2.65MiB at   68.11MiB/s ETA 00:00\r[download] 100% of 2.65MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:56:01Z","message":"[ExtractAudio] Destination: Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).mp3"}
+{"level":"info","time":"2022-07-25T01:56:08Z","message":"Deleting original file Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T01:56:08Z","message":"[Metadata] Adding metadata to \"Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).mp3\""}
+{"level":"info","time":"2022-07-25T01:56:08Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).webp\" to png"}
+{"level":"info","time":"2022-07-25T01:56:08Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Gotye - Somebody That I Used To Know - Trap by VelvetCasca (Extended Version).mp3\""}
+{"level":"fatal","time":"2022-07-25T01:56:09Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:56:09Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:56:09Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:56:09Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:56:09Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T01:56:09Z","message":"WARNING: Unable to download video thumbnail 36: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T01:56:14Z","message":"[youtube] jLNrvmXboj8: Downloading webpage"}
+{"level":"info","time":"2022-07-25T01:56:15Z","message":"[youtube] jLNrvmXboj8: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T01:56:19Z","message":"[info] jLNrvmXboj8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T01:56:19Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T01:56:19Z","message":"[info] Writing video thumbnail 41 to: Alec Benjamin - Let Me Down Slowly (Lyrics).webp"}
+{"level":"info","time":"2022-07-25T01:56:19Z","message":"[download] Destination: Alec Benjamin - Let Me Down Slowly (Lyrics).webm"}
+{"level":"info","time":"2022-07-25T01:56:19Z","message":"\r[download]   0.0% of 2.71MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.71MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.71MiB at    5.84MiB/s ETA 00:00   \r[download]   0.5% of 2.71MiB at    9.18MiB/s ETA 00:00\r[download]   1.1% of 2.71MiB at    6.13MiB/s ETA 00:00\r[download]   2.3% of 2.71MiB at    9.34MiB/s ETA 00:00\r[download]   4.6% of 2.71MiB at   14.42MiB/s ETA 00:00\r[download]   9.2% of 2.71MiB at   19.51MiB/s ETA 00:00\r[download]  18.4% of 2.71MiB at   25.04MiB/s ETA 00:00\r[download]  36.9% of 2.71MiB at   35.42MiB/s ETA 00:00\r[download]  73.8% of 2.71MiB at   56.61MiB/s ETA 00:00\r[download] 100.0% of 2.71MiB at   58.04MiB/s ETA 00:00\r[download] 100% of 2.71MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T01:56:20Z","message":"[ExtractAudio] Destination: Alec Benjamin - Let Me Down Slowly (Lyrics).mp3"}
