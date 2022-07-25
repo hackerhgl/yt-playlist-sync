@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"strings"
 
 	"github.com/rs/zerolog"
 	"google.golang.org/api/drive/v3"
@@ -27,6 +28,10 @@ func WorkerShell(worker int, start int, end int, playlist []ParsedItem, drive *d
 		if err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
 		}
+		stderr, err := cmd.StderrPipe()
+		if err != nil {
+			logger.Fatal().Err(err).Msg(err.Error())
+		}
 
 		err = cmd.Start()
 
@@ -36,11 +41,22 @@ func WorkerShell(worker int, start int, end int, playlist []ParsedItem, drive *d
 		}
 
 		in := bufio.NewScanner(stdout)
-
 		for in.Scan() {
 			text := in.Text()
-			// println(text)
 			logger.Info().Msg(text)
+		}
+		stderrin := bufio.NewScanner(stderr)
+		hasErr := false
+		for stderrin.Scan() {
+			text := stderrin.Text()
+			if strings.Contains(text, fmt.Sprintf("ERROR: [youtube] %s:", item.ID)) {
+				hasErr = true
+			}
+			logger.WithLevel(zerolog.FatalLevel).Msg(text)
+			// logger.Fatal().Err(err).Msg(text)
+		}
+		if hasErr {
+			continue
 		}
 		if err := in.Err(); err != nil {
 			logger.Fatal().Err(err).Msg(err.Error())
