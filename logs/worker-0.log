@@ -299,3 +299,92 @@
 {"level":"info","time":"2022-07-25T07:06:12+05:00","message":"Deleting original file Dido - Thank You (Official Video).png (pass -k to keep)"}
 {"level":"info","time":"2022-07-25T07:06:12+05:00","message":"Deleting original file Dido - Thank You (Official Video).webp (pass -k to keep)"}
 {"level":"info","time":"2022-07-25T07:06:17+05:00","message":"[youtube] wp43OdtAAkM: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","time":"2022-07-25T02:24:17Z","message":"ERROR: [youtube] 4BSJAAo1uNY: Video unavailable. This video contains content from Molebeat, who has blocked it in your country on copyright grounds"}
+{"level":"info","time":"2022-07-25T02:24:19Z","message":"[youtube] 1TO48Cnl66w: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[youtube] 1TO48Cnl66w: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[info] 1TO48Cnl66w: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[info] Writing video thumbnail 41 to: Dido - Thank You (Official Video).webp"}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[download] Destination: Dido - Thank You (Official Video).webm"}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"\r[download]   0.0% of 3.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.29MiB at   12.66MiB/s ETA 00:00   \r[download]   0.9% of 3.29MiB at    5.85MiB/s ETA 00:00\r[download]   1.9% of 3.29MiB at    5.91MiB/s ETA 00:00\r[download]   3.8% of 3.29MiB at    7.93MiB/s ETA 00:00\r[download]   7.6% of 3.29MiB at   12.53MiB/s ETA 00:00\r[download]  15.2% of 3.29MiB at   18.80MiB/s ETA 00:00\r[download]  30.3% of 3.29MiB at   29.22MiB/s ETA 00:00\r[download]  60.7% of 3.29MiB at   49.15MiB/s ETA 00:00\r[download] 100.0% of 3.29MiB at   71.14MiB/s ETA 00:00\r[download] 100% of 3.29MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[ExtractAudio] Destination: Dido - Thank You (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T02:24:31Z","message":"Deleting original file Dido - Thank You (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:31Z","message":"[Metadata] Adding metadata to \"Dido - Thank You (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:24:31Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Dido - Thank You (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:31Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Dido - Thank You (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:24:36Z","message":"[youtube] wp43OdtAAkM: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[youtube] wp43OdtAAkM: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[info] wp43OdtAAkM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:38Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T02:24:39Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T02:24:40Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T02:24:41Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T02:24:41Z","message":"[info] Writing video thumbnail 37 to: Kate Bush - Running Up That Hill - Official Music Video.webp"}
+{"level":"info","time":"2022-07-25T02:24:41Z","message":"[download] Destination: Kate Bush - Running Up That Hill - Official Music Video.webm"}
+{"level":"info","time":"2022-07-25T02:24:41Z","message":"\r[download]   0.0% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 4.43MiB at  Unknown B/s ETA  Unknown\r[download]   0.7% of 4.43MiB at    6.18MiB/s ETA 00:00   \r[download]   1.4% of 4.43MiB at    6.36MiB/s ETA 00:00\r[download]   2.8% of 4.43MiB at    8.71MiB/s ETA 00:00\r[download]   5.6% of 4.43MiB at   12.37MiB/s ETA 00:00\r[download]  11.3% of 4.43MiB at   19.15MiB/s ETA 00:00\r[download]  22.5% of 4.43MiB at   30.79MiB/s ETA 00:00\r[download]  45.1% of 4.43MiB at   50.64MiB/s ETA 00:00\r[download]  90.2% of 4.43MiB at   78.20MiB/s ETA 00:00\r[download] 100.0% of 4.43MiB at   75.56MiB/s ETA 00:00\r[download] 100% of 4.43MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:41Z","message":"[ExtractAudio] Destination: Kate Bush - Running Up That Hill - Official Music Video.mp3"}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"Deleting original file Kate Bush - Running Up That Hill - Official Music Video.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"[Metadata] Adding metadata to \"Kate Bush - Running Up That Hill - Official Music Video.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Kate Bush - Running Up That Hill - Official Music Video.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Kate Bush - Running Up That Hill - Official Music Video.mp3\""}
+{"level":"fatal","time":"2022-07-25T02:24:57Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:24:57Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:24:57Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:24:57Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[youtube] vtzOPN68Vis: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[youtube] vtzOPN68Vis: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[info] vtzOPN68Vis: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[info] Downloading video thumbnail 45 ..."}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[info] Writing video thumbnail 45 to: Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webp"}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[download] Destination: Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webm"}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"\r[download]   0.0% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.01MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 4.01MiB at   12.88MiB/s ETA 00:00   \r[download]   0.8% of 4.01MiB at    5.77MiB/s ETA 00:00\r[download]   1.5% of 4.01MiB at    6.01MiB/s ETA 00:00\r[download]   3.1% of 4.01MiB at    7.94MiB/s ETA 00:00\r[download]   6.2% of 4.01MiB at   12.68MiB/s ETA 00:00\r[download]  12.5% of 4.01MiB at   18.56MiB/s ETA 00:00\r[download]  24.9% of 4.01MiB at   30.45MiB/s ETA 00:00\r[download]  49.9% of 4.01MiB at   50.77MiB/s ETA 00:00\r[download]  99.8% of 4.01MiB at   51.57MiB/s ETA 00:00\r[download] 100.0% of 4.01MiB at   50.92MiB/s ETA 00:00\r[download] 100% of 4.01MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[ExtractAudio] Destination: Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.mp3"}
+{"level":"info","time":"2022-07-25T02:25:11Z","message":"Deleting original file Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:11Z","message":"[Metadata] Adding metadata to \"Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:11Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:11Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Melanie Martinez - Play Date Violin Cover (Lindsey Stirling) REMIX.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:15Z","message":"[youtube] 6WJ13zrscxs: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[youtube] 6WJ13zrscxs: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[info] 6WJ13zrscxs: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[info] Writing video thumbnail 41 to: Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webp"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[download] Destination: Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webm"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"\r[download]   0.0% of 3.98MiB at  766.22KiB/s ETA 00:05\r[download]   0.1% of 3.98MiB at    1.71MiB/s ETA 00:02\r[download]   0.2% of 3.98MiB at    3.58MiB/s ETA 00:01\r[download]   0.4% of 3.98MiB at    6.97MiB/s ETA 00:00\r[download]   0.8% of 3.98MiB at    5.19MiB/s ETA 00:00\r[download]   1.5% of 3.98MiB at    6.22MiB/s ETA 00:00\r[download]   3.1% of 3.98MiB at    8.13MiB/s ETA 00:00\r[download]   6.3% of 3.98MiB at   12.48MiB/s ETA 00:00\r[download]  12.5% of 3.98MiB at   18.64MiB/s ETA 00:00\r[download]  25.1% of 3.98MiB at   30.12MiB/s ETA 00:00\r[download]  50.2% of 3.98MiB at   51.13MiB/s ETA 00:00\r[download] 100.0% of 3.98MiB at   68.80MiB/s ETA 00:00\r[download] 100% of 3.98MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[ExtractAudio] Destination: Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).mp3"}
+{"level":"info","time":"2022-07-25T02:25:26Z","message":"Deleting original file Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:26Z","message":"[Metadata] Adding metadata to \"Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:26Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:26Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mr. Kitty - Habits (Career Opportunities 1991- Jennifer Connelly).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[youtube] 4ocH0nnXU80: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"[youtube] 4ocH0nnXU80: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"[youtube] 4ocH0nnXU80: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"[youtube] 4ocH0nnXU80: Downloading MPD manifest"}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] 4ocH0nnXU80: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[info] Writing video thumbnail 37 to: heat waves x middle of the night |edit audio|mashup|.webp"}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[download] Destination: heat waves x middle of the night |edit audio|mashup|.webm"}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"\r[download]   0.1% of 719.31KiB at  206.13KiB/s ETA 00:03\r[download]   0.4% of 719.31KiB at  577.30KiB/s ETA 00:01\r[download]   1.0% of 719.31KiB at    1.27MiB/s ETA 00:00\r[download]   2.1% of 719.31KiB at    2.60MiB/s ETA 00:00\r[download]   4.3% of 719.31KiB at    1.25MiB/s ETA 00:00\r[download]   8.8% of 719.31KiB at    1.47MiB/s ETA 00:00\r[download]  17.7% of 719.31KiB at    2.00MiB/s ETA 00:00\r[download]  35.5% of 719.31KiB at    3.04MiB/s ETA 00:00\r[download]  71.0% of 719.31KiB at    4.83MiB/s ETA 00:00\r[download] 100.0% of 719.31KiB at    6.21MiB/s ETA 00:00\r[download] 100% of 719.31KiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:32Z","message":"[ExtractAudio] Destination: heat waves x middle of the night |edit audio|mashup|.mp3"}
+{"level":"info","time":"2022-07-25T02:25:34Z","message":"Deleting original file heat waves x middle of the night |edit audio|mashup|.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:34Z","message":"[Metadata] Adding metadata to \"heat waves x middle of the night |edit audio|mashup|.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:34Z","message":"[ThumbnailsConvertor] Converting thumbnail \"heat waves x middle of the night |edit audio|mashup|.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:34Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"heat waves x middle of the night |edit audio|mashup|.mp3\""}
+{"level":"fatal","time":"2022-07-25T02:25:35Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:35Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:35Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:35Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T02:25:38Z","message":"[youtube] O1nz67qWd-M: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"[youtube] O1nz67qWd-M: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"[info] O1nz67qWd-M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"[info] Writing video thumbnail 41 to: Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).webp"}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"[download] Destination: Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).webm"}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"\r[download]   0.0% of 3.79MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.79MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.79MiB at    6.62MiB/s ETA 00:00   \r[download]   0.4% of 3.79MiB at   11.85MiB/s ETA 00:00\r[download]   0.8% of 3.79MiB at    5.92MiB/s ETA 00:00\r[download]   1.6% of 3.79MiB at    5.98MiB/s ETA 00:00\r[download]   3.3% of 3.79MiB at    7.87MiB/s ETA 00:00\r[download]   6.6% of 3.79MiB at   12.69MiB/s ETA 00:00\r[download]  13.2% of 3.79MiB at   17.86MiB/s ETA 00:00\r[download]  26.4% of 3.79MiB at   29.06MiB/s ETA 00:00\r[download]  52.8% of 3.79MiB at   29.50MiB/s ETA 00:00\r[download] 100.0% of 3.79MiB at   52.05MiB/s ETA 00:00\r[download] 100% of 3.79MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:39Z","message":"[ExtractAudio] Destination: Elley Duhé - MIDDLE OF THE NIGHT (Lyrics).mp3"}

@@ -50,3 +50,40 @@
 {"level":"info","time":"2022-07-25T07:06:16+05:00","message":"[download] Destination: Boom - How Do You Do (Official UK Version).webm"}
 {"level":"info","time":"2022-07-25T07:06:16+05:00","message":"\r[download]   0.0% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.2% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.5% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.9% of 3.23MiB at  5.15MiB/s ETA 00:00     \r[download]   1.9% of 3.23MiB at  5.36MiB/s ETA 00:00\r[download]   3.8% of 3.23MiB at  7.89MiB/s ETA 00:00\r[download]   7.7% of 3.23MiB at 12.38MiB/s ETA 00:00\r[download]  15.5% of 3.23MiB at 19.27MiB/s ETA 00:00\r[download]  31.0% of 3.23MiB at 28.78MiB/s ETA 00:00\r[download]  61.9% of 3.23MiB at 43.19MiB/s ETA 00:00\r[download] 100% of 3.23MiB at 48.34MiB/s ETA 00:00  \r[download] 100% of 3.23MiB in 00:00               "}
 {"level":"info","time":"2022-07-25T07:06:16+05:00","message":"[ExtractAudio] Destination: Boom - How Do You Do (Official UK Version).mp3"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] 2ziqtyseR3M: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] 2ziqtyseR3M: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] 2ziqtyseR3M: Downloading player afeb58ff"}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[info] 2ziqtyseR3M: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[info] Writing video thumbnail 41 to: Nightcore  - Everytime We Touch (Remix) ✕.webp"}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[download] Destination: Nightcore  - Everytime We Touch (Remix) ✕.webm"}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"\r[download]   0.0% of 3.05MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.05MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.05MiB at  Unknown B/s ETA  Unknown\r[download]   0.5% of 3.05MiB at   14.38MiB/s ETA 00:00   \r[download]   1.0% of 3.05MiB at    5.77MiB/s ETA 00:00\r[download]   2.0% of 3.05MiB at    5.86MiB/s ETA 00:00\r[download]   4.1% of 3.05MiB at    7.82MiB/s ETA 00:00\r[download]   8.2% of 3.05MiB at   12.42MiB/s ETA 00:00\r[download]  16.4% of 3.05MiB at   18.80MiB/s ETA 00:00\r[download]  32.7% of 3.05MiB at   30.86MiB/s ETA 00:00\r[download]  65.5% of 3.05MiB at   50.92MiB/s ETA 00:00\r[download] 100.0% of 3.05MiB at   70.08MiB/s ETA 00:00\r[download] 100% of 3.05MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[ExtractAudio] Destination: Nightcore  - Everytime We Touch (Remix) ✕.mp3"}
+{"level":"info","time":"2022-07-25T02:24:29Z","message":"Deleting original file Nightcore  - Everytime We Touch (Remix) ✕.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:29Z","message":"[Metadata] Adding metadata to \"Nightcore  - Everytime We Touch (Remix) ✕.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:29Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore  - Everytime We Touch (Remix) ✕.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:29Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore  - Everytime We Touch (Remix) ✕.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:34Z","message":"[youtube] gbsWVX1uMh4: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:34Z","message":"[youtube] gbsWVX1uMh4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:34Z","message":"[info] gbsWVX1uMh4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:34Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:35Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Me and My Broken Heart.webp"}
+{"level":"info","time":"2022-07-25T02:24:35Z","message":"[download] Destination: Nightcore - Me and My Broken Heart.webm"}
+{"level":"info","time":"2022-07-25T02:24:35Z","message":"\r[download]   0.0% of 2.65MiB at  771.30KiB/s ETA 00:03\r[download]   0.1% of 2.65MiB at    1.81MiB/s ETA 00:01\r[download]   0.3% of 2.65MiB at    3.75MiB/s ETA 00:00\r[download]   0.6% of 2.65MiB at    7.22MiB/s ETA 00:00\r[download]   1.1% of 2.65MiB at    5.24MiB/s ETA 00:00\r[download]   2.3% of 2.65MiB at    6.30MiB/s ETA 00:00\r[download]   4.7% of 2.65MiB at    8.25MiB/s ETA 00:00\r[download]   9.4% of 2.65MiB at   12.91MiB/s ETA 00:00\r[download]  18.9% of 2.65MiB at   19.14MiB/s ETA 00:00\r[download]  37.8% of 2.65MiB at   30.83MiB/s ETA 00:00\r[download]  75.6% of 2.65MiB at   50.98MiB/s ETA 00:00\r[download] 100.0% of 2.65MiB at   52.62MiB/s ETA 00:00\r[download] 100% of 2.65MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:35Z","message":"[ExtractAudio] Destination: Nightcore - Me and My Broken Heart.mp3"}
+{"level":"info","time":"2022-07-25T02:24:42Z","message":"Deleting original file Nightcore - Me and My Broken Heart.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:42Z","message":"[Metadata] Adding metadata to \"Nightcore - Me and My Broken Heart.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:42Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Me and My Broken Heart.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:42Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Me and My Broken Heart.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:47Z","message":"[youtube] Dboi1bja6M8: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:48Z","message":"[youtube] Dboi1bja6M8: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:49Z","message":"[info] Dboi1bja6M8: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:49Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:49Z","message":"[info] Writing video thumbnail 41 to: Nightcore - Rasputin (Remix).webp"}
+{"level":"info","time":"2022-07-25T02:24:49Z","message":"[download] Destination: Nightcore - Rasputin (Remix).webm"}
+{"level":"info","time":"2022-07-25T02:24:49Z","message":"\r[download]   0.0% of 4.24MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.24MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.24MiB at    6.44MiB/s ETA 00:00   \r[download]   0.3% of 4.24MiB at   11.55MiB/s ETA 00:00\r[download]   0.7% of 4.24MiB at    5.77MiB/s ETA 00:00\r[download]   1.5% of 4.24MiB at    5.86MiB/s ETA 00:00\r[download]   2.9% of 4.24MiB at    7.81MiB/s ETA 00:00\r[download]   5.9% of 4.24MiB at   12.51MiB/s ETA 00:00\r[download]  11.8% of 4.24MiB at   18.28MiB/s ETA 00:00\r[download]  23.6% of 4.24MiB at   30.07MiB/s ETA 00:00\r[download]  47.2% of 4.24MiB at   50.50MiB/s ETA 00:00\r[download]  94.4% of 4.24MiB at   75.96MiB/s ETA 00:00\r[download] 100.0% of 4.24MiB at   68.59MiB/s ETA 00:00\r[download] 100% of 4.24MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:49Z","message":"[ExtractAudio] Destination: Nightcore - Rasputin (Remix).mp3"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"Deleting original file Nightcore - Rasputin (Remix).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[Metadata] Adding metadata to \"Nightcore - Rasputin (Remix).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Rasputin (Remix).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Rasputin (Remix).mp3\""}

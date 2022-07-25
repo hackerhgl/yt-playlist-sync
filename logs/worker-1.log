@@ -269,3 +269,72 @@
 {"level":"info","time":"2022-07-25T07:06:11+05:00","message":"Deleting original file Akon - Smack That (Official Music Video) ft. Eminem.png (pass -k to keep)"}
 {"level":"info","time":"2022-07-25T07:06:16+05:00","message":"[youtube] 4fndeDfaWCg: Downloading webpage"}
 {"level":"info","time":"2022-07-25T07:06:17+05:00","message":"[youtube] 4fndeDfaWCg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] uuCFRaFWjwY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] uuCFRaFWjwY: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[info] uuCFRaFWjwY: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T02:24:19Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T02:24:20Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T02:24:22Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T02:24:22Z","message":"[info] Writing video thumbnail 37 to: Imran Khan - Amplifier (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T02:24:22Z","message":"[download] Destination: Imran Khan - Amplifier (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T02:24:22Z","message":"\r[download]   0.0% of 3.91MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.91MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.91MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.91MiB at   12.59MiB/s ETA 00:00   \r[download]   0.8% of 3.91MiB at    6.05MiB/s ETA 00:00\r[download]   1.6% of 3.91MiB at    6.32MiB/s ETA 00:00\r[download]   3.2% of 3.91MiB at    8.06MiB/s ETA 00:00\r[download]   6.4% of 3.91MiB at   13.13MiB/s ETA 00:00\r[download]  12.8% of 3.91MiB at   18.51MiB/s ETA 00:00\r[download]  25.5% of 3.91MiB at   29.90MiB/s ETA 00:00\r[download]  51.1% of 3.91MiB at   50.48MiB/s ETA 00:00\r[download] 100.0% of 3.91MiB at   63.08MiB/s ETA 00:00\r[download] 100% of 3.91MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:22Z","message":"[ExtractAudio] Destination: Imran Khan - Amplifier (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T02:24:34Z","message":"Deleting original file Imran Khan - Amplifier (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:34Z","message":"[Metadata] Adding metadata to \"Imran Khan - Amplifier (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:24:35Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Imran Khan - Amplifier (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:35Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Imran Khan - Amplifier (Official Music Video).mp3\""}
+{"level":"fatal","time":"2022-07-25T02:24:35Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:24:35Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:24:35Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:24:35Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T02:24:38Z","message":"[youtube] i0BURncJM9Q: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:39Z","message":"[youtube] i0BURncJM9Q: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:39Z","message":"[info] i0BURncJM9Q: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:39Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:39Z","message":"[info] Writing video thumbnail 41 to: A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webp"}
+{"level":"info","time":"2022-07-25T02:24:39Z","message":"[download] Destination: A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webm"}
+{"level":"info","time":"2022-07-25T02:24:40Z","message":"\r[download]   0.0% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.89MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.89MiB at  Unknown B/s ETA 00:00   \r[download]   0.3% of 4.89MiB at   12.18MiB/s ETA 00:00\r[download]   0.6% of 4.89MiB at    5.82MiB/s ETA 00:00\r[download]   1.3% of 4.89MiB at    6.08MiB/s ETA 00:00\r[download]   2.5% of 4.89MiB at    8.09MiB/s ETA 00:00\r[download]   5.1% of 4.89MiB at   12.87MiB/s ETA 00:00\r[download]  10.2% of 4.89MiB at   18.46MiB/s ETA 00:00\r[download]  20.4% of 4.89MiB at   30.06MiB/s ETA 00:00\r[download]  40.9% of 4.89MiB at   45.99MiB/s ETA 00:00\r[download]  81.8% of 4.89MiB at   75.31MiB/s ETA 00:00\r[download] 100.0% of 4.89MiB at   83.41MiB/s ETA 00:00\r[download] 100% of 4.89MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:40Z","message":"[ExtractAudio] Destination: A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.mp3"}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"Deleting original file A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"[Metadata] Adding metadata to \"A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:57Z","message":"[ThumbnailsConvertor] Converting thumbnail \"A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:58Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"A.R. Rahman - Mayya Mayya Best Video|Guru|Mallika Sherawat|Abhishek Bachchan|Chinmayi.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[youtube] dQw4w9WgXcQ: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[youtube] dQw4w9WgXcQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[info] dQw4w9WgXcQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[info] Writing video thumbnail 41 to: Rick Astley - Never Gonna Give You Up (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[download] Destination: Rick Astley - Never Gonna Give You Up (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"\r[download]   0.0% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.28MiB at   14.05MiB/s ETA 00:00   \r[download]   0.9% of 3.28MiB at    5.96MiB/s ETA 00:00\r[download]   1.9% of 3.28MiB at    6.20MiB/s ETA 00:00\r[download]   3.8% of 3.28MiB at    8.24MiB/s ETA 00:00\r[download]   7.6% of 3.28MiB at   13.09MiB/s ETA 00:00\r[download]  15.2% of 3.28MiB at   19.28MiB/s ETA 00:00\r[download]  30.5% of 3.28MiB at   31.09MiB/s ETA 00:00\r[download]  61.0% of 3.28MiB at   52.45MiB/s ETA 00:00\r[download] 100.0% of 3.28MiB at   72.56MiB/s ETA 00:00\r[download] 100% of 3.28MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[ExtractAudio] Destination: Rick Astley - Never Gonna Give You Up (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T02:25:10Z","message":"Deleting original file Rick Astley - Never Gonna Give You Up (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:10Z","message":"[Metadata] Adding metadata to \"Rick Astley - Never Gonna Give You Up (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:11Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Rick Astley - Never Gonna Give You Up (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:11Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Rick Astley - Never Gonna Give You Up (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:15Z","message":"[youtube] ZaI2IlHwmgQ: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:15Z","message":"[youtube] ZaI2IlHwmgQ: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[info] ZaI2IlHwmgQ: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[info] Writing video thumbnail 41 to: The Black Eyed Peas - Pump It (Official Music Video).webp"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[download] Destination: The Black Eyed Peas - Pump It (Official Music Video).webm"}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"\r[download]   0.0% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.28MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.28MiB at   13.47MiB/s ETA 00:00   \r[download]   0.9% of 3.28MiB at    6.26MiB/s ETA 00:00\r[download]   1.9% of 3.28MiB at    6.39MiB/s ETA 00:00\r[download]   3.8% of 3.28MiB at    8.52MiB/s ETA 00:00\r[download]   7.6% of 3.28MiB at   13.45MiB/s ETA 00:00\r[download]  15.2% of 3.28MiB at   18.22MiB/s ETA 00:00\r[download]  30.5% of 3.28MiB at   30.21MiB/s ETA 00:00\r[download]  61.0% of 3.28MiB at   51.03MiB/s ETA 00:00\r[download] 100.0% of 3.28MiB at   73.85MiB/s ETA 00:00\r[download] 100% of 3.28MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:16Z","message":"[ExtractAudio] Destination: The Black Eyed Peas - Pump It (Official Music Video).mp3"}
+{"level":"info","time":"2022-07-25T02:25:25Z","message":"Deleting original file The Black Eyed Peas - Pump It (Official Music Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:25Z","message":"[Metadata] Adding metadata to \"The Black Eyed Peas - Pump It (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:25Z","message":"[ThumbnailsConvertor] Converting thumbnail \"The Black Eyed Peas - Pump It (Official Music Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:25Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"The Black Eyed Peas - Pump It (Official Music Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:25:29Z","message":"[youtube] bKDdT_nyP54: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[youtube] bKDdT_nyP54: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[info] bKDdT_nyP54: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[info] Writing video thumbnail 41 to: Akon - Smack That (Official Music Video) ft. Eminem.webp"}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[download] Destination: Akon - Smack That (Official Music Video) ft. Eminem.webm"}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"\r[download]   0.0% of 4.11MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.11MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.11MiB at    6.65MiB/s ETA 00:00   \r[download]   0.4% of 4.11MiB at   11.90MiB/s ETA 00:00\r[download]   0.7% of 4.11MiB at    5.86MiB/s ETA 00:00\r[download]   1.5% of 4.11MiB at    6.26MiB/s ETA 00:00\r[download]   3.0% of 4.11MiB at    8.19MiB/s ETA 00:00\r[download]   6.1% of 4.11MiB at   12.97MiB/s ETA 00:00\r[download]  12.1% of 4.11MiB at   19.26MiB/s ETA 00:00\r[download]  24.3% of 4.11MiB at   31.10MiB/s ETA 00:00\r[download]  48.6% of 4.11MiB at   51.64MiB/s ETA 00:00\r[download]  97.2% of 4.11MiB at   73.96MiB/s ETA 00:00\r[download] 100.0% of 4.11MiB at   72.35MiB/s ETA 00:00\r[download] 100% of 4.11MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:30Z","message":"[ExtractAudio] Destination: Akon - Smack That (Official Music Video) ft. Eminem.mp3"}
+{"level":"info","time":"2022-07-25T02:25:41Z","message":"Deleting original file Akon - Smack That (Official Music Video) ft. Eminem.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:41Z","message":"[Metadata] Adding metadata to \"Akon - Smack That (Official Music Video) ft. Eminem.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:41Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Akon - Smack That (Official Music Video) ft. Eminem.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:41Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Akon - Smack That (Official Music Video) ft. Eminem.mp3\""}
+{"level":"fatal","error":"googleapi: Error 403: The user's Drive storage quota has been exceeded., storageQuotaExceeded","time":"2022-07-25T02:25:42Z","message":"googleapi: Error 403: The user's Drive storage quota has been exceeded., storageQuotaExceeded"}

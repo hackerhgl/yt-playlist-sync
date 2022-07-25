@@ -284,3 +284,81 @@
 {"level":"info","time":"2022-07-25T07:06:11+05:00","message":"Deleting original file Selena Gomez - Come & Get It.webp (pass -k to keep)"}
 {"level":"info","time":"2022-07-25T07:06:11+05:00","message":"Deleting original file Selena Gomez - Come & Get It.png (pass -k to keep)"}
 {"level":"info","time":"2022-07-25T07:06:17+05:00","message":"[youtube] __DnLFT_Y_o: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] C-u5WLJ9Yk4: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[youtube] C-u5WLJ9Yk4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[info] C-u5WLJ9Yk4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:17Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[info] Writing video thumbnail 41 to: Britney Spears - ...Baby One More Time (Official Video).webp"}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[download] Destination: Britney Spears - ...Baby One More Time (Official Video).webm"}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"\r[download]   0.0% of 3.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.50MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.50MiB at    6.73MiB/s ETA 00:00   \r[download]   0.4% of 3.50MiB at   11.97MiB/s ETA 00:00\r[download]   0.9% of 3.50MiB at    5.83MiB/s ETA 00:00\r[download]   1.8% of 3.50MiB at    6.12MiB/s ETA 00:00\r[download]   3.5% of 3.50MiB at    8.12MiB/s ETA 00:00\r[download]   7.1% of 3.50MiB at   12.59MiB/s ETA 00:00\r[download]  14.3% of 3.50MiB at   19.25MiB/s ETA 00:00\r[download]  28.6% of 3.50MiB at   28.76MiB/s ETA 00:00\r[download]  57.2% of 3.50MiB at   49.71MiB/s ETA 00:00\r[download] 100.0% of 3.50MiB at   70.07MiB/s ETA 00:00\r[download] 100% of 3.50MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:18Z","message":"[ExtractAudio] Destination: Britney Spears - ...Baby One More Time (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T02:24:30Z","message":"Deleting original file Britney Spears - ...Baby One More Time (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:30Z","message":"[Metadata] Adding metadata to \"Britney Spears - ...Baby One More Time (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:24:30Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Britney Spears - ...Baby One More Time (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:31Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Britney Spears - ...Baby One More Time (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T02:24:36Z","message":"[youtube] n-D1EB74Ckg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[youtube] n-D1EB74Ckg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[info] n-D1EB74Ckg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[info] Writing video thumbnail 41 to: Selena Gomez - Come & Get It.webp"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[download] Destination: Selena Gomez - Come & Get It.webm"}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"\r[download]   0.0% of 4.34MiB at  342.78KiB/s ETA 00:13\r[download]   0.1% of 4.34MiB at  930.90KiB/s ETA 00:04\r[download]   0.2% of 4.34MiB at    2.00MiB/s ETA 00:02\r[download]   0.3% of 4.34MiB at    4.06MiB/s ETA 00:01\r[download]   0.7% of 4.34MiB at    4.62MiB/s ETA 00:00\r[download]   1.4% of 4.34MiB at    5.48MiB/s ETA 00:00\r[download]   2.9% of 4.34MiB at    7.58MiB/s ETA 00:00\r[download]   5.7% of 4.34MiB at   11.84MiB/s ETA 00:00\r[download]  11.5% of 4.34MiB at   18.05MiB/s ETA 00:00\r[download]  23.0% of 4.34MiB at   29.81MiB/s ETA 00:00\r[download]  46.0% of 4.34MiB at   49.04MiB/s ETA 00:00\r[download]  92.1% of 4.34MiB at   79.23MiB/s ETA 00:00\r[download] 100.0% of 4.34MiB at   81.25MiB/s ETA 00:00\r[download] 100% of 4.34MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:24:37Z","message":"[ExtractAudio] Destination: Selena Gomez - Come & Get It.mp3"}
+{"level":"info","time":"2022-07-25T02:24:53Z","message":"Deleting original file Selena Gomez - Come & Get It.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:24:53Z","message":"[Metadata] Adding metadata to \"Selena Gomez - Come & Get It.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:54Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Selena Gomez - Come & Get It.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:24:54Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Selena Gomez - Come & Get It.mp3\""}
+{"level":"info","time":"2022-07-25T02:24:59Z","message":"[youtube] __DnLFT_Y_o: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:24:59Z","message":"[youtube] __DnLFT_Y_o: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:24:59Z","message":"[info] __DnLFT_Y_o: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:24:59Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:00Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T02:25:02Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T02:25:03Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T02:25:04Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T02:25:06Z","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T02:25:07Z","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T02:25:07Z","message":"[info] Writing video thumbnail 35 to: Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webp"}
+{"level":"info","time":"2022-07-25T02:25:07Z","message":"[download] Destination: Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webm"}
+{"level":"info","time":"2022-07-25T02:25:07Z","message":"\r[download]   0.0% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.78MiB at   14.26MiB/s ETA 00:00   \r[download]   0.8% of 3.78MiB at    5.84MiB/s ETA 00:00\r[download]   1.6% of 3.78MiB at    5.81MiB/s ETA 00:00\r[download]   3.3% of 3.78MiB at    7.79MiB/s ETA 00:00\r[download]   6.6% of 3.78MiB at   12.23MiB/s ETA 00:00\r[download]  13.2% of 3.78MiB at   18.13MiB/s ETA 00:00\r[download]  26.4% of 3.78MiB at   29.54MiB/s ETA 00:00\r[download]  52.9% of 3.78MiB at   24.45MiB/s ETA 00:00\r[download] 100.0% of 3.78MiB at   41.53MiB/s ETA 00:00\r[download] 100% of 3.78MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:07Z","message":"[ExtractAudio] Destination: Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.mp3"}
+{"level":"info","time":"2022-07-25T02:25:12Z","message":"Deleting original file Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:12Z","message":"[Metadata] Adding metadata to \"Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:12Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:12Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Mahia-Pakistani.Hit-SonG-Annie-My Fav 4 Ever.mp3\""}
+{"level":"fatal","time":"2022-07-25T02:25:13Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:13Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:13Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:13Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:13Z","message":"WARNING: Unable to download video thumbnail 37: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:13Z","message":"WARNING: Unable to download video thumbnail 36: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T02:25:17Z","message":"[youtube] ltMMYyVqFbI: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:17Z","message":"[youtube] ltMMYyVqFbI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:17Z","message":"[info] ltMMYyVqFbI: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T02:25:17Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:19Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T02:25:20Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T02:25:22Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T02:25:23Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T02:25:23Z","message":"[info] Writing video thumbnail 37 to: Tu hy mera pyar mahia.webp"}
+{"level":"info","time":"2022-07-25T02:25:23Z","message":"[download] Destination: Tu hy mera pyar mahia.webm"}
+{"level":"info","time":"2022-07-25T02:25:23Z","message":"\r[download]   0.0% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.4% of 3.78MiB at  Unknown B/s ETA  Unknown\r[download]   0.8% of 3.78MiB at    6.33MiB/s ETA 00:00   \r[download]   1.6% of 3.78MiB at    6.53MiB/s ETA 00:00\r[download]   3.3% of 3.78MiB at    8.62MiB/s ETA 00:00\r[download]   6.6% of 3.78MiB at   13.53MiB/s ETA 00:00\r[download]  13.2% of 3.78MiB at   20.37MiB/s ETA 00:00\r[download]  26.5% of 3.78MiB at   30.86MiB/s ETA 00:00\r[download]  52.9% of 3.78MiB at   51.78MiB/s ETA 00:00\r[download] 100.0% of 3.78MiB at   59.08MiB/s ETA 00:00\r[download] 100% of 3.78MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:23Z","message":"[ExtractAudio] Destination: Tu hy mera pyar mahia.mp3"}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"Deleting original file Tu hy mera pyar mahia.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"[Metadata] Adding metadata to \"Tu hy mera pyar mahia.mp3\""}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Tu hy mera pyar mahia.webp\" to png"}
+{"level":"info","time":"2022-07-25T02:25:31Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Tu hy mera pyar mahia.mp3\""}
+{"level":"fatal","time":"2022-07-25T02:25:32Z","message":"WARNING: Unable to download video thumbnail 41: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:32Z","message":"WARNING: Unable to download video thumbnail 40: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:32Z","message":"WARNING: Unable to download video thumbnail 39: HTTP Error 404: Not Found"}
+{"level":"fatal","time":"2022-07-25T02:25:32Z","message":"WARNING: Unable to download video thumbnail 38: HTTP Error 404: Not Found"}
+{"level":"info","time":"2022-07-25T02:25:35Z","message":"[youtube] zImxlnPx-AI: Downloading webpage"}
+{"level":"info","time":"2022-07-25T02:25:36Z","message":"[youtube] zImxlnPx-AI: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T02:25:36Z","message":"[youtube] zImxlnPx-AI: Downloading player afeb58ff"}
+{"level":"info","time":"2022-07-25T02:25:37Z","message":"[info] zImxlnPx-AI: Downloading 1 format(s): 258"}
+{"level":"info","time":"2022-07-25T02:25:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T02:25:37Z","message":"[info] Writing video thumbnail 41 to: Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.webp"}
+{"level":"info","time":"2022-07-25T02:25:37Z","message":"[download] Destination: Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.m4a"}
+{"level":"info","time":"2022-07-25T02:25:37Z","message":"\r[download]   0.0% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.0% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 10.29MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 10.29MiB at   14.01MiB/s ETA 00:00   \r[download]   0.3% of 10.29MiB at    5.93MiB/s ETA 00:01\r[download]   0.6% of 10.29MiB at    6.11MiB/s ETA 00:01\r[download]   1.2% of 10.29MiB at    7.79MiB/s ETA 00:01\r[download]   2.4% of 10.29MiB at   12.22MiB/s ETA 00:00\r[download]   4.9% of 10.29MiB at   18.36MiB/s ETA 00:00\r[download]   9.7% of 10.29MiB at   30.16MiB/s ETA 00:00\r[download]  19.4% of 10.29MiB at   32.92MiB/s ETA 00:00\r[download]  38.9% of 10.29MiB at   56.96MiB/s ETA 00:00\r[download]  77.8% of 10.29MiB at   58.51MiB/s ETA 00:00\r[download]  95.9% of 10.29MiB at   59.21MiB/s ETA 00:00\r[download]  95.9% of 10.29MiB at  870.19KiB/s ETA 00:00\r[download]  95.9% of 10.29MiB at    1.97MiB/s ETA 00:00\r[download]  95.9% of 10.29MiB at    4.00MiB/s ETA 00:00\r[download]  96.0% of 10.29MiB at    7.62MiB/s ETA 00:00\r[download]  96.2% of 10.29MiB at    4.94MiB/s ETA 00:00\r[download]  96.5% of 10.29MiB at    5.89MiB/s ETA 00:00\r[download]  97.1% of 10.29MiB at    8.04MiB/s ETA 00:00\r[download]  98.3% of 10.29MiB at   11.48MiB/s ETA 00:00\r[download] 100.0% of 10.29MiB at   16.96MiB/s ETA 00:00\r[download] 100% of 10.29MiB in 00:00                   "}
+{"level":"info","time":"2022-07-25T02:25:37Z","message":"[FixupM4a] Correcting container of \"Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.m4a\""}
+{"level":"info","time":"2022-07-25T02:25:38Z","message":"[ExtractAudio] Destination: Mahiya - Awarapan (2007) *HD* - Full Song [HD] - Emraan Hashmi & Shriya Saran.mp3"}
