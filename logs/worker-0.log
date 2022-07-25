@@ -281,3 +281,21 @@
 {"level":"info","time":"2022-07-25T01:56:19Z","message":"[download] Destination: Alec Benjamin - Let Me Down Slowly (Lyrics).webm"}
 {"level":"info","time":"2022-07-25T01:56:19Z","message":"\r[download]   0.0% of 2.71MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 2.71MiB at  Unknown B/s ETA  Unknown\r[download]   0.3% of 2.71MiB at    5.84MiB/s ETA 00:00   \r[download]   0.5% of 2.71MiB at    9.18MiB/s ETA 00:00\r[download]   1.1% of 2.71MiB at    6.13MiB/s ETA 00:00\r[download]   2.3% of 2.71MiB at    9.34MiB/s ETA 00:00\r[download]   4.6% of 2.71MiB at   14.42MiB/s ETA 00:00\r[download]   9.2% of 2.71MiB at   19.51MiB/s ETA 00:00\r[download]  18.4% of 2.71MiB at   25.04MiB/s ETA 00:00\r[download]  36.9% of 2.71MiB at   35.42MiB/s ETA 00:00\r[download]  73.8% of 2.71MiB at   56.61MiB/s ETA 00:00\r[download] 100.0% of 2.71MiB at   58.04MiB/s ETA 00:00\r[download] 100% of 2.71MiB in 00:00                   "}
 {"level":"info","time":"2022-07-25T01:56:20Z","message":"[ExtractAudio] Destination: Alec Benjamin - Let Me Down Slowly (Lyrics).mp3"}
+{"level":"info","time":"2022-07-25T07:06:04+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading webpage"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[youtube] 4BSJAAo1uNY: Downloading android player API JSON"}
+{"level":"fatal","time":"2022-07-25T07:06:07+05:00","message":"ERROR: [youtube] 4BSJAAo1uNY: Video unavailable. This video contains content from Molebeat, who has blocked it in your country on copyright grounds"}
+{"level":"info","time":"2022-07-25T07:06:07+05:00","message":"[youtube] 1TO48Cnl66w: Downloading webpage"}
+{"level":"info","time":"2022-07-25T07:06:08+05:00","message":"[youtube] 1TO48Cnl66w: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T07:06:09+05:00","message":"[info] 1TO48Cnl66w: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T07:06:09+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T07:06:09+05:00","message":"[info] Writing video thumbnail 41 to: Dido - Thank You (Official Video).webp"}
+{"level":"info","time":"2022-07-25T07:06:09+05:00","message":"[download] Destination: Dido - Thank You (Official Video).webm"}
+{"level":"info","time":"2022-07-25T07:06:09+05:00","message":"\r[download]   0.0% of 3.29MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.29MiB at Unknown speed ETA Unknown\r[download]   0.2% of 3.29MiB at Unknown speed ETA Unknown\r[download]   0.4% of 3.29MiB at Unknown speed ETA Unknown\r[download]   0.9% of 3.29MiB at  5.72MiB/s ETA 00:00     \r[download]   1.9% of 3.29MiB at  6.18MiB/s ETA 00:00\r[download]   3.8% of 3.29MiB at  8.43MiB/s ETA 00:00\r[download]   7.6% of 3.29MiB at 12.32MiB/s ETA 00:00\r[download]  15.2% of 3.29MiB at 18.97MiB/s ETA 00:00\r[download]  30.3% of 3.29MiB at 27.22MiB/s ETA 00:00\r[download]  60.7% of 3.29MiB at 32.62MiB/s ETA 00:00\r[download] 100% of 3.29MiB at 45.11MiB/s ETA 00:00  \r[download] 100% of 3.29MiB in 00:00               "}
+{"level":"info","time":"2022-07-25T07:06:09+05:00","message":"[ExtractAudio] Destination: Dido - Thank You (Official Video).mp3"}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"Deleting original file Dido - Thank You (Official Video).webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"[Metadata] Adding metadata to \"Dido - Thank You (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Dido - Thank You (Official Video).webp\" to png"}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Dido - Thank You (Official Video).mp3\""}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"Deleting original file Dido - Thank You (Official Video).png (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"Deleting original file Dido - Thank You (Official Video).webp (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T07:06:17+05:00","message":"[youtube] wp43OdtAAkM: Downloading webpage"}

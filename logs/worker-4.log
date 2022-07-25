@@ -36,3 +36,17 @@
 {"level":"info","time":"2022-07-25T01:50:50Z","message":"[Metadata] Adding metadata to \"Nightcore - Rasputin (Remix).mp3\""}
 {"level":"info","time":"2022-07-25T01:50:50Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Rasputin (Remix).webp\" to png"}
 {"level":"info","time":"2022-07-25T01:50:50Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Rasputin (Remix).mp3\""}
+{"level":"info","time":"2022-07-25T07:06:04+05:00","message":"[youtube] Xl79bqBieT4: Downloading webpage"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[youtube] Xl79bqBieT4: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[info] Xl79bqBieT4: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T07:06:08+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T07:06:10+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T07:06:12+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T07:06:13+05:00","message":"[info] Downloading video thumbnail 36 ..."}
+{"level":"info","time":"2022-07-25T07:06:15+05:00","message":"[info] Downloading video thumbnail 35 ..."}
+{"level":"info","time":"2022-07-25T07:06:15+05:00","message":"[info] Writing video thumbnail 35 to: Boom - How Do You Do (Official UK Version).webp"}
+{"level":"info","time":"2022-07-25T07:06:16+05:00","message":"[download] Destination: Boom - How Do You Do (Official UK Version).webm"}
+{"level":"info","time":"2022-07-25T07:06:16+05:00","message":"\r[download]   0.0% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.1% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.2% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.5% of 3.23MiB at Unknown speed ETA Unknown\r[download]   0.9% of 3.23MiB at  5.15MiB/s ETA 00:00     \r[download]   1.9% of 3.23MiB at  5.36MiB/s ETA 00:00\r[download]   3.8% of 3.23MiB at  7.89MiB/s ETA 00:00\r[download]   7.7% of 3.23MiB at 12.38MiB/s ETA 00:00\r[download]  15.5% of 3.23MiB at 19.27MiB/s ETA 00:00\r[download]  31.0% of 3.23MiB at 28.78MiB/s ETA 00:00\r[download]  61.9% of 3.23MiB at 43.19MiB/s ETA 00:00\r[download] 100% of 3.23MiB at 48.34MiB/s ETA 00:00  \r[download] 100% of 3.23MiB in 00:00               "}
+{"level":"info","time":"2022-07-25T07:06:16+05:00","message":"[ExtractAudio] Destination: Boom - How Do You Do (Official UK Version).mp3"}

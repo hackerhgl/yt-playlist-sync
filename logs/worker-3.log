@@ -269,3 +269,18 @@
 {"level":"info","time":"2022-07-25T01:56:15Z","message":"[download] Destination: Nightcore - Poison.webm"}
 {"level":"info","time":"2022-07-25T01:56:15Z","message":"\r[download]   0.0% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.1% of 4.19MiB at  Unknown B/s ETA  Unknown\r[download]   0.2% of 4.19MiB at  Unknown B/s ETA 00:00   \r[download]   0.3% of 4.19MiB at   11.10MiB/s ETA 00:00\r[download]   0.7% of 4.19MiB at   17.12MiB/s ETA 00:00\r[download]   1.5% of 4.19MiB at   24.30MiB/s ETA 00:00\r[download]   3.0% of 4.19MiB at   28.47MiB/s ETA 00:00\r[download]   5.9% of 4.19MiB at   41.46MiB/s ETA 00:00\r[download]  11.9% of 4.19MiB at   62.94MiB/s ETA 00:00\r[download]  23.8% of 4.19MiB at   65.36MiB/s ETA 00:00\r[download]  47.7% of 4.19MiB at   87.64MiB/s ETA 00:00\r[download]  95.4% of 4.19MiB at  105.98MiB/s ETA 00:00\r[download] 100.0% of 4.19MiB at  107.02MiB/s ETA 00:00\r[download] 100% of 4.19MiB in 00:00                   "}
 {"level":"info","time":"2022-07-25T01:56:15Z","message":"[ExtractAudio] Destination: Nightcore - Poison.mp3"}
+{"level":"info","time":"2022-07-25T07:06:04+05:00","message":"[youtube] n-D1EB74Ckg: Downloading webpage"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[youtube] n-D1EB74Ckg: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[info] n-D1EB74Ckg: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T07:06:07+05:00","message":"[info] Writing video thumbnail 41 to: Selena Gomez - Come & Get It.webp"}
+{"level":"info","time":"2022-07-25T07:06:07+05:00","message":"[download] Destination: Selena Gomez - Come & Get It.webm"}
+{"level":"info","time":"2022-07-25T07:06:08+05:00","message":"\r[download]   0.0% of 4.34MiB at Unknown speed ETA Unknown\r[download]   0.1% of 4.34MiB at Unknown speed ETA Unknown\r[download]   0.2% of 4.34MiB at  6.26MiB/s ETA 00:00     \r[download]   0.3% of 4.34MiB at 10.84MiB/s ETA 00:00\r[download]   0.7% of 4.34MiB at  8.35MiB/s ETA 00:00\r[download]   1.4% of 4.34MiB at  7.25MiB/s ETA 00:00\r[download]   2.9% of 4.34MiB at 10.27MiB/s ETA 00:00\r[download]   5.7% of 4.34MiB at 14.91MiB/s ETA 00:00\r[download]  11.5% of 4.34MiB at 22.63MiB/s ETA 00:00\r[download]  23.0% of 4.34MiB at 31.99MiB/s ETA 00:00\r[download]  46.0% of 4.34MiB at 42.46MiB/s ETA 00:00\r[download]  92.1% of 4.34MiB at  9.35MiB/s ETA 00:00\r[download] 100% of 4.34MiB at  9.98MiB/s ETA 00:00  \r[download] 100% of 4.34MiB in 00:00               "}
+{"level":"info","time":"2022-07-25T07:06:08+05:00","message":"[ExtractAudio] Destination: Selena Gomez - Come & Get It.mp3"}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"Deleting original file Selena Gomez - Come & Get It.webm (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"[Metadata] Adding metadata to \"Selena Gomez - Come & Get It.mp3\""}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"[ThumbnailsConvertor] Converting thumbnail \"Selena Gomez - Come & Get It.webp\" to png"}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Selena Gomez - Come & Get It.mp3\""}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"Deleting original file Selena Gomez - Come & Get It.webp (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"Deleting original file Selena Gomez - Come & Get It.png (pass -k to keep)"}
+{"level":"info","time":"2022-07-25T07:06:17+05:00","message":"[youtube] __DnLFT_Y_o: Downloading webpage"}

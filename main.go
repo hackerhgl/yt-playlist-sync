@@ -49,6 +49,10 @@ func main() {
 
 	InitRootDir(driveClient)
 	files, err := GetDownloadedFiles(driveClient)
+	// for _, file := range files {
+	// 	// fmt.Printf("Files %+v\n\n\n", file.Name)
+	// 	println(file.Name)
+	// }
 
 	if err != nil {
 		log.Fatal(err.Error())

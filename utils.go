@@ -1,6 +1,8 @@
 package main
 
 import (
+	"strings"
+
 	"google.golang.org/api/drive/v3"
 )
 
@@ -31,7 +33,8 @@ func CalculateBatches(total int) (batchesA []int, perBatchA int, batchesSizeA in
 
 func itemExistsInDrive(item ParsedItem, files []*drive.File) bool {
 	for _, file := range files {
-		if item.Title == file.Name {
+		compare := strings.Compare(item.Title, file.Name)
+		if compare == 0 {
 			return true
 		}
 	}

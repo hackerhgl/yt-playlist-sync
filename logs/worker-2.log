@@ -43,3 +43,15 @@
 {"level":"info","time":"2022-07-25T01:56:14Z","message":"[ThumbnailsConvertor] Converting thumbnail \"한국 시티팝(City Pop) 갬성 노래 모음. Vol 2.5ㅣ KOREAN CITYPOP STYLE MIX. VOL 2.5.webp\" to png"}
 {"level":"info","time":"2022-07-25T01:56:14Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"한국 시티팝(City Pop) 갬성 노래 모음. Vol 2.5ㅣ KOREAN CITYPOP STYLE MIX. VOL 2.5.mp3\""}
 {"level":"fatal","error":"googleapi: Error 403: The user's Drive storage quota has been exceeded., storageQuotaExceeded","time":"2022-07-25T01:56:27Z","message":"googleapi: Error 403: The user's Drive storage quota has been exceeded., storageQuotaExceeded"}
+{"level":"info","time":"2022-07-25T07:06:04+05:00","message":"[youtube] C63a68IRsrM: Downloading webpage"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[youtube] C63a68IRsrM: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[info] C63a68IRsrM: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-25T07:06:06+05:00","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-25T07:06:08+05:00","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-25T07:06:10+05:00","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-25T07:06:11+05:00","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-25T07:06:13+05:00","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-25T07:06:13+05:00","message":"[info] Writing video thumbnail 37 to: 森高千里 『ザ・ストレス -ストレス 中近東バージョン-』 (PV).webp"}
+{"level":"info","time":"2022-07-25T07:06:14+05:00","message":"[download] Destination: 森高千里 『ザ・ストレス -ストレス 中近東バージョン-』 (PV).webm"}
+{"level":"info","time":"2022-07-25T07:06:14+05:00","message":"\r[download]   0.0% of 4.57MiB at Unknown speed ETA Unknown\r[download]   0.1% of 4.57MiB at Unknown speed ETA Unknown\r[download]   0.1% of 4.57MiB at  5.41MiB/s ETA 00:00     \r[download]   0.3% of 4.57MiB at  9.17MiB/s ETA 00:00\r[download]   0.7% of 4.57MiB at  7.49MiB/s ETA 00:00\r[download]   1.3% of 4.57MiB at  6.64MiB/s ETA 00:00\r[download]   2.7% of 4.57MiB at  8.50MiB/s ETA 00:00\r[download]   5.4% of 4.57MiB at 12.50MiB/s ETA 00:00\r[download]  10.9% of 4.57MiB at 17.16MiB/s ETA 00:00\r[download]  21.9% of 4.57MiB at 15.52MiB/s ETA 00:00\r[download]  43.7% of 4.57MiB at 15.33MiB/s ETA 00:00\r[download]  87.5% of 4.57MiB at 20.27MiB/s ETA 00:00\r[download] 100% of 4.57MiB at 19.51MiB/s ETA 00:00  \r[download] 100% of 4.57MiB in 00:00               "}
+{"level":"info","time":"2022-07-25T07:06:14+05:00","message":"[ExtractAudio] Destination: 森高千里 『ザ・ストレス -ストレス 中近東バージョン-』 (PV).mp3"}
