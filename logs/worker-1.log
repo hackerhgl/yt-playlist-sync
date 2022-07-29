@@ -338,3 +338,14 @@
 {"level":"info","time":"2022-07-25T02:25:41Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Akon - Smack That (Official Music Video) ft. Eminem.webp\" to png"}
 {"level":"info","time":"2022-07-25T02:25:41Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Akon - Smack That (Official Music Video) ft. Eminem.mp3\""}
 {"level":"fatal","error":"googleapi: Error 403: The user's Drive storage quota has been exceeded., storageQuotaExceeded","time":"2022-07-25T02:25:42Z","message":"googleapi: Error 403: The user's Drive storage quota has been exceeded., storageQuotaExceeded"}
+{"level":"info","time":"2022-07-29T08:38:36Z","message":"[youtube] Xv0DlKncjBI: Downloading webpage"}
+{"level":"info","time":"2022-07-29T08:38:37Z","message":"[youtube] Xv0DlKncjBI: Downloading android player API JSON"}
+{"level":"fatal","time":"2022-07-29T08:38:37Z","message":"ERROR: [youtube] Xv0DlKncjBI: Private video. Sign in if you've been granted access to this video"}
+{"level":"info","time":"2022-07-29T08:38:39Z","message":"[youtube] bKDdT_nyP54: Downloading webpage"}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[youtube] bKDdT_nyP54: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[info] bKDdT_nyP54: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[info] Writing video thumbnail 41 to: Akon - Smack That (Official Music Video) ft. Eminem.webp"}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[download] Destination: Akon - Smack That (Official Music Video) ft. Eminem.webm"}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"\r[download]   0.0% of 4.11MiB at  308.63KiB/s ETA 00:13\r[download]   0.1% of 4.11MiB at  856.80KiB/s ETA 00:04\r[download]   0.2% of 4.11MiB at    1.85MiB/s ETA 00:02\r[download]   0.4% of 4.11MiB at    3.77MiB/s ETA 00:01\r[download]   0.7% of 4.11MiB at    1.95MiB/s ETA 00:02\r[download]   1.5% of 4.11MiB at    2.33MiB/s ETA 00:01\r[download]   3.0% of 4.11MiB at    3.14MiB/s ETA 00:01\r[download]   6.1% of 4.11MiB at    4.81MiB/s ETA 00:00\r[download]  12.1% of 4.11MiB at    7.47MiB/s ETA 00:00\r[download]  24.3% of 4.11MiB at   12.38MiB/s ETA 00:00\r[download]  48.6% of 4.11MiB at   20.90MiB/s ETA 00:00\r[download]  97.2% of 4.11MiB at   35.64MiB/s ETA 00:00\r[download] 100.0% of 4.11MiB at   36.36MiB/s ETA 00:00\r[download] 100% of 4.11MiB in 00:00                   "}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[ExtractAudio] Destination: Akon - Smack That (Official Music Video) ft. Eminem.mp3"}

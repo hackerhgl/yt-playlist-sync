@@ -87,3 +87,15 @@
 {"level":"info","time":"2022-07-25T02:25:03Z","message":"[Metadata] Adding metadata to \"Nightcore - Rasputin (Remix).mp3\""}
 {"level":"info","time":"2022-07-25T02:25:03Z","message":"[ThumbnailsConvertor] Converting thumbnail \"Nightcore - Rasputin (Remix).webp\" to png"}
 {"level":"info","time":"2022-07-25T02:25:03Z","message":"[EmbedThumbnail] ffmpeg: Adding thumbnail to \"Nightcore - Rasputin (Remix).mp3\""}
+{"level":"info","time":"2022-07-29T08:38:36Z","message":"[youtube] DizPgDu4s-0: Downloading webpage"}
+{"level":"info","time":"2022-07-29T08:38:37Z","message":"[youtube] DizPgDu4s-0: Downloading android player API JSON"}
+{"level":"info","time":"2022-07-29T08:38:37Z","message":"[info] DizPgDu4s-0: Downloading 1 format(s): 251"}
+{"level":"info","time":"2022-07-29T08:38:37Z","message":"[info] Downloading video thumbnail 41 ..."}
+{"level":"info","time":"2022-07-29T08:38:39Z","message":"[info] Downloading video thumbnail 40 ..."}
+{"level":"info","time":"2022-07-29T08:38:40Z","message":"[info] Downloading video thumbnail 39 ..."}
+{"level":"info","time":"2022-07-29T08:38:41Z","message":"[info] Downloading video thumbnail 38 ..."}
+{"level":"info","time":"2022-07-29T08:38:42Z","message":"[info] Downloading video thumbnail 37 ..."}
+{"level":"info","time":"2022-07-29T08:38:42Z","message":"[info] Writing video thumbnail 37 to: Nightcore - Stereo heart.webp"}
+{"level":"info","time":"2022-07-29T08:38:42Z","message":"[download] Destination: Nightcore - Stereo heart.webm"}
+{"level":"info","time":"2022-07-29T08:38:42Z","message":"\r[download]   0.0% of 2.86MiB at  297.85KiB/s ETA 00:09\r[download]   0.1% of 2.86MiB at  825.81KiB/s ETA 00:03\r[download]   0.2% of 2.86MiB at    1.79MiB/s ETA 00:01\r[download]   0.5% of 2.86MiB at    3.66MiB/s ETA 00:00\r[download]   1.1% of 2.86MiB at    1.95MiB/s ETA 00:01\r[download]   2.2% of 2.86MiB at    2.22MiB/s ETA 00:01\r[download]   4.3% of 2.86MiB at    3.07MiB/s ETA 00:00\r[download]   8.7% of 2.86MiB at    4.69MiB/s ETA 00:00\r[download]  17.5% of 2.86MiB at    7.40MiB/s ETA 00:00\r[download]  35.0% of 2.86MiB at   11.92MiB/s ETA 00:00\r[download]  70.0% of 2.86MiB at   20.22MiB/s ETA 00:00\r[download] 100.0% of 2.86MiB at   26.94MiB/s ETA 00:00\r[download] 100% of 2.86MiB in 00:00                   "}
+{"level":"info","time":"2022-07-29T08:38:42Z","message":"[ExtractAudio] Destination: Nightcore - Stereo heart.mp3"}
