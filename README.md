@@ -1,3 +1,7 @@
+Project scraped.
+
+Tried lots of implementations but not working due to limitations foe storage APIs.
+
 # Youtube playlist sync
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) cli library is utilized for this project.
